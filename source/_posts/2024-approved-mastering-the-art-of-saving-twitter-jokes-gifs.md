@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering the Art of Saving Twitter Jokes (GIFs)\""
-date: 2024-05-21T02:01:26.731Z
-updated: 2024-05-22T02:01:26.731Z
+date: 2024-06-30T12:04:50.931Z
+updated: 2024-07-01T12:04:50.931Z
 tags:
   - ai video
   - ai twitter
@@ -51,7 +51,7 @@ EZgif is an amazing online tool for gif creation and editing. A user can easily 
 
 ![get tweet url](https://images.wondershare.com/filmora/article-images/get-tweet-url1.jpg)
 
-**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize)website
+**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize) website
 
 **Step 3:**Then you can copy the post link that contains that GIF and paste it in the box under **OR paste image URL** and click **Upload**.
 
@@ -174,7 +174,7 @@ EZgif is an amazing online tool for gif creation and editing. A user can easily 
 
 ![get tweet url](https://images.wondershare.com/filmora/article-images/get-tweet-url1.jpg)
 
-**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize)website
+**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize) website
 
 **Step 3:**Then you can copy the post link that contains that GIF and paste it in the box under **OR paste image URL** and click **Upload**.
 
@@ -297,7 +297,7 @@ EZgif is an amazing online tool for gif creation and editing. A user can easily 
 
 ![get tweet url](https://images.wondershare.com/filmora/article-images/get-tweet-url1.jpg)
 
-**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize)website
+**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize) website
 
 **Step 3:**Then you can copy the post link that contains that GIF and paste it in the box under **OR paste image URL** and click **Upload**.
 
@@ -420,7 +420,7 @@ EZgif is an amazing online tool for gif creation and editing. A user can easily 
 
 ![get tweet url](https://images.wondershare.com/filmora/article-images/get-tweet-url1.jpg)
 
-**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize)website
+**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize) website
 
 **Step 3:**Then you can copy the post link that contains that GIF and paste it in the box under **OR paste image URL** and click **Upload**.
 
@@ -537,7 +537,7 @@ Follow @Ollie Mattison
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
 <li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-modify-twitter-video-capture-image/"><u>[Updated] 2024 Approved  Modify Twitter Video Capture Image</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-viral-tendencies-on-twittersphere-most-viewed/"><u>2024 Approved  Viral Tendencies on Twittersphere (Most Viewed )</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-viral-tendencies-on-twittersphere-most-viewed/"><u>2024 Approved  Viral Tendencies on Twittersphere (Most Viewed)</u></a></li>
 <li><a href="https://twitter-clips.techidaily.com/new-directing-traffic-from-tiktok-to-twitter/"><u>[New] Directing Traffic From TikTok to Twitter</u></a></li>
 <li><a href="https://twitter-clips.techidaily.com/crafting-captivating-real-time-tweets-for-maximum-impact-for-2024/"><u>Crafting Captivating Real-Time Tweets for Maximum Impact for 2024</u></a></li>
 <li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-superior-websites-to-ditch-twitter-completely/"><u>[Updated] 2024 Approved  Superior Websites to Ditch Twitter Completely</u></a></li>

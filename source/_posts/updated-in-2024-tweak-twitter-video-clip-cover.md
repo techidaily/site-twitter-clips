@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Tweak Twitter Video Clip Cover"
-date: 2024-05-21T02:22:43.096Z
-updated: 2024-05-22T02:22:43.096Z
+date: 2024-06-30T12:04:51.661Z
+updated: 2024-07-01T12:04:51.661Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Tweak Twitter Video Clip Cover"
 excerpt: "This Article Describes [Updated] In 2024, Tweak Twitter Video Clip Cover"
 keywords: "Tweet Video Covers,Twitter Video Hats,Short Twitter Images,Quick Video Tweets,Micro Video Tweets,Twitter Video Edits,Video Cover Tweets"
-thumbnail: https://www.lifewire.com/thmb/l-r2SfXVi-J6FmExDLrIcApcYSk=/180x120/filters:no_upscale():max_bytes(150000):strip_icc()/Streaming_GettyImages-1317927924_grinvalds_CROPPED-71ab52546b8b477ca2c0788bc26d150f.jpg
+thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e56306af6bf8cabd1b35043cc3e.jpg
 ---
 
 ## Tweak Twitter Video Clip Cover

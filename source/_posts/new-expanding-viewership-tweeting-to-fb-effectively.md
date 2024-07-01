@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Expanding Viewership  Tweeting to FB Effectively\""
-date: 2024-05-21T02:21:57.404Z
-updated: 2024-05-22T02:21:57.404Z
+date: 2024-06-30T12:04:51.057Z
+updated: 2024-07-01T12:04:51.057Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Expanding Viewership: Tweeting to FB Effectively\""
 excerpt: "\"This Article Describes [New] Expanding Viewership: Tweeting to FB Effectively\""
 keywords: "\"Social Media Growth,Twitter Strategies,Facebook Marketing,Increase Audience,Engage Followers,Content Sharing,Cross-Platform Success\""
-thumbnail: https://www.lifewire.com/thmb/hyYtaWXKlis6dtyCCRyVf2h_7pU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/galaxy-s24-plus-23772c8fac4a47e0af1c0cae35011bff.jpg
+thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8a5a08c607e9cd26432f995f.jpg
 ---
 
 ## Expanding Viewership: Tweeting to FB Effectively

@@ -1,7 +1,7 @@
 ---
 title: "[New] Bridging Twitter and FB with Shared Vids"
-date: 2024-05-21T02:13:28.583Z
-updated: 2024-05-22T02:13:28.583Z
+date: 2024-06-30T12:04:51.902Z
+updated: 2024-07-01T12:04:51.902Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Bridging Twitter and FB with Shared Vids"
 excerpt: "This Article Describes [New] Bridging Twitter and FB with Shared Vids"
 keywords: "\"Video Sharing Bridges,Social Media Integration,Cross-Platform Videos,Facebook to Twitter Links,Shared Content Strategy,Media Convergence Online,Platform Connectivity\""
-thumbnail: https://www.lifewire.com/thmb/siASk6ug5XxPdLigzsCwwXe_C8w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed1-9c9badc69b6246a986855f6f923185d8.jpg
+thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44c37276f13cc96d749320e4c.jpg
 ---
 
 ## Bridging Twitter and FB with Shared Vids

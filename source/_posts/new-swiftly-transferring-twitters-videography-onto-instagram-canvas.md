@@ -1,7 +1,7 @@
 ---
 title: "[New] Swiftly Transferring Twitter's Videography Onto Instagram Canvas"
-date: 2024-05-21T02:01:35.377Z
-updated: 2024-05-22T02:01:35.377Z
+date: 2024-06-30T12:04:58.757Z
+updated: 2024-07-01T12:04:58.757Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Swiftly Transferring Twitter's Videography Onto Instagram Canvas"
 excerpt: "This Article Describes [New] Swiftly Transferring Twitter's Videography Onto Instagram Canvas"
 keywords: "\"Swift Video Transfer,Insta-Tweet to IG,Video Tweet Shift,Quick Tweet to Insta,Direct Tweet Upload,Real Time Tweet Edit,Tweet to Instagram\""
-thumbnail: https://www.lifewire.com/thmb/ky9dx6TkOY6aQ-Ch6TfW7sMDBu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-free-movies-on-youtube-5114491-12-811d37329347405eab1a368e3018dc54.jpg
+thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg
 ---
 
 ## Swiftly Transferring Twitter's Videography Onto Instagram Canvas

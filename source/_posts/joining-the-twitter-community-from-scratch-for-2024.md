@@ -1,7 +1,7 @@
 ---
 title: "Joining the Twitter Community From Scratch for 2024"
-date: 2024-05-21T02:18:43.157Z
-updated: 2024-05-22T02:18:43.157Z
+date: 2024-06-30T12:04:51.203Z
+updated: 2024-07-01T12:04:51.203Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Joining the Twitter Community From Scratch for 2024"
 excerpt: "This Article Describes Joining the Twitter Community From Scratch for 2024"
 keywords: "Beginner Twitter Join,Startup on Twitter,New Twitter User,Social Media Newbie,Twitter for Newbies,Joining Twitter New,Twitter Noob Guide"
-thumbnail: https://www.lifewire.com/thmb/S8g_8m47syFNd8aLJAfNHuOztvM=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2022-01-27at1.42.29PM-7dae4db8dee940fe81736da420d9bc0f.png
+thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba75d849bd9c5cf60929a80d0.png
 ---
 
 ## Joining the Twitter Community From Scratch

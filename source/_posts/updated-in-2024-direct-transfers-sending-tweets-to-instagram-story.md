@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Direct Transfers  Sending Tweets to Instagram Story\""
-date: 2024-05-21T02:21:17.652Z
-updated: 2024-05-22T02:21:17.652Z
+date: 2024-06-30T12:04:56.218Z
+updated: 2024-07-01T12:04:56.218Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Direct Transfers: Sending Tweets to Instagram Story\""
 excerpt: "\"This Article Describes [Updated] In 2024, Direct Transfers: Sending Tweets to Instagram Story\""
 keywords: "Tweet Direct Transfer,Insta Story Tweet Send,Share Tweet Instagram,Tweet to Insta Stories,Twitter To Insta Transfers,Instagram Story Tweet Upload,Sending Tweets to IG Stories"
-thumbnail: https://www.lifewire.com/thmb/AbUU4zD-uREP7Hddr_1MmMfCNoQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/get-wifi-in-your-car-4047954-0f36e2ee5fc4412e88cd1407eefe47df.png
+thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ecfefae2f5882a90863822c25.png
 ---
 
 ## Direct Transfers: Sending Tweets to Instagram Story

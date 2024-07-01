@@ -1,7 +1,7 @@
 ---
 title: "\"Twitter's Videography Policy  Including Aspect Ratios Is Crucial\""
-date: 2024-06-08T04:45:00.519Z
-updated: 2024-06-09T04:45:00.519Z
+date: 2024-06-30T12:04:58.191Z
+updated: 2024-07-01T12:04:58.191Z
 tags:
   - ai video
   - ai twitter
@@ -98,7 +98,7 @@ The first 3 seconds of your video should always carry the main message you inten
 
 Employ the same strategy for your tweet copy and try to keep it concise and crisp and stay below 100 characters.
 
-![ twitter video file size](https://images.wondershare.com/filmora/article-images/2022/02/twitter-aspe%20ct-ratio-6.JPG)
+![twitter video file size](https://images.wondershare.com/filmora/article-images/2022/02/twitter-aspe%20ct-ratio-6.JPG)
 
 ### 2\. Include Product and People
 
@@ -239,7 +239,7 @@ The first 3 seconds of your video should always carry the main message you inten
 
 Employ the same strategy for your tweet copy and try to keep it concise and crisp and stay below 100 characters.
 
-![ twitter video file size](https://images.wondershare.com/filmora/article-images/2022/02/twitter-aspe%20ct-ratio-6.JPG)
+![twitter video file size](https://images.wondershare.com/filmora/article-images/2022/02/twitter-aspe%20ct-ratio-6.JPG)
 
 ### 2\. Include Product and People
 
@@ -380,7 +380,7 @@ The first 3 seconds of your video should always carry the main message you inten
 
 Employ the same strategy for your tweet copy and try to keep it concise and crisp and stay below 100 characters.
 
-![ twitter video file size](https://images.wondershare.com/filmora/article-images/2022/02/twitter-aspe%20ct-ratio-6.JPG)
+![twitter video file size](https://images.wondershare.com/filmora/article-images/2022/02/twitter-aspe%20ct-ratio-6.JPG)
 
 ### 2\. Include Product and People
 
@@ -521,7 +521,7 @@ The first 3 seconds of your video should always carry the main message you inten
 
 Employ the same strategy for your tweet copy and try to keep it concise and crisp and stay below 100 characters.
 
-![ twitter video file size](https://images.wondershare.com/filmora/article-images/2022/02/twitter-aspe%20ct-ratio-6.JPG)
+![twitter video file size](https://images.wondershare.com/filmora/article-images/2022/02/twitter-aspe%20ct-ratio-6.JPG)
 
 ### 2\. Include Product and People
 

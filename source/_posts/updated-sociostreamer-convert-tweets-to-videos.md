@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] SocioStreamer  Convert Tweets to Videos\""
-date: 2024-05-21T02:01:34.077Z
-updated: 2024-05-22T02:01:34.077Z
+date: 2024-06-30T12:04:54.023Z
+updated: 2024-07-01T12:04:54.023Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] SocioStreamer: Convert Tweets to Videos\""
 excerpt: "\"This Article Describes [Updated] SocioStreamer: Convert Tweets to Videos\""
 keywords: "\"Tweet Video Streaming,Social Media Livestream,Turn Tweets Into Vids,Quick Tweet-To-Video,Tweet-Based Video Creation,Social Tweeting to Film,Twitter Video Content\""
-thumbnail: https://www.lifewire.com/thmb/xkpu3_bCREV79qrsc0TZWtPznJM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_3093iphonex-361617bf45f84b3a811d7bf8c5a161cf.jpg
+thumbnail: https://thmb.techidaily.com/359889cca1fac1d0cab50a3e170aa122469e4b901fffff3859c0a0ef7a4f048d.jpg
 ---
 
 ## SocioStreamer: Convert Tweets to Videos

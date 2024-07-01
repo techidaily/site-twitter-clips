@@ -1,7 +1,7 @@
 ---
 title: "Tapping Into Your Previous Twitter Posts"
-date: 2024-05-21T02:07:28.010Z
-updated: 2024-05-22T02:07:28.010Z
+date: 2024-06-30T12:04:52.788Z
+updated: 2024-07-01T12:04:52.788Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Tapping Into Your Previous Twitter Posts"
 excerpt: "This Article Describes Tapping Into Your Previous Twitter Posts"
 keywords: "Twitter Past Insights,Retweet Archive Access,Prior Tweet Retrieval,Old Tweets Explore,Historical Twitter Views,Previous Twitter Content,Archive Twitter Posts"
-thumbnail: https://www.lifewire.com/thmb/Xfsodnkjdz4fAd73146-24x06ZE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/the-windows-10-notification-center-what-it-is-and-how-to-use-it-4150756-2691e67d378e45f4875c059230b007d7.png
+thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57539d3344fb75e1f209995c6.png
 ---
 
 ## Tapping Into Your Previous Twitter Posts
