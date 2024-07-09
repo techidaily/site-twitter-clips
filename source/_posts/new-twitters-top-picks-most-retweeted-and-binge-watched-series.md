@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Twitters' Top Picks  Most Retweeted & Binge-Watched Series\""
-date: 2024-05-21T02:11:52.341Z
-updated: 2024-05-22T02:11:52.341Z
+date: 2024-07-08T03:04:41.474Z
+updated: 2024-07-09T03:04:41.474Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Twitters' Top Picks: Most Retweeted & Binge-Watched Series\""
 excerpt: "\"This Article Describes [New] Twitters' Top Picks: Most Retweeted & Binge-Watched Series\""
 keywords: "\"Top Twitter Trends,Viral Tweets Series,Binge-Watching Hits,Retweeting Best Shows,Popular TV Shows Twitch,Social Media Viewers,Shared Showlists Online\""
-thumbnail: https://www.lifewire.com/thmb/rfNHMWk0UUPWr_UnZFdoraz8Kkg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DiskDriveStethoscopeGettyImages-585acf823df78ce2c3ed2484.jpg
+thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f66023f1145d44d12b2eec67b831.jpg
 ---
 
 ## Twitters' Top Picks: Most Retweeted & Binge-Watched Series

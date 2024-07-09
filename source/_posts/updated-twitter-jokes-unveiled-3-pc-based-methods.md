@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Twitter Jokes Unveiled  3 PC-Based Methods\""
-date: 2024-05-21T02:05:50.055Z
-updated: 2024-05-22T02:05:50.055Z
+date: 2024-07-08T03:04:38.721Z
+updated: 2024-07-09T03:04:38.721Z
 tags:
   - ai video
   - ai twitter
@@ -51,7 +51,7 @@ EZgif is an amazing online tool for gif creation and editing. A user can easily 
 
 ![get tweet url](https://images.wondershare.com/filmora/article-images/get-tweet-url1.jpg)
 
-**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize)website
+**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize) website
 
 **Step 3:**Then you can copy the post link that contains that GIF and paste it in the box under **OR paste image URL** and click **Upload**.
 
@@ -174,7 +174,7 @@ EZgif is an amazing online tool for gif creation and editing. A user can easily 
 
 ![get tweet url](https://images.wondershare.com/filmora/article-images/get-tweet-url1.jpg)
 
-**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize)website
+**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize) website
 
 **Step 3:**Then you can copy the post link that contains that GIF and paste it in the box under **OR paste image URL** and click **Upload**.
 
@@ -297,7 +297,7 @@ EZgif is an amazing online tool for gif creation and editing. A user can easily 
 
 ![get tweet url](https://images.wondershare.com/filmora/article-images/get-tweet-url1.jpg)
 
-**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize)website
+**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize) website
 
 **Step 3:**Then you can copy the post link that contains that GIF and paste it in the box under **OR paste image URL** and click **Upload**.
 
@@ -420,7 +420,7 @@ EZgif is an amazing online tool for gif creation and editing. A user can easily 
 
 ![get tweet url](https://images.wondershare.com/filmora/article-images/get-tweet-url1.jpg)
 
-**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize)website
+**Step 2:** Access the [EZGif GIF Optimizer](https://ezgif.com/optimize) website
 
 **Step 3:**Then you can copy the post link that contains that GIF and paste it in the box under **OR paste image URL** and click **Upload**.
 

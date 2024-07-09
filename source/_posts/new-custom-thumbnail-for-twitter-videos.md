@@ -1,7 +1,7 @@
 ---
 title: "[New] Custom Thumbnail for Twitter Videos"
-date: 2024-05-21T02:17:37.652Z
-updated: 2024-05-22T02:17:37.652Z
+date: 2024-07-08T03:04:34.355Z
+updated: 2024-07-09T03:04:34.355Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Custom Thumbnail for Twitter Videos"
 excerpt: "This Article Describes [New] Custom Thumbnail for Twitter Videos"
 keywords: "Twitter Video Thumbnails,Custom Video Images,Tweet Graphics,Social Media Themes,Customized Tweets,Video Image Creation,Online Thumbnail Design"
-thumbnail: https://www.lifewire.com/thmb/XbdrwC4GLgifpkVoZQgR3VlG3rY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/technology-has-made-it-possible-to-have-our-meetings-anywhere-888100376-5bdd0cc6c9e77c0051b290c7.jpg
+thumbnail: https://thmb.techidaily.com/e15a312e87a88bc573209c8d23ec08d406e2cad56bb144772919196db397e16b.jpg
 ---
 
 ## Custom Thumbnail for Twitter Videos

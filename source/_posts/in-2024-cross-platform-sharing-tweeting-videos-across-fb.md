@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Cross-Platform Sharing  Tweeting Videos Across FB\""
-date: 2024-05-21T02:02:26.271Z
-updated: 2024-05-22T02:02:26.271Z
+date: 2024-07-08T03:04:33.007Z
+updated: 2024-07-09T03:04:33.007Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Cross-Platform Sharing: Tweeting Videos Across FB\""
 excerpt: "\"This Article Describes In 2024, Cross-Platform Sharing: Tweeting Videos Across FB\""
 keywords: "\"Tweet Video FB Share,Cross-Platform Video,Social Media Integration,Interactive Platforms,Video Broadcasting Network,Multi-Social Sharing,Online Content Distribution\""
-thumbnail: https://www.lifewire.com/thmb/kvEgYAA7g4inR0HblHngp2oE6to=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/KhangVuong-d90c802b819741a297291d835e7762e4.jpeg
+thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d176e6b4d47161337afbbb6cd1.jpeg
 ---
 
 ## Cross-Platform Sharing: Tweeting Videos Across FB

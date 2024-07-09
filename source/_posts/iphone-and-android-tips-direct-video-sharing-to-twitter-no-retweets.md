@@ -1,7 +1,7 @@
 ---
 title: "\"IPhone & Android Tips  Direct Video Sharing to Twitter No Retweets\""
-date: 2024-05-21T02:02:16.034Z
-updated: 2024-05-22T02:02:16.034Z
+date: 2024-07-08T03:04:33.049Z
+updated: 2024-07-09T03:04:33.049Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes IPhone & Android Tips: Direct Video Sharing to Twitter No Retweets\""
 excerpt: "\"This Article Describes IPhone & Android Tips: Direct Video Sharing to Twitter No Retweets\""
 keywords: "IPhone Video Share,Android Screencast,Direct Tweeting,Twitter Posting,Phone Media Upload,Avoid Retweets,Social Media Tips"
-thumbnail: https://www.lifewire.com/thmb/UYzt2Tr4AZa3CbzWYhHXCRzkASk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/freespacefirestick-d92102a4f6dd47e2936787982b0709f9.jpg
+thumbnail: https://thmb.techidaily.com/be26802ef5bb50783815300426404d3fea7e0b5a3f7f648e31ee7c5865304f02.jpg
 ---
 
 ## IPhone & Android Tips: Direct Video Sharing to Twitter No Retweets

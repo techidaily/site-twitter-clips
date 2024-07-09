@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Most Liked and Watched Amazon Prime Video on Twitter"
-date: 2024-05-21T02:14:02.547Z
-updated: 2024-05-22T02:14:02.547Z
+date: 2024-07-08T03:04:27.495Z
+updated: 2024-07-09T03:04:27.495Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Most Liked and Watched Amazon Prime Video on Twitter"
 excerpt: "This Article Describes [Updated] In 2024, Most Liked and Watched Amazon Prime Video on Twitter"
 keywords: "Amazon Prime Views,Prime TV Tweets,Popular Prime Shows,Trending Prime Videos,Top Prime Series,Favorite Prime Content,Peak Prime Viewership"
-thumbnail: https://www.lifewire.com/thmb/ihHXhscRd_7pjZenuKYSLpv9OwM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed2-60f231b72c19491683c2166c9285b34d.jpg
+thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50b7aab7a2fe4029be64b0298.jpg
 ---
 
 ## 2023 | Most Liked and Watched Amazon Prime Video on Twitter

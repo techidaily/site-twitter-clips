@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tweet Tracks  Top-Ranked Amazon Originals on Twittersphere\""
-date: 2024-05-21T02:22:12.682Z
-updated: 2024-05-22T02:22:12.682Z
+date: 2024-07-08T03:04:24.479Z
+updated: 2024-07-09T03:04:24.479Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Tweet Tracks: Top-Ranked Amazon Originals on Twittersphere\""
 excerpt: "\"This Article Describes [Updated] Tweet Tracks: Top-Ranked Amazon Originals on Twittersphere\""
 keywords: "Amazon Original Tweets,Tweet Rankings,Twittersphere Originals,Prime TV Series Tweets,Popular TV Tweets,Social Media Tracks,Best TV Series Tweets"
-thumbnail: https://www.lifewire.com/thmb/iCNb1aLtBF6gQQ80UfUfRfFcn0Y=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/full-frame-shot-of-speakers-1138109687-33289baddc314b44ae87abc2fc8060cd-e7bccad6d81244509ed97ddf557f89e4.jpg
+thumbnail: https://thmb.techidaily.com/d04c4091c93f7c6e0ae17b31cbbed37cb1d18932b8605027dfc827051ad0a043.jpg
 ---
 
 ## Tweet Tracks: Top-Ranked Amazon Originals on Twittersphere

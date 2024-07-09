@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Sending Direct Tweets  Share Photos/Videos on Twitter without Retweeting\""
-date: 2024-05-21T02:16:13.316Z
-updated: 2024-05-22T02:16:13.316Z
+date: 2024-07-08T03:04:21.193Z
+updated: 2024-07-09T03:04:21.193Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Sending Direct Tweets: Share Photos/Videos on Twitter without Retweeting\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Sending Direct Tweets: Share Photos/Videos on Twitter without Retweeting\""
 keywords: "\"Direct Tweet Sharing,SnapTweet Videos,Instant Tweet Upload,Photo Tweet Share,Video Tweet Posting,Non-Retweet Tweets,Twitter Direct Media\""
-thumbnail: https://www.lifewire.com/thmb/YiNkR1XmMF85fjzS0zFQ4X75o4Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coffeecup-free-html-editor-profile-3467555-8876645f89c444c8b94addcf4307b22d.png
+thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895e91d61d746d246092f66e50.png
 ---
 
 ## Sending Direct Tweets: Share Photos/Videos on Twitter without Retweeting

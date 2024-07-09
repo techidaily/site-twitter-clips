@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Memetic Mayhem  The 20 Most Shared Gems\""
-date: 2024-05-21T02:16:42.208Z
-updated: 2024-05-22T02:16:42.208Z
+date: 2024-07-08T03:04:34.002Z
+updated: 2024-07-09T03:04:34.002Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Memetic Mayhem: The 20 Most Shared Gems\""
 excerpt: "\"This Article Describes 2024 Approved: Memetic Mayhem: The 20 Most Shared Gems\""
 keywords: "Memetic Sharing #Gems,Popular Meme Content,Viral Gem Quality,Shared Online Jokes,Highly Retweeted Gems,Collectible Meme Finds,Trending Meme Topics"
-thumbnail: https://www.lifewire.com/thmb/aaxHEgQKWsTUa3xjOYphr1B-IzA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-457316526-57deda085f9b58651650818c-5c62f2e346e0fb0001f2552f.jpg
+thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af9216aa863bdd663f250b5d16d.jpg
 ---
 
 ## Memetic Mayhem: The 20 Most Shared Gems

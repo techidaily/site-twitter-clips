@@ -1,7 +1,7 @@
 ---
 title: "\"Prime’s Peak Performers  Highest Tweets & Viewing Numbers for 2024\""
-date: 2024-05-21T02:17:44.665Z
-updated: 2024-05-22T02:17:44.665Z
+date: 2024-07-08T03:04:24.040Z
+updated: 2024-07-09T03:04:24.040Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Prime’s Peak Performers: Highest Tweets & Viewing Numbers for 2024\""
 excerpt: "\"This Article Describes Prime’s Peak Performers: Highest Tweets & Viewing Numbers for 2024\""
 keywords: "Prime's Top Tweets,Max Tweet Volume,Premier Tweeter Rankings,Viral Content Analysis,Peak Twitter Performance,Leading Social Media Viewers,Most Shared YouTube Videos"
-thumbnail: https://www.lifewire.com/thmb/GQnN1xDTyf1WCew2KMfYUeUpvK8=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/WeiliDai-acfe647b60c149869466ebd6d3bd574a.jpg
+thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35aca9555d7d0112a6571e067.jpg
 ---
 
 ## Prime’s Peak Performers: Highest Tweets & Viewing Numbers

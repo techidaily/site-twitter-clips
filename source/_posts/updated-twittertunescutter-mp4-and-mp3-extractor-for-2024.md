@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] TwitterTunesCutter  MP4 & MP3 Extractor for 2024\""
-date: 2024-05-21T02:19:27.149Z
-updated: 2024-05-22T02:19:27.149Z
+date: 2024-07-08T03:04:30.751Z
+updated: 2024-07-09T03:04:30.751Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] TwitterTunesCutter: MP4 & MP3 Extractor for 2024\""
 excerpt: "\"This Article Describes [Updated] TwitterTunesCutter: MP4 & MP3 Extractor for 2024\""
 keywords: "TwitterMP3Extractor,MP3TweetsToPlaylist,MP4TweetAudioConverter,TweetMP3CutterApp,MusicFromTwitterMP3,MP4SoundTweetsExtract,TweeterMusicDownloadTool"
-thumbnail: https://www.lifewire.com/thmb/XAvL4eRfgpDx8YVxn2ewPZ27roY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-02-16at10.57.40AM-800b0250dce34954be14a81444e6015b.png
+thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c3295829397bcf7ff50f7e4bad5d7.png
 ---
 
 ## TwitterTunesCutter: MP4 & MP3 Extractor

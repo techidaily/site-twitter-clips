@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Social Snapshot  Post Photos/Videos without a Twit\""
-date: 2024-05-21T02:15:43.025Z
-updated: 2024-05-22T02:15:43.025Z
+date: 2024-07-08T03:04:27.553Z
+updated: 2024-07-09T03:04:27.553Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Social Snapshot: Post Photos/Videos without a Twit\""
 excerpt: "\"This Article Describes In 2024, Social Snapshot: Post Photos/Videos without a Twit\""
 keywords: "\"Social Shots Quickly,Insta-Post Tips,Share on Twitter,Post Fast Photos,Video Tweeting Guide,Easy Photo Tweets,Swift Video Tweets\""
-thumbnail: https://www.lifewire.com/thmb/Z73u58LZkbkGL5EnRK85VTxYLlE=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/messaging-5b40e35ec9e77c0037b03f3c.jpg
+thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ecd8a0532a8cb17367d809b46.jpg
 ---
 
 ## Social Snapshot: Post Photos/Videos without a Twit

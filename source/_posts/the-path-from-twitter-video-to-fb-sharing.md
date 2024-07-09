@@ -1,7 +1,7 @@
 ---
 title: "The Path From Twitter Video to FB Sharing"
-date: 2024-05-21T02:01:17.480Z
-updated: 2024-05-22T02:01:17.480Z
+date: 2024-07-08T03:04:37.970Z
+updated: 2024-07-09T03:04:37.970Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes The Path From Twitter Video to FB Sharing"
 excerpt: "This Article Describes The Path From Twitter Video to FB Sharing"
 keywords: "\"Twitter Video Share,Facebook Share Link,Social Media Broadcasting,Cross-Platform Content Sharing,Viral Video Strategies,Promote on FB Quickly,Effective FB Sharing Tactics\""
-thumbnail: https://www.lifewire.com/thmb/NOc5RCOPURestyDsC5sxK7KzGY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-971165690-1e0af1d9299f4fdba1225c2d20c739f2.jpg
+thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89ced90101624b46320eed1514.jpg
 ---
 
 ## The Path From Twitter Video to FB Sharing

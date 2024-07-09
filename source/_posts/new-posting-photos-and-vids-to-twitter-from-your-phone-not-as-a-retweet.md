@@ -1,7 +1,7 @@
 ---
 title: "[New] Posting Photos and Vids to Twitter From Your Phone, Not as a Retweet"
-date: 2024-05-21T02:20:57.542Z
-updated: 2024-05-22T02:20:57.542Z
+date: 2024-07-08T03:04:39.019Z
+updated: 2024-07-09T03:04:39.019Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Posting Photos and Vids to Twitter From Your Phone, Not as a Retweet"
 excerpt: "This Article Describes [New] Posting Photos and Vids to Twitter From Your Phone, Not as a Retweet"
 keywords: "\"Post Mobile Photos/Videos,Avoid Twitter Retweets,Share Media Directly,Photo Tweeting Tips,Videophone to Twitter,Non-Retweet Sync,Personalized Social Sharing\""
-thumbnail: https://www.lifewire.com/thmb/bDlwC9Qm_dNJuekB6AkJEW6GIEQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/kindle-update-1560728_1920-400773d7b5a24bd28089ebc2b8068d70.jpg
+thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc921370376e92e90f7d158bcf8.jpg
 ---
 
 ## Posting Photos and Vids to Twitter From Your Phone, Not as a Retweet

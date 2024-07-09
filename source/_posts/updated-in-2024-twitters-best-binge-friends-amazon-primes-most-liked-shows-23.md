@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Twitter's Best Binge-Friends  Amazon Prime's Most Liked Shows, '23\""
-date: 2024-05-21T02:19:26.276Z
-updated: 2024-05-22T02:19:26.276Z
+date: 2024-07-08T03:04:39.451Z
+updated: 2024-07-09T03:04:39.451Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Twitter's Best Binge-Friends: Amazon Prime's Most Liked Shows, '23\""
 excerpt: "\"This Article Describes [Updated] In 2024, Twitter's Best Binge-Friends: Amazon Prime's Most Liked Shows, '23\""
 keywords: "PrimeShowsBinge,PrimeLikesTV,TopTwitterSeries,PrimeShowFavorites,NetflixAlternate,BingeFriendShows,AmazonPrimePopular"
-thumbnail: https://www.lifewire.com/thmb/TVzs3ixN-hpNtu0wQJHwvUAaADg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Telework_AlistairBerg_DigitalVision_Getty-5f753dec7013403c9afb83578a8f4925.jpg
+thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c6610495144fe17eca852c8fbd.jpg
 ---
 
 ## Twitter's Best Binge-Friends: Amazon Prime's Most Liked Shows, '23
