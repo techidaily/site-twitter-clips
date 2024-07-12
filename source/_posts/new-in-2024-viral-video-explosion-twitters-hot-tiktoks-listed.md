@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Viral Video Explosion  Twitter’s Hot TikToks Listed\""
-date: 2024-05-21T02:13:19.578Z
-updated: 2024-05-22T02:13:19.578Z
+date: 2024-07-11T04:10:52.357Z
+updated: 2024-07-12T04:10:52.357Z
 tags:
   - ai video
   - ai twitter
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Viral Video Explosion: Twitter’s Hot TikToks Listed\""
 excerpt: "\"This Article Describes [New] In 2024, Viral Video Explosion: Twitter’s Hot TikToks Listed\""
 keywords: "Viral TikTok Trends,TikTok Hits Twitter,Popular TikTok Videos,Social Media Video Boom,TikTok's Top Tweets,Hot TikToks on Twitter,TikTok Goes Viral"
-thumbnail: https://www.lifewire.com/thmb/PgysQIezEX8AOUJWPOnCygJN10o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/The-7-Best-TV-Streaming-Apps-of-2021-2bd55916fdd34bcc847ae58768ada910.jpg
+thumbnail: https://thmb.techidaily.com/1908e28912e98a1754462ccee93c018243200352c23bf996b9a2a527835e31b1.jpg
 ---
 
 ## Viral Video Explosion: Twitter’s Hot TikToks Listed
@@ -35,7 +35,7 @@ Wann’ know how to create something simple yet trend-worthy on TikTok? Take ins
 
 ## 1\. Zach King’s Harry Potter doing the laundry
 
-![Screenshot of Zach King’s viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-1.jpg)
+![Screenshot of Zach King’s viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-1.jpg)
 
 If you are TikTok or Twitter, you must have seen Zach King’s Harry Potter illusion video. With over 2.8 Billion views, Zach King flying on a broom is the most-watched video on TikTok. And for a reason: be it the caption or video, every second of it is enough to awe the user.
 
@@ -49,7 +49,7 @@ Here’s a link to the video:
 
 ## 2\. David Allen’s Dancing with Drones
 
-![Screenshot of David Allen viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-2.jpg)
+![Screenshot of David Allen viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-2.jpg)
 
 David Allen TikTok’s following blew up overnight after he posted a video showing him dancing in sunglasses to the song “Stay” by Justin Beiber and The Kid LAROI. In fact, it became the video of the year in America and the world as far as TikTok is concerned.
 
@@ -63,7 +63,7 @@ Here’s a link to the video:
 
 ## 3\. Bella Porch’s “M to the B”
 
-![Screenshot of Bella Porch viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-3.jpg)
+![Screenshot of Bella Porch viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-3.jpg)
 
 When TikTok released the list of the most viral videos of the year, many were surprised to find Bella Porch’s “M to the B” lip-sync. No insult to Bella and her videos, but how can a simple lip-syncing video be the most liked video of the year on TikTok? Is it the cosplay of algorithms? Or is it Bella’s charm that has already managed to get her quite a fan following? Because it was not only TikTok that Bella ruled with this video. It also became a sensation on Twitter, and you could easily find it by typing simple keywords like Twitter video viral 2022 TikTok on Google.
 
@@ -77,7 +77,7 @@ Here’s a link to the video:
 
 ## 4\. Franek Bielak’s Drawings
 
-![Screenshot of Franek Bielak viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-4.jpg)
+![Screenshot of Franek Bielak viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-4.jpg)
 
 TikTok is a community-driven social media platform made not just for entertainment but also to show what you are good at. And Franek Bielak uses the platform just for that. Show his talent: drawings. One of the top influencers (of his realm) on TikTok, Franek Biekal’s “This is one of my best drawings” video, is one of the most liked videos on the platform with over 44 million likes. The video pleads users continuously with messages like “Please watch till the end,” “Is worth it,” and Franek shows the drawing process with a low rhythm playing in the background.
 
@@ -111,7 +111,7 @@ Here’s a link to the video:
 
 ## 7\. Nick Luciano's parody video
 
-![Screenshot of Nick Luciano Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-7.jpg)
+![Screenshot of Nick Luciano Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-7.jpg)
 
 Parody might not take you to places, but it is enough to rank your video in the list of the best Twitter video viral TikTok 2022 list. Do not believe? Visit the link attached below and see what Nick Luciano does in the video. Starting with the numbers of likes @kaylavoid's received for her video on SugarCrush, Nick Luciano is shown lip-syncing the same song. And it worked quite well!
 
@@ -119,9 +119,9 @@ Here’s a link to the video:
 
 [Nick Luciano Parody Video](https://www.tiktok.com/@thenickluciano/video/7012645750429519109?lang=en)
 
-## 8\. [@myaussiegal's](https://www.tiktok.com/@my%5Faussie%5Fga) Dog Drawing
+## 8\. @myaussiegal's
 
-![Screenshot of @myaussiegal Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-8.jpg)
+![Screenshot of @myaussiegal Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-8.jpg)
 
 Will you be amazed that a dog is drawing a flower, or it is one of the most liked videos on TikTok? Because both are true. And [@myaussiegal's](https://www.tiktok.com/@my%5Faussie%5Fga) shows that in her video. A dog carrying out the canvas, the paint tubes, and drawing out a charming sunflower — and users make it one of the most liked videos on TikTok.
 
@@ -131,7 +131,7 @@ Here’s a link to the video:
 
 ## 9\. A wave hitting the camera
 
-![Screenshot of a wave hitting the camera Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-9.jpg)
+![Screenshot of a wave hitting the camera Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-9.jpg)
 
 TikTok has shown time and time again that all it takes is a little bit of creativity to be famous on the platform. Once again, it shows that remark to be true via this simple clip of Jordy. In the video, you can see a wave hitting the camera. Yes, that is all in the video, yet it managed to rank as one of the most liked videos on TikTok. And for a reason: Jordy managed to entertain his viewers via a new style of videos continuously. The success of this simple clip is an accumulation of all those videos.
 
@@ -141,7 +141,7 @@ Here’s a link to the profile:
 
 ## 10\. ZeddyWill’s — Bro, who got you smiling like that?
 
-![Screenshot ZeddyWill’s Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-10.jpg)
+![Screenshot ZeddyWill’s Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-10.jpg)
 
 Some weird poses, swift tones, and a lot of giggling ended up dominating TikTok's soundbites.
 
@@ -165,7 +165,7 @@ Wann’ know how to create something simple yet trend-worthy on TikTok? Take ins
 
 ## 1\. Zach King’s Harry Potter doing the laundry
 
-![Screenshot of Zach King’s viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-1.jpg)
+![Screenshot of Zach King’s viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-1.jpg)
 
 If you are TikTok or Twitter, you must have seen Zach King’s Harry Potter illusion video. With over 2.8 Billion views, Zach King flying on a broom is the most-watched video on TikTok. And for a reason: be it the caption or video, every second of it is enough to awe the user.
 
@@ -179,7 +179,7 @@ Here’s a link to the video:
 
 ## 2\. David Allen’s Dancing with Drones
 
-![Screenshot of David Allen viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-2.jpg)
+![Screenshot of David Allen viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-2.jpg)
 
 David Allen TikTok’s following blew up overnight after he posted a video showing him dancing in sunglasses to the song “Stay” by Justin Beiber and The Kid LAROI. In fact, it became the video of the year in America and the world as far as TikTok is concerned.
 
@@ -193,7 +193,7 @@ Here’s a link to the video:
 
 ## 3\. Bella Porch’s “M to the B”
 
-![Screenshot of Bella Porch viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-3.jpg)
+![Screenshot of Bella Porch viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-3.jpg)
 
 When TikTok released the list of the most viral videos of the year, many were surprised to find Bella Porch’s “M to the B” lip-sync. No insult to Bella and her videos, but how can a simple lip-syncing video be the most liked video of the year on TikTok? Is it the cosplay of algorithms? Or is it Bella’s charm that has already managed to get her quite a fan following? Because it was not only TikTok that Bella ruled with this video. It also became a sensation on Twitter, and you could easily find it by typing simple keywords like Twitter video viral 2022 TikTok on Google.
 
@@ -207,7 +207,7 @@ Here’s a link to the video:
 
 ## 4\. Franek Bielak’s Drawings
 
-![Screenshot of Franek Bielak viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-4.jpg)
+![Screenshot of Franek Bielak viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-4.jpg)
 
 TikTok is a community-driven social media platform made not just for entertainment but also to show what you are good at. And Franek Bielak uses the platform just for that. Show his talent: drawings. One of the top influencers (of his realm) on TikTok, Franek Biekal’s “This is one of my best drawings” video, is one of the most liked videos on the platform with over 44 million likes. The video pleads users continuously with messages like “Please watch till the end,” “Is worth it,” and Franek shows the drawing process with a low rhythm playing in the background.
 
@@ -241,7 +241,7 @@ Here’s a link to the video:
 
 ## 7\. Nick Luciano's parody video
 
-![Screenshot of Nick Luciano Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-7.jpg)
+![Screenshot of Nick Luciano Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-7.jpg)
 
 Parody might not take you to places, but it is enough to rank your video in the list of the best Twitter video viral TikTok 2022 list. Do not believe? Visit the link attached below and see what Nick Luciano does in the video. Starting with the numbers of likes @kaylavoid's received for her video on SugarCrush, Nick Luciano is shown lip-syncing the same song. And it worked quite well!
 
@@ -249,9 +249,9 @@ Here’s a link to the video:
 
 [Nick Luciano Parody Video](https://www.tiktok.com/@thenickluciano/video/7012645750429519109?lang=en)
 
-## 8\. [@myaussiegal's](https://www.tiktok.com/@my%5Faussie%5Fga) Dog Drawing
+## 8\. @myaussiegal's
 
-![Screenshot of @myaussiegal Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-8.jpg)
+![Screenshot of @myaussiegal Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-8.jpg)
 
 Will you be amazed that a dog is drawing a flower, or it is one of the most liked videos on TikTok? Because both are true. And [@myaussiegal's](https://www.tiktok.com/@my%5Faussie%5Fga) shows that in her video. A dog carrying out the canvas, the paint tubes, and drawing out a charming sunflower — and users make it one of the most liked videos on TikTok.
 
@@ -261,7 +261,7 @@ Here’s a link to the video:
 
 ## 9\. A wave hitting the camera
 
-![Screenshot of a wave hitting the camera Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-9.jpg)
+![Screenshot of a wave hitting the camera Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-9.jpg)
 
 TikTok has shown time and time again that all it takes is a little bit of creativity to be famous on the platform. Once again, it shows that remark to be true via this simple clip of Jordy. In the video, you can see a wave hitting the camera. Yes, that is all in the video, yet it managed to rank as one of the most liked videos on TikTok. And for a reason: Jordy managed to entertain his viewers via a new style of videos continuously. The success of this simple clip is an accumulation of all those videos.
 
@@ -271,7 +271,7 @@ Here’s a link to the profile:
 
 ## 10\. ZeddyWill’s — Bro, who got you smiling like that?
 
-![Screenshot ZeddyWill’s Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-10.jpg)
+![Screenshot ZeddyWill’s Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-10.jpg)
 
 Some weird poses, swift tones, and a lot of giggling ended up dominating TikTok's soundbites.
 
@@ -295,7 +295,7 @@ Wann’ know how to create something simple yet trend-worthy on TikTok? Take ins
 
 ## 1\. Zach King’s Harry Potter doing the laundry
 
-![Screenshot of Zach King’s viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-1.jpg)
+![Screenshot of Zach King’s viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-1.jpg)
 
 If you are TikTok or Twitter, you must have seen Zach King’s Harry Potter illusion video. With over 2.8 Billion views, Zach King flying on a broom is the most-watched video on TikTok. And for a reason: be it the caption or video, every second of it is enough to awe the user.
 
@@ -309,7 +309,7 @@ Here’s a link to the video:
 
 ## 2\. David Allen’s Dancing with Drones
 
-![Screenshot of David Allen viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-2.jpg)
+![Screenshot of David Allen viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-2.jpg)
 
 David Allen TikTok’s following blew up overnight after he posted a video showing him dancing in sunglasses to the song “Stay” by Justin Beiber and The Kid LAROI. In fact, it became the video of the year in America and the world as far as TikTok is concerned.
 
@@ -323,7 +323,7 @@ Here’s a link to the video:
 
 ## 3\. Bella Porch’s “M to the B”
 
-![Screenshot of Bella Porch viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-3.jpg)
+![Screenshot of Bella Porch viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-3.jpg)
 
 When TikTok released the list of the most viral videos of the year, many were surprised to find Bella Porch’s “M to the B” lip-sync. No insult to Bella and her videos, but how can a simple lip-syncing video be the most liked video of the year on TikTok? Is it the cosplay of algorithms? Or is it Bella’s charm that has already managed to get her quite a fan following? Because it was not only TikTok that Bella ruled with this video. It also became a sensation on Twitter, and you could easily find it by typing simple keywords like Twitter video viral 2022 TikTok on Google.
 
@@ -337,7 +337,7 @@ Here’s a link to the video:
 
 ## 4\. Franek Bielak’s Drawings
 
-![Screenshot of Franek Bielak viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-4.jpg)
+![Screenshot of Franek Bielak viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-4.jpg)
 
 TikTok is a community-driven social media platform made not just for entertainment but also to show what you are good at. And Franek Bielak uses the platform just for that. Show his talent: drawings. One of the top influencers (of his realm) on TikTok, Franek Biekal’s “This is one of my best drawings” video, is one of the most liked videos on the platform with over 44 million likes. The video pleads users continuously with messages like “Please watch till the end,” “Is worth it,” and Franek shows the drawing process with a low rhythm playing in the background.
 
@@ -371,7 +371,7 @@ Here’s a link to the video:
 
 ## 7\. Nick Luciano's parody video
 
-![Screenshot of Nick Luciano Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-7.jpg)
+![Screenshot of Nick Luciano Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-7.jpg)
 
 Parody might not take you to places, but it is enough to rank your video in the list of the best Twitter video viral TikTok 2022 list. Do not believe? Visit the link attached below and see what Nick Luciano does in the video. Starting with the numbers of likes @kaylavoid's received for her video on SugarCrush, Nick Luciano is shown lip-syncing the same song. And it worked quite well!
 
@@ -379,9 +379,9 @@ Here’s a link to the video:
 
 [Nick Luciano Parody Video](https://www.tiktok.com/@thenickluciano/video/7012645750429519109?lang=en)
 
-## 8\. [@myaussiegal's](https://www.tiktok.com/@my%5Faussie%5Fga) Dog Drawing
+## 8\. @myaussiegal's
 
-![Screenshot of @myaussiegal Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-8.jpg)
+![Screenshot of @myaussiegal Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-8.jpg)
 
 Will you be amazed that a dog is drawing a flower, or it is one of the most liked videos on TikTok? Because both are true. And [@myaussiegal's](https://www.tiktok.com/@my%5Faussie%5Fga) shows that in her video. A dog carrying out the canvas, the paint tubes, and drawing out a charming sunflower — and users make it one of the most liked videos on TikTok.
 
@@ -391,7 +391,7 @@ Here’s a link to the video:
 
 ## 9\. A wave hitting the camera
 
-![Screenshot of a wave hitting the camera Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-9.jpg)
+![Screenshot of a wave hitting the camera Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-9.jpg)
 
 TikTok has shown time and time again that all it takes is a little bit of creativity to be famous on the platform. Once again, it shows that remark to be true via this simple clip of Jordy. In the video, you can see a wave hitting the camera. Yes, that is all in the video, yet it managed to rank as one of the most liked videos on TikTok. And for a reason: Jordy managed to entertain his viewers via a new style of videos continuously. The success of this simple clip is an accumulation of all those videos.
 
@@ -401,7 +401,7 @@ Here’s a link to the profile:
 
 ## 10\. ZeddyWill’s — Bro, who got you smiling like that?
 
-![Screenshot ZeddyWill’s Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-10.jpg)
+![Screenshot ZeddyWill’s Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-10.jpg)
 
 Some weird poses, swift tones, and a lot of giggling ended up dominating TikTok's soundbites.
 
@@ -425,7 +425,7 @@ Wann’ know how to create something simple yet trend-worthy on TikTok? Take ins
 
 ## 1\. Zach King’s Harry Potter doing the laundry
 
-![Screenshot of Zach King’s viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-1.jpg)
+![Screenshot of Zach King’s viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-1.jpg)
 
 If you are TikTok or Twitter, you must have seen Zach King’s Harry Potter illusion video. With over 2.8 Billion views, Zach King flying on a broom is the most-watched video on TikTok. And for a reason: be it the caption or video, every second of it is enough to awe the user.
 
@@ -439,7 +439,7 @@ Here’s a link to the video:
 
 ## 2\. David Allen’s Dancing with Drones
 
-![Screenshot of David Allen viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-2.jpg)
+![Screenshot of David Allen viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-2.jpg)
 
 David Allen TikTok’s following blew up overnight after he posted a video showing him dancing in sunglasses to the song “Stay” by Justin Beiber and The Kid LAROI. In fact, it became the video of the year in America and the world as far as TikTok is concerned.
 
@@ -453,7 +453,7 @@ Here’s a link to the video:
 
 ## 3\. Bella Porch’s “M to the B”
 
-![Screenshot of Bella Porch viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-3.jpg)
+![Screenshot of Bella Porch viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-3.jpg)
 
 When TikTok released the list of the most viral videos of the year, many were surprised to find Bella Porch’s “M to the B” lip-sync. No insult to Bella and her videos, but how can a simple lip-syncing video be the most liked video of the year on TikTok? Is it the cosplay of algorithms? Or is it Bella’s charm that has already managed to get her quite a fan following? Because it was not only TikTok that Bella ruled with this video. It also became a sensation on Twitter, and you could easily find it by typing simple keywords like Twitter video viral 2022 TikTok on Google.
 
@@ -467,7 +467,7 @@ Here’s a link to the video:
 
 ## 4\. Franek Bielak’s Drawings
 
-![Screenshot of Franek Bielak viral Tiktok video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-4.jpg)
+![Screenshot of Franek Bielak viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-4.jpg)
 
 TikTok is a community-driven social media platform made not just for entertainment but also to show what you are good at. And Franek Bielak uses the platform just for that. Show his talent: drawings. One of the top influencers (of his realm) on TikTok, Franek Biekal’s “This is one of my best drawings” video, is one of the most liked videos on the platform with over 44 million likes. The video pleads users continuously with messages like “Please watch till the end,” “Is worth it,” and Franek shows the drawing process with a low rhythm playing in the background.
 
@@ -501,7 +501,7 @@ Here’s a link to the video:
 
 ## 7\. Nick Luciano's parody video
 
-![Screenshot of Nick Luciano Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-7.jpg)
+![Screenshot of Nick Luciano Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-7.jpg)
 
 Parody might not take you to places, but it is enough to rank your video in the list of the best Twitter video viral TikTok 2022 list. Do not believe? Visit the link attached below and see what Nick Luciano does in the video. Starting with the numbers of likes @kaylavoid's received for her video on SugarCrush, Nick Luciano is shown lip-syncing the same song. And it worked quite well!
 
@@ -509,9 +509,9 @@ Here’s a link to the video:
 
 [Nick Luciano Parody Video](https://www.tiktok.com/@thenickluciano/video/7012645750429519109?lang=en)
 
-## 8\. [@myaussiegal's](https://www.tiktok.com/@my%5Faussie%5Fga) Dog Drawing
+## 8\. @myaussiegal's
 
-![Screenshot of @myaussiegal Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-8.jpg)
+![Screenshot of @myaussiegal Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-8.jpg)
 
 Will you be amazed that a dog is drawing a flower, or it is one of the most liked videos on TikTok? Because both are true. And [@myaussiegal's](https://www.tiktok.com/@my%5Faussie%5Fga) shows that in her video. A dog carrying out the canvas, the paint tubes, and drawing out a charming sunflower — and users make it one of the most liked videos on TikTok.
 
@@ -521,7 +521,7 @@ Here’s a link to the video:
 
 ## 9\. A wave hitting the camera
 
-![Screenshot of a wave hitting the camera Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-9.jpg)
+![Screenshot of a wave hitting the camera Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-9.jpg)
 
 TikTok has shown time and time again that all it takes is a little bit of creativity to be famous on the platform. Once again, it shows that remark to be true via this simple clip of Jordy. In the video, you can see a wave hitting the camera. Yes, that is all in the video, yet it managed to rank as one of the most liked videos on TikTok. And for a reason: Jordy managed to entertain his viewers via a new style of videos continuously. The success of this simple clip is an accumulation of all those videos.
 
@@ -531,7 +531,7 @@ Here’s a link to the profile:
 
 ## 10\. ZeddyWill’s — Bro, who got you smiling like that?
 
-![Screenshot ZeddyWill’s Tiktok viral video ](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-10.jpg)
+![Screenshot ZeddyWill’s Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-10.jpg)
 
 Some weird poses, swift tones, and a lot of giggling ended up dominating TikTok's soundbites.
 
@@ -568,3 +568,55 @@ Those are the top 10 clips for this Twitter Video Viral 2022 TikTok list. Hope y
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-leveraging-tiktok-videos-for-twitter-audiences/"><u>[Updated] In 2024, Leveraging TikTok Videos for Twitter Audiences</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-streamline-content-management-twitter-vids-to-insta-feed/"><u>[New] Streamline Content Management  Twitter Vids to Insta Feed</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-the-quick-guide-to-capturing-and-storing-twitter-animated-content/"><u>In 2024, The Quick Guide to Capturing and Storing Twitter Animated Content</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards/"><u>In 2024, GifGuardian Elite  A Must-Have Toolkit for Twitter's Visual Vanguards</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-seamless-tiktok-content-for-twitter-audience/"><u>2024 Approved  Seamless TikTok Content for Twitter Audience</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitter-jokes-unveiled-3-pc-based-methods/"><u>[Updated] Twitter Jokes Unveiled  3 PC-Based Methods</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-hot-takes-highlight-twitters-trending-topics/"><u>[Updated] Hot Takes Highlight  Twitter's Trending Topics</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitchconverter-tweets-to-streams/"><u>[Updated] TwitchConverter  Tweets to Streams</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-obsession-with-top-10-tiktok-videos/"><u>Twitter's Obsession with Top 10 TikTok Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-discovering-the-most-shared-twitvideos-of-the-year-for-2024/"><u>[Updated] Discovering the Most Shared TwitVideos of the Year for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-visualizing-tweet-reactions-a-complete-twitch-tale-for-23/"><u>[New] 2024 Approved  Visualizing Tweet Reactions - A Complete Twitch-Tale for '23</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-mastering-tiktok-video-posts-on-twitter/"><u>[New] In 2024, Mastering TikTok Video Posts on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-vlogging-through-verbiage-a-2023-guide-to-twitter-threads/"><u>In 2024, Vlogging Through Verbiage - A 2023 Guide to Twitter Threads</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-the-seamless-tweet-to-snap-transition-guide/"><u>2024 Approved  The Seamless Tweet-to-Snap Transition Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-streamline-the-spectacle-exploring-hd-video-on-twitter/"><u>[Updated] In 2024, Streamline the Spectacle  Exploring HD Video on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-breaking-boundaries-on-twittersphere-new-hits/"><u>[Updated] Breaking Boundaries on Twittersphere  New Hits</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-popular-tiktok-creations-dominating-twitter-discussions/"><u>[New] Popular TikTok Creations Dominating Twitter Discussions</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/secrets-to-effective-targeted-tweets-for-2024/"><u>Secrets to Effective Targeted Tweets for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-tiktoks-rise-to-fame-through-twitters-top-10-list/"><u>[New] TikTok's Rise to Fame Through Twitter’s Top 10 List</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-your-pathway-to-mastery-in-youtube-vids-on-twitter-for-2024/"><u>[Updated] Your Pathway to Mastery in YouTube Vids on Twitter for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/crafting-captivating-real-time-tweets-for-maximum-impact-for-2024/"><u>Crafting Captivating Real-Time Tweets for Maximum Impact for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-from-tweets-to-device-storage-android-and-iphone-gif-steps-for-2024/"><u>[Updated] From Tweets to Device Storage  Android & iPhone GIF Steps for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-viral-amazon-prime-videos-from-twitter/"><u>[New] 2024 Approved  Viral Amazon Prime Videos From Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-meme-mania-social-medias-most-hilarious-video-threads-for-2024/"><u>[New] Meme Mania  Social Media's Most Hilarious Video Threads for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-making-the-invisible-audible-fixes-for-tweeted-videos/"><u>[Updated] In 2024, Making the Invisible Audible  Fixes for Tweeted Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-swift-tip-extracting-and-storing-twitter-video-on-phone/"><u>[New] In 2024, Swift Tip  Extracting and Storing Twitter Video on Phone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-how-to-upload-a-video-on-twitter/"><u>[New] 2024 Approved  How to Upload a Video on Twitter?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-preparing-for-twitter-know-the-required-aspect-ratio/"><u>[New] 2024 Approved  Preparing for Twitter  Know the Required Aspect Ratio</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitters-crown-jewels-the-most-liked-and-binge-watched-content/"><u>[Updated] 2024 Approved  Twitter's Crown Jewels  The Most Liked & Binge-Watched Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-behind-the-curtain-detailed-guide-to-import-tasks-w11/"><u>2024 Approved  Behind the Curtain  Detailed Guide to Import Tasks W11</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/hidden-shotsnappers-advanced-techniques-for-invisible-image-capturing-on-snapchat/"><u>Hidden ShotSnappers  Advanced Techniques for Invisible Image Capturing on Snapchat</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-webm-viewers-the-ultimate-comparison-of-options/"><u>Free WebM Viewers  The Ultimate Comparison of Options</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-capturing-moments-dslr-setup-for-online-streaming-pcmac/"><u>[New] 2024 Approved  Capturing Moments  DSLR Setup for Online Streaming (PC/Mac)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-techniques-for-smooth-iphone-video-experience/"><u>[Updated] Expert Techniques for Smooth iPhone Video Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-sharing-content-video-posts-on-instagram-guide-for-2024/"><u>[New] Sharing Content  Video Posts on Instagram Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unrestricted-gaming-beats-digital-download/"><u>[New] Unrestricted Gaming Beats  Digital Download</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-social-surge-amass-1k-on-ig-each-month-for-a-million-dream/"><u>[New] The Ultimate Social Surge  Amass 1K on IG Each Month for a Million Dream</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-integrating-extra-footage-crafting-engaging-visual-narratives/"><u>[Updated] Integrating Extra Footage  Crafting Engaging Visual Narratives</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-soft-focus-the-secret-of-great-bokeh-in-stories/"><u>[New] Mastering Soft Focus  The Secret of Great Bokeh in Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-gradual-sound-escalation-auditions-guide-to-fades/"><u>[New] The Gradual Sound Escalation  Audition’s Guide to Fades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-integrate-sudo-with-windows-systems/"><u>Why Integrate Sudo with Windows Systems</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-perfecting-audio-balance-the-guide-to-volume-control-in-audacity-for-2024/"><u>Updated Perfecting Audio Balance The Guide to Volume Control in Audacity for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-eliminate-discord-linkage-pcmobile/"><u>[New] Eliminate Discord Linkage (PC/Mobile)</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tips-for-restarting-non-functional-hp-photo-units/"><u>Tips for Restarting Non-Functional HP Photo Units</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-compreran-guide-sending-videos-through-discords-lens/"><u>The Compreran Guide  Sending Videos Through Discord's Lens</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-x7b-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor X7b</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-reaping-the-digital-rewards-top-10-plugin-essentials-for-streamlined-editing-workflows/"><u>New Reaping the Digital Rewards Top 10 Plugin Essentials for Streamlined Editing Workflows</u></a></li>
+</ul></div>
