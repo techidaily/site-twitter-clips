@@ -1,7 +1,7 @@
 ---
 title: The Future of Immersive Photography with Theta SC2
-date: 2024-09-04T06:53:40.485Z
-updated: 2024-09-05T06:53:40.485Z
+date: 2024-09-09T01:56:01.028Z
+updated: 2024-09-10T01:56:01.028Z
 categories:
   - BestProducts
 description: This Article Describes The Future of Immersive Photography with Theta SC2
@@ -17,6 +17,12 @@ thumbnail: https://www.lifewire.com/thmb/CMi9CccXZVUVcwSL_bR0hHJY3nE=/540x405/fi
 
 ![Nixplay Iris](https://www.lifewire.com/thmb/SKBkVg5bzpPB3Pg5ft5QarJikO4=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Nixplay-Iris-Digital-Photo-Frame-1-7d85fd1aface4628954982aea902677e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Anton Galang
 
  What We Like
@@ -70,10 +76,10 @@ thumbnail: https://www.lifewire.com/thmb/CMi9CccXZVUVcwSL_bR0hHJY3nE=/540x405/fi
  Lifewire / Anton Galang
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design: An elegant addition to your décor**
 
@@ -93,15 +99,27 @@ The Iris is a style-conscious breath of fresh air.
 
  Lifewire / Anton Galang​
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: Online presence not optional**
 
  The Iris should be relatively painless to set up for people used to working with wireless products and online accounts, but there's no denying it's a more involved process than with offline photo frames. To start, an internet connection is mandatory. After plugging in the frame and a bit of load time, you'll have to enter your Wi-Fi network information using the remote. You also need a Nixplay account to access any of the company's smart frames. Only when you have an account created and paired with your Iris can you start loading pictures and[using your picture frame](https://www.lifewire.com/learning-to-use-digital-photo-frames-492922) . Everything you can do with the app makes it worthwhile, but the setup process does include a few barriers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Display: Small but sharp**
 
@@ -114,10 +132,10 @@ The Iris is a style-conscious breath of fresh air.
  The Iris can also play video clips up to 15 seconds in length. The quality is decent enough, though combined with the quiet speakers that serve up the accompanying audio, video playback won't be a primary use for the frame.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Software: Bringing photo frames to the connected world**
 
@@ -130,10 +148,10 @@ The Iris is a style-conscious breath of fresh air.
  You can also control the Iris from anywhere with an internet connection. That includes setting up stuff like the vast selection of slideshow transition options, a sleep/wake schedule, or the noise-based activity sensor with ten levels of sensitivity. It's also compatible with[Amazon's Alexa voice assistant](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) , a feature not mentioned during setup but added as part of a recent software update. You can add Nixplay as an[Alexa skill](https://www.lifewire.com/alexa-skills-4126799) , but getting the voice commands to work is a bit cumbersome and may take some patience, practice, and customization.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Paying for style and substance**
 
@@ -141,18 +159,6 @@ The Iris is a style-conscious breath of fresh air.
 
  It’s worth the cost if you're a fan of its aesthetics and array of modern features.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Competition: A prettier face**
 
 **_Nixplay Seed Ultra:_** Sharing the same suite of Nixplay cloud frame features, a lot of distinction between the Iris and the Seed Ultra that we tested comes in terms of design. The large frame on the Iris makes it about the same total size, but the Seed Ultra has a thinner plain black border with a 10-inch screen—slightly pricier for a bigger, higher-res display within a less elegant frame. The Seed Ultra also has a motion sensor, but no automatic brightness sensor.
@@ -167,12 +173,6 @@ The Iris is a style-conscious breath of fresh air.
 
  Even with a slightly smaller display, the Nixplay Iris steps up the digital photo frame game with its classy design on top of cloud features, shared playlists, social media integration, and controls from any PC or mobile device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Iris Digital Picture Frame (8-inch)
