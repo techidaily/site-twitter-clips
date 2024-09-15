@@ -1,7 +1,7 @@
 ---
 title: BN = Bulimia Nervosa;
-date: 2024-09-09T01:56:01.046Z
-updated: 2024-09-10T01:56:01.046Z
+date: 2024-09-11T01:51:23.381Z
+updated: 2024-09-15T02:37:20.520Z
 categories:
   - BestProducts
 description: This Article Describes BN = Bulimia Nervosa;
@@ -13,34 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/vcPR8sMCFYv5wwuLBGaBwAuPrhk=/400x300/fi
 
 4.2
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## New Bee LC-B41 Bluetooth Earpiece
 
 ![New Bee LC-B41](https://www.lifewire.com/thmb/xwUsYAgIVW9583_9I35ND4f0SsQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewBee_BluetoothHeadsets_LCB41_HeroSquare-2ff9227981ee4cce88d0dccaf0bae6c7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Erika Rawes
 
  What We Like
@@ -90,12 +66,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Design: Small and inconspicuous**
 
  The New Bee is relatively small, measuring a little over two inches in length and about 0.6 inches wide. It comes in three different colors: black, white, or gold. The exterior finish is glossy, and it has silver trim that gets thicker at the rounded off bottom portion of the headset. Overall, this headset looks more like a typical electronic device than some of the other units I’ve tested.
@@ -103,11 +73,12 @@ Lifewire / Erika Rawes
  There are three hard button controls on the New Bee, which are ideally located for the easiest possible access. On one side sits a physical on and off slider switch, and the other side has a volume control switch. The brand name “New Bee” is printed along the front of the glossy surface, and you press on the front glossy surface of the headset to answer and end calls. Since the call button is so large, it’s easier to answer a call while you’re performing other tasks.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Comfort: Wears well for long periods**
 
  The New Bee LC-41 is lightweight and comfortable to wear for long time periods, but it’s more comfortable without the addition of the ear hook. If you’re not partaking in heavy activity, the New Bee stays in the ear pretty well, but if you’re going to the gym or going for a run, you’ll want the added support of the ear hook.
@@ -136,12 +107,6 @@ Lifewire / Erika Rawes
 
  New Bee features HD voice and CVC (clear voice capture) 6.0 noise cancellation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: A budget headset under $20**
 
  The price tag is insanely affordable. You can buy the New Bee LC-41 headset for around $17, which is an excellent value considering the battery life and all of the included accessories.
@@ -159,11 +124,12 @@ Lifewire / Erika Rawes
  The New Bee LC-41 isn’t perfect, but because it offers so much for so little, most people will be happy with the device.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  LC-B41 Bluetooth Earpiece
@@ -179,8 +145,6 @@ Lifewire / Erika Rawes
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,58 +154,20 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2023s-viral-tweets-ranking-by-number-of-viewers-for-2024/"><u>[New] 2023’S Viral Tweets  Ranking by Number of Viewers for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-digital-discovery-the-daily-10-highest-viewed-tweets/"><u>[New] 2024 Approved  Digital Discovery  The Daily 10 Highest-Viewed Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-top-10-tiktok-viral-videos-on-twitter/"><u>[New] 2024 Approved  Top 10 TikTok Viral Videos on Twitter</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-calculating-20mb-video-length-in-secs/"><u>[New] Calculating 20MB Video Length in Secs</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-chortle-central-top-10-tweet-humor-for-2024/"><u>[New] Chortle Central  Top 10 Tweet Humor for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-reactivate-lost-chatter-in-social-media-clips/"><u>[New] In 2024, Reactivate Lost Chatter in Social Media Clips</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-streamline-your-twitterscape-with-these-pc-tips/"><u>[New] In 2024, Streamline Your Twitterscape with These PC Tips</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-thriving-in-twitter-live-tv-mode/"><u>[New] In 2024, Thriving in Twitter Live TV Mode</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-unveiling-the-hidden-potential-of-twitter-archives/"><u>[New] In 2024, Unveiling the Hidden Potential of Twitter Archives</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-silencing-the-quiet-how-to-enhance-tweeted-vids/"><u>[New] Silencing the Quiet  How to Enhance Tweeted Vids</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-step-by-step-guide-to-crafting-twitreacts-for-2024/"><u>[New] Step-by-Step Guide to Crafting TwitReacts for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-twitching-online-highlighting-todays-trending-video-takes/"><u>[New] Twitching Online  Highlighting Today's Trending Video Takes</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-quick-tips-for-uploading-content-on-twitter/"><u>[Updated] 2024 Approved  Quick Tips for Uploading Content on Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs/"><u>[Updated] 2024 Approved  Transformative Tutorial  Turning Vids on Twitter Into Catchy Animated Memes (GIFs)</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-vidvault-prodigies-mastering-the-download-of-tweeted-videos/"><u>[Updated] 2024 Approved  VidVault Prodigies  Mastering the Download of Tweeted Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-camclip-collector-social-edition-for-2024/"><u>[Updated] CamClip Collector, Social Edition for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-economical-enhancement-tweets-to-animated-gifs-guide/"><u>[Updated] Economical Enhancement  Tweets to Animated GIFs Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-from-visual-tweets-to-mp3-outputs/"><u>[Updated] From Visual Tweets to MP3 Outputs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-make-reels-on-facebook-in-2024/"><u>[Updated] How to Make Reels on Facebook, In 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-a-must-have-for-tweeting-videos-aspect-ratio-compliance/"><u>[Updated] In 2024, A Must-Have for Tweeting Videos  Aspect Ratio Compliance</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-vlog-voyage-through-twitters-live-videos/"><u>[Updated] In 2024, The Vlog Voyage Through Twitter's Live Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-innovative-5-websites-eclipsing-twitter-for-2024/"><u>[Updated] Innovative 5 Websites Eclipsing Twitter for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-kinemasters-guide-engineering-impeccable-video-continuity/"><u>[Updated] Kinemaster's Guide  Engineering Impeccable Video Continuity</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-streamline-capturing-and-saving-tweets-visuals-on-android/"><u>[Updated] Streamline  Capturing and Saving Tweets' Visuals on Android</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2023s-largest-threaded-video-compilation-for-2024/"><u>2023'S Largest Threaded Video Compilation for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-iconic-subreddits-and-their-all-time-favorites-list/"><u>2024 Approved  Iconic Subreddits & Their All-Time Favorites List</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-snapchat-integration-for-twitters-visual-content/"><u>2024 Approved  Snapchat Integration for Twitter's Visual Content</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-the-essentials-of-creating-a-personalized-twitter-account/"><u>2024 Approved  The Essentials of Creating a Personalized Twitter Account</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweeting-to-whatsapp-direct-video-distribution/"><u>2024 Approved  Tweeting to WhatsApp  Direct Video Distribution</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-twitching-online-highlighting-todays-trending-video-takes/"><u>2024 Approved  Twitching Online  Highlighting Today's Trending Video Takes</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-videotwit-extractor-directly-download-tweeted-media-for-mobile/"><u>2024 Approved  VideoTwit Extractor  Directly Download Tweeted Media for Mobile</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-10-best-free-video-editors-for-ubuntu/"><u>2024 Approved Top 10 Best Free Video Editors for Ubuntu</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/ace-your-earnings-game-in-youtube-shorts-for-2024/"><u>Ace Your Earnings Game in YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/amplify-your-photography-with-these-top-notch-pixlr-tricks/"><u>Amplify Your Photography with These Top-Notch Pixlr Tricks</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/chuckle-champions-humor-hunt-on-twitter-for-2024/"><u>Chuckle-Champions  Humor Hunt on Twitter for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dll-not-found-microsoft-c-runtime-error/"><u>DLL Not Found: Microsoft C Runtime Error</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/elevate-collaborative-workflow-enhancing-zoom-use-in-gmail-mail/"><u>Elevate Collaborative Workflow  Enhancing Zoom Use in Gmail Mail</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oppo-find-x6-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Oppo Find X6 Phone Screen?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-clip-courage-embracing-twitters-viral-vanguard/"><u>In 2024, Clip Courage  Embracing Twitter's Viral Vanguard</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a25-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A25 5G Bootloader Easily</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-how-to-upload-media-to-twitter-without-copying-another-users-tweet/"><u>In 2024, How To Upload Media to Twitter without Copying Another User's Tweet</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-desktop-instagram-video-upload-guide/"><u>In 2024, Mastering Desktop  Instagram Video Upload Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722586684454-in-depth-review-of-the-tp-link-ac1200-wifi-booster-re305-enhance-your-network-today/"><u>In-Depth Review of the TP-Link Ac1200 WiFi Booster RE305: Enhance Your Network Today</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-15-pro-max-is-it-built-to-resist-water-damage/"><u>IPhone 15 Pro Max: Is It Built to Resist Water Damage?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/key-concepts-of-interactive-storytelling-for-2024/"><u>Key Concepts of Interactive Storytelling for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/laughing-matters-the-premier-toolkit-for-twitters-2024-gifs/"><u>Laughing Matters  The Premier Toolkit for Twitter's 2024 GIFs</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/maximizing-twitter-video-quality-full-hd-tips/"><u>Maximizing Twitter Video Quality  Full HD Tips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reduce-latency-in-printing-routine/"><u>Reduce Latency in Printing Routine</u></a></li>
-<li><a href="https://facebook.techidaily.com/scouring-cyberspace-advanced-tactics-for-finding-emerging-communities/"><u>Scouring Cyberspace: Advanced Tactics for Finding Emerging Communities</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/secrets-to-effective-targeted-tweets-for-2024/"><u>Secrets to Effective Targeted Tweets for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-key-to-stellar-zoom-calls-smart-use-of-filters-for-2024/"><u>The Key to Stellar Zoom Calls  Smart Use of Filters for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/top-20-best-twitter-unfollowers-and-tools-for-2024/"><u>Top 20 Best Twitter Unfollowers & Tools for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/whats-winning-in-the-world-of-2023-tweets-for-2024/"><u>What's Winning in the World of 2023 Tweets for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/wont-you-hear-me-now-resolving-the-no-sound-dilemma-on-windows-11-and-windows-10-with-airpods/"><u>Won't You Hear Me Now: Resolving the No-Sound Dilemma on Windows 11 & Windows 10 with AirPods</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-breaking-news-on-twittersphere-top-10-hit-videos-today/"><u>[New] 2024 Approved Breaking News on Twittersphere Top 10 Hit Videos Today</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-direct-sync-tweeting-videos-effortlessly-to-instagram-stories/"><u>[New] In 2024, Direct Sync Tweeting Videos Effortlessly to Instagram Stories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-pausecapture-stop-and-save-live-image/"><u>[New] PauseCapture Stop & Save Live Image</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-guide-to-digital-audio-streaming-and-recording-for-2024/"><u>[New] The Ultimate Guide to Digital Audio Streaming & Recording for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-pocket-guide-retaining-twitter-media-on-your-cellphone/"><u>[Updated] In 2024, Pocket Guide Retaining Twitter Media on Your Cellphone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-simplify-your-sales-scrutiny-googles-straightforward-steps-to-track-income-from-youtube-for-2024/"><u>[Updated] Simplify Your Sales Scrutiny Google's Straightforward Steps to Track Income From YouTube for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-why-no-sound-the-twitter-video-amplification-guide/"><u>[Updated] Why No Sound? The Twitter Video Amplification Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-troubleshooting-for-the-msvcr71dll-file-not-found-issue/"><u>Comprehensive Troubleshooting for the 'Msvcr71.dll' File Not Found Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosis-and-repair-strategies-for-server-not-responding-during-escape-from-tarkov-sessions/"><u>Diagnosis and Repair Strategies for 'Server Not Responding' During Escape From Tarkov Sessions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nokia-c12-plus-drfone-by-drfone-android/"><u>How to Screen Mirroring Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-free-thumbnails-collection-pubg-edition/"><u>In 2024, Excellent Free Thumbnails Collection PUBG Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategic-steps-to-elevate-your-podcast-imagery/"><u>In 2024, Strategic Steps to Elevate Your Podcast Imagery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-ai-assistance-vital-developments-to-bring-to-chatgpts-extensions-shop/"><u>The Future of AI Assistance: Vital Developments to Bring to ChatGPT's Extensions Shop</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-hilarious-highlights/"><u>Twitter's Hilarious Highlights</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/winning-approach-to-saving-twitters-humor/"><u>Winning Approach to Saving Twitter's Humor</u></a></li>
 </ul></div>
+

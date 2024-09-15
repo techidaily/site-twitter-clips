@@ -1,7 +1,7 @@
 ---
 title: Solving Sound Issues - Get Your Fortnite Microphone Up and Running Again!
-date: 2024-09-09T01:56:01.340Z
-updated: 2024-09-10T01:56:01.340Z
+date: 2024-09-08T22:06:50.895Z
+updated: 2024-09-14T20:58:04.991Z
 tags:
   - win11
   - win10
@@ -29,12 +29,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1: Check your microphone device settings
 
  Your Turtle Beach mic may be disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -55,42 +49,18 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **7)** Right click**Headset Microphone** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
@@ -101,18 +71,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Update your audio drivers
 
  The mic on your Turtle Beach headset won’t work if you’re using an incorrect or outdated audio or headset driver. So you should update the driver to see if that fixes the issue.
@@ -127,27 +85,22 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
  Once you’ve updated the driver for your Turtle Beach headset, restart your computer. Then log in again and see if the microphone is working.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
 
@@ -168,8 +121,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,38 +130,16 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earnings-enlightenment-joshi-and-youtube-success-stories/"><u>[New] 2024 Approved  Earnings Enlightenment  Joshi and YouTube Success Stories</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-enhancing-engagement-share-tiktoks-on-twitter/"><u>[New] 2024 Approved  Enhancing Engagement  Share TikToks on Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-bridging-social-channels-the-journey-of-video-content-to-whatsapp/"><u>[New] Bridging Social Channels  The Journey of Video Content to WhatsApp</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-digital-diary-keepers-securely-download-tweets-videos/"><u>[New] Digital Diary Keepers  Securely Download Tweets' Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-handy-tips-downloading-youtube-like-content-via-android/"><u>[New] Handy Tips  Downloading YouTube-Like Content via Android</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-amplify-volume-for-twitters-silent-videos/"><u>[New] In 2024, Amplify Volume for Twitter's Silent Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-strategic-social-media-playbook-twitter-videos-for-instagram-gains/"><u>[New] In 2024, Strategic Social Media Playbook  Twitter Videos for Instagram Gains</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-pocket-guide-retaining-twitter-media-on-your-cellphone/"><u>[New] Pocket Guide  Retaining Twitter Media on Your Cellphone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-download-and-personalize-whatsapp-ringtones-on-mobile/"><u>[New] Step-by-Step  Download & Personalize WhatsApp Ringtones on Mobile</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-top-20-best-twitter-unfollowers-and-tools/"><u>[New] Top 20 Best Twitter Unfollowers & Tools</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-tweeted-trailblazers-cutting-edge-strategies-to-save-tweets-on-screen-for-2024/"><u>[New] Tweeted Trailblazers  Cutting-Edge Strategies to Save Tweets on Screen for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-uniting-social-networks-share-twitters-video-feed-through-instagram/"><u>[Updated] 2024 Approved  Uniting Social Networks  Share Twitter's Video Feed Through Instagram</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-how-to-stream-videos-on-twitter-using-your-smartphone/"><u>[Updated] In 2024, How To Stream Videos on Twitter Using Your Smartphone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-snap-up-engagement-streamlined-methods-for-crop-and-export-to-instagram/"><u>[Updated] In 2024, Snap Up Engagement  Streamlined Methods for Crop & Export to Instagram</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-live-photos-iphone-usage-tips/"><u>[Updated] Mastering Live Photos  IPhone Usage Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastery-guide-for-instagrams-favorite-interrogation-icon-for-2024/"><u>[Updated] Mastery Guide for Instagram's Favorite Interrogation Icon for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-methods-to-autoplay-youtube-videos-on-facebook-for-2024/"><u>[Updated] Methods to Autoplay Youtube Videos on Facebook for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-quick-retrieval-downloading-gifs-from-twitter-apps-for-2024/"><u>[Updated] Quick Retrieval  Downloading GIFs From Twitter Apps for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-stop-buffer-tweet-vids-in-chromium-browser-for-2024/"><u>[Updated] Stop Buffer  Tweet Vids in Chromium Browser for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2023how-to-share-videos-on-twitter-on-your-phone-without-retweeting-for-2024/"><u>2023|How to Share Videos on Twitter on Your Phone Without Retweeting for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-instant-sharing-with-media-files-twitters-guide/"><u>2024 Approved  Instant Sharing with Media Files  Twitter's Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-snaptweet-transporter-swift-transfer-of-tweets-content/"><u>2024 Approved  SnapTweet Transporter  Swift Transfer of Tweets' Content</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-stream-talent-twitter-live-broadcast-basics/"><u>2024 Approved  Stream Talent  Twitter Live Broadcast Basics</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/convert-twitter-vids-into-aacmp4-files-for-2024/"><u>Convert Twitter Vids Into AAC/MP4 Files for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/cutting-through-the-noise-posting-twitter-videos-on-instagram-for-2024/"><u>Cutting Through the Noise  Posting Twitter Videos on Instagram for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/expert-guide-to-snagging-twitter-gifs-pc/"><u>Expert Guide to Snagging Twitter GIFs (PC)</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-x50-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor X50 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-bridging-social-channels-the-journey-of-video-content-to-whatsapp/"><u>In 2024, Bridging Social Channels  The Journey of Video Content to WhatsApp</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-elevate-everyday-narratives-gratuitous-facebook-enhancers/"><u>In 2024, Elevate Everyday Narratives  Gratuitous Facebook Enhancers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-realme-gt-neo-5-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Realme GT Neo 5 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-15-plus-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 15 Plus Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/yearly-top-tweets-a-viewers-paradise-on-twitter/"><u>Yearly Top Tweets  A Viewers' Paradise on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-unmute-tracks-from-muted-video-tweets/"><u>[New] In 2024, Unmute Tracks From Muted Video Tweets</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harness-the-full-potential-of-your-youtube-content-using-wmm-for-2024/"><u>[Updated] Harness the Full Potential of Your YouTube Content Using WMM for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-exploring-the-top-viral-tweets-of-the-year/"><u>[Updated] In 2024, Exploring the Top Viral Tweets of the Year</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-fix-chromium-and-youtube-streams/"><u>2024 Approved Fix Chromium and YouTube Streams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplify-your-videos-the-best-text-effects-guide-for-2024/"><u>Amplify Your Videos The Best Text Effects Guide for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hearing-heroes-face-off-apple-vs-samsung-in-sound-battle/"><u>Hearing Heroes Face Off: Apple Vs. Samsung in Sound Battle</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-start-using-the-advanced-ai-driven-microsoft-bing-engine/"><u>How to Start Using the Advanced, AI-Driven Microsoft Bing Engine</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-how-to-use-luts-in-after-effect/"><u>In 2024, How to Use LUTs in After Effect</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-space-hogs-on-your-windows-hard-drive/"><u>Unveiling Space Hogs on Your Windows Hard Drive</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-5-free-online-tone-tools-for-easy-use/"><u>Updated In 2024, Top 5 Free Online Tone Tools for Easy Use</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-xr21-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia XR21 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
