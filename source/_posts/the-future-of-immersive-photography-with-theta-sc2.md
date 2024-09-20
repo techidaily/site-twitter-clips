@@ -1,7 +1,7 @@
 ---
 title: The Future of Immersive Photography with Theta SC2
-date: 2024-09-12T23:54:33.133Z
-updated: 2024-09-15T02:51:07.800Z
+date: 2024-09-14T01:53:51.179Z
+updated: 2024-09-20T06:23:09.312Z
 categories:
   - BestProducts
 description: This Article Describes The Future of Immersive Photography with Theta SC2
@@ -81,6 +81,13 @@ The Iris is a style-conscious breath of fresh air.
 
  Controlling the Iris and all its settings can be done via the Nixplay mobile app, which includes a virtual remote, but a physical remote is included as well. It's the same remote used by other Nixplay frames, so if you have multiple you can control them all with a single device—at the same time, confusingly, if they're close to each other. Overall, the remote works fine, but its square shape means frustration when you keep picking it up pointed the wrong way without realizing it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Media: Nothing to plug in**
 
  The Iris doesn't support physical media like[USB flash drives](https://www.lifewire.com/best-usb-flash-drives-4141193) or SD cards, which can be a bummer if you already have stored files ready to load. But once you're set up with the web app, depending on your fluency with the software and the extent of your online photo collection, you may find it easier to load your pics from the cloud than to track down and plug in physical memory. With 6.18GB of internal storage available on the frame, there's enough for plenty of photos to cycle through, and it's easy to swap in fresh ones.
@@ -88,34 +95,15 @@ The Iris is a style-conscious breath of fresh air.
  Lifewire / Anton Galang​
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup Process: Online presence not optional**
 
  The Iris should be relatively painless to set up for people used to working with wireless products and online accounts, but there's no denying it's a more involved process than with offline photo frames. To start, an internet connection is mandatory. After plugging in the frame and a bit of load time, you'll have to enter your Wi-Fi network information using the remote. You also need a Nixplay account to access any of the company's smart frames. Only when you have an account created and paired with your Iris can you start loading pictures and[using your picture frame](https://www.lifewire.com/learning-to-use-digital-photo-frames-492922) . Everything you can do with the app makes it worthwhile, but the setup process does include a few barriers.
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Display: Small but sharp**
 
@@ -137,6 +125,13 @@ The Iris is a style-conscious breath of fresh air.
 
  You can also control the Iris from anywhere with an internet connection. That includes setting up stuff like the vast selection of slideshow transition options, a sleep/wake schedule, or the noise-based activity sensor with ten levels of sensitivity. It's also compatible with[Amazon's Alexa voice assistant](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) , a feature not mentioned during setup but added as part of a recent software update. You can add Nixplay as an[Alexa skill](https://www.lifewire.com/alexa-skills-4126799) , but getting the voice commands to work is a bit cumbersome and may take some patience, practice, and customization.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Paying for style and substance**
 
  Usually available between $150 and $180, the Iris costs significantly more than a regular offline digital frame, but is worth the cost if you're a fan of its aesthetics and array of modern features.
@@ -156,13 +151,6 @@ The Iris is a style-conscious breath of fresh air.
  **A little extra appeal and a lot of smart functionality.**
 
  Even with a slightly smaller display, the Nixplay Iris steps up the digital photo frame game with its classy design on top of cloud features, shared playlists, social media integration, and controls from any PC or mobile device.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -193,19 +181,16 @@ The Iris is a style-conscious breath of fresh air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-instagram-edge-sharing-your-twitter-video-library/"><u>[New] Instagram Edge Sharing Your Twitter Video Library</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-the-digital-deluge-examining-this-years-most-shared-videos/"><u>[New] The Digital Deluge Examining This Year's Most Shared Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-viral-watches-amazon-primes-hot-series-in-twittersphere/"><u>[Updated] In 2024, Viral Watches Amazon Prime's Hot Series in Twittersphere</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-twitters-video-guidelines-and-step-by-step-uploading-guide/"><u>2024 Approved Twitter's Video Guidelines & Step-by-Step Uploading Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-validating-yourself-a-look-at-verified-insta-posts/"><u>2024 Approved Validating Yourself A Look at Verified Insta Posts</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-realme-11x-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Realme 11X 5G FRP Locks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-infinix-hot-40-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Infinix Hot 40 Pro Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oppo-find-x6-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Oppo Find X6 to iPod | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/navigating-twitters-algorithm-to-amplify-your-message-for-2024/"><u>Navigating Twitter's Algorithm to Amplify Your Message for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-avs-mac-video-editor-create-stunning-videos/"><u>New In 2024, AVS Mac Video Editor Create Stunning Videos</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-troubleshooting-tips-for-final-cut-pro-x/"><u>New In 2024, Troubleshooting Tips for Final Cut Pro X</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolve-game-stalling-issues-in-grand-theft-auto-v/"><u>Resolve Game Stalling Issues in Grand Theft Auto V</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/the-ultimate-list-of-prime-video-favorites-on-twittersphere-for-2024/"><u>The Ultimate List of Prime Video Favorites on Twittersphere for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/xchange-your-thoughts-on-better-alternatives-for-2024/"><u>XChange Your Thoughts on Better Alternatives for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-digital-diary-keepers-securely-download-tweets-videos/"><u>[New] Digital Diary Keepers Securely Download Tweets' Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-prime-5-podcast-options-for-your-iphone-experience/"><u>[New] Prime 5 Podcast Options for Your iPhone Experience</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-top-20-best-twitter-unfollowers-and-tools/"><u>[New] Top 20 Best Twitter Unfollowers & Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-instagram-shots-with-strategic-borders-for-2024/"><u>[Updated] Elevate Your Instagram Shots With Strategic Borders for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-how-to-stream-videos-on-twitter-using-your-smartphone/"><u>[Updated] In 2024, How To Stream Videos on Twitter Using Your Smartphone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-instant-sharing-with-media-files-twitters-guide/"><u>2024 Approved Instant Sharing with Media Files Twitter's Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-youtube-editing-essentials-the-ultimate-guide-post-upload-refinements/"><u>2024 Approved YouTube Editing Essentials The Ultimate Guide Post-Upload Refinements</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/convert-twitter-vids-into-aacmp4-files-for-2024/"><u>Convert Twitter Vids Into AAC/MP4 Files for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-your-video-reach-with-these-top-5-youtube-strategies/"><u>In 2024, Skyrocket Your Video Reach with These #Top 5 YouTube Strategies</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolving-compatibility-problems-with-realtek-hd-graphics-drivers/"><u>Resolving Compatibility Problems with Realtek HD Graphics Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-no-more-troubleshooting-and-fixing-cyberpunk-2077s-sound-problems-on-windows-10/"><u>Silence No More: Troubleshooting and Fixing Cyberpunk 2077'S Sound Problems on Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Patekfly 12 Flexible Tripod Review
-date: 2024-09-10T04:10:44.046Z
-updated: 2024-09-14T17:24:41.211Z
+date: 2024-09-18T09:46:48.856Z
+updated: 2024-09-20T05:40:21.235Z
 categories:
   - BestProducts
 description: This Article Describes Patekfly 12 Flexible Tripod Review
@@ -87,10 +87,10 @@ Lifewire / Danny Chadwick
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup Process: Be sure that’s where you want to put it**
@@ -116,10 +116,10 @@ Lifewire / Danny Chadwick
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/9_1pHoEq74JWPJ8reothv8PeI8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_04-c5d42af8ddfa4296a6c6b1e8551edef6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Danny Chadwick
@@ -137,6 +137,13 @@ Lifewire / Danny Chadwick
  One feature that is unique to the Rexing V1 is time-lapse recording. It is turned off by default and Rexing recommends you keep it off for your day-to-day driving. But if you’re taking a road trip with scenic routes or want to record a particular journey, this feature is fun to have.
 
  Like the rest of the dashboard cameras we tested, the Rexing V1 has the ability to record audio, but it does a middling job of it. Voices in the car and sounds coming from the interior speakers were clear enough to understand, but sounds from outside the vehicle were muddy at best.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: A good value**
 
@@ -157,13 +164,6 @@ Lifewire / Danny Chadwick
  **It delivers on what it was designed to do, without any extras.**
 
  There isn’t much to complain about with the Rexing V1 DashCam. Its innovative form factor combined with a wide array of video capture features and decent picture quality means you won’t have any buyer’s remorse if you choose this dashcam.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -194,15 +194,21 @@ Lifewire / Danny Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-mov-saving-strategies-the-six-must-know-tactics-for-windows-11-users/"><u>[New] 2024 Approved .MOV Saving Strategies - The Six Must-Know Tactics for Windows 11 Users</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-key-to-a-successful-tweet-including-aspect-ratio-details/"><u>[New] In 2024, The Key to a Successful Tweet Including Aspect Ratio Details</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-expert-advice-capturing-and-storing-twitter-vids-on-phones/"><u>[Updated] 2024 Approved Expert Advice Capturing and Storing Twitter Vids on Phones</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-10-budget-friendly-gaming-record-software-of-2024/"><u>[Updated] Top 10 Budget-Friendly Gaming Record Software of 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-honor-x9b-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Honor X9b to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-seamless-sync-tweets-as-videos-on-whatsapp/"><u>In 2024, Seamless Sync Tweets as Videos on WhatsApp</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/prime-mc-homes-for-social-settlements-for-2024/"><u>Prime MC Homes for Social Settlements for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/setup-canon-mx870-printer-in-diverse-win-versions/"><u>Setup Canon MX870 Printer in Diverse Win Versions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-verifying-available-storage-on-your-windows-11-pc/"><u>Step-by-Step Guide: Verifying Available Storage on Your Windows 11 PC</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/synergizing-your-brands-impact-on-facebook-linkedin-and-youtube/"><u>Synergizing Your Brand's Impact on Facebook, LinkedIn, and YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-excellent-screen-capture-software-for-windows-11-users-for-2024/"><u>[New] Excellent Screen Capture Software for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-giggle-galaxy-most-shared-content-on-both-platforms-for-2024/"><u>[New] Giggle Galaxy Most Shared Content on Both Platforms for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-personalized-content-sharing-on-vimeo-basic-plus-and-pro-explained/"><u>[New] In 2024, Personalized Content Sharing on Vimeo Basic, Plus & Pro Explained</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ising-viewers-rising-prosperity-the-youtube-route/"><u>[New] Rising Viewers, Rising Prosperity The Youtube Route</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-cross-platform-strategies-for-maximum-instagram-exposure-for-2024/"><u>[Updated] Cross-Platform Strategies for Maximum Instagram Exposure for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-step-by-step-guide-to-compliant-twitter-media-posts/"><u>2024 Approved Step-by-Step Guide to Compliant Twitter Media Posts</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweetvidtowebm-easy-streaming-tools/"><u>2024 Approved TweetVidToWebM Easy Streaming Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-engaging-presentations-with-7-ai-tools/"><u>Crafting Engaging Presentations with 7 AI Tools</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-new-eveo-bluetooth-dongle-driver-free-and-compatible-with-all-models/"><u>Get the New EVEO Bluetooth Dongle Driver: Free & Compatible with All Models</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-fix-corsair-h115i-drivers-error-for-windows-operating-systems-windows-81011/"><u>How to Fix Corsair H115i Drivers Error for Windows Operating Systems (Windows 8/10/11)</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-giggle-gazette-twitters-top-threads/"><u>In 2024, Giggle Gazette Twitter’s Top Threads</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-go-live-on-twitter-a-practical-guide/"><u>In 2024, Go Live on Twitter A Practical Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-hear-the-hd-story-from-youtube-to-twitters-vids/"><u>In 2024, Hear the HD Story From YouTube to Twitter's Vids</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-a38-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo A38 Device</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/socialsoundify-twitter-videos-to-audio-for-2024/"><u>SocialSoundify Twitter Videos to Audio for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-5-best-free-wmv-video-splitters/"><u>Updated In 2024, Top 5 Best Free WMV Video Splitters</u></a></li>
 </ul></div>
 

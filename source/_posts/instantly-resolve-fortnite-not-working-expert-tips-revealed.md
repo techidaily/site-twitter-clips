@@ -1,7 +1,7 @@
 ---
 title: Instantly Resolve Fortnite Not Working – Expert Tips Revealed
-date: 2024-09-08T17:35:16.228Z
-updated: 2024-09-14T17:17:16.993Z
+date: 2024-09-13T00:26:39.063Z
+updated: 2024-09-20T07:42:02.588Z
 tags:
   - win11
   - win10
@@ -81,13 +81,6 @@ Here are the system requirements for Control:
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Modify your graphics card settings
 
  If this error message reappears after you lower the in-game graphics settings, try modifying your graphics card settings to see if you can fix this issue. Here is how to do it:
@@ -105,27 +98,14 @@ Here are the system requirements for Control:
 2. View the Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
@@ -141,18 +121,19 @@ Here are the system requirements for Control:
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Modify Intel graphics card
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
@@ -214,13 +195,20 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
@@ -229,6 +217,13 @@ Here are the system requirements for Control:
  Since Control consumes a lot of memory and CPU usage when you’re playing a game, many third-party antivirus applications may regard it as a potential threat and Control may not run as expected. You can try   **adding Control as an exception to your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 10: Run Program Compatibility Troubleshooter
 
@@ -268,16 +263,21 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-draft-droll-diagrams/"><u>[New] In 2024, Draft Droll Diagrams</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-expert-advice-downloading-editing-and-personalizing-whatsapp-tones-for-both-platforms/"><u>[Updated] Expert Advice Downloading, Editing & Personalizing WhatsApp Tones for Both Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expanding-textual-arsenal-in-after-effects/"><u>2024 Approved Expanding Textual Arsenal in After Effects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/anticipated-improvements-what-should-the-future-of-gpt-5-hold/"><u>Anticipated Improvements: What Should the Future of GPT-5 Hold?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/artisanaiphotostudio-seamless-image-magic/"><u>ArtisanAiPhotoStudio Seamless Image Magic</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-efficiently-extracting-twitters-visual-jokes-gifs/"><u>In 2024, Efficiently Extracting Twitter's Visual Jokes (GIFs)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-smart-8-plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Smart 8 Plus to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-steps-to-record-your-gameplay-on-a-nintendo-switch/"><u>In 2024, Steps to Record Your Gameplay on a Nintendo Switch</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/instagram-perfect-integration-of-twitters-visual-content-for-2024/"><u>Instagram-Perfect Integration of Twitter's Visual Content for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-improper-installation-issues-with-the-ryzen-master-software/"><u>Resolving Improper Installation Issues with the Ryzen Master Software</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/the-social-stage-this-years-viral-video-vanguards-on-twitter-for-2024/"><u>The Social Stage This Year's Viral Video Vanguards on Twitter for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screencasting-guide-what-is-and-how-to/"><u>[New] In 2024, Screencasting Guide What Is and How To</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-path-from-twitter-video-to-fb-sharing/"><u>[New] In 2024, The Path From Twitter Video to FB Sharing</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-tweet-visionary-free-transformation-of-youtube-vids-into-tweenish-graphics-for-2024/"><u>[New] Tweet Visionary Free Transformation of YouTube Vids Into Tweenish Graphics for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-13-simple-ways-to-document-webinars-cost-free-for-2024/"><u>[Updated] 13 Simple Ways to Document Webinars Cost-Free for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-quick-tips-extracting-and-keeping-gif-tweets/"><u>[Updated] 2024 Approved Quick Tips Extracting and Keeping GIF Tweets</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-viral-video-voyage-twitters-compiled-top-10-tiktoks/"><u>[Updated] 2024 Approved Viral Video Voyage Twitter's Compiled Top 10 TikToks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-dissecting-vidma-a-guide-to-screen-capturing-tech/"><u>[Updated] Dissecting Vidma A Guide to Screen Capturing Tech</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-online-sensation-spotlight/"><u>[Updated] Online Sensation Spotlight</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-spark-change-with-these-10-inspirational-classics-for-2024/"><u>[Updated] Spark Change with These 10 Inspirational Classics for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-the-viral-verdict-twitters-top-10-threads/"><u>2024 Approved The Viral Verdict Twitter's Top 10 Threads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-setup-how-to-get-your-corsair-void-pro-drivers-installed-on-windows/"><u>Effortless Setup: How to Get Your Corsair Void Pro Drivers Installed on Windows!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-use-luts-in-after-effect/"><u>How to Use LUTs in After Effect</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-15-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 15 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/microsofts-copilot-key-enhancing-productivity-with-windows-11/"><u>Microsoft's Copilot Key: Enhancing Productivity with Windows 11</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/social-media-spotlight-10-videos-leading-twitter-chats/"><u>Social Media Spotlight 10 Videos Leading Twitter Chats</u></a></li>
 </ul></div>
 

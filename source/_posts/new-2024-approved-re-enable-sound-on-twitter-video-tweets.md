@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Re-Enable Sound on Twitter Video Tweets\""
-date: 2024-09-07T22:32:42.106Z
-updated: 2024-09-14T23:18:45.475Z
+date: 2024-09-13T09:46:01.115Z
+updated: 2024-09-20T05:29:43.527Z
 tags:
   - ai video
   - ai twitter
@@ -69,556 +69,563 @@ Your device could also cause no sound on the Twitter video. When you don't updat
 
 When the device memory is full, it can lead to formatting issues, causing no sound on Twitter videos.
 
+### 7\. Video Format
+
+An incompatible video format uploaded on Twitter will also have no sound. Sometimes, there is nothing you can do about it if the video format is incorrect. It will show all kinds of errors, including no sound.
+
+## How to Fix No Sound on Twitter Videos on Chrome?
+
+Sometimes no sound on Twitter videos could be due to a browser-related issue. Let’s talk about all the possible methods to fix no sound on Twitter videos on Chrome:
+
+### 1\. Enable Flash
+
+If Chrome flash is disabled, then your videos will not play on Chrome. Click on the lock shape icon on the address bar, and make sure flash is not blocked.
+
+If flash is disabled and outdated, install the updated version.
+
+![Check for flash player and updates](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-1.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 2\. Clear Cookies and Cache
+
+Sounds too simple right? But you’d be surprised to know that 99% of browser-related problems are fixed once you clear cookies and cache.
+
+To clear cookies and cache:
+
+* Go to Chrome Settings by clicking on the three vertical dots in the top right corner of the browser.
+* Search for Cookie and select ‘clear browsing data’ under Security and privacy.
+* Select ‘Cookies and other site data’ and ‘cached images and files' and click on Clear Data.
+
+![Clear cache for smooth browser experience](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-2.jpg)
+
+Hopefully, this will resolve the issue of no Twitter video sound on the Chrome browser.
+
+### 3\. Disable Chrome Plugins/Extensions
+
+If none of the steps above have worked so far and your Twitter videos are playing in other browsers except for Chrome, try managing your extensions.
+
+For this, you have to disable Chrome extensions and reload to check if the Twitter video plays audio.
+
+Here is how you can do this:
+
+* Click on the three dots on the top right corner of the address bar and select More Tools > “Extensions.”
+* Your Chrome extensions will be listed so you can easily manage them one by one.
+
+You can also do this:
+
+* Type **chrome://extensions** in the search bar and hit Enter.
+* Turn off all the plugins, particularly the advertisement blockers.
+* Now close the browser and launch again.
+
+![Disable plug-ins and extensions](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-3.jpg)
+
+This should resolve the issue and play sound on Twitter videos in Chrome.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 4\. Disable Hardware Acceleration
+
+If managing your extensions did not do the job for you, disabling hardware acceleration in Chrome might help resolve the issue.
+
+Follow these steps:
+
+* Type **chrome://settings**in the address bar of Chrome browser and press Enter.
+* Scroll down to System and turn off Use hardware acceleration when available.
+* Close the window and launch Chrome again. Now load the Twitter video again and play.
+
+![Disable hardware acceleration to solve issue](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-4.jpg)
+
+### 5\. Update Your Browser
+
+Sometimes simply updating the browser can resolve the problem, especially if there has been a while since you last updated the browser.
+
+* To check if you use Chrome’s latest version, click on the three dots on the right and click on Settings.
+* Type updates in the search bar and hit Enter.
+* Chrome will run a check and updates that need to be installed.
+
+Install the updates if your browser is out of date. If there are no updates to install, you are already using the latest version.
+
+![Check for Chrome updates to use the latest version](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-5.jpg)
+
+## Solve No Sound on Twitter Videos on IOS
+
+Now let’s talk about the best solutions to fix no sound on Twitter videos iOS and iPhone. First, we need to check for any device-related problems that might be causing the issue.
+
+### 1\. Ensure Volume/Ringer is Turned Up
+
+Turn up the volume/ringer all the way up and open the Twitter app. Now play a song/video. If there is not a problem with the ringer, try the next fix.
+
+### 2\. Speaker Blocked or Microphone Covered/Clogged
+
+When your microphone is covered or clogged, the device detects a blockage and fails to play the sound. Make sure nothing is covering the microphone and regularly clean out the speaker and microphone jack.
+
+### 3\. Check Network Connection
+
+No sound on Twitter videos iPhone could be due to poor network connection. If your videos won't play on the Twitter app, you should first ensure you are using a strong network. The signal strength should be enough to play the file.
+
+### 4\. Reinstall Twitter App
+
+Sometimes bugs and glitches with the Twitter app cause malfunctions. Uninstall the app and reinstall it to properly load videos and play sound again.
+
+### 5\. Update Twitter App to the Latest Version
+
+Sometimes, the old Twitter app version does not work on the latest iPhone and iOS devices. To make sure that your iOS devices support the app, download the current version of Twitter.
+
+### 6\. Launch Mobile Phone Browser to Check
+
+If Twitter video sound not playing iPhone issue persists even after trying the above-mentioned solutions, try visiting [**www.twitter.com**](http://www.twitter.com/) on your iPhone browser i.e., Safari. Clear all cache and cookies and then load Twitter videos.
+
+All of these fixes should resolve the no sound on Twitter videos iPad and iOS devices issue.
+
+## Fix No Sound on Twitter Videos on Android
+
+If you are facing the issue of no sound on Twitter videos android then try these solutions mentioned below:
+
+### 1\. Clean Device Memory
+
+Low storage space can cause a device to slow down and malfunction. Clearing the device memory can solve such issues of no sound or video playback.
+
+Close all the background apps to clear the device memory. Also, delete all unnecessary files from your android device.
+
+By cleaning the storage, you might be able to fix the no sound from Twitter videos problem.
+
+![Clean device storage for better performance](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-6.jpg)
+
+### 2\. Operating System Software Update
+
+Make sure your android device is operating on the latest android software. This is because the new Twitter app version and updates are not compatible with the old software version.
+
+Therefore, Twitter videos do not work properly on such devices. Go to the setting and update the software. Plus make sure you use the latest version of the Twitter app.
+
+![System update to latest android version](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-7.jpg)
+
+### 3\. Clear Cache
+
+Clearing cache is important to remove unnecessary and excess files.
+
+* Search for in-app cache and delete it
+* Delete cache files on your android device
+* Clear all cookies and cache in the browser
+
+![Clear system cached data](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-8.jpg)
+
+This should make your Twitter video audio play on your android device.
+
+## Wrapping Up
+
+Twitter has grown tremendously over the years and still remains one of the top social networks. People use Twitter to communicate, spread information and raise awareness.
+
+Despite its popularity, many users avoid using the app due to certain issues like no audio sound on videos.
+
+If you are also facing the issue of no sound on Twitter video, don’t abandon the app. Instead, consider the different solutions mentioned in this article.
+
+The fixes listed above are some of the most effective and easy ways to fix Twitter videos not playing on your Chrome, iOS, or Android.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Twitter is one of the biggest social media platforms today, with millions of active users. There are over 500 million tweets shared every day!
+
+Whether you want to have a funny banter with your followers, follow your favorite celebrity or keep up with the latest global news, Twitter is the best option. You can find a vast pool of content on Twitter, including one-line tweets to threads, pictures, gifs, and videos.
+
+However, many users often complain about no sound on Twitter videos. If your Twitter videos have no sound, it also leads to a bad user experience.
+
+In this article, we will discuss the reasons why is there no sound on Twitter videos and the best solution to fix this issue.
+
+So, let's begin!
+
+## Why Is There No Sound on Twitter Videos?
+
+There are many reasons for no sound on uploaded twitter videos. The issue could be with your device, browser, or the Twitter app itself.
+
+Here are all the possible reasons why there is no sound on Twitter videos.
+
+### 1\. Problem with the App
+
+There could be a problem with Twitter video sound because of an in-app issue. For example, you have an outdated version of the app, or the app cache is full. Things like that can often create issues and hinder the app's functionality.
+
+### 2\. Network Connectivity
+
+A weak network connection can also be a common cause of no sound or poor video quality. With a weak or faulty connection, you will see a loading symbol on the video/audio file that never seems to end – something painstakingly annoying!
+
+A strong internet connection will avoid Twitter videos' improper functionality and smoothly load the file's contents.
+
+### 3\. Old Browsers
+
+An old browser lags and does not load files properly. Thus, it can be a reason for no audio on the Twitter videos. Either update the browser or switch to a new browser altogether.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 4\. The Twitter Cache
+
+The browser cookies or cache and Twitter application cache can also cause Twitter video sound problems. When the cache is full, the app or browser will not perform to its optimal potential.
+
+### 5\. System Software Updates
+
+Your device could also cause no sound on the Twitter video. When you don't update the operating system software of your PC/Phone, it can cause errors in the device and lead to functionality issues. Moreover, the Twitter app might also not be compatible with an outdated system.
+
+### 6\. Device Storage
+
+When the device memory is full, it can lead to formatting issues, causing no sound on Twitter videos.
+
+### 7\. Video Format
+
+An incompatible video format uploaded on Twitter will also have no sound. Sometimes, there is nothing you can do about it if the video format is incorrect. It will show all kinds of errors, including no sound.
+
+## How to Fix No Sound on Twitter Videos on Chrome?
+
+Sometimes no sound on Twitter videos could be due to a browser-related issue. Let’s talk about all the possible methods to fix no sound on Twitter videos on Chrome:
+
+### 1\. Enable Flash
+
+If Chrome flash is disabled, then your videos will not play on Chrome. Click on the lock shape icon on the address bar, and make sure flash is not blocked.
+
+If flash is disabled and outdated, install the updated version.
+
+![Check for flash player and updates](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-1.jpg)
+
+### 2\. Clear Cookies and Cache
+
+Sounds too simple right? But you’d be surprised to know that 99% of browser-related problems are fixed once you clear cookies and cache.
+
+To clear cookies and cache:
+
+* Go to Chrome Settings by clicking on the three vertical dots in the top right corner of the browser.
+* Search for Cookie and select ‘clear browsing data’ under Security and privacy.
+* Select ‘Cookies and other site data’ and ‘cached images and files' and click on Clear Data.
+
+![Clear cache for smooth browser experience](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-2.jpg)
+
+Hopefully, this will resolve the issue of no Twitter video sound on the Chrome browser.
+
+### 3\. Disable Chrome Plugins/Extensions
+
+If none of the steps above have worked so far and your Twitter videos are playing in other browsers except for Chrome, try managing your extensions.
+
+For this, you have to disable Chrome extensions and reload to check if the Twitter video plays audio.
+
+Here is how you can do this:
+
+* Click on the three dots on the top right corner of the address bar and select More Tools > “Extensions.”
+* Your Chrome extensions will be listed so you can easily manage them one by one.
+
+You can also do this:
+
+* Type **chrome://extensions** in the search bar and hit Enter.
+* Turn off all the plugins, particularly the advertisement blockers.
+* Now close the browser and launch again.
+
+![Disable plug-ins and extensions](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-3.jpg)
+
+This should resolve the issue and play sound on Twitter videos in Chrome.
+
+### 4\. Disable Hardware Acceleration
+
+If managing your extensions did not do the job for you, disabling hardware acceleration in Chrome might help resolve the issue.
+
+Follow these steps:
+
+* Type **chrome://settings**in the address bar of Chrome browser and press Enter.
+* Scroll down to System and turn off Use hardware acceleration when available.
+* Close the window and launch Chrome again. Now load the Twitter video again and play.
+
+![Disable hardware acceleration to solve issue](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-4.jpg)
+
+### 5\. Update Your Browser
+
+Sometimes simply updating the browser can resolve the problem, especially if there has been a while since you last updated the browser.
+
+* To check if you use Chrome’s latest version, click on the three dots on the right and click on Settings.
+* Type updates in the search bar and hit Enter.
+* Chrome will run a check and updates that need to be installed.
+
+Install the updates if your browser is out of date. If there are no updates to install, you are already using the latest version.
+
+![Check for Chrome updates to use the latest version](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-5.jpg)
+
+## Solve No Sound on Twitter Videos on IOS
+
+Now let’s talk about the best solutions to fix no sound on Twitter videos iOS and iPhone. First, we need to check for any device-related problems that might be causing the issue.
+
+### 1\. Ensure Volume/Ringer is Turned Up
+
+Turn up the volume/ringer all the way up and open the Twitter app. Now play a song/video. If there is not a problem with the ringer, try the next fix.
+
+### 2\. Speaker Blocked or Microphone Covered/Clogged
+
+When your microphone is covered or clogged, the device detects a blockage and fails to play the sound. Make sure nothing is covering the microphone and regularly clean out the speaker and microphone jack.
+
+### 3\. Check Network Connection
+
+No sound on Twitter videos iPhone could be due to poor network connection. If your videos won't play on the Twitter app, you should first ensure you are using a strong network. The signal strength should be enough to play the file.
+
+### 4\. Reinstall Twitter App
+
+Sometimes bugs and glitches with the Twitter app cause malfunctions. Uninstall the app and reinstall it to properly load videos and play sound again.
+
+### 5\. Update Twitter App to the Latest Version
+
+Sometimes, the old Twitter app version does not work on the latest iPhone and iOS devices. To make sure that your iOS devices support the app, download the current version of Twitter.
+
+### 6\. Launch Mobile Phone Browser to Check
+
+If Twitter video sound not playing iPhone issue persists even after trying the above-mentioned solutions, try visiting [**www.twitter.com**](http://www.twitter.com/) on your iPhone browser i.e., Safari. Clear all cache and cookies and then load Twitter videos.
+
+All of these fixes should resolve the no sound on Twitter videos iPad and iOS devices issue.
+
+## Fix No Sound on Twitter Videos on Android
+
+If you are facing the issue of no sound on Twitter videos android then try these solutions mentioned below:
+
+### 1\. Clean Device Memory
+
+Low storage space can cause a device to slow down and malfunction. Clearing the device memory can solve such issues of no sound or video playback.
+
+Close all the background apps to clear the device memory. Also, delete all unnecessary files from your android device.
+
+By cleaning the storage, you might be able to fix the no sound from Twitter videos problem.
+
+![Clean device storage for better performance](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-6.jpg)
+
+### 2\. Operating System Software Update
+
+Make sure your android device is operating on the latest android software. This is because the new Twitter app version and updates are not compatible with the old software version.
+
+Therefore, Twitter videos do not work properly on such devices. Go to the setting and update the software. Plus make sure you use the latest version of the Twitter app.
+
+![System update to latest android version](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-7.jpg)
+
+### 3\. Clear Cache
+
+Clearing cache is important to remove unnecessary and excess files.
+
+* Search for in-app cache and delete it
+* Delete cache files on your android device
+* Clear all cookies and cache in the browser
+
+![Clear system cached data](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-8.jpg)
+
+This should make your Twitter video audio play on your android device.
+
+## Wrapping Up
+
+Twitter has grown tremendously over the years and still remains one of the top social networks. People use Twitter to communicate, spread information and raise awareness.
+
+Despite its popularity, many users avoid using the app due to certain issues like no audio sound on videos.
+
+If you are also facing the issue of no sound on Twitter video, don’t abandon the app. Instead, consider the different solutions mentioned in this article.
+
+The fixes listed above are some of the most effective and easy ways to fix Twitter videos not playing on your Chrome, iOS, or Android.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Twitter is one of the biggest social media platforms today, with millions of active users. There are over 500 million tweets shared every day!
+
+Whether you want to have a funny banter with your followers, follow your favorite celebrity or keep up with the latest global news, Twitter is the best option. You can find a vast pool of content on Twitter, including one-line tweets to threads, pictures, gifs, and videos.
+
+However, many users often complain about no sound on Twitter videos. If your Twitter videos have no sound, it also leads to a bad user experience.
+
+In this article, we will discuss the reasons why is there no sound on Twitter videos and the best solution to fix this issue.
+
+So, let's begin!
+
+## Why Is There No Sound on Twitter Videos?
+
+There are many reasons for no sound on uploaded twitter videos. The issue could be with your device, browser, or the Twitter app itself.
+
+Here are all the possible reasons why there is no sound on Twitter videos.
+
+### 1\. Problem with the App
+
+There could be a problem with Twitter video sound because of an in-app issue. For example, you have an outdated version of the app, or the app cache is full. Things like that can often create issues and hinder the app's functionality.
+
+### 2\. Network Connectivity
+
+A weak network connection can also be a common cause of no sound or poor video quality. With a weak or faulty connection, you will see a loading symbol on the video/audio file that never seems to end – something painstakingly annoying!
+
+A strong internet connection will avoid Twitter videos' improper functionality and smoothly load the file's contents.
+
+### 3\. Old Browsers
+
+An old browser lags and does not load files properly. Thus, it can be a reason for no audio on the Twitter videos. Either update the browser or switch to a new browser altogether.
+
+### 4\. The Twitter Cache
+
+The browser cookies or cache and Twitter application cache can also cause Twitter video sound problems. When the cache is full, the app or browser will not perform to its optimal potential.
+
+### 5\. System Software Updates
+
+Your device could also cause no sound on the Twitter video. When you don't update the operating system software of your PC/Phone, it can cause errors in the device and lead to functionality issues. Moreover, the Twitter app might also not be compatible with an outdated system.
+
+### 6\. Device Storage
+
+When the device memory is full, it can lead to formatting issues, causing no sound on Twitter videos.
+
+### 7\. Video Format
+
+An incompatible video format uploaded on Twitter will also have no sound. Sometimes, there is nothing you can do about it if the video format is incorrect. It will show all kinds of errors, including no sound.
+
+## How to Fix No Sound on Twitter Videos on Chrome?
+
+Sometimes no sound on Twitter videos could be due to a browser-related issue. Let’s talk about all the possible methods to fix no sound on Twitter videos on Chrome:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 1\. Enable Flash
+
+If Chrome flash is disabled, then your videos will not play on Chrome. Click on the lock shape icon on the address bar, and make sure flash is not blocked.
+
+If flash is disabled and outdated, install the updated version.
+
+![Check for flash player and updates](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-1.jpg)
+
+### 2\. Clear Cookies and Cache
+
+Sounds too simple right? But you’d be surprised to know that 99% of browser-related problems are fixed once you clear cookies and cache.
+
+To clear cookies and cache:
+
+* Go to Chrome Settings by clicking on the three vertical dots in the top right corner of the browser.
+* Search for Cookie and select ‘clear browsing data’ under Security and privacy.
+* Select ‘Cookies and other site data’ and ‘cached images and files' and click on Clear Data.
+
+![Clear cache for smooth browser experience](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-2.jpg)
+
+Hopefully, this will resolve the issue of no Twitter video sound on the Chrome browser.
+
+### 3\. Disable Chrome Plugins/Extensions
+
+If none of the steps above have worked so far and your Twitter videos are playing in other browsers except for Chrome, try managing your extensions.
+
+For this, you have to disable Chrome extensions and reload to check if the Twitter video plays audio.
+
+Here is how you can do this:
+
+* Click on the three dots on the top right corner of the address bar and select More Tools > “Extensions.”
+* Your Chrome extensions will be listed so you can easily manage them one by one.
+
+You can also do this:
+
+* Type **chrome://extensions** in the search bar and hit Enter.
+* Turn off all the plugins, particularly the advertisement blockers.
+* Now close the browser and launch again.
+
+![Disable plug-ins and extensions](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-3.jpg)
+
+This should resolve the issue and play sound on Twitter videos in Chrome.
+
+### 4\. Disable Hardware Acceleration
+
+If managing your extensions did not do the job for you, disabling hardware acceleration in Chrome might help resolve the issue.
+
+Follow these steps:
+
+* Type **chrome://settings**in the address bar of Chrome browser and press Enter.
+* Scroll down to System and turn off Use hardware acceleration when available.
+* Close the window and launch Chrome again. Now load the Twitter video again and play.
+
+![Disable hardware acceleration to solve issue](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-4.jpg)
+
+### 5\. Update Your Browser
+
+Sometimes simply updating the browser can resolve the problem, especially if there has been a while since you last updated the browser.
+
+* To check if you use Chrome’s latest version, click on the three dots on the right and click on Settings.
+* Type updates in the search bar and hit Enter.
+* Chrome will run a check and updates that need to be installed.
+
+Install the updates if your browser is out of date. If there are no updates to install, you are already using the latest version.
+
+![Check for Chrome updates to use the latest version](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-5.jpg)
+
+## Solve No Sound on Twitter Videos on IOS
+
+Now let’s talk about the best solutions to fix no sound on Twitter videos iOS and iPhone. First, we need to check for any device-related problems that might be causing the issue.
+
+### 1\. Ensure Volume/Ringer is Turned Up
+
+Turn up the volume/ringer all the way up and open the Twitter app. Now play a song/video. If there is not a problem with the ringer, try the next fix.
+
+### 2\. Speaker Blocked or Microphone Covered/Clogged
+
+When your microphone is covered or clogged, the device detects a blockage and fails to play the sound. Make sure nothing is covering the microphone and regularly clean out the speaker and microphone jack.
+
+### 3\. Check Network Connection
+
+No sound on Twitter videos iPhone could be due to poor network connection. If your videos won't play on the Twitter app, you should first ensure you are using a strong network. The signal strength should be enough to play the file.
+
+### 4\. Reinstall Twitter App
+
+Sometimes bugs and glitches with the Twitter app cause malfunctions. Uninstall the app and reinstall it to properly load videos and play sound again.
+
+### 5\. Update Twitter App to the Latest Version
+
+Sometimes, the old Twitter app version does not work on the latest iPhone and iOS devices. To make sure that your iOS devices support the app, download the current version of Twitter.
+
+### 6\. Launch Mobile Phone Browser to Check
+
+If Twitter video sound not playing iPhone issue persists even after trying the above-mentioned solutions, try visiting [**www.twitter.com**](http://www.twitter.com/) on your iPhone browser i.e., Safari. Clear all cache and cookies and then load Twitter videos.
+
+All of these fixes should resolve the no sound on Twitter videos iPad and iOS devices issue.
+
+## Fix No Sound on Twitter Videos on Android
+
+If you are facing the issue of no sound on Twitter videos android then try these solutions mentioned below:
+
+### 1\. Clean Device Memory
+
+Low storage space can cause a device to slow down and malfunction. Clearing the device memory can solve such issues of no sound or video playback.
+
+Close all the background apps to clear the device memory. Also, delete all unnecessary files from your android device.
+
+By cleaning the storage, you might be able to fix the no sound from Twitter videos problem.
+
+![Clean device storage for better performance](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-6.jpg)
+
+### 2\. Operating System Software Update
+
+Make sure your android device is operating on the latest android software. This is because the new Twitter app version and updates are not compatible with the old software version.
+
+Therefore, Twitter videos do not work properly on such devices. Go to the setting and update the software. Plus make sure you use the latest version of the Twitter app.
+
+![System update to latest android version](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-7.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-### 7\. Video Format
-
-An incompatible video format uploaded on Twitter will also have no sound. Sometimes, there is nothing you can do about it if the video format is incorrect. It will show all kinds of errors, including no sound.
-
-## How to Fix No Sound on Twitter Videos on Chrome?
-
-Sometimes no sound on Twitter videos could be due to a browser-related issue. Let’s talk about all the possible methods to fix no sound on Twitter videos on Chrome:
-
-### 1\. Enable Flash
-
-If Chrome flash is disabled, then your videos will not play on Chrome. Click on the lock shape icon on the address bar, and make sure flash is not blocked.
-
-If flash is disabled and outdated, install the updated version.
-
-![Check for flash player and updates](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-1.jpg)
-
-### 2\. Clear Cookies and Cache
-
-Sounds too simple right? But you’d be surprised to know that 99% of browser-related problems are fixed once you clear cookies and cache.
-
-To clear cookies and cache:
-
-* Go to Chrome Settings by clicking on the three vertical dots in the top right corner of the browser.
-* Search for Cookie and select ‘clear browsing data’ under Security and privacy.
-* Select ‘Cookies and other site data’ and ‘cached images and files' and click on Clear Data.
-
-![Clear cache for smooth browser experience](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-2.jpg)
-
-Hopefully, this will resolve the issue of no Twitter video sound on the Chrome browser.
-
-### 3\. Disable Chrome Plugins/Extensions
-
-If none of the steps above have worked so far and your Twitter videos are playing in other browsers except for Chrome, try managing your extensions.
-
-For this, you have to disable Chrome extensions and reload to check if the Twitter video plays audio.
-
-Here is how you can do this:
-
-* Click on the three dots on the top right corner of the address bar and select More Tools > “Extensions.”
-* Your Chrome extensions will be listed so you can easily manage them one by one.
-
-You can also do this:
-
-* Type **chrome://extensions** in the search bar and hit Enter.
-* Turn off all the plugins, particularly the advertisement blockers.
-* Now close the browser and launch again.
-
-![Disable plug-ins and extensions](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-3.jpg)
-
-This should resolve the issue and play sound on Twitter videos in Chrome.
-
-### 4\. Disable Hardware Acceleration
-
-If managing your extensions did not do the job for you, disabling hardware acceleration in Chrome might help resolve the issue.
-
-Follow these steps:
-
-* Type **chrome://settings**in the address bar of Chrome browser and press Enter.
-* Scroll down to System and turn off Use hardware acceleration when available.
-* Close the window and launch Chrome again. Now load the Twitter video again and play.
-
-![Disable hardware acceleration to solve issue](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-4.jpg)
-
-### 5\. Update Your Browser
-
-Sometimes simply updating the browser can resolve the problem, especially if there has been a while since you last updated the browser.
-
-* To check if you use Chrome’s latest version, click on the three dots on the right and click on Settings.
-* Type updates in the search bar and hit Enter.
-* Chrome will run a check and updates that need to be installed.
-
-Install the updates if your browser is out of date. If there are no updates to install, you are already using the latest version.
-
-![Check for Chrome updates to use the latest version](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-5.jpg)
-
-## Solve No Sound on Twitter Videos on IOS
-
-Now let’s talk about the best solutions to fix no sound on Twitter videos iOS and iPhone. First, we need to check for any device-related problems that might be causing the issue.
-
-### 1\. Ensure Volume/Ringer is Turned Up
-
-Turn up the volume/ringer all the way up and open the Twitter app. Now play a song/video. If there is not a problem with the ringer, try the next fix.
-
-### 2\. Speaker Blocked or Microphone Covered/Clogged
-
-When your microphone is covered or clogged, the device detects a blockage and fails to play the sound. Make sure nothing is covering the microphone and regularly clean out the speaker and microphone jack.
-
-### 3\. Check Network Connection
-
-No sound on Twitter videos iPhone could be due to poor network connection. If your videos won't play on the Twitter app, you should first ensure you are using a strong network. The signal strength should be enough to play the file.
-
-### 4\. Reinstall Twitter App
-
-Sometimes bugs and glitches with the Twitter app cause malfunctions. Uninstall the app and reinstall it to properly load videos and play sound again.
-
-### 5\. Update Twitter App to the Latest Version
-
-Sometimes, the old Twitter app version does not work on the latest iPhone and iOS devices. To make sure that your iOS devices support the app, download the current version of Twitter.
-
-### 6\. Launch Mobile Phone Browser to Check
-
-If Twitter video sound not playing iPhone issue persists even after trying the above-mentioned solutions, try visiting [**www.twitter.com**](http://www.twitter.com/) on your iPhone browser i.e., Safari. Clear all cache and cookies and then load Twitter videos.
-
-All of these fixes should resolve the no sound on Twitter videos iPad and iOS devices issue.
-
-## Fix No Sound on Twitter Videos on Android
-
-If you are facing the issue of no sound on Twitter videos android then try these solutions mentioned below:
-
-### 1\. Clean Device Memory
-
-Low storage space can cause a device to slow down and malfunction. Clearing the device memory can solve such issues of no sound or video playback.
-
-Close all the background apps to clear the device memory. Also, delete all unnecessary files from your android device.
-
-By cleaning the storage, you might be able to fix the no sound from Twitter videos problem.
-
-![Clean device storage for better performance](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-6.jpg)
-
-### 2\. Operating System Software Update
-
-Make sure your android device is operating on the latest android software. This is because the new Twitter app version and updates are not compatible with the old software version.
-
-Therefore, Twitter videos do not work properly on such devices. Go to the setting and update the software. Plus make sure you use the latest version of the Twitter app.
-
-![System update to latest android version](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-7.jpg)
-
-### 3\. Clear Cache
-
-Clearing cache is important to remove unnecessary and excess files.
-
-* Search for in-app cache and delete it
-* Delete cache files on your android device
-* Clear all cookies and cache in the browser
-
-![Clear system cached data](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-8.jpg)
-
-This should make your Twitter video audio play on your android device.
-
-## Wrapping Up
-
-Twitter has grown tremendously over the years and still remains one of the top social networks. People use Twitter to communicate, spread information and raise awareness.
-
-Despite its popularity, many users avoid using the app due to certain issues like no audio sound on videos.
-
-If you are also facing the issue of no sound on Twitter video, don’t abandon the app. Instead, consider the different solutions mentioned in this article.
-
-The fixes listed above are some of the most effective and easy ways to fix Twitter videos not playing on your Chrome, iOS, or Android.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Twitter is one of the biggest social media platforms today, with millions of active users. There are over 500 million tweets shared every day!
-
-Whether you want to have a funny banter with your followers, follow your favorite celebrity or keep up with the latest global news, Twitter is the best option. You can find a vast pool of content on Twitter, including one-line tweets to threads, pictures, gifs, and videos.
-
-However, many users often complain about no sound on Twitter videos. If your Twitter videos have no sound, it also leads to a bad user experience.
-
-In this article, we will discuss the reasons why is there no sound on Twitter videos and the best solution to fix this issue.
-
-So, let's begin!
-
-## Why Is There No Sound on Twitter Videos?
-
-There are many reasons for no sound on uploaded twitter videos. The issue could be with your device, browser, or the Twitter app itself.
-
-Here are all the possible reasons why there is no sound on Twitter videos.
-
-### 1\. Problem with the App
-
-There could be a problem with Twitter video sound because of an in-app issue. For example, you have an outdated version of the app, or the app cache is full. Things like that can often create issues and hinder the app's functionality.
-
-### 2\. Network Connectivity
-
-A weak network connection can also be a common cause of no sound or poor video quality. With a weak or faulty connection, you will see a loading symbol on the video/audio file that never seems to end – something painstakingly annoying!
-
-A strong internet connection will avoid Twitter videos' improper functionality and smoothly load the file's contents.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 3\. Old Browsers
-
-An old browser lags and does not load files properly. Thus, it can be a reason for no audio on the Twitter videos. Either update the browser or switch to a new browser altogether.
-
-### 4\. The Twitter Cache
-
-The browser cookies or cache and Twitter application cache can also cause Twitter video sound problems. When the cache is full, the app or browser will not perform to its optimal potential.
-
-### 5\. System Software Updates
-
-Your device could also cause no sound on the Twitter video. When you don't update the operating system software of your PC/Phone, it can cause errors in the device and lead to functionality issues. Moreover, the Twitter app might also not be compatible with an outdated system.
-
-### 6\. Device Storage
-
-When the device memory is full, it can lead to formatting issues, causing no sound on Twitter videos.
-
-### 7\. Video Format
-
-An incompatible video format uploaded on Twitter will also have no sound. Sometimes, there is nothing you can do about it if the video format is incorrect. It will show all kinds of errors, including no sound.
-
-## How to Fix No Sound on Twitter Videos on Chrome?
-
-Sometimes no sound on Twitter videos could be due to a browser-related issue. Let’s talk about all the possible methods to fix no sound on Twitter videos on Chrome:
-
-### 1\. Enable Flash
-
-If Chrome flash is disabled, then your videos will not play on Chrome. Click on the lock shape icon on the address bar, and make sure flash is not blocked.
-
-If flash is disabled and outdated, install the updated version.
-
-![Check for flash player and updates](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-1.jpg)
-
-### 2\. Clear Cookies and Cache
-
-Sounds too simple right? But you’d be surprised to know that 99% of browser-related problems are fixed once you clear cookies and cache.
-
-To clear cookies and cache:
-
-* Go to Chrome Settings by clicking on the three vertical dots in the top right corner of the browser.
-* Search for Cookie and select ‘clear browsing data’ under Security and privacy.
-* Select ‘Cookies and other site data’ and ‘cached images and files' and click on Clear Data.
-
-![Clear cache for smooth browser experience](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-2.jpg)
-
-Hopefully, this will resolve the issue of no Twitter video sound on the Chrome browser.
-
-### 3\. Disable Chrome Plugins/Extensions
-
-If none of the steps above have worked so far and your Twitter videos are playing in other browsers except for Chrome, try managing your extensions.
-
-For this, you have to disable Chrome extensions and reload to check if the Twitter video plays audio.
-
-Here is how you can do this:
-
-* Click on the three dots on the top right corner of the address bar and select More Tools > “Extensions.”
-* Your Chrome extensions will be listed so you can easily manage them one by one.
-
-You can also do this:
-
-* Type **chrome://extensions** in the search bar and hit Enter.
-* Turn off all the plugins, particularly the advertisement blockers.
-* Now close the browser and launch again.
-
-![Disable plug-ins and extensions](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-3.jpg)
-
-This should resolve the issue and play sound on Twitter videos in Chrome.
-
-### 4\. Disable Hardware Acceleration
-
-If managing your extensions did not do the job for you, disabling hardware acceleration in Chrome might help resolve the issue.
-
-Follow these steps:
-
-* Type **chrome://settings**in the address bar of Chrome browser and press Enter.
-* Scroll down to System and turn off Use hardware acceleration when available.
-* Close the window and launch Chrome again. Now load the Twitter video again and play.
-
-![Disable hardware acceleration to solve issue](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-4.jpg)
-
-### 5\. Update Your Browser
-
-Sometimes simply updating the browser can resolve the problem, especially if there has been a while since you last updated the browser.
-
-* To check if you use Chrome’s latest version, click on the three dots on the right and click on Settings.
-* Type updates in the search bar and hit Enter.
-* Chrome will run a check and updates that need to be installed.
-
-Install the updates if your browser is out of date. If there are no updates to install, you are already using the latest version.
-
-![Check for Chrome updates to use the latest version](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-5.jpg)
-
-## Solve No Sound on Twitter Videos on IOS
-
-Now let’s talk about the best solutions to fix no sound on Twitter videos iOS and iPhone. First, we need to check for any device-related problems that might be causing the issue.
-
-### 1\. Ensure Volume/Ringer is Turned Up
-
-Turn up the volume/ringer all the way up and open the Twitter app. Now play a song/video. If there is not a problem with the ringer, try the next fix.
-
-### 2\. Speaker Blocked or Microphone Covered/Clogged
-
-When your microphone is covered or clogged, the device detects a blockage and fails to play the sound. Make sure nothing is covering the microphone and regularly clean out the speaker and microphone jack.
-
-### 3\. Check Network Connection
-
-No sound on Twitter videos iPhone could be due to poor network connection. If your videos won't play on the Twitter app, you should first ensure you are using a strong network. The signal strength should be enough to play the file.
-
-### 4\. Reinstall Twitter App
-
-Sometimes bugs and glitches with the Twitter app cause malfunctions. Uninstall the app and reinstall it to properly load videos and play sound again.
-
-### 5\. Update Twitter App to the Latest Version
-
-Sometimes, the old Twitter app version does not work on the latest iPhone and iOS devices. To make sure that your iOS devices support the app, download the current version of Twitter.
-
-### 6\. Launch Mobile Phone Browser to Check
-
-If Twitter video sound not playing iPhone issue persists even after trying the above-mentioned solutions, try visiting [**www.twitter.com**](http://www.twitter.com/) on your iPhone browser i.e., Safari. Clear all cache and cookies and then load Twitter videos.
-
-All of these fixes should resolve the no sound on Twitter videos iPad and iOS devices issue.
-
-## Fix No Sound on Twitter Videos on Android
-
-If you are facing the issue of no sound on Twitter videos android then try these solutions mentioned below:
-
-### 1\. Clean Device Memory
-
-Low storage space can cause a device to slow down and malfunction. Clearing the device memory can solve such issues of no sound or video playback.
-
-Close all the background apps to clear the device memory. Also, delete all unnecessary files from your android device.
-
-By cleaning the storage, you might be able to fix the no sound from Twitter videos problem.
-
-![Clean device storage for better performance](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-6.jpg)
-
-### 2\. Operating System Software Update
-
-Make sure your android device is operating on the latest android software. This is because the new Twitter app version and updates are not compatible with the old software version.
-
-Therefore, Twitter videos do not work properly on such devices. Go to the setting and update the software. Plus make sure you use the latest version of the Twitter app.
-
-![System update to latest android version](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-7.jpg)
-
-### 3\. Clear Cache
-
-Clearing cache is important to remove unnecessary and excess files.
-
-* Search for in-app cache and delete it
-* Delete cache files on your android device
-* Clear all cookies and cache in the browser
-
-![Clear system cached data](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-8.jpg)
-
-This should make your Twitter video audio play on your android device.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Wrapping Up
-
-Twitter has grown tremendously over the years and still remains one of the top social networks. People use Twitter to communicate, spread information and raise awareness.
-
-Despite its popularity, many users avoid using the app due to certain issues like no audio sound on videos.
-
-If you are also facing the issue of no sound on Twitter video, don’t abandon the app. Instead, consider the different solutions mentioned in this article.
-
-The fixes listed above are some of the most effective and easy ways to fix Twitter videos not playing on your Chrome, iOS, or Android.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Twitter is one of the biggest social media platforms today, with millions of active users. There are over 500 million tweets shared every day!
-
-Whether you want to have a funny banter with your followers, follow your favorite celebrity or keep up with the latest global news, Twitter is the best option. You can find a vast pool of content on Twitter, including one-line tweets to threads, pictures, gifs, and videos.
-
-However, many users often complain about no sound on Twitter videos. If your Twitter videos have no sound, it also leads to a bad user experience.
-
-In this article, we will discuss the reasons why is there no sound on Twitter videos and the best solution to fix this issue.
-
-So, let's begin!
-
-## Why Is There No Sound on Twitter Videos?
-
-There are many reasons for no sound on uploaded twitter videos. The issue could be with your device, browser, or the Twitter app itself.
-
-Here are all the possible reasons why there is no sound on Twitter videos.
-
-### 1\. Problem with the App
-
-There could be a problem with Twitter video sound because of an in-app issue. For example, you have an outdated version of the app, or the app cache is full. Things like that can often create issues and hinder the app's functionality.
-
-### 2\. Network Connectivity
-
-A weak network connection can also be a common cause of no sound or poor video quality. With a weak or faulty connection, you will see a loading symbol on the video/audio file that never seems to end – something painstakingly annoying!
-
-A strong internet connection will avoid Twitter videos' improper functionality and smoothly load the file's contents.
-
-### 3\. Old Browsers
-
-An old browser lags and does not load files properly. Thus, it can be a reason for no audio on the Twitter videos. Either update the browser or switch to a new browser altogether.
-
-### 4\. The Twitter Cache
-
-The browser cookies or cache and Twitter application cache can also cause Twitter video sound problems. When the cache is full, the app or browser will not perform to its optimal potential.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 5\. System Software Updates
-
-Your device could also cause no sound on the Twitter video. When you don't update the operating system software of your PC/Phone, it can cause errors in the device and lead to functionality issues. Moreover, the Twitter app might also not be compatible with an outdated system.
-
-### 6\. Device Storage
-
-When the device memory is full, it can lead to formatting issues, causing no sound on Twitter videos.
-
-### 7\. Video Format
-
-An incompatible video format uploaded on Twitter will also have no sound. Sometimes, there is nothing you can do about it if the video format is incorrect. It will show all kinds of errors, including no sound.
-
-## How to Fix No Sound on Twitter Videos on Chrome?
-
-Sometimes no sound on Twitter videos could be due to a browser-related issue. Let’s talk about all the possible methods to fix no sound on Twitter videos on Chrome:
-
-### 1\. Enable Flash
-
-If Chrome flash is disabled, then your videos will not play on Chrome. Click on the lock shape icon on the address bar, and make sure flash is not blocked.
-
-If flash is disabled and outdated, install the updated version.
-
-![Check for flash player and updates](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-1.jpg)
-
-### 2\. Clear Cookies and Cache
-
-Sounds too simple right? But you’d be surprised to know that 99% of browser-related problems are fixed once you clear cookies and cache.
-
-To clear cookies and cache:
-
-* Go to Chrome Settings by clicking on the three vertical dots in the top right corner of the browser.
-* Search for Cookie and select ‘clear browsing data’ under Security and privacy.
-* Select ‘Cookies and other site data’ and ‘cached images and files' and click on Clear Data.
-
-![Clear cache for smooth browser experience](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-2.jpg)
-
-Hopefully, this will resolve the issue of no Twitter video sound on the Chrome browser.
-
-### 3\. Disable Chrome Plugins/Extensions
-
-If none of the steps above have worked so far and your Twitter videos are playing in other browsers except for Chrome, try managing your extensions.
-
-For this, you have to disable Chrome extensions and reload to check if the Twitter video plays audio.
-
-Here is how you can do this:
-
-* Click on the three dots on the top right corner of the address bar and select More Tools > “Extensions.”
-* Your Chrome extensions will be listed so you can easily manage them one by one.
-
-You can also do this:
-
-* Type **chrome://extensions** in the search bar and hit Enter.
-* Turn off all the plugins, particularly the advertisement blockers.
-* Now close the browser and launch again.
-
-![Disable plug-ins and extensions](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-3.jpg)
-
-This should resolve the issue and play sound on Twitter videos in Chrome.
-
-### 4\. Disable Hardware Acceleration
-
-If managing your extensions did not do the job for you, disabling hardware acceleration in Chrome might help resolve the issue.
-
-Follow these steps:
-
-* Type **chrome://settings**in the address bar of Chrome browser and press Enter.
-* Scroll down to System and turn off Use hardware acceleration when available.
-* Close the window and launch Chrome again. Now load the Twitter video again and play.
-
-![Disable hardware acceleration to solve issue](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-4.jpg)
-
-### 5\. Update Your Browser
-
-Sometimes simply updating the browser can resolve the problem, especially if there has been a while since you last updated the browser.
-
-* To check if you use Chrome’s latest version, click on the three dots on the right and click on Settings.
-* Type updates in the search bar and hit Enter.
-* Chrome will run a check and updates that need to be installed.
-
-Install the updates if your browser is out of date. If there are no updates to install, you are already using the latest version.
-
-![Check for Chrome updates to use the latest version](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-5.jpg)
-
-## Solve No Sound on Twitter Videos on IOS
-
-Now let’s talk about the best solutions to fix no sound on Twitter videos iOS and iPhone. First, we need to check for any device-related problems that might be causing the issue.
-
-### 1\. Ensure Volume/Ringer is Turned Up
-
-Turn up the volume/ringer all the way up and open the Twitter app. Now play a song/video. If there is not a problem with the ringer, try the next fix.
-
-### 2\. Speaker Blocked or Microphone Covered/Clogged
-
-When your microphone is covered or clogged, the device detects a blockage and fails to play the sound. Make sure nothing is covering the microphone and regularly clean out the speaker and microphone jack.
-
-### 3\. Check Network Connection
-
-No sound on Twitter videos iPhone could be due to poor network connection. If your videos won't play on the Twitter app, you should first ensure you are using a strong network. The signal strength should be enough to play the file.
-
-### 4\. Reinstall Twitter App
-
-Sometimes bugs and glitches with the Twitter app cause malfunctions. Uninstall the app and reinstall it to properly load videos and play sound again.
-
-### 5\. Update Twitter App to the Latest Version
-
-Sometimes, the old Twitter app version does not work on the latest iPhone and iOS devices. To make sure that your iOS devices support the app, download the current version of Twitter.
-
-### 6\. Launch Mobile Phone Browser to Check
-
-If Twitter video sound not playing iPhone issue persists even after trying the above-mentioned solutions, try visiting [**www.twitter.com**](http://www.twitter.com/) on your iPhone browser i.e., Safari. Clear all cache and cookies and then load Twitter videos.
-
-All of these fixes should resolve the no sound on Twitter videos iPad and iOS devices issue.
-
-## Fix No Sound on Twitter Videos on Android
-
-If you are facing the issue of no sound on Twitter videos android then try these solutions mentioned below:
-
-### 1\. Clean Device Memory
-
-Low storage space can cause a device to slow down and malfunction. Clearing the device memory can solve such issues of no sound or video playback.
-
-Close all the background apps to clear the device memory. Also, delete all unnecessary files from your android device.
-
-By cleaning the storage, you might be able to fix the no sound from Twitter videos problem.
-
-![Clean device storage for better performance](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-6.jpg)
-
-### 2\. Operating System Software Update
-
-Make sure your android device is operating on the latest android software. This is because the new Twitter app version and updates are not compatible with the old software version.
-
-Therefore, Twitter videos do not work properly on such devices. Go to the setting and update the software. Plus make sure you use the latest version of the Twitter app.
-
-![System update to latest android version](<https://images.wondershare.com/filmora/article-images/2022/02/why-> is-there-no-sound-on-twitter- videos-7.jpg)
 
 ### 3\. Clear Cache
 
@@ -766,19 +773,6 @@ Install the updates if your browser is out of date. If there are no updates to i
 ## Solve No Sound on Twitter Videos on IOS
 
 Now let’s talk about the best solutions to fix no sound on Twitter videos iOS and iPhone. First, we need to check for any device-related problems that might be causing the issue.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Ensure Volume/Ringer is Turned Up
 
@@ -873,20 +867,19 @@ The fixes listed above are some of the most effective and easy ways to fix Twitt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-alter-twitter-video-glimpse-artwork/"><u>[New] Alter Twitter Video Glimpse Artwork</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-saving-smiles-the-ultimate-list-of-twitvid-tools/"><u>[New] Saving Smiles The Ultimate List of TwitVid Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-ultimate-list-of-5-effective-youtube-promotion-strategies-for-success-for-2024/"><u>[New] The Ultimate List of 5 Effective YouTube Promotion Strategies for Success for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2023s-top-tweets-the-highest-traffic-watchlist/"><u>[Updated] 2023'S Top Tweets The Highest Traffic Watchlist</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-capturecraft-hd-top-10-freepaid-filters-list/"><u>[Updated] CaptureCraft HD Top 10 Free/Paid Filters List</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-efficient-video-broadcasting-across-twit-and-tumble/"><u>2024 Approved Efficient Video Broadcasting Across Twit & Tumble</u></a></li>
-<li><a href="https://win-dash.techidaily.com/expert-tips-for-fixing-your-logitech-g433-mic-when-it-stops-working-properly/"><u>Expert Tips for Fixing Your Logitech G433 Mic When It Stops Working Properly</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-essential-specs-for-smooth-operation-of-big-sur/"><u>In 2024, Essential Specs for Smooth Operation of Big Sur</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-video-editing-apps-with-soundtracks-for-mobile/"><u>In 2024, Top Video Editing Apps with Soundtracks for Mobile</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-touchpad-not-functioning-heres-how-to-fix-it-on-windows-os/"><u>Laptop Touchpad Not Functioning? Here's How to Fix It on Windows OS!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/lenovo-smarttouch-repair-completed-successfully/"><u>Lenovo SmartTouch Repair Completed Successfully</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/mastering-twitter-videos-a-beginners-tutorial-for-2024/"><u>Mastering Twitter Videos A Beginner's Tutorial for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/e-capture-screen-to-youtube-posting-with-pcmac-for-2024/"><u>Online Capture Screen-to-YouTube Posting with PC/Mac for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/twitter-gif-retrieval-3-easy-methods-for-pcs-for-2024/"><u>Twitter Gif Retrieval 3 Easy Methods for PCs for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-seamless-tiktok-tweets-the-2023-pathway/"><u>[New] In 2024, Seamless TikTok Tweets The 2023 Pathway</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-mastering-the-art-of-tweeting-video-uploads-on-instagram/"><u>[Updated] In 2024, Mastering the Art of Tweeting Video Uploads on Instagram</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-memes-take-over-video-hits-on-twitters-map-for-2024/"><u>[Updated] Memes Take Over Video Hits on Twitter's Map for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-streamlining-twitters-video-transfer-to-fb-network/"><u>[Updated] Streamlining Twitters Video Transfer to FB Network</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-snagging-stunning-pexels-pictures/"><u>2024 Approved Step-by-Step Snagging Stunning Pexels Pictures</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-12-mini-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 12 mini Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/access-high-quality-video-editing-swiftly-convert-swf-files-using-factory-pro-free-demo-plus-safe-checkout/"><u>Access High-Quality Video Editing: Swiftly Convert SWF Files Using Factory Pro (Free Demo + Safe Checkout)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-backup-and-retrieve-your-interactions-with-chatgpt-easily/"><u>How To Backup And Retrieve Your Interactions With ChatGPT Easily</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/how-to-use-twitter-archive-in-2024/"><u>How to Use Twitter Archive, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-paving-the-pathway-to-popularity-thriving-on-instagram/"><u>In 2024, Paving the Pathway to Popularity Thriving on Instagram</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-ultimate-mp4-media-synchronizer-to-fb/"><u>In 2024, Ultimate MP4 Media Synchronizer to FB</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-assessment-of-the-value-packed-oneplus-nord-n100/"><u>In-Depth Assessment of the Value-Packed OnePlus Nord N100</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-the-future-ui-design-with-new-folder-integration-in-windows-11/"><u>Navigate the Future UI Design with New Folder Integration in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: B4B Gobi Crash Troubleshooting on UDK - Fixing UE4 Game Issues Easily
-date: 2024-09-09T02:53:44.529Z
-updated: 2024-09-14T16:36:59.717Z
+date: 2024-09-16T03:49:37.379Z
+updated: 2024-09-19T20:51:17.875Z
 tags:
   - win11
   - win10
@@ -86,48 +86,38 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
-4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
+4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Restart** your PC and run Back 4 Blood to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each service, you need to restart your PC to apply the changes.
@@ -161,21 +151,17 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-meme-matrix-top-10-memes-on-social-media-platforms/"><u>[New] 2024 Approved Meme Matrix Top 10 Memes on Social Media Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-integrate-sound-and-sight-web-studio/"><u>[New] Integrate Sound & Sight Web Studio</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-posting-tweets-with-vids-check-the-aspect-ratio-for-2024/"><u>[New] Posting Tweets with Vids? Check the Aspect Ratio for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-twitcasts-rise-identifying-the-top-10-most-watched-videos/"><u>[New] TwitCasts Rise Identifying the Top 10 Most Watched Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-breaking-down-2023s-most-sharing-videos-on-twitter/"><u>[Updated] Breaking Down 2023'S Most Sharing Videos on Twitter</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-pro-moviemakers-manual-for-pc-mac-and-mobile-systems-for-2024/"><u>[Updated] Pro Moviemaker's Manual for PC, Mac & Mobile Systems for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-secrets-to-effective-targeted-tweets/"><u>[Updated] Secrets to Effective Targeted Tweets</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-uncomplicated-methodology-turning-clownfish-sounds-on-windows-systems/"><u>[Updated] Uncomplicated Methodology Turning Clownfish Sounds on Windows Systems</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/a-tweet-a-day-your-2023-video-journey-begins-here/"><u>A Tweet a Day - Your 2023 Video Journey Begins Here</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-powered-spreadsheet-solutions-via-chatgpt-and-excel/"><u>AI-Powered Spreadsheet Solutions via ChatGPT & Excel</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-g42-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nokia G42 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-infinite-storage-horizon-your-guide-to-free-and-premium-cloud-services/"><u>In 2024, Infinite Storage Horizon Your Guide to Free & Premium Cloud Services</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-instant-sharing-convert-tweets-to-snaps-users/"><u>In 2024, Instant Sharing Convert Tweets to Snaps Users</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-step-by-step-creating-stellar-content-for-facebook-stories/"><u>In 2024, Step-by-Step Creating Stellar Content for Facebook Stories</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/nvidia-not-plugged-in-discover-effective-fixes-for-seamless-performance/"><u>Nvidia Not Plugged In? Discover Effective Fixes for Seamless Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/triumphant-journey-through-arise-debugging-fatal-mishaps-in-unreal-engine-4/"><u>Triumphant Journey Through Arise: Debugging Fatal Mishaps in Unreal Engine 4</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-advanced-techniques-for-smartphone-screenshots/"><u>[New] 2024 Approved Advanced Techniques for Smartphone Screenshots</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-reverse-silent-tweets-audible-video-connection/"><u>[New] In 2024, Reverse Silent Tweets Audible Video Connection</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-remedy-non-playing-youtube-tweet-clips-for-2024/"><u>[New] Remedy Non-Playing YouTube Tweet Clips for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-top-10-trending-tweets-sparking-conversations-worldwide/"><u>[New] Top 10 Trending Tweets Sparking Conversations Worldwide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-guide-to-posting-twitter-video-content-on-instagram/"><u>[Updated] Guide to Posting Twitter Video Content on Instagram</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-cross-device-synchronization-aligning-zoom-with-calendar-events/"><u>[Updated] In 2024, Cross-Device Synchronization Aligning Zoom with Calendar Events</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/enhancing-twitter-video-experience-to-fhd-for-2024/"><u>Enhancing Twitter Video Experience to FHD for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-y100t-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo Y100t Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-tecno-phantom-v-flip-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Tecno Phantom V Flip Data? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-rise-with-the-pros-acquire-1k-ig-admirers-daily/"><u>In 2024, Rise with the Pros Acquire 1K IG Admirers Daily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-gif/"><u>Movavi: フリーのウェブ上で動画をGIFに簡単変換</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seeking-alternatives-6-low-cost-ai-systems-like-sora/"><u>Seeking Alternatives: 6 Low-Cost AI Systems Like Sora</u></a></li>
 </ul></div>
 

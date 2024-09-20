@@ -1,7 +1,7 @@
 ---
 title: "The Mighty ZTE Blade A3Y: Balancing Quality and Cost in Today's Smartphone Market"
-date: 2024-09-12T22:51:28.217Z
-updated: 2024-09-15T00:09:14.715Z
+date: 2024-09-16T02:46:20.097Z
+updated: 2024-09-19T17:05:07.530Z
 categories:
   - BestProducts
 description: "This Article Describes The Mighty ZTE Blade A3Y: Balancing Quality and Cost in Today's Smartphone Market"
@@ -71,19 +71,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
  Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance: Humans have never been so annoying**
 
  The game begins with a multi-hour long tutorial program, which I highly recommend you undertake before playing the game. There are so many various aspects to the game—basic needs, threats to your colony, resources to import and export—that it would be disastrous not to get caught up to speed. It took me a total of five hours to complete these tutorials, but I had to restart a couple after a couple operator error moments when I accidentally destroyed my only water vaporizer and had no idea how to rebuild it. So, it will probably take you less.
@@ -97,6 +84,19 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
  In over twenty hours of gameplay, I learned the hard way that humans in this game are not only picky, but they demand the life of luxury the second they step off the rocket and into the dome. It didn’t matter that only twelve called a single dome home. It didn’t matter that there was barely enough of them to cover operating the grocery store and space bar. A lack of space for these amenities fell upon deaf ears. They wanted access to their art stores, electronics, and fine dining immediately. In that regard, I’m a little conflicted; as much as I wanted more shopping options for Mars, I realized not long after humans arrived that Haemimont Games, in reality, gave me a blessing by keeping a bland palate. Plus, more buildings and items become available as research, funding, and planetary discoveries allow.
 
 ![Surviving Mars](https://www.lifewire.com/thmb/QVd7bcTZ_ZbmQxeJCAcRbA8iomg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_04-e663486372a94a05afa9541d4d7930bb.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -115,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
  A good chunk of gameplay before the colonists arrived focused on speeding through slower parts of the game. Once the colonists arrived though, gameplay changed, and I found myself wishing for more hours during Sols, or days, on Mars. It’s a problem at the beginning; later on, not so much, especially when your population grows and you have to mitigate various issues that crop up. Many thanks to the creators for putting in Mars Radio and two other channel options with fun, futuristic music to help get me through until the humans arrive.
 
  I wanted to focus on building bigger domes to accommodate population growth and build important research centers, not worry over whether my scientists would automatically begin working at those same facilities.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: Decent for what you get**
 
@@ -135,13 +142,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
  **A interesting new take on city-builders, if you can stomach the micromanagement.**
 
  While Surviving Mars is marred by slowness and micromanagement, the unique gameplay and setting make for a true sci-fi treat. It’s at a fair price point, promises lots of fun, and some fun twists and turns. Just watch out for those blasted dust storms. Your colonists’ lives depend on it.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -170,19 +170,16 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-audio-extraction-made-easy-youtube-music-on-your-mac-for-2024/"><u>[New] Audio Extraction Made Easy YouTube Music on Your Mac for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-expanding-viewership-tweeting-to-fb-effectively/"><u>[New] Expanding Viewership Tweeting to FB Effectively</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-fix-disruption-chromium-and-tweeted-videos/"><u>[New] Fix Disruption Chromium and Tweeted Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-seamless-video-recording-on-facebook-with-top-5-tools-for-2024/"><u>[New] Seamless Video Recording on Facebook with Top 5 Tools for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-simple-guide-to-record-unrooted-android-sounds-for-2024/"><u>[New] Simple Guide to Record Unrooted Android Sounds for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-trending-tutorial-tracker-for-2024/"><u>[New] Trending Tutorial Tracker for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-best-online-stock-market-channels-reviewed-for-2024/"><u>[Updated] Best Online Stock Market Channels Reviewed for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-strategic-use-of-twitters-wayback-machine-features-for-2024/"><u>[Updated] Strategic Use of Twitter's Wayback Machine Features for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-art-of-retention-capturing-gifs-from-social-media/"><u>[Updated] The Art of Retention Capturing GIFs From Social Media</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-torment-tides-of-numenera-in-depth-game-review-and-insights-into-its-unique-sci-fi-setting/"><u>Exploring 'Torment: Tides of Numenera' - In-Depth Game Review & Insights Into Its Unique Sci-Fi Setting</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/integrating-online-content-into-your-living-room-theatre-experience/"><u>Integrating Online Content Into Your Living Room Theatre Experience</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/ios-and-android-a-tutorial-for-saving-twitters-animations-for-2024/"><u>IOS and Android A Tutorial for Saving Twitter's Animations for 2024</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-infinix-note-30i-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Infinix Note 30i</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-amazons-favorite-originals-twitter-top-picks/"><u>[New] 2024 Approved Amazon's Favorite Originals - Twitter Top Picks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-catching-facebooks-favorite-visual-stories/"><u>[New] Catching Facebook's Favorite Visual Stories</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-viral-video-victories-the-daily-top-10-twitch-videos-for-2024/"><u>[New] Viral Video Victories The Daily Top 10 Twitch Videos for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-leading-platforms-mimicking-twitters-network/"><u>[Updated] 2024 Approved Leading Platforms Mimicking Twitter's Network</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-haute-makeup-techniques-step-by-step-youtube-guide/"><u>[Updated] In 2024, Haute Makeup Techniques Step-by-Step YouTube Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tweetvid-puller-iphone-app-for-easy-video-extraction-for-2024/"><u>[Updated] TweetVid Puller IPhone App for Easy Video Extraction for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-end-screen-design-made-easy-with-our-templates-and-tutorials/"><u>2024 Approved End-Screen Design Made Easy with Our Templates & Tutorials</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-strategies-for-overcoming-lag-problems-in-chivalry-2-updated-tips/"><u>Comprehensive Strategies for Overcoming Lag Problems in Chivalry 2 (Updated Tips !)</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-customize-twitter-video-image/"><u>In 2024, Customize Twitter Video Image</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-ultimate-gear-list-for-any-aspiring-vlogger-top-12-cameras/"><u>In 2024, The Ultimate Gear List for Any Aspiring Vlogger - Top 12 Cameras</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-7-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 7? How to Fix</u></a></li>
 </ul></div>
 

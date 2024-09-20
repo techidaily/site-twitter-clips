@@ -1,7 +1,7 @@
 ---
 title: How to Fix Corsair HS70 Mic Not Working Issue
-date: 2024-09-11T22:21:07.122Z
-updated: 2024-09-14T16:45:36.860Z
+date: 2024-09-15T04:15:56.013Z
+updated: 2024-09-20T03:13:03.695Z
 tags:
   - win11
   - win10
@@ -67,6 +67,13 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3 – Update your audio driver
 
  The mic not working problem may also occur if you are using the wrong audio driver or it’s out of date. Therefore you should update your audio driver to see if it fixes your problem.
@@ -82,34 +89,20 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-5.7.2-SCAN.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4 – Reinstall the Corsair headset and iCUE software
 
@@ -118,6 +111,14 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 1. Press**Windows + X** keys to open the quick access menu and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
@@ -133,10 +134,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5 – Use a USB audio card
@@ -194,13 +195,15 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-capturing-clarity-mastering-hd-videos-from-tweet-for-2024/"><u>[Updated] Capturing Clarity Mastering HD Videos From Tweet for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/breaking-down-2023s-most-sharing-videos-on-twitter-for-2024/"><u>Breaking Down 2023'S Most Sharing Videos on Twitter for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/effortless-integration-posting-twitter-vids-on-instagram-profile-for-2024/"><u>Effortless Integration Posting Twitter Vids on Instagram Profile for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/handling-the-error-of-non-existent-mfc-42dll-file-on-your-pc/"><u>Handling the Error of Non-Existent MFC 42.dll File on Your PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sony-bdp-s3700-overhaul-a-new-perspective-review-for-2024/"><u>Sony BDP-S3700 Overhaul A New Perspective Review for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oneplus-nord-ce-3-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost OnePlus Nord CE 3 5G Device</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-honor-magic-6-lite-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Honor Magic 6 Lite FRP Bypass</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-premiere-pro-2023-importing-editing-and-exporting-videos-for-beginners-for-2024/"><u>Updated Premiere Pro 2023 Importing, Editing, and Exporting Videos for Beginners for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-how-to-launch-your-twitter-adventure-for-2024/"><u>[New] How to Launch Your Twitter Adventure for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-bypass-youtubes-short-video-playback-on-all-devices-for-2024/"><u>[Updated] Bypass YouTube's Short Video Playback on All Devices for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-download-video-as-mp3-with-vimeo-step-by-step-guide/"><u>[Updated] Download Video as MP3 with Vimeo - Step-by-Step Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-mastering-media-your-step-by-step-video-tweet/"><u>[Updated] In 2024, Mastering Media Your Step-by-Step Video Tweet</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-simple-process-of-uploading-videos-to-twitter/"><u>[Updated] In 2024, The Simple Process of Uploading Videos to Twitter</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-partnership-unlocked-break-through-at-10k-vistas/"><u>2024 Approved YouTube Partnership Unlocked Break Through at 10K Vistas</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-raw-to-stunning-the-role-of-luts-in-premiere-editing/"><u>From Raw to Stunning The Role of LUTs in Premiere Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-essential-chatgpt-techniques-for-time-mastery/"><u>Harnessing AI: Essential ChatGPT Techniques for Time Mastery</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-the-ultimate-tweet-template-for-visual-sharing/"><u>In 2024, The Ultimate Tweet Template for Visual Sharing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zooms-secrets-to-flawless-live-video-streaming-on-youtube/"><u>Zoom's Secrets to Flawless Live Video Streaming on YouTube</u></a></li>
 </ul></div>
 

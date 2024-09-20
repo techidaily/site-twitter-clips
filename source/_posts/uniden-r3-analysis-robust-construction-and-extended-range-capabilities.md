@@ -1,7 +1,7 @@
 ---
 title: "Uniden R3 Analysis: Robust Construction and Extended Range Capabilities"
-date: 2024-09-08T02:06:38.886Z
-updated: 2024-09-15T01:33:59.502Z
+date: 2024-09-18T05:51:51.460Z
+updated: 2024-09-19T20:47:37.291Z
 categories:
   - BestProducts
 description: "This Article Describes Uniden R3 Analysis: Robust Construction and Extended Range Capabilities"
@@ -89,6 +89,13 @@ Lifewire / Andrew Hayward
 
 Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Performance: It makes a difference
 
  I tested the C302 using the[Razer Blade 15 (2019) gaming laptop](https://www.lifewire.com/razer-blade-15-review-4845229) , which is equipped with an Intel Core i7-9750H processor and 16GB RAM, as well as a NVIDIA GeForce GTX 1660 Ti GPU (6GB).
@@ -104,10 +111,10 @@ Lifewire / Andrew Hayward
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Xs71AyeThjZwy-vZJ9LfxIhuXJc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_04-eadbaf270b874af9bb8843b95efe8ca7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
@@ -115,19 +122,6 @@ Lifewire / Andrew Hayward
  Lastly, UNIGINE’s Heaven Benchmark hit 162 degrees internally and 109 degrees externally on the Razer Blade 15 alone, and dropped to 154 degrees internally and 105 degrees externally when using the C302\. All told, this lightweight and affordable pad delivered solid cooling power that helped cut down on both the internal and external temperature of the laptop while under significant stress.
 
  Depending on test, the results were roughly comparable to or better than more expensive cooling pads, like the Kootek Laptop Cooling Pad and Thermaltake Massive TM, which have some added features onboard. It’s also pretty quiet in use—certainly quieter than the Razer Blade 15’s own internal fans.
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Price: It’s very affordable
 
@@ -154,10 +148,10 @@ Lifewire / Andrew Hayward
 * [North Face Pivoter Backpack](https://www.lifewire.com/north-face-pivoter-backpack-review-4690198)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -188,18 +182,18 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-optimizing-video-playback-with-pip-on-safari-devices/"><u>[New] 2024 Approved Optimizing Video Playback with PIP on Safari Devices</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-quick-tips-sending-tweets-content-via-whatsapp-app/"><u>[New] In 2024, Quick Tips Sending Tweets' Content via WhatsApp App</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-maximizing-mobile-video-quality-in-tweets/"><u>[New] Maximizing Mobile Video Quality in Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-smooth-media-transfer-twitvideos-to-whatsapp-guide-for-2024/"><u>[New] Smooth Media Transfer TwitVideos to WhatsApp Guide for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-champions-guide-to-martial-arts-gaming-for-2024/"><u>[New] The Champion's Guide to Martial Arts Gaming for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-connect-your-tiktok-creativity-to-twitter/"><u>[Updated] In 2024, Connect Your TikTok Creativity to Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-streaming-screenshots-share-without-twitting/"><u>[Updated] In 2024, Streaming Screenshots Share Without Twitting</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-simplifying-social-media-synergy-twitter-videos-on-insta/"><u>[Updated] Simplifying Social Media Synergy Twitter Videos on Insta</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-top-kid-friendly-drone-models-for-first-flights/"><u>2024 Approved Top Kid-Friendly Drone Models for First Flights</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-infinix-hot-40i-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Infinix Hot 40i</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/minecraft-survival-shelter-mastery/"><u>Minecraft Survival Shelter Mastery</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-accessing-your-twitter-history/"><u>[New] In 2024, Accessing Your Twitter History</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-instagram-fcpxs-guide-to-vertical-video-editing/"><u>[New] In 2024, Mastering Instagram FCPX's Guide to Vertical Video Editing</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-twitters-top-10-giggle-generators/"><u>[New] In 2024, Twitter's Top 10 Giggle Generators</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-sending-non-retwitted-videos-from-your-mobile-browser-to-twitter/"><u>[Updated] 2024 Approved Sending Non-Retwitted Videos From Your Mobile Browser to Twitter</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-insights-into-a-common-symbol-the-blue-emoji-in-fb-chat/"><u>[Updated] In 2024, Insights Into a Common Symbol The Blue Emoji in FB Chat</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-audio-take-from-twitter-video-sources/"><u>2024 Approved Audio Take From Twitter Video Sources</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/breaking-tubes-unveiling-top-10-viewed-tweets-on-twitter/"><u>Breaking Tubes Unveiling Top 10 Viewed Tweets on Twitter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-top-chatbot-a-comparison-between-googles-bard-and-microsofts-bing/"><u>Choosing the Top Chatbot: A Comparison Between Google's Bard and Microsoft’s Bing</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/convert-twitter-video-to-audiomp4webm/"><u>Convert Twitter Video to Audio/MP4/WebM</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/enriching-your-social-media-footprint-live-streaming-via-wirecast/"><u>Enriching Your Social Media Footprint Live Streaming via Wirecast</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-xr-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone XR With or Without Password</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-realme-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Realme</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a23-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy A23 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
 
