@@ -1,7 +1,7 @@
 ---
 title: "[New] Sending Instagram Direct Messages with Twitter Videos"
-date: 2024-09-13T03:11:07.212Z
-updated: 2024-09-19T23:20:52.991Z
+date: 2024-09-19T23:54:52.388Z
+updated: 2024-09-26T11:00:31.934Z
 tags:
   - ai video
   - ai twitter
@@ -68,32 +68,12 @@ If you are using chrome and your PC to access Twitter and Instagram, then open y
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-post-twitter-video-on-instagram-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Once you locate the video, right-click on the video, and from the menu, select “Copy Video Address”. This will copy the video URL to the PC’s clipboard.
 * You need to download the video with a video downloading website like [Twitter Video Downloader](https://twittervideodownloader.com/).
 * Open Twitter video Downloader in a New Tab.
 * Now, paste the copied video URL into the URL box on the top of the screen.
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-post-twitter-video-on-instagram-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Then click Download. This will allow the website to locate the video and convert it.
 * You can set your output format to mp4 and click on Download to download the video to your device.
@@ -143,13 +123,6 @@ A great way to post a Twitter Video on Instagram on iOS is using the Shortcuts a
 * You will now get redirected to the Shortcuts app. From there, you can add the TVDL link shortcut.
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-post-twitter-video-on-instagram-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * In the description, the app will show “ Add untrusted Shortcut” Tap on that.
 * In case the app shows an error message, go to Settings, then Shortcuts and then toggle the Allow Untrusted Shortcuts option.
@@ -231,6 +204,13 @@ If you are an android user and want to share some funny tweets to your Instagram
 
 The tweet will now be added to your story, and you can view it by tapping on the colorful ring surrounding your profile picture.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Share Tweets on Instagram Story from IOS
 
 Sharing Tweets to Instagram Story is extremely easy with an iPhone. Just follow the steps below, and you will be done in no time:
@@ -267,13 +247,6 @@ If you are new to social media or simply new to blogging, then this article will
 ### Reach a Wider Audience
 
 Your friends on multiple platforms might not be the same, with each social media having its own style. Posting a video from Twitter to Instagram might reach an entirely different audience than Twitter with the varying algorithms. This will help reach a larger audience, and people can enjoy your content on any social media app.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Social Media Strategy
 
@@ -309,6 +282,13 @@ If you are using chrome and your PC to access Twitter and Instagram, then open y
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-post-twitter-video-on-instagram-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Then click Download. This will allow the website to locate the video and convert it.
 * You can set your output format to mp4 and click on Download to download the video to your device.
 * Once you have downloaded the video, the next step is uploading it. Log into your Instagram in another tab.
@@ -351,6 +331,13 @@ A great way to post a Twitter Video on Instagram on iOS is using the Shortcuts a
 * If not, you can install the app from the Apple store.
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-post-twitter-video-on-instagram-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Now open your phone’s browser and open <https://www.tvdl.app/>.
 * Tap on the Get Shortcut option. You may tap on the links at the top of the page for a different choice.
@@ -403,77 +390,6 @@ Now you can post your edited video to your Instagram story.
 ## Share Tweets on Instagram Story
 
 While scrolling through your Twitter, if you come across exciting tweets, you can share them on your Instagram story easily. Follow the steps below to learn how to share a Tweet on the Instagram story via Chrome, Android, and iOS.
-
-### 1\. Share Tweets on Instagram Story from Chrome
-
-If you are using your PC for scrolling through Twitter and keeping up to date with the world, then you can use the method below:
-
-* Launch your browser and open Twitter in the tab.
-* Log in by typing in your credentials.
-* Now, locate the Tweet you want to share to your Instagram story.
-* You can take the screenshot of the tweet on your PC using Alt + PrtScr on Windows and Command Shift-5 on Mac.
-* The screenshot will save on your PC in the pictures folder.
-* You can crop or edit it using microsoft paint.
-* Now, open instagram in another tab of your browser.
-* You can toggle the the view to view as mobile device by going on the top three dots on the right on the chrome browser. Then click on more tools and select Developer Tools.
-* There on the top right corner, select the icon with a small phone and your screen will look like as viewed from the phone.
-* Next, you can click on the little “+” sign at the bottom of your Instagram screen to add a new post.
-* Click on story to add an Instagram story.
-* Select the video you want to share. You can edit the story by adding some stickers or text.
-* Lastly click on add to story to add it to your story.
-
-And the video will be added to your story.
-
-### 2\. Post Tweets on Instagram Story from Android
-
-If you are an android user and want to share some funny tweets to your Instagram story, then follow the steps below:
-
-* Make sure you have installed Twitter and Instagram for Android on your phone.
-* Now log in to your Instagram account and Twitter account.
-* Locate the Tweet you want to share from your Twitter account.
-* At the bottom of the tweet, you will find a little arrow facing upwards. It is the share icon. Tap on the icon to share the Tweet.
-* This will display multiple apps you want to share the Tweets on. Tap on the Instagram story from the options.
-* You will now be redirected to the Instagram new post screen. You can resize your tweet, move it around, or add text or stickers.
-* Once you are done, you can share it on your story by tapping on Add to Story from the bottom left corner.
-
-The tweet will now be added to your story, and you can view it by tapping on the colorful ring surrounding your profile picture.
-
-### 3\. Share Tweets on Instagram Story from IOS
-
-Sharing Tweets to Instagram Story is extremely easy with an iPhone. Just follow the steps below, and you will be done in no time:
-
-* Open your Twitter app and Make sure you are logged into the Instagram account you want to share the Tweet on.
-* Now, locate the Tweet on Twitter. If you have retweeted the message, then it can easily be found on your Twitter profile.
-* Click on the little arrow pointing upwards on the Tweet.
-* As soon as you tap it, it will show sharing options. Select Instagram from the options.
-* Now, you will be redirected to the Instagram new post screen. You can resize your tweet or move it around. You can also add some stickers to the story if you like.
-* Lastly, click on Add to story to post it as your story. You can even send it to groups or chats.
-
-This will post the tweet on your Instagram story.
-
-## Conclusion
-
-Cross-posting Tweets and Videos from Twitter to Instagram stories can be very useful in terms of improving reach and understanding the type of content your audience likes. You can easily post content across Twitter and Instagram using the methods above.
-
-All the methods are discussed in detail and cater for each type of device. With the video editing app Filme you can also edit your videos before posting them to improve their quality and aesthetics.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Each social media platform has its own flavor, and cross-posting has become exceptionally important, especially for bloggers and online businesses, to keep their audiences engaged.
-
-Each platform also has its own audience, and you might have different people following you on each social media handle. However, even if each platform has its own vibe, it’s also true that content going viral on one platform will most likely be adored on the other platform as well.
-
-This article will teach you how to share a Twitter video on Instagram and Instagram story. You can post on Twitter and Facebook together with one click and save a lot of time.
-
-## Importance of Posting Across Multiple Platforms
-
-If you are new to social media or simply new to blogging, then this article will guide you on how to post your content on Twitter and Instagram simultaneously. Even while scrolling, if you come across an exciting video that you would like to post on your Instagram you can easily do that using one of the methods below. But, why would one want to post the same post on Twitter and then on Instagram?
-
-### Reach a Wider Audience
-
-Your friends on multiple platforms might not be the same, with each social media having its own style. Posting a video from Twitter to Instagram might reach an entirely different audience than Twitter with the varying algorithms. This will help reach a larger audience, and people can enjoy your content on any social media app.
 
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
@@ -482,9 +398,87 @@ Your friends on multiple platforms might not be the same, with each social media
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+### 1\. Share Tweets on Instagram Story from Chrome
+
+If you are using your PC for scrolling through Twitter and keeping up to date with the world, then you can use the method below:
+
+* Launch your browser and open Twitter in the tab.
+* Log in by typing in your credentials.
+* Now, locate the Tweet you want to share to your Instagram story.
+* You can take the screenshot of the tweet on your PC using Alt + PrtScr on Windows and Command Shift-5 on Mac.
+* The screenshot will save on your PC in the pictures folder.
+* You can crop or edit it using microsoft paint.
+* Now, open instagram in another tab of your browser.
+* You can toggle the the view to view as mobile device by going on the top three dots on the right on the chrome browser. Then click on more tools and select Developer Tools.
+* There on the top right corner, select the icon with a small phone and your screen will look like as viewed from the phone.
+* Next, you can click on the little “+” sign at the bottom of your Instagram screen to add a new post.
+* Click on story to add an Instagram story.
+* Select the video you want to share. You can edit the story by adding some stickers or text.
+* Lastly click on add to story to add it to your story.
+
+And the video will be added to your story.
+
+### 2\. Post Tweets on Instagram Story from Android
+
+If you are an android user and want to share some funny tweets to your Instagram story, then follow the steps below:
+
+* Make sure you have installed Twitter and Instagram for Android on your phone.
+* Now log in to your Instagram account and Twitter account.
+* Locate the Tweet you want to share from your Twitter account.
+* At the bottom of the tweet, you will find a little arrow facing upwards. It is the share icon. Tap on the icon to share the Tweet.
+* This will display multiple apps you want to share the Tweets on. Tap on the Instagram story from the options.
+* You will now be redirected to the Instagram new post screen. You can resize your tweet, move it around, or add text or stickers.
+* Once you are done, you can share it on your story by tapping on Add to Story from the bottom left corner.
+
+The tweet will now be added to your story, and you can view it by tapping on the colorful ring surrounding your profile picture.
+
+### 3\. Share Tweets on Instagram Story from IOS
+
+Sharing Tweets to Instagram Story is extremely easy with an iPhone. Just follow the steps below, and you will be done in no time:
+
+* Open your Twitter app and Make sure you are logged into the Instagram account you want to share the Tweet on.
+* Now, locate the Tweet on Twitter. If you have retweeted the message, then it can easily be found on your Twitter profile.
+* Click on the little arrow pointing upwards on the Tweet.
+* As soon as you tap it, it will show sharing options. Select Instagram from the options.
+* Now, you will be redirected to the Instagram new post screen. You can resize your tweet or move it around. You can also add some stickers to the story if you like.
+* Lastly, click on Add to story to post it as your story. You can even send it to groups or chats.
+
+This will post the tweet on your Instagram story.
+
+## Conclusion
+
+Cross-posting Tweets and Videos from Twitter to Instagram stories can be very useful in terms of improving reach and understanding the type of content your audience likes. You can easily post content across Twitter and Instagram using the methods above.
+
+All the methods are discussed in detail and cater for each type of device. With the video editing app Filme you can also edit your videos before posting them to improve their quality and aesthetics.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Each social media platform has its own flavor, and cross-posting has become exceptionally important, especially for bloggers and online businesses, to keep their audiences engaged.
+
+Each platform also has its own audience, and you might have different people following you on each social media handle. However, even if each platform has its own vibe, it’s also true that content going viral on one platform will most likely be adored on the other platform as well.
+
+This article will teach you how to share a Twitter video on Instagram and Instagram story. You can post on Twitter and Facebook together with one click and save a lot of time.
+
+## Importance of Posting Across Multiple Platforms
+
+If you are new to social media or simply new to blogging, then this article will guide you on how to post your content on Twitter and Instagram simultaneously. Even while scrolling, if you come across an exciting video that you would like to post on your Instagram you can easily do that using one of the methods below. But, why would one want to post the same post on Twitter and then on Instagram?
+
+### Reach a Wider Audience
+
+Your friends on multiple platforms might not be the same, with each social media having its own style. Posting a video from Twitter to Instagram might reach an entirely different audience than Twitter with the varying algorithms. This will help reach a larger audience, and people can enjoy your content on any social media app.
+
 ### Social Media Strategy
 
 Cross-posting is a very effective social media strategy that allows you to streamline your content and repurpose your content across all platforms. This will increase brand awareness and ensure people view your content and don’t miss out on it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Keeps Social Media Up to Date
 
@@ -508,6 +502,13 @@ If you are using chrome and your PC to access Twitter and Instagram, then open y
 * Locate the video from your Newsfeed. If you have retweeted the video, then you can find it under the media tab of your Profile.
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-post-twitter-video-on-instagram-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Once you locate the video, right-click on the video, and from the menu, select “Copy Video Address”. This will copy the video URL to the PC’s clipboard.
 * You need to download the video with a video downloading website like [Twitter Video Downloader](https://twittervideodownloader.com/).
@@ -678,6 +679,13 @@ This article will teach you how to share a Twitter video on Instagram and Instag
 
 If you are new to social media or simply new to blogging, then this article will guide you on how to post your content on Twitter and Instagram simultaneously. Even while scrolling, if you come across an exciting video that you would like to post on your Instagram you can easily do that using one of the methods below. But, why would one want to post the same post on Twitter and then on Instagram?
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Reach a Wider Audience
 
 Your friends on multiple platforms might not be the same, with each social media having its own style. Posting a video from Twitter to Instagram might reach an entirely different audience than Twitter with the varying algorithms. This will help reach a larger audience, and people can enjoy your content on any social media app.
@@ -685,6 +693,13 @@ Your friends on multiple platforms might not be the same, with each social media
 ### Social Media Strategy
 
 Cross-posting is a very effective social media strategy that allows you to streamline your content and repurpose your content across all platforms. This will increase brand awareness and ensure people view your content and don’t miss out on it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Keeps Social Media Up to Date
 
@@ -885,5 +900,23 @@ All the methods are discussed in detail and cater for each type of device. With 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-perfectly-preserved-your-ultimate-guide-to-saving-tweet-animations/"><u>[New] 2024 Approved Perfectly Preserved Your Ultimate Guide to Saving Tweet Animations</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs/"><u>[New] 2024 Approved Transformative Tutorial Turning Vids on Twitter Into Catchy Animated Memes (GIFs)</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-pinnacle-of-live-tweeting-on-social-media/"><u>[Updated] 2024 Approved The Pinnacle of Live Tweeting on Social Media</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-how-to-add-and-record-audio-to-powerpoint-for-2024/"><u>[Updated] How to Add & Record Audio to PowerPoint for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-complete-roadmap-to-feeding-your-youtube-plays-with-content/"><u>[Updated] The Complete Roadmap to Feeding Your YouTube Plays with Content</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitter-vids-analysis-the-holistic-2023-guide-for-2024/"><u>[Updated] Twitter Vids Analysis The Holistic 2023 Guide for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-eliminate-hurdle-video-playback-issue-in-chrome/"><u>2024 Approved Eliminate Hurdle Video Playback Issue in Chrome</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-launch-film-studio-windows-xp-edition-essentials/"><u>2024 Approved Launch Film Studio Windows XP Edition Essentials</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/building-a-brand-the-art-of-creating-attention-grabbing-reels-on-social-media-for-2024/"><u>Building a Brand The Art of Creating Attention-Grabbing Reels on Social Media for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-elite-selection-of-chatgpt-triggers-on-github-rankings-top-20/"><u>Explore the Elite Selection of ChatGPT Triggers on GitHub – Ranking's Top 20</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005641917-fix-completed-unstick-your-frozen-discord-game-stream-now/"><u>Fix Completed: Unstick Your Frozen Discord Game Stream Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-7-hd-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 7 HD Phone without Any Data Loss</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/modify-twitter-video-screenshot/"><u>Modify Twitter Video Screenshot</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/reclaiming-acoustics-lost-in-social-media-videos-for-2024/"><u>Reclaiming Acoustics Lost in Social Media Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revamped-dialogue-strategies-for-engaging-podcasters/"><u>Revamped Dialogue Strategies for Engaging Podcasters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-opengl-driver-identity-for-intel-icd/"><u>Solving OpenGL Driver Identity for Intel ICD</u></a></li>
+</ul></div>
 

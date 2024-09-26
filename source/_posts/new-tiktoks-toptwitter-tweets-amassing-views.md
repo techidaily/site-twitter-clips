@@ -1,7 +1,7 @@
 ---
 title: "[New] TikTok's #TopTwitter Tweets Amassing Views"
-date: 2024-09-16T21:30:45.179Z
-updated: 2024-09-19T16:55:30.381Z
+date: 2024-09-23T06:10:52.674Z
+updated: 2024-09-26T08:51:46.719Z
 tags:
   - ai video
   - ai twitter
@@ -113,6 +113,13 @@ Here’s a link to the video:
 
 ![Screenshot of Nick Luciano Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Parody might not take you to places, but it is enough to rank your video in the list of the best Twitter video viral TikTok 2022 list. Do not believe? Visit the link attached below and see what Nick Luciano does in the video. Starting with the numbers of likes @kaylavoid's received for her video on SugarCrush, Nick Luciano is shown lip-syncing the same song. And it worked quite well!
 
 Here’s a link to the video:
@@ -167,13 +174,6 @@ Wann’ know how to create something simple yet trend-worthy on TikTok? Take ins
 
 ![Screenshot of Zach King’s viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you are TikTok or Twitter, you must have seen Zach King’s Harry Potter illusion video. With over 2.8 Billion views, Zach King flying on a broom is the most-watched video on TikTok. And for a reason: be it the caption or video, every second of it is enough to awe the user.
 
 Zach currently has over 66 Million followers on TikTok, and a hefty number of followers came after his enthralling Harry Potter video with the caption: “They rejected my application to Hogwarts, but I still found a way to be a wizard.”
@@ -187,6 +187,13 @@ Here’s a link to the video:
 ## 2\. David Allen’s Dancing with Drones
 
 ![Screenshot of David Allen viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 David Allen TikTok’s following blew up overnight after he posted a video showing him dancing in sunglasses to the song “Stay” by Justin Beiber and The Kid LAROI. In fact, it became the video of the year in America and the world as far as TikTok is concerned.
 
@@ -304,6 +311,13 @@ Wann’ know how to create something simple yet trend-worthy on TikTok? Take ins
 
 ![Screenshot of Zach King’s viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you are TikTok or Twitter, you must have seen Zach King’s Harry Potter illusion video. With over 2.8 Billion views, Zach King flying on a broom is the most-watched video on TikTok. And for a reason: be it the caption or video, every second of it is enough to awe the user.
 
 Zach currently has over 66 Million followers on TikTok, and a hefty number of followers came after his enthralling Harry Potter video with the caption: “They rejected my application to Hogwarts, but I still found a way to be a wizard.”
@@ -314,16 +328,16 @@ Here’s a link to the video:
 
 [Zach King’s Harry Potter Illusion.](https://twitter.com/zachking/status/1204490381200506880?ref%5Fsrc=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1204698987325837313%7Ctwgr%5E%7Ctwcon%5Es3%5F&ref%5Furl=https%3A%2F%2Fwww.thepoke.co.uk%2F2019%2F12%2F11%2Fincredible-harry-potter-broom-trick%2F)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. David Allen’s Dancing with Drones
 
 ![Screenshot of David Allen viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 David Allen TikTok’s following blew up overnight after he posted a video showing him dancing in sunglasses to the song “Stay” by Justin Beiber and The Kid LAROI. In fact, it became the video of the year in America and the world as far as TikTok is concerned.
 
@@ -348,6 +362,13 @@ In all, if you continue to make videos on a daily basis — the good ones — th
 Here’s a link to the video:
 
 [Bella Porch's M to the B](#/@bellapoarch/video/6862153058223197445)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Franek Bielak’s Drawings
 
@@ -416,6 +437,13 @@ Here’s a link to the profile:
 ## 10\. ZeddyWill’s — Bro, who got you smiling like that?
 
 ![Screenshot ZeddyWill’s Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Some weird poses, swift tones, and a lot of giggling ended up dominating TikTok's soundbites.
 
@@ -465,16 +493,16 @@ Here’s a link to the video:
 
 [David Allen Dancing with Drones](https://www.tiktok.com/@totouchanemu/video/6990181852803894533?is%5Fcopy%5Furl=0&is%5Ffrom%5Fwebapp=v1&sender%5Fdevice=pc&sender%5Fweb%5Fid=6981905548543346181)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Bella Porch’s “M to the B”
 
 ![Screenshot of Bella Porch viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When TikTok released the list of the most viral videos of the year, many were surprised to find Bella Porch’s “M to the B” lip-sync. No insult to Bella and her videos, but how can a simple lip-syncing video be the most liked video of the year on TikTok? Is it the cosplay of algorithms? Or is it Bella’s charm that has already managed to get her quite a fan following? Because it was not only TikTok that Bella ruled with this video. It also became a sensation on Twitter, and you could easily find it by typing simple keywords like Twitter video viral 2022 TikTok on Google.
 
@@ -524,13 +552,6 @@ Here’s a link to the video:
 
 ![Screenshot of Nick Luciano Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Parody might not take you to places, but it is enough to rank your video in the list of the best Twitter video viral TikTok 2022 list. Do not believe? Visit the link attached below and see what Nick Luciano does in the video. Starting with the numbers of likes @kaylavoid's received for her video on SugarCrush, Nick Luciano is shown lip-syncing the same song. And it worked quite well!
 
 Here’s a link to the video:
@@ -562,10 +583,10 @@ Here’s a link to the profile:
 ![Screenshot ZeddyWill’s Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Some weird poses, swift tones, and a lot of giggling ended up dominating TikTok's soundbites.
@@ -599,5 +620,23 @@ Those are the top 10 clips for this Twitter Video Viral 2022 TikTok list. Hope y
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-how-to-save-twitter-videos-seamlessly-on-your-android/"><u>[New] 2024 Approved How to Save Twitter Videos Seamlessly on Your Android</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitters-video-guidelines-and-step-by-step-uploading-guide/"><u>[New] 2024 Approved Twitter's Video Guidelines & Step-by-Step Uploading Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-enriching-youtube-content-with-improved-sound-quality/"><u>[New] In 2024, Enriching YouTube Content with Improved Sound Quality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-foster-community-with-unique-insta-story-questions/"><u>[New] In 2024, Foster Community with Unique Insta Story Questions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-from-vertical-vistas-to-virtual-viewers-fb-live-streaming-w-dji/"><u>[New] In 2024, From Vertical Vistas to Virtual Viewers FB Live Streaming W/ DJI</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-from-twitter-to-instagram-efficient-video-posting-techniques/"><u>[Updated] 2024 Approved From Twitter to Instagram Efficient Video Posting Techniques</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-elevate-your-engagement-with-real-time-tweets-for-2024/"><u>[Updated] Elevate Your Engagement with Real-Time Tweets for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-framing-the-world-from-a-phone-angle/"><u>[Updated] Framing the World From a Phone Angle</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-exploring-advanced-strategies-for-sending-videos-in-discord/"><u>[Updated] In 2024, Exploring Advanced Strategies for Sending Videos in Discord</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-insider-tips-the-best-5-cameras-for-extended-zoom/"><u>[Updated] In 2024, Insider Tips The Best 5 Cameras for Extended Zoom</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/discover-excellent-free-mp4-software-for-macos-top-picks-and-detailed-reviews/"><u>Discover Excellent Free MP4 Software for MacOS - Top Picks and Detailed Reviews</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-nubia-red-magic-9-proplus-frp-by-drfone-android/"><u>How Can We Bypass Nubia Red Magic 9 Pro+ FRP?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-fix-chromium-and-youtube-streams/"><u>In 2024, Fix Chromium and YouTube Streams</u></a></li>
+<li><a href="https://facebook.techidaily.com/love-reimagined-the-role-of-facebook-in-future-dating-practices/"><u>Love Reimagined: The Role of Facebook in Future Dating Practices</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/unveiling-tiktok-to-twitter-conversion-for-2024/"><u>Unveiling TikTok to Twitter Conversion for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/utilizing-the-power-of-twitter-archive-data-for-2024/"><u>Utilizing the Power of Twitter Archive Data for 2024</u></a></li>
+</ul></div>
 
