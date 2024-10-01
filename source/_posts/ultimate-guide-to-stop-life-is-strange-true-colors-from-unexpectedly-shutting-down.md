@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Stop Life Is Strange: True Colors From Unexpectedly Shutting Down"
-date: 2024-09-22T07:34:06.260Z
-updated: 2024-09-26T11:17:23.719Z
+date: 2024-09-25T17:35:45.314Z
+updated: 2024-10-01T01:07:11.647Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 [8: Increase your virtual memory](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Call of Duty: Vanguard System Requirements
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 | **High-Rez asset cache** | Up to 32 GB                                                     | Up to 32 GB                                  | Up to 32 GB                                                 | Up to 64 GB                                      |
 | **Video memory**         | 2 GB                                                            | 4 GB                                         | 8 GB                                                        | 10 GB                                            |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Close background applications
 
  The first quick fix you can try is to shut down the programs running in the background. They may interfere with Vanguard and cause the game to freeze. Or, these applications may take up the resources that are required for Vanguard to run smoothly, thus triggering performance issues. You can kill the background processes via Task Manager:
@@ -67,19 +74,6 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
 If this doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update the graphics driver
 
@@ -99,27 +93,14 @@ If this doesn’t solve your problem, try the next fix.
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -135,6 +116,13 @@ If this doesn’t solve your problem, try the next fix.
 3. Wait for the scan to complete.
 
 If this doesn’t help, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Run the game executable as administrator
 
@@ -156,10 +144,10 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -183,10 +171,10 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 4. Restart your PC to let it take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
@@ -201,13 +189,6 @@ If this doesn’t solve your problem, try the next fix.
 
 If the freezing issue persists, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 8: Increase your virtual memory
 
  According to the system requirements, you need to have at least 8 GB RAM to run Call of Duty: Vanguard. If your PC is running out of memory, the game performance may be impacted and you may experience random freezes. If that’s the case, you can check your virtual memory and then increase it if needed:
@@ -219,15 +200,15 @@ If the freezing issue persists, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
@@ -238,6 +219,13 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 7. If you don’t know how much RAM you have, press the **Windows key** and **R** to invoke the Run box. Then type in **msinfo32** and click **OK** . You’ll find the information in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 8. Calculate and fill in the **Initial size and Maximum size** , click **Set** then click **OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 9. Reboot your PC to see if Vanguard still freezes on your PC.
@@ -261,18 +249,18 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-how-to-launch-your-twitter-adventure/"><u>[New] 2024 Approved How to Launch Your Twitter Adventure</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-splitcam-examination-camera-quality-showdown/"><u>[New] 2024 Approved SplitCam Examination - Camera Quality Showdown?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-amazon-primes-trending-series-twitters-choice-2023/"><u>[New] In 2024, Amazon Prime's Trending Series - Twitter's Choice, 2023</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-quick-fix-tweeting-vids-pause-in-chrome-for-2024/"><u>[New] Quick Fix Tweeting Vids Pause in Chrome for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-deciphering-the-twitter-archive-a-beginners-tutorial/"><u>[Updated] 2024 Approved Deciphering the Twitter Archive A Beginner's Tutorial</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-engaging-your-audience-with-optimal-video-concepts/"><u>[Updated] In 2024, Engaging Your Audience with Optimal Video Concepts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-manycam-review-is-there-a-better-alternative-for-2024/"><u>[Updated] ManyCam Review Is There A Better Alternative for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-the-ultimate-checkpoint-a-2021-review-of-vegas-pros-latest-features/"><u>2024 Approved The Ultimate Checkpoint A 2021 Review of Vegas Pro's Latest Features</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-seamless-connectivity-with-new-broadcom-bluetooth-driver-for-windows-11-8-and-7/"><u>Ensure Seamless Connectivity with New Broadcom Bluetooth Driver for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m14-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M14 5G Phone FRP Lock</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/leveraging-visuals-easy-guide-to-integrating-snap-camera-on-teams-for-2024/"><u>Leveraging Visuals Easy Guide to Integrating Snap Camera on Teams for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/reinventing-accessibility-in-data-management-stellar-redesigns-software-to-boost-consumer-comfort-and-usability/"><u>Reinventing Accessibility in Data Management – Stellar Redesigns Software to Boost Consumer Comfort and Usability</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-break-free-from-os-limits-running-windows-and-mac-video-editors-on-chromebook/"><u>Updated 2024 Approved Break Free From OS Limits Running Windows and Mac Video Editors on Chromebook</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-10-best-funny-videos-on-twitter/"><u>[New] 2024 Approved 10 Best Funny Videos on Twitter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-next-level-designers-post-acid-tools-explored/"><u>[New] Next-Level Designers Post-ACID Tools Explored</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-prime-video-hits-on-twitter-the-most-popular-watches-of-23/"><u>[New] Prime Video Hits on Twitter The Most Popular Watches of '23</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-snatching-twitter-laughter-3-pc-techniques/"><u>[Updated] In 2024, Snatching Twitter Laughter 3 PC Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-revolutionize-live-streaming-top-4-approaches-to-record-on-fb-for-2024/"><u>[Updated] Revolutionize Live Streaming Top 4 Approaches to Record on FB for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/10-premier-vimeo-extraction-programs-reviewed/"><u>10 Premier Vimeo Extraction Programs Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-your-inner-influencer-9-essential-instagram-steps/"><u>2024 Approved Unleash Your Inner Influencer 9 Essential Instagram Steps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/cutting-edge-tactics-for-polishing-your-social-media-vids-on-instagram-for-2024/"><u>Cutting-Edge Tactics for Polishing Your Social Media Vids on Instagram for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722868085723-essential-choices-complimentary-apps-for-cross-border-phone-calls/"><u>Essential Choices: Complimentary Apps for Cross-Border Phone Calls</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-restoring-full-volume-in-partially-muted-fb-content/"><u>In 2024, Restoring Full Volume in Partially Muted FB Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/level-up-your-auditory-game-in-valorant-with-this-must-try-free-tool-for-2024/"><u>Level Up Your Auditory Game in Valorant with This Must-Try, Free Tool for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/tiktoks-toptwitter-tweets-amassing-views-for-2024/"><u>TikTok's #TopTwitter Tweets Amassing Views for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitter-reaction-videos-a-comprehensive-overview/"><u>Twitter Reaction Videos A Comprehensive Overview</u></a></li>
 </ul></div>
 

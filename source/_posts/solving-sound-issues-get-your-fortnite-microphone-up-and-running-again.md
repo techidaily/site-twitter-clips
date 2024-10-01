@@ -1,7 +1,7 @@
 ---
 title: Solving Sound Issues - Get Your Fortnite Microphone Up and Running Again!
-date: 2024-09-23T20:25:53.923Z
-updated: 2024-09-26T07:50:36.535Z
+date: 2024-09-25T22:15:59.024Z
+updated: 2024-09-30T20:25:46.188Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Check your microphone device settings
 
  Your Turtle Beach mic may be disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -44,42 +37,35 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
 
@@ -88,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 **7)** Right click**Headset Microphone** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
@@ -98,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -124,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
@@ -158,24 +158,21 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-swift-guide-image-to-youtube-thumbnail-transformation-techniques/"><u>[New] 2024 Approved Swift Guide Image to YouTube Thumbnail Transformation Techniques</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-adjust-twitter-video-excerpt/"><u>[New] Adjust Twitter Video Excerpt</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-customize-twitter-video-snapshot-for-2024/"><u>[New] Customize Twitter Video Snapshot for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-gifify-it-free-method-for-twitter-videos/"><u>[New] In 2024, Gifify It Free Method for Twitter Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-tube-top-ten-the-most-viewed-tweets-on-social-media/"><u>[Updated] 2024 Approved Tube Top Ten The Most Viewed Tweets on Social Media</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-accessing-your-favorite-pins-top-5-no-fee-download-tools/"><u>[Updated] Accessing Your Favorite Pins Top 5 No-Fee Download Tools</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-how-to-add-and-change-thumbnails-of-twitter-videos/"><u>[Updated] In 2024, How to Add and Change Thumbnails of Twitter Videos?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-revamping-social-media-presence-efficient-changes-in-video-covers/"><u>[Updated] In 2024, Revamping Social Media Presence Efficient Changes in Video Covers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-unlock-the-potential-advanced-techniques-for-podcast-editing-in-garageband/"><u>[Updated] In 2024, Unlock the Potential Advanced Techniques for Podcast Editing in GarageBand</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-key-to-a-successful-tweet-including-aspect-ratio-details/"><u>[Updated] The Key to a Successful Tweet Including Aspect Ratio Details</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-contrasts-how-do-mac-and-pc-differentiate/"><u>Exploring the Contrasts: How Do Mac and PC Differentiate?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/gamers-dilemma-oculus-htc-and-sonys-vr-dominance/"><u>Gamers' Dilemma Oculus, HTC & Sony's VR Dominance</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-galaxy-a24-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung Galaxy A24?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-effortless-integration-posting-twitter-vids-on-instagram-profile/"><u>In 2024, Effortless Integration Posting Twitter Vids on Instagram Profile</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-xs-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone XS</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-honor-play-40c-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Honor Play 40C</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/the-essential-checklist-for-adding-videos-to-tweets-for-2024/"><u>The Essential Checklist for Adding Videos to Tweets for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/the-essentials-2023s-highest-ranked-twitter-content-for-2024/"><u>The Essentials 2023'S Highest-Ranked Twitter Content for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-video-monitors-face-off/"><u>Ultimate Video Monitors Face-Off</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-efficient-group-coordination-with-skype-windows-mac/"><u>[New] 2024 Approved Efficient Group Coordination with Skype (Windows, Mac)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-ensure-clarity-leading-downloader-software-for-youtubers/"><u>[New] 2024 Approved Ensure Clarity Leading Downloader Software for YouTubers</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-customize-twitter-video-snapshot/"><u>[New] In 2024, Customize Twitter Video Snapshot</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-twitters-top-10-viral-tiktoks-uncovered/"><u>[New] In 2024, Twitter's Top 10 Viral TikToks Uncovered</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-seamless-tweet-to-snap-transition-guide/"><u>[Updated] In 2024, The Seamless Tweet-to-Snap Transition Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitters-guide-to-downloading-gifs-a-step-by-step-approach-for-2024/"><u>[Updated] Twitter's Guide to Downloading GIFs A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-asus-rog-phone-8-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Asus ROG Phone 8</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bridge-gaps-in-distance-mastering-xbox-one-zooming-for-2024/"><u>Bridge Gaps in Distance Mastering Xbox One Zooming for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-smooth-printing-free-epson-perfection-v39-windows-drivers-for-7-8-and-10/"><u>Ensure Smooth Printing: Free Epson Perfection V39 Windows Drivers for 7, 8 & 10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/fixing-steam-remote-play-malfunctions-effective-strategies-inside/"><u>Fixing Steam Remote Play Malfunctions: Effective Strategies Inside</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/how-to-download-gif-images-from-twitter-for-2024/"><u>How to Download GIF Images From Twitter for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards/"><u>In 2024, GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-reno-8t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo Reno 8T Phones with/without a PC</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/seamless-tiktok-tweets-the-2023-pathway/"><u>Seamless TikTok Tweets The 2023 Pathway</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-bings-full-potential-with-ai-powered-mobile-search/"><u>Unlock Bing’s Full Potential with AI-Powered Mobile Search</u></a></li>
+<li><a href="https://games-able.techidaily.com/vintage-pokemon-adventures-on-your-phone/"><u>Vintage Pokémon Adventures on Your Phone</u></a></li>
 </ul></div>
 
