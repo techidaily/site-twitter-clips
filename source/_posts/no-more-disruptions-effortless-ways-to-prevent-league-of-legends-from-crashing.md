@@ -1,7 +1,7 @@
 ---
 title: "No More Disruptions: Effortless Ways to Prevent League of Legends From Crashing"
-date: 2024-09-25T19:08:36.280Z
-updated: 2024-09-30T16:44:05.549Z
+date: 2024-10-05T18:12:30.718Z
+updated: 2024-10-06T16:07:58.909Z
 tags:
   - win11
   - win10
@@ -30,9 +30,23 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 5. [**Scan and repair game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Disable Discord overlay](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Unplug peripherals
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Launch the game in windowed mode
 
@@ -46,29 +60,15 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Rename the game folder
 
@@ -81,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
@@ -100,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-5.7.2-scan-1.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
@@ -136,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
 
 ---
@@ -160,18 +160,18 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-inside-twitters-most-impactful-videos-of-the-year-for-2024/"><u>[New] Inside Twitter's Most Impactful Videos of the Year for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-integrate-insta-tweet-and-snap-a-comprehensive-guide-for-2024/"><u>[New] Integrate Insta, Tweet & Snap A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/treaming-giants-rivalry-facebook-vs-youtube-and-spaces-for-2024/"><u>[New] Streaming Giants' Rivalry Facebook Vs. YouTube & Spaces for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-viral-views-vault-the-daily-top-10-watched-videos/"><u>[New] Viral Views Vault The Daily Top 10 Watched Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-bypassing-identification-to-explore-instagram-stories-desktop-android-ios/"><u>[Updated] 2024 Approved Bypassing Identification to Explore Instagram Stories [Desktop, Android, iOS]</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-cutting-out-visuals-from-video-to-still-images-in-windows-10/"><u>[Updated] 2024 Approved Cutting Out Visuals From Video to Still Images in Windows 10</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-bypassing-channels-tweets-on-whatsapp/"><u>[Updated] In 2024, Bypassing Channels Tweets on WhatsApp</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-transforming-standard-tweets-into-hd-spectacles/"><u>[Updated] Transforming Standard Tweets Into HD Spectacles</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-understanding-and-adhering-to-twitters-video-standards/"><u>2024 Approved Understanding and Adhering to Twitter's Video Standards</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/with-ease-10-video-to-mp3-tools-of-the-trade/"><u>Edit with Ease #10 Video-to-Mp3 Tools of the Trade</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-strategies-crafting-a-professional-resume-with-chatgpt/"><u>Effective Strategies: Crafting a Professional Resume with ChatGPT</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-master-the-art-of-keyboard-resets-and-troubleshooting/"><u>Quick Fixes: Master the Art of Keyboard Resets and Troubleshooting</u></a></li>
-<li><a href="https://win11.techidaily.com/unveil-top-6-trackers-to-master-your-computerinas-windows-domain/"><u>Unveil Top 6 Trackers to Master Your Computer'inas Windows Domain</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-enhance-engagement-personalize-twitter-videos-with-new-thumbnails-for-2024/"><u>[New] Enhance Engagement Personalize Twitter Videos with New Thumbnails for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-vidvault-seamless-techniques-for-securing-tweeted-videos-for-2024/"><u>[New] VidVault Seamless Techniques for Securing Tweeted Videos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-channel-transformation-optimal-video-concepts-to-elevate-creativity/"><u>[Updated] Channel Transformation Optimal Video Concepts to Elevate Creativity</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-hear-now-or-never-the-solution-for-twitter-vids/"><u>[Updated] Hear Now or Never The Solution for Twitter Vids</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-social-snapshot-post-photosvideos-without-a-twit/"><u>[Updated] In 2024, Social Snapshot Post Photos/Videos without a Twit</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tweet-views-triumph-discovering-the-top-10-video-tweets/"><u>[Updated] In 2024, Tweet Views Triumph Discovering the Top 10 Video Tweets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-mac-lecture-recording-techniques/"><u>[Updated] Mastering Mac Lecture Recording Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-profile-visibility-in-snapchat-spotlights/"><u>2024 Approved Maximizing Profile Visibility in Snapchat Spotlights</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/ensuring-security-in-converting-youtube-tracks-to-mp3-format-for-2024/"><u>Ensuring Security in Converting YouTube Tracks to MP3 Format for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/mastering-the-art-of-saving-twitter-jokes-gifs-for-2024/"><u>Mastering the Art of Saving Twitter Jokes (GIFs) for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-5-critical-factors-for-choosing-the-right-gaming-system/"><u>The Ultimate Guide: 5 Critical Factors for Choosing the Right Gaming System</u></a></li>
 </ul></div>
 

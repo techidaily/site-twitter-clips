@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Initial Steps  Creating a New Twitter Identity\""
-date: 2024-08-22T11:18:33.493Z
-updated: 2024-08-23T11:18:33.493Z
+date: 2024-10-02T19:47:38.540Z
+updated: 2024-10-06T19:24:55.997Z
 tags:
   - ai video
   - ai twitter
@@ -48,6 +48,19 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 
 ![](https://images.wondershare.com/filmora/article-images/create-twitter-account-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 3
 
  Check the **Keep me signed in on this computer** checkbox if you are creating an account from a private computer. You can also allow the platform to customize your account based on your recent online activity by clicking on the **Tailor Twitter based on my recent website visits** checkbox. After you've entered your information, you'll have to accept the terms and conditions and then click on the **Create My Account** button at the bottom of the screen.
@@ -56,14 +69,18 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 
  A verification email will be sent to the email address you entered. Go to your email account, and click on the link in the message you received from Twitter, in order to verify the account you just created. Congratulations, you have successfully opened a new Twitter account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Create a Twitter account through a Smartphone App
 
  Android and iPhone users can use their devices to set up a new account on Twitter. Head over to Google Play or the App Store using your Smartphone and find the Twitter application. Once it appears in the search results, click on it to initiate the download and the installation process. After the Twitter app is successfully installed on your device, tap on it to start setting up your new account.
 
  The process of creating a new account through a Smartphone app is the same as the one we described above. So, just insert your real name, username, email address and password and then tap on the SignUp button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Create Multiple Twitter Accounts With the Same Email Address
 
@@ -97,8 +114,12 @@ Follow @Ollie Mattison
  Like all social media networks, Twitter can be used for a wide array of purposes, from sharing your opinions on topics you find important, to strengthening your brand's identity. So here's how you can open a new account on Twitter.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Create a Twitter account on the Web
 
 #### Step 1
@@ -107,18 +128,12 @@ Follow @Ollie Mattison
 
 ![](https://images.wondershare.com/filmora/article-images/create-twitter-account-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 #### Step 2
 
  You will have to pick a username that has no more than 15 characters. The platform will inform you if the username you've chosen is already taken or if it's too long. Select a name that can be easily associated with you or the brand the Twitter account should be representing, to ensure that your followers know to whom the account belongs.
 
 ![](https://images.wondershare.com/filmora/article-images/create-twitter-account-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 3
 
  Check the **Keep me signed in on this computer** checkbox if you are creating an account from a private computer. You can also allow the platform to customize your account based on your recent online activity by clicking on the **Tailor Twitter based on my recent website visits** checkbox. After you've entered your information, you'll have to accept the terms and conditions and then click on the **Create My Account** button at the bottom of the screen.
@@ -127,18 +142,29 @@ Follow @Ollie Mattison
 
  A verification email will be sent to the email address you entered. Go to your email account, and click on the link in the message you received from Twitter, in order to verify the account you just created. Congratulations, you have successfully opened a new Twitter account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create a Twitter account through a Smartphone App
 
  Android and iPhone users can use their devices to set up a new account on Twitter. Head over to Google Play or the App Store using your Smartphone and find the Twitter application. Once it appears in the search results, click on it to initiate the download and the installation process. After the Twitter app is successfully installed on your device, tap on it to start setting up your new account.
 
  The process of creating a new account through a Smartphone app is the same as the one we described above. So, just insert your real name, username, email address and password and then tap on the SignUp button.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Create Multiple Twitter Accounts With the Same Email Address
 
  Using the same email address for two Twitter accounts isn't possible, because the platform will inform you that the email is already registered and that you have to enter a different email address. However, you can insert "+something" between your username and the @gmail extension to create email aliases which Gmail just regards the them as the same address and delivers the email directly to your nomal Gmail account. All emails from your new Twitter account will be sent to your original email address, even though you added the "+something" to it. This simple hack will allow you to manage multiple accounts from the same email address.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can you log in to more than one Twitter Account at a time via the web?
 
@@ -163,16 +189,23 @@ Follow @Ollie Mattison
 * [Part 1: How to Create a Twitter Account](#part1)
 * [Part 2: How to Create Multiple Twitter Accounts With the Same Email Address](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## How to Create a Twitter Account
 
  Like all social media networks, Twitter can be used for a wide array of purposes, from sharing your opinions on topics you find important, to strengthening your brand's identity. So here's how you can open a new account on Twitter.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Create a Twitter account on the Web
 
 #### Step 1
@@ -214,8 +247,12 @@ Follow @Ollie Mattison
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -231,16 +268,17 @@ Follow @Ollie Mattison
 * [Part 1: How to Create a Twitter Account](#part1)
 * [Part 2: How to Create Multiple Twitter Accounts With the Same Email Address](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Create a Twitter Account
 
  Like all social media networks, Twitter can be used for a wide array of purposes, from sharing your opinions on topics you find important, to strengthening your brand's identity. So here's how you can open a new account on Twitter.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Create a Twitter account on the Web
 
 #### Step 1
@@ -249,18 +287,12 @@ Follow @Ollie Mattison
 
 ![](https://images.wondershare.com/filmora/article-images/create-twitter-account-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 2
 
  You will have to pick a username that has no more than 15 characters. The platform will inform you if the username you've chosen is already taken or if it's too long. Select a name that can be easily associated with you or the brand the Twitter account should be representing, to ensure that your followers know to whom the account belongs.
 
 ![](https://images.wondershare.com/filmora/article-images/create-twitter-account-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 #### Step 3
 
  Check the **Keep me signed in on this computer** checkbox if you are creating an account from a private computer. You can also allow the platform to customize your account based on your recent online activity by clicking on the **Tailor Twitter based on my recent website visits** checkbox. After you've entered your information, you'll have to accept the terms and conditions and then click on the **Create My Account** button at the bottom of the screen.
@@ -275,9 +307,6 @@ Follow @Ollie Mattison
 
  The process of creating a new account through a Smartphone app is the same as the one we described above. So, just insert your real name, username, email address and password and then tap on the SignUp button.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## How to Create Multiple Twitter Accounts With the Same Email Address
 
  Using the same email address for two Twitter accounts isn't possible, because the platform will inform you that the email is already registered and that you have to enter a different email address. However, you can insert "+something" between your username and the @gmail extension to create email aliases which Gmail just regards the them as the same address and delivers the email directly to your nomal Gmail account. All emails from your new Twitter account will be sent to your original email address, even though you added the "+something" to it. This simple hack will allow you to manage multiple accounts from the same email address.
@@ -307,8 +336,6 @@ Follow @Ollie Mattison
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -317,9 +344,18 @@ Follow @Ollie Mattison
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-bringing-beats-integrating-music-in-inshot-editor/"><u>[New] 2024 Approved Bringing Beats Integrating Music in InShot Editor</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-quick-twitterscape-snag-gifs-with-these-tips/"><u>[New] 2024 Approved Quick Twitterscape Snag Gifs with These Tips</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-tiktoks-rise-to-fame-through-twitters-top-10-list/"><u>[New] TikTok's Rise to Fame Through Twitter’s Top 10 List</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-trending-tweets-triumph-identifying-todays-highest-viewed-content/"><u>[New] Trending Tweets Triumph Identifying Today's Highest-Viewed Content</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-direct-video-sync-from-twitter-to-tumblr/"><u>[Updated] Direct Video Sync From Twitter to Tumblr</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-revitalize-your-day-with-these-top-10-yoga-videos/"><u>[Updated] In 2024, Revitalize Your Day with These Top 10 Yoga Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-professional-shooters-guide-to-stability/"><u>[Updated] Professional Shooters' Guide to Stability</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/diy-techniques-and-software-tools-insights-from-the-stellar-resource-hub/"><u>DIY Techniques and Software Tools: Insights From the Stellar Resource Hub</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effortless-file-deletion-stellar-eraser-pro-5-standard-customizable-windows-auto-scheduler-feature/"><u>Effortless File Deletion: Stellar Eraser Pro 5 Standard, Customizable Windows Auto-Scheduler Feature</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-boost-engagement-and-growth-unlocking-youtube-analytics-via-social-blade/"><u>In 2024, Boost Engagement and Growth - Unlocking YouTube Analytics via Social Blade</u></a></li>
+</ul></div>
 

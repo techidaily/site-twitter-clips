@@ -1,7 +1,7 @@
 ---
 title: Solving Sound Issues - Get Your Fortnite Microphone Up and Running Again!
-date: 2024-09-25T22:15:59.024Z
-updated: 2024-09-30T20:25:46.188Z
+date: 2024-09-29T18:52:36.824Z
+updated: 2024-10-06T20:02:50.891Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Check your microphone device settings
 
  Your Turtle Beach mic may be disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -37,23 +44,9 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Select **Sound** .
 
@@ -67,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
@@ -75,16 +75,16 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **9)** Click**OK** , then click**OK** .
 
@@ -93,10 +93,16 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
@@ -124,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
@@ -158,21 +164,19 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-efficient-group-coordination-with-skype-windows-mac/"><u>[New] 2024 Approved Efficient Group Coordination with Skype (Windows, Mac)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-ensure-clarity-leading-downloader-software-for-youtubers/"><u>[New] 2024 Approved Ensure Clarity Leading Downloader Software for YouTubers</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-customize-twitter-video-snapshot/"><u>[New] In 2024, Customize Twitter Video Snapshot</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-twitters-top-10-viral-tiktoks-uncovered/"><u>[New] In 2024, Twitter's Top 10 Viral TikToks Uncovered</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-seamless-tweet-to-snap-transition-guide/"><u>[Updated] In 2024, The Seamless Tweet-to-Snap Transition Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitters-guide-to-downloading-gifs-a-step-by-step-approach-for-2024/"><u>[Updated] Twitter's Guide to Downloading GIFs A Step-by-Step Approach for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-asus-rog-phone-8-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Asus ROG Phone 8</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bridge-gaps-in-distance-mastering-xbox-one-zooming-for-2024/"><u>Bridge Gaps in Distance Mastering Xbox One Zooming for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-smooth-printing-free-epson-perfection-v39-windows-drivers-for-7-8-and-10/"><u>Ensure Smooth Printing: Free Epson Perfection V39 Windows Drivers for 7, 8 & 10</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/fixing-steam-remote-play-malfunctions-effective-strategies-inside/"><u>Fixing Steam Remote Play Malfunctions: Effective Strategies Inside</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/how-to-download-gif-images-from-twitter-for-2024/"><u>How to Download GIF Images From Twitter for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards/"><u>In 2024, GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-reno-8t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo Reno 8T Phones with/without a PC</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/seamless-tiktok-tweets-the-2023-pathway/"><u>Seamless TikTok Tweets The 2023 Pathway</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-bings-full-potential-with-ai-powered-mobile-search/"><u>Unlock Bing’s Full Potential with AI-Powered Mobile Search</u></a></li>
-<li><a href="https://games-able.techidaily.com/vintage-pokemon-adventures-on-your-phone/"><u>Vintage Pokémon Adventures on Your Phone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-evaluating-magix-multimedia-software/"><u>[New] 2024 Approved Evaluating MAGIX Multimedia Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-video-organization-the-art-of-chapter-addition/"><u>[New] In 2024, YouTube Video Organization The Art of Chapter Addition</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitters-most-popular-video-hotspots/"><u>[Updated] Twitter's Most Popular Video Hotspots</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitters-space-best-practices-for-tiktok-videos-for-2024/"><u>[Updated] Twitter's Space Best Practices for TikTok Videos for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-ultimate-gif-hack-top-twitter-tool-2024/"><u>[Updated] Ultimate GIF Hack Top Twitter Tool 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-adobe-premiere-pro-utilize-av1-codec-for-media-imports-and-exports/"><u>Can Adobe Premiere Pro Utilize AV1 Codec for Media Imports and Exports?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/diving-into-twitter-starting-fresh-for-2024/"><u>Diving Into Twitter Starting Fresh for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/fb-messenger-call-history-management-made-easy-for-2024/"><u>FB Messenger Call History Management Made Easy for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-motorola-moto-g13-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Motorola Moto G13 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-streaming-screenshots-share-without-twitting/"><u>In 2024, Streaming Screenshots Share Without Twitting</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-note-12-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi Note 12 5G Device</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-yt-thumbnail-design-for-enhanced-views/"><u>Mastering YT Thumbnail Design for Enhanced Views</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-5-prime-apps-for-clandestine-story-viewers-for-2024/"><u>The 5 Prime Apps for Clandestine Story Viewers for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/tweetvid-to-mp4-quick-conversion-tool-for-2024/"><u>TweetVid to MP4 - Quick Conversion Tool for 2024</u></a></li>
 </ul></div>
 

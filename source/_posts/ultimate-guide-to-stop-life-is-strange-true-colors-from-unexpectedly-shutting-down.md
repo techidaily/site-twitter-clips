@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Stop Life Is Strange: True Colors From Unexpectedly Shutting Down"
-date: 2024-09-25T17:35:45.314Z
-updated: 2024-10-01T01:07:11.647Z
+date: 2024-10-03T18:44:42.848Z
+updated: 2024-10-06T20:38:36.357Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 
 [8: Increase your virtual memory](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Call of Duty: Vanguard System Requirements
 
 | **System requirements**  | **Minimum**                                                     | **Recommended**                              | **Competitive**                                             | **Ultra 4K**                                     |
@@ -58,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 | **High-Rez asset cache** | Up to 32 GB                                                     | Up to 32 GB                                  | Up to 32 GB                                                 | Up to 64 GB                                      |
 | **Video memory**         | 2 GB                                                            | 4 GB                                         | 8 GB                                                        | 10 GB                                            |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Close background applications
 
  The first quick fix you can try is to shut down the programs running in the background. They may interfere with Vanguard and cause the game to freeze. Or, these applications may take up the resources that are required for Vanguard to run smoothly, thus triggering performance issues. You can kill the background processes via Task Manager:
@@ -74,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
 If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update the graphics driver
 
@@ -92,15 +85,15 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -117,18 +110,18 @@ If this doesn’t solve your problem, try the next fix.
 
 If this doesn’t help, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Run the game executable as administrator
 
  Sometimes when the game doesn’t have the required administrator rights, it could crash or freeze randomly in the middle of the gameplay. You can provide them by running the game executable file as administrator.
 
 If Vanguard still freezes randomly on your PC, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Repair corrupted system files
 
@@ -141,14 +134,14 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -171,10 +164,10 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 4. Restart your PC to let it take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
@@ -188,6 +181,13 @@ If this doesn’t solve your problem, try the next fix.
  Make sure you stay extra cautious when you turn off the antivirus app and do NOT download anything from the internet when your computer is not under protection.
 
 If the freezing issue persists, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 8: Increase your virtual memory
 
@@ -204,10 +204,10 @@ If the freezing issue persists, there’s one more fix you can try.
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
@@ -221,10 +221,10 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 8. Calculate and fill in the **Initial size and Maximum size** , click **Set** then click **OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
@@ -249,18 +249,22 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-10-best-funny-videos-on-twitter/"><u>[New] 2024 Approved 10 Best Funny Videos on Twitter</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-next-level-designers-post-acid-tools-explored/"><u>[New] Next-Level Designers Post-ACID Tools Explored</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-prime-video-hits-on-twitter-the-most-popular-watches-of-23/"><u>[New] Prime Video Hits on Twitter The Most Popular Watches of '23</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-snatching-twitter-laughter-3-pc-techniques/"><u>[Updated] In 2024, Snatching Twitter Laughter 3 PC Techniques</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-revolutionize-live-streaming-top-4-approaches-to-record-on-fb-for-2024/"><u>[Updated] Revolutionize Live Streaming Top 4 Approaches to Record on FB for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/10-premier-vimeo-extraction-programs-reviewed/"><u>10 Premier Vimeo Extraction Programs Reviewed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-your-inner-influencer-9-essential-instagram-steps/"><u>2024 Approved Unleash Your Inner Influencer 9 Essential Instagram Steps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/cutting-edge-tactics-for-polishing-your-social-media-vids-on-instagram-for-2024/"><u>Cutting-Edge Tactics for Polishing Your Social Media Vids on Instagram for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722868085723-essential-choices-complimentary-apps-for-cross-border-phone-calls/"><u>Essential Choices: Complimentary Apps for Cross-Border Phone Calls</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-restoring-full-volume-in-partially-muted-fb-content/"><u>In 2024, Restoring Full Volume in Partially Muted FB Content</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/level-up-your-auditory-game-in-valorant-with-this-must-try-free-tool-for-2024/"><u>Level Up Your Auditory Game in Valorant with This Must-Try, Free Tool for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/tiktoks-toptwitter-tweets-amassing-views-for-2024/"><u>TikTok's #TopTwitter Tweets Amassing Views for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/twitter-reaction-videos-a-comprehensive-overview/"><u>Twitter Reaction Videos A Comprehensive Overview</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-80plus-creative-cooking-channel-names-to-attract-more-audience/"><u>[New] 2024 Approved 80+ Creative Cooking Channel Names to Attract More Audience</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-chuckle-fest-twitters-10-funniest-tweets-for-2024/"><u>[New] Chuckle-Fest Twitter's 10 Funniest Tweets for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-saving-smiles-the-ultimate-list-of-twitvid-tools/"><u>[New] Saving Smiles The Ultimate List of TwitVid Tools</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2023s-top-tweets-the-highest-traffic-watchlist/"><u>[Updated] 2023'S Top Tweets The Highest Traffic Watchlist</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-break-free-from-the-norms-crafting-your-own-streamer-identity/"><u>[Updated] 2024 Approved Break Free From The Norms Crafting Your Own Streamer Identity</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-enhancing-outreach-sending-twitters-videos-to-facebooks/"><u>[Updated] Enhancing Outreach Sending Twitters' Videos to Facebooks</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-efficient-video-broadcasting-across-twit-and-tumble/"><u>2024 Approved Efficient Video Broadcasting Across Twit & Tumble</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-beat-is-in-your-hands-for-free/"><u>2024 Approved The Beat Is in Your Hands for Free</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-4k-capture-tools-for-ultimate-hd-recording/"><u>2024 Approved Top 4K Capture Tools for Ultimate HD Recording</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/expert-endorsed-ae-text-tools-for-2024/"><u>Expert-Endorsed AE Text Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/increase-productivity-hotkey-hacks-on-your-mouse/"><u>Increase Productivity: Hotkey Hacks on Your Mouse</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/mastering-twitter-videos-a-beginners-tutorial-for-2024/"><u>Mastering Twitter Videos A Beginner's Tutorial for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-dimming-display-on-lenovo-devices/"><u>Overcoming Dimming Display on Lenovo Devices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-updates-to-networking-components-in-win7/"><u>Rapid Updates to Networking Components in Win7</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-essential-checklist-for-adding-videos-to-tweets/"><u>The Essential Checklist for Adding Videos to Tweets</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitter-gif-retrieval-3-easy-methods-for-pcs-for-2024/"><u>Twitter Gif Retrieval 3 Easy Methods for PCs for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beat the Shadows: Fixing PC Playthroughs of Resident Evil Village When Faced with a Black Screen"
-date: 2024-09-27T02:19:52.802Z
-updated: 2024-10-01T13:20:11.818Z
+date: 2024-10-03T18:01:47.581Z
+updated: 2024-10-06T17:59:57.170Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Download an invisible cursor theme file
@@ -44,19 +44,27 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
 3. Click**Mouse** on the left panel, then click**Additional mouse options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Apply** . Your mouse cursor will disappear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
 6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Change resolution
 
@@ -81,10 +89,16 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 If this fix brings no luck, move to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update device driver
@@ -111,13 +125,6 @@ There are two ways you can update your device drivers:
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -140,22 +147,16 @@ There are two ways you can update your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-go-live-on-twitter-a-practical-guide/"><u>[New] 2024 Approved Go Live on Twitter A Practical Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-whatsapp-video-integration-for-twitter-content/"><u>[New] 2024 Approved WhatsApp Video Integration for Twitter Content</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio/"><u>[New] Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-mac-lecture-recording-techniques/"><u>[New] In 2024, Mastering Mac Lecture Recording Techniques</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-redesign-instant-twitter-video-view-for-2024/"><u>[New] Redesign Instant Twitter Video View for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-best-waterproof-gopro-filters-for-undersea-film/"><u>[Updated] 2024 Approved Best Waterproof GoPro Filters for Undersea Film</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-disseminating-tweeted-videos-on-the-worlds-biggest-social-site/"><u>[Updated] 2024 Approved Disseminating Tweeted Videos on the World's Biggest Social Site</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-lost-your-tiktok-progress-refresh-reversed/"><u>[Updated] In 2024, Lost Your TikTok Progress? Refresh Reversed</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-risky-business-buying-non-real-youtube-supporters-for-2024/"><u>[Updated] Risky Business Buying Non-Real YouTube Supporters for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-through-paid-product-evaluations-online/"><u>2024 Approved Navigating Through Paid Product Evaluations Online</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/elevate-iphone-imaging-with-premium-camera-gear-for-2024/"><u>Elevate iPhone Imaging with Premium Camera Gear for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-masterful-archive-of-twitter-animations-at-your-fingertips/"><u>In 2024, Masterful Archive of Twitter Animations at Your Fingertips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-professional-360-streaming-tech-reviews/"><u>In 2024, Professional 360° Streaming Tech Reviews</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-saving-the-fun-downloading-tweets-gif-content-easily/"><u>In 2024, Saving the Fun Downloading Tweets' GIF Content Easily</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/visualsnitch-capture-and-save-tweets-images-and-videos/"><u>VisualSnitch Capture and Save Tweets' Images & Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/whats-included-in-the-enhanced-windows-11-settings-app/"><u>What's Included in the Enhanced Windows 11 Settings App?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/zahlenreimlernen-einsteigen-in-die-deutsche-zahlensprache/"><u>Zahlenreimlernen: Einsteigen in Die Deutsche Zahlensprache</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-transform-your-color-grading-skills-with-photoshops-luts/"><u>[New] 2024 Approved Transform Your Color Grading Skills with Photoshop's LUTs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-effortless-extraction-of-twitter-jokes-3-ways-for-2024/"><u>[New] Effortless Extraction of Twitter Jokes 3 Ways for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-amazon-prime-and-twitter-most-shared-and-liked-shows-23/"><u>[New] In 2024, Amazon Prime and Twitter Most Shared & Liked Shows, '23</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-breaking-down-2023s-highest-viewed-tweets/"><u>[Updated] 2024 Approved Breaking Down 2023’S Highest-Viewed Tweets</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-vidtwitter-effortless-video-downloads-from-social-sites/"><u>[Updated] 2024 Approved VidTwitter Effortless Video Downloads From Social Sites</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-re-image-twitter-video-portrait/"><u>[Updated] Re-Image Twitter Video Portrait</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-honor-magic-6-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Honor Magic 6 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/easy-ways-to-add-music-to-imovie-from-youtube-for-2024/"><u>Easy Ways to Add Music to iMovie From YouTube for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-6-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 6 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-a54-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy A54 5G FRP Bypass</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Patekfly 12 Flexible Tripod Review
-date: 2024-09-29T06:34:42.015Z
-updated: 2024-10-01T05:02:34.216Z
+date: 2024-10-04T17:25:34.378Z
+updated: 2024-10-06T17:29:02.342Z
 categories:
   - BestProducts
 description: This Article Describes Patekfly 12 Flexible Tripod Review
@@ -67,10 +67,10 @@ Lifewire / Danny Chadwick
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/JfL4E5NnuBPl6-93Hv3PI4IJsV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_05-bcfff5f440b545378c9ee4e6b431ffac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Danny Chadwick
@@ -93,6 +93,13 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Setup Process: Be sure that’s where you want to put it**
 
  For those concerned about the hassle of installing a dashcam, don’t worry. The user manual for the Rexing V1 was the clearest and most detailed of all the dashcams we tested. The instructions are written in easy-to-understand language, and every button, feature, and tool is explained in detail so there’s no guesswork when you turn the device on.
@@ -105,13 +112,6 @@ Lifewire / Danny Chadwick
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/df0_L-UzAk3OryqSCncsjfqi8QM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_03-2273fff3f71944368711b60f5da9687e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Danny Chadwick
 
 ## **Camera Quality: Basic**
@@ -122,20 +122,14 @@ Lifewire / Danny Chadwick
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/9_1pHoEq74JWPJ8reothv8PeI8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_04-c5d42af8ddfa4296a6c6b1e8551edef6.jpg)
 
- Lifewire / Danny Chadwick
-
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Danny Chadwick
 
 ## **Performance: Set it and forget it**
 
@@ -151,15 +145,22 @@ Lifewire / Danny Chadwick
 
  Like the rest of the dashboard cameras we tested, the Rexing V1 has the ability to record audio, but it does a middling job of it. Voices in the car and sounds coming from the interior speakers were clear enough to understand, but sounds from outside the vehicle were muddy at best.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: A good value**
 
  The Rexing V1 retails for $130, but as of the time of this writing, can typically be purchased for closer to $100\. We feel like this is a perfectly appropriate price for this device—it falls right in the middle of the typical dashcam price range, providing better performance than super budget models, but without the high-tech features of the more expensive options out there. In short, it’s a good price for a solid, basic device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Competition: Z3 Plus vs. Rexing V1**
@@ -177,13 +178,6 @@ Lifewire / Danny Chadwick
  **It delivers on what it was designed to do, without any extras.**
 
  There isn’t much to complain about with the Rexing V1 DashCam. Its innovative form factor combined with a wide array of video capture features and decent picture quality means you won’t have any buyer’s remorse if you choose this dashcam.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -214,24 +208,22 @@ Lifewire / Danny Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-unseen-streamers-handbook-going-incognito-on-ig-live/"><u>[New] 2024 Approved Unseen Streamer's Handbook Going Incognito on IG Live</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-visualizing-tweet-reactions-a-complete-twitch-tale-for-23/"><u>[New] 2024 Approved Visualizing Tweet Reactions - A Complete Twitch-Tale for '23</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-flawless-flow-from-tiktok-creations-to-twitter-broadcasting-for-2024/"><u>[New] Flawless Flow From TikTok Creations to Twitter Broadcasting for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-viral-video-explosion-twitters-hot-tiktoks-listed/"><u>[New] In 2024, Viral Video Explosion Twitter’s Hot TikToks Listed</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-methods-to-transfer-twitter-videos-to-instagram-feed-for-2024/"><u>[New] Methods to Transfer Twitter Videos to Instagram Feed for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-silent-streaming-rankings-of-the-top-8-secret-downloaders-2023/"><u>[New] Silent Streaming Rankings of the Top 8 Secret Downloaders, 2023</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-10-viral-tweets-dominating-social-media-for-2024/"><u>[Updated] 10 Viral Tweets Dominating Social Media for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-how-to-save-twitter-videos-seamlessly-on-your-android/"><u>[Updated] 2024 Approved How to Save Twitter Videos Seamlessly on Your Android</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-cutting-through-steps-posting-tiktok-videos-on-twitter/"><u>[Updated] Cutting Through Steps Posting TikTok Videos on Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-tailor-made-twitter-video-coverage-for-2024/"><u>[Updated] Tailor-Made Twitter Video Coverage for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-5-web-based-or-extension-voice-changers-for-chromebook-for-2024/"><u>[Updated] Top 5 Web-Based or Extension Voice Changers for Chromebook for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-pioneering-clear-high-definition-on-twitter-videos/"><u>2024 Approved Pioneering Clear, High-Definition on Twitter Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-infinix-smart-8-plus-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Infinix Smart 8 Plus to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-to-protectively-download-youtube-audio-without-fear/"><u>How to Protectively Download YouTube Audio Without Fear</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/mastering-minute-by-minute-srt-conversion-to-text-txt-for-2024/"><u>Mastering Minute-by-Minute SRT Conversion to Text (TXT) for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/obs-live-video-to-insta-platform-for-2024/"><u>OBS Live Video to Insta Platform for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/skys-the-limit-with-dji-mavic-3-an-in-depth-photo-and-video-drone-analysis/"><u>Sky's the Limit with DJI Mavic 3 - An In-Depth Photo and Video Drone Analysis</u></a></li>
-<li><a href="https://facebook.techidaily.com/top-5-online-communities-tailored-for-seniors/"><u>Top 5 Online Communities Tailored for Seniors</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-social-snippets-showcase-twitters-trending-threads/"><u>[New] 2024 Approved Social Snippets Showcase Twitter’s Trending Threads</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitterscape-archive-the-ultimate-compiler-and-preserver-of-tweets-in-frames/"><u>[New] 2024 Approved Twitterscape Archive The Ultimate Compiler & Preserver of Tweets in Frames</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-giggle-gazette-twitters-top-threads/"><u>[New] In 2024, Giggle Gazette Twitter’s Top Threads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-recording-sims-4-games-professionally/"><u>[New] Recording Sims 4 Games Professionally</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-navigating-the-social-maze-tweets-plus-tumble-videos/"><u>[Updated] 2024 Approved Navigating the Social Maze Tweets + Tumble Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-streamline-and-stand-out-twitters-video-directive/"><u>[Updated] Streamline and Stand Out Twitter's Video Directive</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-clear-sound-conference-experience-via-skype/"><u>2024 Approved Clear Sound Conference Experience via Skype</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-tube-top-ten-twitters-most-watched-video-rankings/"><u>2024 Approved Tube Top Ten Twitter's Most Watched Video Rankings</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/a-tweet-to-snap-showcase-video-posting-techniques/"><u>A Tweet-to-Snap Showcase Video Posting Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-canon-eos-5d-mark-iii-firmware/"><u>Download and Update Canon EOS 5D Mark III Firmware</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instamagic-weaving-your-story-with-every-posts-caption/"><u>In 2024, Instamagic Weaving Your Story with Every Post's Caption</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-integrated-upload-sending-vids-to-twitter-and-tumblr/"><u>In 2024, Integrated Upload Sending Vids to Twitter and Tumblr</u></a></li>
+<li><a href="https://fox-info.techidaily.com/swift-windows-checkup-guide-explanatory-for-2024/"><u>Swift Windows Checkup Guide Explanatory for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/est-hashtags-for-youtube-gaming-videos/"><u>The Best Hashtags for YouTube Gaming Videos</u></a></li>
 </ul></div>
 

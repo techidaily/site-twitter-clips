@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Social Media Sensations  TikTok's Top 10 Tweets\""
-date: 2024-09-28T17:44:22.653Z
-updated: 2024-10-01T11:53:25.445Z
+date: 2024-10-05T16:47:50.846Z
+updated: 2024-10-06T17:11:30.160Z
 tags:
   - ai video
   - ai twitter
@@ -51,13 +51,6 @@ Here’s a link to the video:
 
 ![Screenshot of David Allen viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 David Allen TikTok’s following blew up overnight after he posted a video showing him dancing in sunglasses to the song “Stay” by Justin Beiber and The Kid LAROI. In fact, it became the video of the year in America and the world as far as TikTok is concerned.
 
 Of course, it is not the first video on TikTok where a creator is dancing to the beat of Stay. There are thousands, if not million videos. But what made this clip stand out is the use of drones. Yes, Allen utilizes a drone to film his hip-swaying and unique moves and captioned it: “Drone Dancing.”
@@ -116,9 +109,23 @@ Here’s a link to the video:
 
 [@youneszarou TikTok Profile](https://www.tiktok.com/@youneszarou?referer%5Furl=https%3A%2F%2Fwww.buzzfeed.com%2F&referer%5Fvideo%5Fid=6975442665772961029&refer=embed)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Nick Luciano's parody video
 
 ![Screenshot of Nick Luciano Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Parody might not take you to places, but it is enough to rank your video in the list of the best Twitter video viral TikTok 2022 list. Do not believe? Visit the link attached below and see what Nick Luciano does in the video. Starting with the numbers of likes @kaylavoid's received for her video on SugarCrush, Nick Luciano is shown lip-syncing the same song. And it worked quite well!
 
@@ -135,6 +142,13 @@ Will you be amazed that a dog is drawing a flower, or it is one of the most like
 Here’s a link to the video:
 
 [Dog Drawing a Sunflower](https://www.tiktok.com/@my%5Faussie%5Fgal/video/6995226837378944262?referer%5Furl=https%3A%2F%2Fwww.buzzfeed.com%2F&referer%5Fvideo%5Fid=6986336677748935942&refer=embed)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. A wave hitting the camera
 
@@ -236,6 +250,13 @@ Here’s a link to the video:
 
 [Billie Elish](https://www.tiktok.com/@billieeilish/video/6894081763379924229?refer=embed)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. @youneszarou’s tasty take on photography
 
 ![Screenshot of @youneszarou tasty take on photograpgy](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-6.jpg)
@@ -250,13 +271,6 @@ Here’s a link to the video:
 
 ![Screenshot of Nick Luciano Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Parody might not take you to places, but it is enough to rank your video in the list of the best Twitter video viral TikTok 2022 list. Do not believe? Visit the link attached below and see what Nick Luciano does in the video. Starting with the numbers of likes @kaylavoid's received for her video on SugarCrush, Nick Luciano is shown lip-syncing the same song. And it worked quite well!
 
 Here’s a link to the video:
@@ -267,18 +281,18 @@ Here’s a link to the video:
 
 ![Screenshot of @myaussiegal Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Will you be amazed that a dog is drawing a flower, or it is one of the most liked videos on TikTok? Because both are true. And [@myaussiegal's](https://www.tiktok.com/@my%5Faussie%5Fga) shows that in her video. A dog carrying out the canvas, the paint tubes, and drawing out a charming sunflower — and users make it one of the most liked videos on TikTok.
 
 Here’s a link to the video:
 
 [Dog Drawing a Sunflower](https://www.tiktok.com/@my%5Faussie%5Fgal/video/6995226837378944262?referer%5Furl=https%3A%2F%2Fwww.buzzfeed.com%2F&referer%5Fvideo%5Fid=6986336677748935942&refer=embed)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. A wave hitting the camera
 
@@ -294,18 +308,18 @@ Here’s a link to the profile:
 
 ![Screenshot ZeddyWill’s Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Some weird poses, swift tones, and a lot of giggling ended up dominating TikTok's soundbites.
 
 Here’s a link to the video:
 
 [Zeddy's Bro, who got you smiling like that?](https://www.tiktok.com/@zeddywill/video/6988664229502979334?referer%5Furl=https%3A%2F%2Fwww.buzzfeed.com%2F&referer%5Fvideo%5Fid=6988664229502979334&refer=embed)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -411,6 +425,13 @@ Here’s a link to the video:
 
 ![Screenshot of @myaussiegal Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Will you be amazed that a dog is drawing a flower, or it is one of the most liked videos on TikTok? Because both are true. And [@myaussiegal's](https://www.tiktok.com/@my%5Faussie%5Fga) shows that in her video. A dog carrying out the canvas, the paint tubes, and drawing out a charming sunflower — and users make it one of the most liked videos on TikTok.
 
 Here’s a link to the video:
@@ -455,13 +476,6 @@ Wann’ know how to create something simple yet trend-worthy on TikTok? Take ins
 
 ![Screenshot of Zach King’s viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you are TikTok or Twitter, you must have seen Zach King’s Harry Potter illusion video. With over 2.8 Billion views, Zach King flying on a broom is the most-watched video on TikTok. And for a reason: be it the caption or video, every second of it is enough to awe the user.
 
 Zach currently has over 66 Million followers on TikTok, and a hefty number of followers came after his enthralling Harry Potter video with the caption: “They rejected my application to Hogwarts, but I still found a way to be a wizard.”
@@ -475,6 +489,13 @@ Here’s a link to the video:
 ## 2\. David Allen’s Dancing with Drones
 
 ![Screenshot of David Allen viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 David Allen TikTok’s following blew up overnight after he posted a video showing him dancing in sunglasses to the song “Stay” by Justin Beiber and The Kid LAROI. In fact, it became the video of the year in America and the world as far as TikTok is concerned.
 
@@ -500,13 +521,6 @@ Here’s a link to the video:
 
 [Bella Porch's M to the B](#/@bellapoarch/video/6862153058223197445)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Franek Bielak’s Drawings
 
 ![Screenshot of Franek Bielak viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-4.jpg)
@@ -518,13 +532,6 @@ If you are good at something, TikTok can indeed make you famous. But note that F
 Here’s a link to the video:
 
 [Franek Bielak Drawings](https://www.tiktok.com/@fredziownik%5Fart/video/6911406868699073798?sender%5Fdevice=pc&sender%5Fweb%5Fid=6919038900356089349&is%5Ffrom%5Fwebapp=v3&is%5Fcopy%5Furl=0)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Billie Eilish's first TikTok video
 
@@ -561,13 +568,6 @@ Here’s a link to the video:
 ## 8\. @myaussiegal's
 
 ![Screenshot of @myaussiegal Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Will you be amazed that a dog is drawing a flower, or it is one of the most liked videos on TikTok? Because both are true. And [@myaussiegal's](https://www.tiktok.com/@my%5Faussie%5Fga) shows that in her video. A dog carrying out the canvas, the paint tubes, and drawing out a charming sunflower — and users make it one of the most liked videos on TikTok.
 
@@ -622,20 +622,18 @@ Those are the top 10 clips for this Twitter Video Viral 2022 TikTok list. Hope y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-story-wizardry-secrets-revealed/"><u>[New] 2024 Approved Instagram Story Wizardry Secrets Revealed</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-optimize-your-content-mix-twt-to-insta-video-sharing-techniques/"><u>[New] In 2024, Optimize Your Content Mix Twt-to-Insta Video Sharing Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-mastering-the-art-of-oral-explanitations-and-slides-for-2024/"><u>[New] Mastering the Art of Oral Explanitations & Slides for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitter-video-requirement-aspect-ratio/"><u>[Updated] 2024 Approved Twitter Video Requirement - Aspect Ratio</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-unlock-full-hd-tweeting-on-your-screen/"><u>[Updated] 2024 Approved Unlock Full HD Tweeting on Your Screen</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-animate-archive-the-top-choice-for-twitter-animated-enthusiasts-for-2024/"><u>[Updated] Animate Archive The Top Choice for Twitter Animated Enthusiasts for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-twitter-archive-mastery-a-guide-to-gif-download-success/"><u>[Updated] In 2024, Twitter Archive Mastery A Guide to GIF Download Success</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitdance-choreographed-videos-go-viral-online/"><u>[Updated] TwitDance Choreographed Videos Go Viral Online</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-audibly-enhance-videos-shared-as-tweets/"><u>2024 Approved Audibly Enhance Videos Shared as Tweets</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-x50i-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor X50i</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Lenovo ThinkPhone? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-15-pro-max-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 15 Pro Max Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-tasks-essential-folders-tweaks-for-windows-users/"><u>Streamline Tasks: Essential Folders Tweaks for Windows Users</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/viking-vernacular-unveiling-the-lost-nordic-dialect/"><u>Viking Vernacular: Unveiling the Lost Nordic Dialect</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-10-most-retweeted-tiktok-sensations-for-2024/"><u>[New] 10 Most Retweeted TikTok Sensations for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-understanding-and-meeting-aspect-ratios-on-twitter/"><u>[New] 2024 Approved Understanding and Meeting Aspect Ratios on Twitter</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-full-page-screen-capture-how-to-capture-screenshots-of-a-full-page/"><u>[New] Full Page Screen Capture How to Capture Screenshots of a Full Page?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-wit-wave-twitters-funniest-content-for-2024/"><u>[New] Wit Wave Twitter's Funniest Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-picshot-simplifies-photo-collage-creation/"><u>[Updated] How Picshot Simplifies Photo Collage Creation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-shifting-focus-twitters-videos-to-facebook-streaming/"><u>[Updated] Shifting Focus Twitters' Videos to Facebook Streaming</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/breaking-down-youtube-revenue-per-million-views-for-2024/"><u>Breaking Down YouTube Revenue per Million Views for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207339862-fortnite-successfully-started-now/"><u>Fortnite: Successfully Started Now</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-handy-tips-downloading-youtube-like-content-via-android/"><u>In 2024, Handy Tips Downloading YouTube-Like Content via Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/join-the-metaverse-meme-revolution-quick-tips-for-original-creators-for-2024/"><u>Join the Metaverse Meme Revolution - Quick Tips for Original Creators for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitter-jokes-made-accessible-with-3-simple-steps-pc/"><u>Twitter Jokes Made Accessible with 3 Simple Steps (PC)</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-hit-videos-the-most-watched-of-the-year-for-2024/"><u>Twitter's Hit Videos The Most Watched of the Year for 2024</u></a></li>
 </ul></div>
 
