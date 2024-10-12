@@ -1,7 +1,7 @@
 ---
 title: "Beat the Shadows: Fixing PC Playthroughs of Resident Evil Village When Faced with a Black Screen"
-date: 2024-10-03T18:01:47.581Z
-updated: 2024-10-06T17:59:57.170Z
+date: 2024-10-08T13:13:50.623Z
+updated: 2024-10-12T12:23:05.789Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Download an invisible cursor theme file
@@ -44,27 +44,20 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
 3. Click**Mouse** on the left panel, then click**Additional mouse options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Apply** . Your mouse cursor will disappear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
 6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Change resolution
 
@@ -75,6 +68,13 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 3. Choose**Screen Resolution** that fits your PC, remember the 16: 9 works better.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-14-23.jpg)
 4. Make sure you’re in full screen, not borderless window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : This fix might let the image lose a lot of quality.
 
@@ -87,19 +87,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-8.png)
 
 If this fix brings no luck, move to the next one.
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update device driver
 
@@ -121,6 +108,13 @@ There are two ways you can update your device drivers:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
@@ -147,16 +141,17 @@ There are two ways you can update your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-transform-your-color-grading-skills-with-photoshops-luts/"><u>[New] 2024 Approved Transform Your Color Grading Skills with Photoshop's LUTs</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-effortless-extraction-of-twitter-jokes-3-ways-for-2024/"><u>[New] Effortless Extraction of Twitter Jokes 3 Ways for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-amazon-prime-and-twitter-most-shared-and-liked-shows-23/"><u>[New] In 2024, Amazon Prime and Twitter Most Shared & Liked Shows, '23</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-breaking-down-2023s-highest-viewed-tweets/"><u>[Updated] 2024 Approved Breaking Down 2023’S Highest-Viewed Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-vidtwitter-effortless-video-downloads-from-social-sites/"><u>[Updated] 2024 Approved VidTwitter Effortless Video Downloads From Social Sites</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-re-image-twitter-video-portrait/"><u>[Updated] Re-Image Twitter Video Portrait</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-honor-magic-6-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Honor Magic 6 Pro Activity | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/easy-ways-to-add-music-to-imovie-from-youtube-for-2024/"><u>Easy Ways to Add Music to iMovie From YouTube for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-apple-iphone-6-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your Apple iPhone 6 Apple ID and Apple Pay</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-a54-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy A54 5G FRP Bypass</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-android-technique-accessing-and-saving-twitter-videos/"><u>[New] In 2024, Android Technique Accessing and Saving Twitter Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-exquisite-android-3d-media-experience/"><u>[New] In 2024, Exquisite Android 3D Media Experience</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-whatsapp-transfers-broadcasting-twitter-videos-with-ease/"><u>[New] In 2024, WhatsApp Transfers Broadcasting Twitter Videos with Ease</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-record-webcam-video-on-hp-laptops-and-chromebooks-for-2024/"><u>[Updated] How to Record Webcam Video on HP Laptops and Chromebooks for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-mastering-twitter-archives-for-analysis-for-2024/"><u>[Updated] Mastering Twitter Archives for Analysis for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-experience-the-april-8-eclipse-with-googles-complimentary-viewing-options-learn-how/"><u>1. Experience the April 8 Eclipse with Google's Complimentary Viewing Options - Learn How!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortlessly-transfer-your-dvd-content-free-conversion-tool-for-windows-turn-dvds-into-mobile-friendly-mp4avi-files-with-winx/"><u>Effortlessly Transfer Your DVD Content: Free Conversion Tool for Windows - Turn DVDs Into Mobile-Friendly MP4/AVI Files With WinX</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-xiaomi-redmi-note-12r-by-fonelab-android-recover-data/"><u>How to recover lost data from Xiaomi Redmi Note 12R?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-oppo-a2-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo A2 Phone Screen?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-share-with-impact-tiktok-videos-on-twitter/"><u>In 2024, Share with Impact TikTok Videos on Twitter</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photo-preservation-101-digitalization-of-ancestral-prints-for-2024/"><u>Photo Preservation 101 Digitalization of Ancestral Prints for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/k-the-secrets-to-increasing-views-in-60-second-youtube-shorts-for-2024/"><u>Unlock the Secrets to Increasing Views in 60-Second YouTube Shorts for 2024</u></a></li>
 </ul></div>
 

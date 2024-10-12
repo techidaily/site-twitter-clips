@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Humor Hierarchy  The 20 Most Popular Memes\""
-date: 2024-10-03T19:40:38.306Z
-updated: 2024-10-06T18:54:51.534Z
+date: 2024-10-11T01:51:27.290Z
+updated: 2024-10-11T20:31:56.969Z
 tags:
   - ai video
   - ai twitter
@@ -82,6 +82,13 @@ Rage guy is a pencil drawing of an angry face yelling “fffffffuuuuuuu” or so
 
 ![Rage Guy](https://images.wondershare.com/filmora/article-images/Rage-Guy-meme.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 9\. Make America Great Again
 
 Used as Trump’s campaign slogan, nowadays this is used as satire when pointing out things that are going on around the United States that aren’t so great.
@@ -189,13 +196,6 @@ This is a meme featuring Peyton Manning wearing a black hood and kneeling on a f
 
 ![Manning Face](https://images.wondershare.com/filmora/article-images/Manning-Face-meme.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. That's The Joke
 
 From a line spoken by comedian Rainier Wolfcastle in a Simpsons episode, it’s a meme now used in order to either explain the punchline to a joke in a condescending manner, or it is meant to be a deadpan (or annoyed) reply to something that wouldn’t have been funny otherwise.
@@ -244,18 +244,24 @@ Used as Trump’s campaign slogan, nowadays this is used as satire when pointing
 
 ![Make America Great Again](https://images.wondershare.com/filmora/article-images/Make-America-Great-Again-meme.JPG)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 10\. Fake CCG Cards
 
 CCG’s like Magic the Gathering are still popular, and fake CCG cards are used as image parodies for almost anything imaginable, from people, to animals, to other memes.
 
 ![Fake CCG Cards](https://images.wondershare.com/filmora/article-images/Fake-CCG-Cards-meme.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: The Most Popular Memes on Twitter
 
@@ -277,13 +283,6 @@ Nut Button started as a sexual meme, but it’s commonly used as a picture of so
 
 ![Nut Button](https://images.wondershare.com/filmora/article-images/Nut-Button-meme.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Spongebob Mock
 
 Spongebob Mocking is a screen capture of Spongebob making a strange face and walking like a chicken. It is usually accompanied by a reply written like this: ExAmPlE tExT, which is mocking the person who said the same sentence.
@@ -295,6 +294,13 @@ Spongebob Mocking is a screen capture of Spongebob making a strange face and wal
 These images vary, but they’re usually a person with a specific expression on their face, and someone posts it as their response to something that another Twitter user has said.
 
 ![Reaction Images](https://images.wondershare.com/filmora/article-images/Computer-Reaction-Faces-meme.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Expanding Brain
 
@@ -359,13 +365,6 @@ This is a meme featuring Peyton Manning wearing a black hood and kneeling on a f
 
 ![Manning Face](https://images.wondershare.com/filmora/article-images/Manning-Face-meme.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. That's The Joke
 
 From a line spoken by comedian Rainier Wolfcastle in a Simpsons episode, it’s a meme now used in order to either explain the punchline to a joke in a condescending manner, or it is meant to be a deadpan (or annoyed) reply to something that wouldn’t have been funny otherwise.
@@ -407,6 +406,13 @@ Kayode Ewumi, an actor, is pointing to his temple with a grin on his face. (It�
 Rage guy is a pencil drawing of an angry face yelling “fffffffuuuuuuu” or something similar. It’s usually used when the person posting is exasperated about something stupid that is being discussed.
 
 ![Rage Guy](https://images.wondershare.com/filmora/article-images/Rage-Guy-meme.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 9\. Make America Great Again
 
@@ -458,13 +464,6 @@ Expanding Brain is a picture with three images of the brain; one ordinary, one s
 
 ![Expanding Brain](https://images.wondershare.com/filmora/article-images/Expanding-Brain-meme.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Demotivational Posters
 
 These posters, at first glance, look like motivational posters, with images of nature or animals or other beautiful things – but the text is usually something sarcastic or sardonic.
@@ -488,6 +487,13 @@ The rapper Conceited is captured in this meme, looking off camera and pursing hi
 Usually represented by a stick figure, it’s someone looking at a computer with some sort of emotion on their face, related to the person’s reaction to something being said or discussed on a thread.
 
 ![Computer Reaction Faces](https://images.wondershare.com/filmora/article-images/Computer-Reaction-Faces-meme.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -529,10 +535,10 @@ From a line spoken by comedian Rainier Wolfcastle in a Simpsons episode, it’s 
 ![The Joke](https://images.wondershare.com/filmora/article-images/The-Joke-meme.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Feels Bad Man / Sad Frog
@@ -540,13 +546,6 @@ From a line spoken by comedian Rainier Wolfcastle in a Simpsons episode, it’s 
 This meme, which consists of a sad frog with tears in his eyes and sometimes has the words “Feels Bad Man” with it, is about failure or feeling bad because something didn’t go your way. It may be posted as a response to someone’s sad story, or as a sarcastic way to respond to something that happened to you.
 
 ![Sad Frog](https://images.wondershare.com/filmora/article-images/Sad-Frog-meme.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Confession Bear
 
@@ -584,18 +583,18 @@ Used as Trump’s campaign slogan, nowadays this is used as satire when pointing
 
 ![Make America Great Again](https://images.wondershare.com/filmora/article-images/Make-America-Great-Again-meme.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 10\. Fake CCG Cards
 
 CCG’s like Magic the Gathering are still popular, and fake CCG cards are used as image parodies for almost anything imaginable, from people, to animals, to other memes.
 
 ![Fake CCG Cards](https://images.wondershare.com/filmora/article-images/Fake-CCG-Cards-meme.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: The Most Popular Memes on Twitter
 
@@ -610,6 +609,19 @@ This is a picture of a fist from Arthur, the animated cartoon featuring the ante
 Evil Kermit, covered in a black cloak, is talking to traditional Kermit (the frog from one of the Muppet films). This picture is usually accompanied by a conversation between the user and their “evil self” about a decision that they’re trying to make.
 
 ![Evil Kermit](https://images.wondershare.com/filmora/article-images/Evil-Kermit-meme.JPG)
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Nut Button
 
@@ -694,19 +706,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-captivating-your-network-streamlining-content-via-wirecast-to-facebook/"><u>[New] 2024 Approved Captivating Your Network Streamlining Content via Wirecast to Facebook</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-the-essentials-of-real-time-tweets-on-twitter/"><u>[New] 2024 Approved The Essentials of Real-Time Tweets on Twitter</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-facebooks-best-picture-enhancers-top-11-tools-ranked/"><u>[New] Facebook's Best Picture Enhancers Top 11 Tools Ranked</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-frolicsome-media-repository/"><u>[New] Frolicsome Media Repository</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-instant-sharing-with-media-files-twitters-guide-for-2024/"><u>[New] Instant Sharing with Media Files Twitter's Guide for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-the-power-of-personal-success-stories-in-videos/"><u>[Updated] Harnessing the Power of Personal Success Stories in Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-edge-strategies-for-youtube-split-screen-videos/"><u>[Updated] In 2024, Cutting-Edge Strategies for YouTube Split-Screen Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-mastering-twitter-broadcast-alive-tweets-guide/"><u>[Updated] In 2024, Mastering Twitter Broadcast Alive Tweets Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-prime-low-cost-recording-software-tops/"><u>2024 Approved Prime Low-Cost Recording Software Tops</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweetstream-extractor-pull-twitter-videos-to-iphone/"><u>2024 Approved TweetStream Extractor Pull Twitter Videos to iPhone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-twitter-videos-shared-directly-from-phones/"><u>2024 Approved Twitter Videos Shared Directly From Phones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-itel-a60-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-freesync-review-the-latest-from-lg-27uhd68-monitor/"><u>In 2024, FreeSync Review The Latest From LG 27UHD68 Monitor</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/tweaking-the-viewers-journey-the-art-of-custom-thumbnail-design-in-twitter-for-2024/"><u>Tweaking the Viewer's Journey The Art of Custom Thumbnail Design in Twitter for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-superior-5-sites-matching-twitters-features/"><u>[New] 2024 Approved Superior 5 Sites Matching Twitter's Features</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-evaluating-top-screen-capture-software-which-is-superior-obs-or-fraps/"><u>[Updated] 2024 Approved Evaluating Top Screen Capture Software Which Is Superior, OBS or Fraps?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-fast-track-to-fashionista-status-on-instagram-our-essential-guide-for-speed-up-star-chasers-for-2024/"><u>[Updated] The Fast Track to Fashionista Status on Instagram Our Essential Guide for Speed-Up Star Chasers for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/comedy-cornucopia-twitters-best-for-2024/"><u>Comedy Cornucopia Twitter's Best for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/damn-small-linux-a-fresh-start-for-legacy-systems-explained-in-simple-steps/"><u>Damn Small Linux: A Fresh Start for Legacy Systems Explained in Simple Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-spark-10-pro-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Spark 10 Pro</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-advice-how-to-easily-update-your-computers-intel-centrino-advanced-n-client-driver-6237-version/"><u>Expert Advice: How to Easily Update Your Computer's Intel Centrino Advanced-N Client Driver (6237) Version</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-amplify-your-content-reach-with-twitters-visual-stories-to-insta/"><u>In 2024, Amplify Your Content Reach with Twitter's Visual Stories to Insta</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-troubleshooting-tips-unearth-hidden-facebook-content/"><u>In 2024, Troubleshooting Tips Unearth Hidden Facebook Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/kazam-screen-recorder-features-guide-review-for-2024/"><u>Kazam Screen Recorder Features| Guide| Review for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/screen-captures-galore-expert-techniques-for-twitter-visuals/"><u>Screen Captures Galore Expert Techniques for Twitter Visuals</u></a></li>
+<li><a href="https://fox-http.techidaily.com/supercharge-your-chat-essential-whatsapp-tactics-revealed-for-2024/"><u>Supercharge Your Chat Essential WhatsApp Tactics Revealed for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/your-quick-path-to-multimedia-tweeting-for-2024/"><u>Your Quick Path to Multimedia Tweeting for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Blade E-Flite mCX^2: A Masterclass on Ready-To-Fly RC Helicopters That Soar Above The Rest"
-date: 2024-10-01T17:08:44.324Z
-updated: 2024-10-06T19:11:14.889Z
+date: 2024-10-05T20:16:03.149Z
+updated: 2024-10-12T11:59:42.565Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the Blade E-Flite mCX^2: A Masterclass on Ready-To-Fly RC Helicopters That Soar Above The Rest"
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Netgear Nighthawk EAX80 AX6000 Wi-Fi 6 Mesh Extender
@@ -73,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
  If you don’t already have one of those new Wi-Fi 6 routers, should you spend extra for the Netgear Nighthawk AX8 to futureproof your setup? Here’s what I think after testing the device for several days across everyday web usage, media streaming, playing online games, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Pretty awkward**
 
  The Netgear’s Nighthawk AX8 Wi-Fi 6 Mesh Extender is not only the largest and heaviest Wi-Fi extender I’ve tested at 10 inches tall and nearly two pounds, but it’s also one of the oddest-looking. It has a lot more angles and tapered elements than I’d think are necessary, which results in an overall look that’s dynamic but ultimately awkward. Also, the little plastic feet don’t do a great job of supporting the weight, making it a bit wobbly on a flat surface.
@@ -102,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
  Lifewire / Andrew Hayward
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Connectivity: Smooth sailing**
 
  Once through the hassle of setup, the Netgear Nighthawk AX8 Wi-Fi 6 Mesh Extender really did deliver strong performance. I tested the connection in my office, which reliably sees reduced 5GHz reception from my router due to obstructions in between, and saw a noticeable boost in both reception and speed.
@@ -118,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
 ![Netgear Nighthawk AX8 (EAX80) Wi-Fi 6 Mesh Extender](https://www.lifewire.com/thmb/rtnI3hSe9qP5qFqjhu1LRxe7qYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Netgear_NetWorkExtenders_NighthawkEAX80_03-19da5fea4d0349ce984f52a11493d337.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Andrew Hayward
 
  As a Wi-Fi mesh extender, the Netgear Nighthawk AX8 will automatically replicate the SSID of your router’s existing Wi-Fi networks and seamlessly keep you connected whenever you’re in range of either. That’s true even with non-Netgear routers and those without Wi-Fi 6 support, and it’s a huge benefit over some cheaper extenders that don’t keep the same network info intact across devices.
@@ -132,19 +139,6 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
  Should you really spend that much on an extender? If you don’t already have a new Wi-Fi 6 router, then probably not. You might see higher peaks of speed as I did, but rather than trying to mix and match old and new tech, you’re probably better off investing in a new Wi-Fi mesh system that can cover the entire house. Netgear’s Orbi is a favorite, as is Google’s similar Nest Wi-Fi system.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Netgear Nighthawk AX8 vs. Netgear Nighthawk X6S (EX8000)**
 
  Both of these Netgear Nighthawk Wi-Fi extenders will set you back $200 or more, and the key difference between them—aside from design—is the Wi-Fi 6 compatibility of the Nighthawk AX8\. The Nighthawk X6S (see on[Amazon](https://www.amazon.com/NETGEAR-Wi-Fi-Range-Extender-EX8000/dp/B074F3M2W8/?tag=lifewire-onsite-prod-20&ascsubtag=4846125%7Cn35b11b2c61b54fa1a2d951691d1a61ed04%7C) ) doesn’t have that, but it does deliver excellent 5GHz range and has four Gigabit Ethernet ports for wired devices. The Nighthawk AX8 is more future-proof as a result, but at a greater cost that becomes increasingly difficult to justify the higher, it climbs.
@@ -156,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
  If you’ve already bought a Wi-Fi 6 router and need a little help extending your signal into further corners of your home and/or property, then the Nighthawk AX 8 (EAX 80) is the extender you’ll want. But if you don’t have a Wi-Fi 6 router, then you’ll either want to start there or consider investing in a Wi-Fi[mesh system](https://www.lifewire.com/what-is-a-mesh-network-4842178) instead. Spending more than $200 on an extender doesn’t make much sense unless you’re adding it to a top-of-the-line system—and don’t mind the significant investment.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -188,19 +182,14 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-amazon-prime-and-tweet-fandom-most-appreciated-videos-2023/"><u>[New] 2024 Approved Amazon Prime and Tweet Fandom - Most Appreciated Videos, 2023</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unveiling-simple-sync-obs-plus-zoom-journey/"><u>[New] 2024 Approved Unveiling Simple Sync OBS + Zoom Journey</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-step-by-step-voice-customization-on-instagram-revealed/"><u>[New] In 2024, Step-by-Step Voice Customization on Instagram Revealed</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-premier-destinations-amplifying-youtube-videos/"><u>[New] Premier Destinations Amplifying YouTube Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twit-trends-unveiled-10-heatwave-videos-that-are-viral/"><u>[Updated] 2024 Approved Twit-Trends Unveiled 10 Heatwave Videos That Are Viral</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-aerial-cutting-edge-the-ultimate-drone-editing-comparison/"><u>[Updated] In 2024, Aerial Cutting Edge The Ultimate Drone Editing Comparison</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-insiders-look-at-twitter-ad-performance-metrics-for-2024/"><u>[Updated] The Insider's Look at Twitter Ad Performance Metrics for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movavi-wav-and-wmamp3/"><u>「オンライン無料のMovavi変換ツール – WAV & WMAファイルをMP3へ」</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-cutting-through-platform-barriers-sharing-tweets-videos-to-snapchat/"><u>2024 Approved Cutting Through Platform Barriers Sharing Tweets' Videos to Snapchat</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-streamline-the-spectacle-exploring-hd-video-on-twitter/"><u>2024 Approved Streamline the Spectacle Exploring HD Video on Twitter</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-artisans-realm-inside-youtubes-studio-space/"><u>In 2024, The Artisan’s Realm Inside YouTube's Studio Space</u></a></li>
-<li><a href="https://win11.techidaily.com/top-5-complimentary-movie-editing-tools-of-2024-compatible-with-pc-and-mac/"><u>Top 5 Complimentary Movie Editing Tools of 2024: Compatible with PC & Mac</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-ais-inception-key-historical-milestebts-in-machine-learning/"><u>Unveiling AI's Inception: Key Historical Milestebts in Machine Learning</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-bypass-issue-twitter-video-on-chrome-freeze-for-2024/"><u>[New] Bypass Issue Twitter Video on Chrome Freeze for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-discovering-the-most-shared-twitvideos-of-the-year-for-2024/"><u>[Updated] Discovering the Most Shared TwitVideos of the Year for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-hot-takes-highlight-twitters-trending-topics/"><u>[Updated] In 2024, Hot Takes Highlight Twitter's Trending Topics</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-premium-cutters-the-8-must-have-linux-apps/"><u>[Updated] Premium Cutters The 8 Must-Have Linux Apps</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-streaming-screenshots-share-without-twitting-for-2024/"><u>[Updated] Streaming Screenshots Share Without Twitting for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/url3/"><u>「ブライトコーヴでダウンロードする動画を取得する：特定URLを使った効果的な戦略3選」</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/or-mirrorless-for-high-quality-video-recording/"><u>DSLR or Mirrorless for High-Quality Video Recording?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-guidelines-to-gradually-reduce-audio-amplitude-in-logic-pro/"><u>In 2024, Guidelines to Gradually Reduce Audio Amplitude in Logic Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Realme Narzo N53? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Uniden R3 Analysis: Robust Construction and Extended Range Capabilities"
-date: 2024-09-29T20:28:33.558Z
-updated: 2024-10-06T18:04:02.424Z
+date: 2024-10-10T22:52:18.124Z
+updated: 2024-10-11T18:34:44.322Z
 categories:
   - BestProducts
 description: "This Article Describes Uniden R3 Analysis: Robust Construction and Extended Range Capabilities"
@@ -38,21 +38,22 @@ Lifewire / Andrew Hayward
 4.2
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## TopMate C302 Laptop Cooling Pad
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Um5K58ex8qVMnW5PlEtqzPi9c-4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_HeroSquare-53c92cb3074b41d9b696fd9f6fa1a64e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
@@ -75,6 +76,13 @@ Lifewire / Andrew Hayward
  Although the core functionality is typically the same, laptop cooling pads come in a variety of designs and with different features. Some are robust and durable and may pack in additional perks, while some stick to the absolute basics, aiming to win out on pure bang for buck.
 
  The TopMate C302 is a strong example of the latter. It’s affordable and solidly effective, but the plastic design feels a bit flimsy. I wouldn’t bet on it lasting for the long haul without gentle handling, but given the price, you might not worry about it too much.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design: Light and a little flimsy
 
@@ -102,19 +110,6 @@ Lifewire / Andrew Hayward
 
 Lifewire / Andrew Hayward
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Performance: It makes a difference
 
  I tested the C302 using the[Razer Blade 15 (2019) gaming laptop](https://www.lifewire.com/razer-blade-15-review-4845229) , which is equipped with an Intel Core i7-9750H processor and 16GB RAM, as well as a NVIDIA GeForce GTX 1660 Ti GPU (6GB).
@@ -129,18 +124,18 @@ Lifewire / Andrew Hayward
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Xs71AyeThjZwy-vZJ9LfxIhuXJc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_04-eadbaf270b874af9bb8843b95efe8ca7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Andrew Hayward
 
  Lastly, UNIGINE’s Heaven Benchmark hit 162 degrees internally and 109 degrees externally on the Razer Blade 15 alone, and dropped to 154 degrees internally and 105 degrees externally when using the C302\. All told, this lightweight and affordable pad delivered solid cooling power that helped cut down on both the internal and external temperature of the laptop while under significant stress.
 
  Depending on test, the results were roughly comparable to or better than more expensive cooling pads, like the Kootek Laptop Cooling Pad and Thermaltake Massive TM, which have some added features onboard. It’s also pretty quiet in use—certainly quieter than the Razer Blade 15’s own internal fans.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Price: It’s very affordable
 
@@ -149,6 +144,13 @@ Lifewire / Andrew Hayward
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/3hXx9Tb9omnQS0YyIXmv97Lunr0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_02-8fc1ac2169044c0a82b61a80f63ef089.jpg)
 
 Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## TopMate C302 vs. Kootek Laptop Cooling Pad
 
@@ -160,25 +162,11 @@ Lifewire / Andrew Hayward
 
  Durability questions aside, the TopMate C302 Laptop Cooling Pad ultimately worked about as well as the other, pricier pads I tested, helping to offset some of the heat generated by a very hot gaming laptop. If you’re concerned about long-term damage or performance degradation from an overheating laptop, the C302 is a cost-efficient way to help keep your notebook from reaching extreme heat peaks.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Flexispot Theodore Standing Desk](https://www.lifewire.com/flexispot-theodore-standing-desk-review-5183806)
 * [ProCase MacBook Pro 13 Case](https://www.lifewire.com/procase-macbook-pro-13-case-review-4689945)
 * [North Face Pivoter Backpack](https://www.lifewire.com/north-face-pivoter-backpack-review-4690198)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -208,20 +196,14 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-dive-into-digital-clarity-the-guide-for-full-hd-on-tweet/"><u>[New] 2024 Approved Dive Into Digital Clarity The Guide for Full HD on Tweet</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevating-profits-via-celebrity-skincare-channels/"><u>[New] 2024 Approved Elevating Profits via Celebrity Skincare Channels</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-enhance-collaboration-with-these-zoom-tools/"><u>[New] Enhance Collaboration with These Zoom Tools</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-twitters-entry-points-creating-an-account/"><u>[New] Twitters' Entry Points Creating an Account</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-live-stream-tools-xsplit-or-obs/"><u>[Updated] Best Live Stream Tools XSplit or OBS?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-ensure-video-success-on-twitter-understand-the-aspect-ratio-for-2024/"><u>[Updated] Ensure Video Success on Twitter Understand the Aspect Ratio for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tweet-to-gif-magic-videos-to-animations-at-no-charge/"><u>[Updated] In 2024, Tweet-to-GIF Magic Videos to Animations at No Charge</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-showcasing-contributions-and-thought-leadership/"><u>[Updated] Showcasing Contributions & Thought Leadership</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-wit-waves-the-top-10-jokes-for-2024/"><u>[Updated] Wit Waves The Top 10 Jokes for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-advanced-tips-for-maximum-digital-storage/"><u>2024 Approved Advanced Tips for Maximum Digital Storage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/debunking-ai-dependence-for-financial-data-study/"><u>Debunking AI Dependence for Financial Data Study</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/error-code-0xc0000185-what-it-is-and-how-to-fix-it/"><u>Error Code 0Xc0000185: What It Is and How to Fix It</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-elevate-gaming-on-tv-obs-guide/"><u>In 2024, Elevate Gaming on TV - OBS Guide</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Pokémon Go Cooldown Chart On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/seamless-media-exchange-posting-twitter-videos-on-instagram-for-2024/"><u>Seamless Media Exchange Posting Twitter Videos on Instagram for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-the-ebb-and-flow-of-trending-tweets/"><u>[New] 2024 Approved The Ebb and Flow of Trending Tweets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-best-mac-tools-excluding-standard-bandicam/"><u>[New] Best Mac Tools Excluding Standard Bandicam</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-expert-tips-for-twitter-video-interactions-for-2024/"><u>[New] Expert Tips for Twitter Video Interactions for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-aspect-ratio-compliance-for-youtube-style-tweets/"><u>[Updated] 2024 Approved Aspect Ratio Compliance for YouTube-Style Tweets</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-infinix-note-30-vip-racing-edition-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Infinix Note 30 VIP Racing Edition FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-an-older-gamepad-dock-support-switchs-oled-model/"><u>Can an Older Gamepad Dock Support Switch's OLED Model?</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-7-plus-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 7 Plus GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-mp4mpeg-audio-extraction-tool/"><u>In 2024, MP4/MPEG Audio Extraction Tool</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-gt-10-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix GT 10 Pro Phone FRP Lock</u></a></li>
 </ul></div>
 

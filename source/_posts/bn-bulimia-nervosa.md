@@ -1,7 +1,7 @@
 ---
 title: BN = Bulimia Nervosa;
-date: 2024-10-01T20:33:01.811Z
-updated: 2024-10-06T19:43:44.784Z
+date: 2024-10-10T18:00:44.003Z
+updated: 2024-10-11T18:26:43.797Z
 categories:
   - BestProducts
 description: This Article Describes BN = Bulimia Nervosa;
@@ -40,10 +40,16 @@ Lifewire / Erika Rawes
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New Bee LC-B41 Bluetooth Earpiece
@@ -73,18 +79,18 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Small and inconspicuous**
 
  The New Bee is relatively small, measuring a little over two inches in length and about 0.6 inches wide. It comes in three different colors: black, white, or gold. The exterior finish is glossy, and it has silver trim that gets thicker at the rounded off bottom portion of the headset. Overall, this headset looks more like a typical electronic device than some of the other units I’ve tested.
 
  There are three hard button controls on the New Bee, which are ideally located for the easiest possible access. On one side sits a physical on and off slider switch, and the other side has a volume control switch. The brand name “New Bee” is printed along the front of the glossy surface, and you press on the front glossy surface of the headset to answer and end calls. Since the call button is so large, it’s easier to answer a call while you’re performing other tasks.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Comfort: Wears well for long periods**
 
@@ -93,13 +99,6 @@ Lifewire / Erika Rawes
  Music playback is by no means comparable to a high-quality pair of earbuds.
 
  The ear cushions are soft and comfortable, and they don’t feel “forced.” Each ear cushion has a loop that helps it stay in the ear, but the loop is flexible, so it doesn’t push against the curves in your ear.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Sound Quality: Better for calls than music**
 
@@ -110,6 +109,13 @@ Lifewire / Erika Rawes
  When listening to music on the New Bee, it played more clearly on lower volumes and produced a slight amount of static on the highest volume levels. The music playback is by no means comparable to a high-quality pair of earbuds designed for music, like[Bose SoundSport wireless](https://www.lifewire.com/bose-soundsport-wireless-headphones-review-4589230) earbuds, but I could still enjoy the music on the New Bee headset without disturbing those around me.
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Features: Accessories galore**
 
@@ -126,10 +132,10 @@ Lifewire / Erika Rawes
  The price tag is insanely affordable. You can buy the New Bee LC-41 headset for around $17, which is an excellent value considering the battery life and all of the included accessories.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **New Bee LC-41 vs. Jabra Steel**
@@ -168,14 +174,15 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-enhance-engagement-personalize-twitter-videos-with-new-thumbnails/"><u>[New] 2024 Approved Enhance Engagement Personalize Twitter Videos with New Thumbnails</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-how-to-use-twitter-archive-in-2024/"><u>[New] How to Use Twitter Archive, In 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-enhancing-clarity-with-time-indicators-in-youtube-media/"><u>[New] In 2024, Enhancing Clarity with Time Indicators in YouTube Media</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-prime-video-titans-the-tweeted-and-tested-binge-masters-for-2024/"><u>[New] Prime Video Titans The #Tweeted and Tested Binge Masters for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-how-to-live-stream-on-twitter/"><u>[Updated] In 2024, How to Live Stream on Twitter</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-photoperfect-optimizing-visuals-and-videos-in-instagram/"><u>2024 Approved PhotoPerfect Optimizing Visuals and Videos in Instagram</u></a></li>
-<li><a href="https://article-helps.techidaily.com/synthesis-of-song-elements-the-crossfade-approach/"><u>Synthesis of Song Elements The Crossfade Approach</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-12-free-animation-tools-for-windows-and-macos/"><u>Top 12 Free Animation Tools for Windows and macOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/upcoming-xbox-virtual-reality-headset-anticipated-launch-details-and-pricing-insights/"><u>Upcoming Xbox Virtual Reality Headset - Anticipated Launch Details & Pricing Insights</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-enhancing-outreach-sending-twitters-videos-to-facebooks/"><u>[New] Enhancing Outreach Sending Twitters' Videos to Facebooks</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-meme-maniacs-twitters-funniest-video-threads-roundup/"><u>[New] Meme Maniacs Twitter's Funniest Video Threads Roundup</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-primevideos-leaders-twitters-best-liked-and-most-watched-content-for-2024/"><u>[New] PrimeVideos Leaders Twitter's Best-Liked & Most-Watched Content for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-proart-pa-329q-examining-a-premium-4k-monitor-for-professionals-for-2024/"><u>[New] ProArt PA 329Q Examining a Premium 4K Monitor for Professionals for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smartest-spots-for-knowquizzes-a-new-year-ranking-2024/"><u>[Updated] Smartest Spots for KNOWQuizzes - A New Year Ranking, 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-guide-to-screenflow-pros-mac-edition/"><u>2024 Approved The Ultimate Guide to ScreenFlow Pro's Mac Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-song-of-ice-and-fire-top-sites-to-snatch-game-of-thrones-ringtones/"><u>A Song of Ice and Fire Top Sites to Snatch Game of Thrones Ringtones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/engaging-visuals-meet-smooth-play-with-lgs-4k-freesync-tv/"><u>Engaging Visuals Meet Smooth Play with LG's 4K FreeSync TV</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fast-track-your-pc-with-samsung-m2070fw-drivers-download-without-hassle/"><u>Fast Track Your PC with Samsung M2070FW Drivers - Download Without Hassle</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/tips-for-sharing-twitter-videos-on-instagram-for-2024/"><u>Tips for Sharing Twitter Videos on Instagram for 2024</u></a></li>
 </ul></div>
 

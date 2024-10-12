@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Stop Life Is Strange: True Colors From Unexpectedly Shutting Down"
-date: 2024-10-03T18:44:42.848Z
-updated: 2024-10-06T20:38:36.357Z
+date: 2024-10-08T06:23:37.304Z
+updated: 2024-10-12T06:16:22.113Z
 tags:
   - win11
   - win10
@@ -61,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 
 If this doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update the graphics driver
 
  One of the most common causes for game freezing issues is that your graphics driver is faulty or outdated. Same for Vanguard, you want to make sure that your graphics driver is up-to-date and functioning properly.
@@ -89,10 +82,10 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -110,18 +103,24 @@ If this doesn’t solve your problem, try the next fix.
 
 If this doesn’t help, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Run the game executable as administrator
 
  Sometimes when the game doesn’t have the required administrator rights, it could crash or freeze randomly in the middle of the gameplay. You can provide them by running the game executable file as administrator.
 
 If Vanguard still freezes randomly on your PC, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Repair corrupted system files
 
@@ -134,14 +133,20 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -158,17 +163,25 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
-4. Restart your PC to let it take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
+4. Restart your PC to let it take effect.
 
 If this doesn’t solve your problem, try the next fix.
 
@@ -183,10 +196,10 @@ If this doesn’t solve your problem, try the next fix.
 If the freezing issue persists, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 8: Increase your virtual memory
@@ -197,21 +210,29 @@ If the freezing issue persists, there’s one more fix you can try.
 2. Paste **sysdm.cpl** in the box, then click OK.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the **Advanced** tab, under the Performance section, click **Settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
@@ -219,13 +240,6 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 7. If you don’t know how much RAM you have, press the **Windows key** and **R** to invoke the Run box. Then type in **msinfo32** and click **OK** . You’ll find the information in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 8. Calculate and fill in the **Initial size and Maximum size** , click **Set** then click **OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 9. Reboot your PC to see if Vanguard still freezes on your PC.
@@ -249,22 +263,21 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-80plus-creative-cooking-channel-names-to-attract-more-audience/"><u>[New] 2024 Approved 80+ Creative Cooking Channel Names to Attract More Audience</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-chuckle-fest-twitters-10-funniest-tweets-for-2024/"><u>[New] Chuckle-Fest Twitter's 10 Funniest Tweets for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-saving-smiles-the-ultimate-list-of-twitvid-tools/"><u>[New] Saving Smiles The Ultimate List of TwitVid Tools</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2023s-top-tweets-the-highest-traffic-watchlist/"><u>[Updated] 2023'S Top Tweets The Highest Traffic Watchlist</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-break-free-from-the-norms-crafting-your-own-streamer-identity/"><u>[Updated] 2024 Approved Break Free From The Norms Crafting Your Own Streamer Identity</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-enhancing-outreach-sending-twitters-videos-to-facebooks/"><u>[Updated] Enhancing Outreach Sending Twitters' Videos to Facebooks</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-efficient-video-broadcasting-across-twit-and-tumble/"><u>2024 Approved Efficient Video Broadcasting Across Twit & Tumble</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-beat-is-in-your-hands-for-free/"><u>2024 Approved The Beat Is in Your Hands for Free</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-4k-capture-tools-for-ultimate-hd-recording/"><u>2024 Approved Top 4K Capture Tools for Ultimate HD Recording</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/expert-endorsed-ae-text-tools-for-2024/"><u>Expert-Endorsed AE Text Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/increase-productivity-hotkey-hacks-on-your-mouse/"><u>Increase Productivity: Hotkey Hacks on Your Mouse</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/mastering-twitter-videos-a-beginners-tutorial-for-2024/"><u>Mastering Twitter Videos A Beginner's Tutorial for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-dimming-display-on-lenovo-devices/"><u>Overcoming Dimming Display on Lenovo Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rapid-updates-to-networking-components-in-win7/"><u>Rapid Updates to Networking Components in Win7</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/the-essential-checklist-for-adding-videos-to-tweets/"><u>The Essential Checklist for Adding Videos to Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/twitter-gif-retrieval-3-easy-methods-for-pcs-for-2024/"><u>Twitter Gif Retrieval 3 Easy Methods for PCs for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-5-tools-for-enhancing-web-videos/"><u>[New] In 2024, Top 5 Tools for Enhancing Web Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aximizing-your-youtube-earnings-with-smart-tactics/"><u>[New] Maximizing Your YouTube Earnings with Smart Tactics</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-twitters-top-picks-most-retweeted-and-binge-watched-series/"><u>[New] Twitters' Top Picks Most Retweeted & Binge-Watched Series</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-upgrading-visual-appeal-a-how-to-guide-for-twitter-video-image-changes/"><u>[New] Upgrading Visual Appeal A How-To Guide for Twitter Video Image Changes</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-webm-audio-extraction-from-twitta-vids/"><u>[New] WebM Audio Extraction From Twitta Vids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-conquer-the-shadows-5-ways-to-fix-black-screen-with-obs/"><u>[Updated] 2024 Approved Conquer the Shadows 5 Ways to Fix Black Screen with OBS</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-strategic-sharing-of-tiktok-content-on-twitter/"><u>[Updated] 2024 Approved Strategic Sharing of TikTok Content on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-upgrading-visual-appeal-a-how-to-guide-for-twitter-video-image-changes/"><u>[Updated] In 2024, Upgrading Visual Appeal A How-To Guide for Twitter Video Image Changes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-f15-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy F15 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-civi-3-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi Civi 3 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-xs-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone XS to SIM? | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-2023s-viral-tweets-ranking-by-number-of-viewers/"><u>In 2024, 2023’S Viral Tweets Ranking by Number of Viewers</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-breaking-into-twitter-live-your-strategy/"><u>In 2024, Breaking Into Twitter Live Your Strategy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ordering-your-star-wars-adventure-a-step-by-step-disneyplus-tutorial/"><u>Ordering Your Star Wars Adventure: A Step-by-Step Disney+ Tutorial</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionizing-workflows-apples-newest-ipad-102-a-deep-dive-into-enhanced-productivity-with-ipados/"><u>Revolutionizing Workflows: Apple's Newest iPad 10.2 - A Deep Dive Into Enhanced Productivity with iPadOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-guide-resolving-drag-and-drop-issues-in-windows/"><u>Troubleshooting Guide: Resolving Drag & Drop Issues in Windows</u></a></li>
 </ul></div>
 

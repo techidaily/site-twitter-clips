@@ -1,7 +1,7 @@
 ---
 title: Essential Tips and Techniques for Fixing a Malfunctioning Google Meet Camera
-date: 2024-09-29T17:29:48.396Z
-updated: 2024-10-06T18:16:13.204Z
+date: 2024-10-05T18:26:52.279Z
+updated: 2024-10-12T10:19:12.140Z
 tags:
   - win11
   - win10
@@ -76,18 +76,18 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-358.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -112,6 +112,13 @@ If your problem persists, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-42-46-1.jpg)
@@ -119,6 +126,13 @@ If your problem persists, then go ahead with the next fix below.
 **5)** Wait for this process to be complete, and then relaunch DOOM.
 
 If this didn’t work, try the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Lower your in-game settings
 
@@ -136,13 +150,6 @@ If this didn’t work, try the fix, below.
 
 If not, move on and try the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Increase virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when performing an intensive task, Windows will dip into virtual memory for temporary file storage.
@@ -154,10 +161,10 @@ If not, move on and try the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click **View advanced system settings.**
@@ -173,22 +180,15 @@ If not, move on and try the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/paging-file.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Click your **C drive** .
 
@@ -226,6 +226,13 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Restart your computer after the update is complete, then try running DOOM again.
 
  Hope Doom is running correctly now. If it’s not, don’t fret. Try the fix below.
@@ -237,19 +244,6 @@ If not, move on and try the next solution below.
 **1)**  If you’re running Steam now, right-click the Steam icon on the taskbar, and then select **Exit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
@@ -264,10 +258,10 @@ If not, move on and try the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_12-34-56-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall DOOM.
@@ -295,19 +289,20 @@ If not, move on and try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-comprehensive-breakdown-sony-fdr-x1000-video-gear/"><u>[New] Comprehensive Breakdown Sony FDR-X1000 Video Gear</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-navigating-overwatch-audio-capture-settings/"><u>[New] In 2024, Navigating Overwatch Audio Capture Settings</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-swift-tip-extracting-and-storing-twitter-video-on-phone/"><u>[New] In 2024, Swift Tip Extracting and Storing Twitter Video on Phone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-social-media-sensations-most-liked-and-watched-amazon-originals/"><u>[Updated] 2024 Approved The Social Media Sensations Most Liked & Watched Amazon Originals</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-modify-twitter-video-capture-image/"><u>[Updated] Modify Twitter Video Capture Image</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-dive-into-magix-video-pro-x-features/"><u>2024 Approved Dive Into Magix Video Pro X Features</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-social-snapshot-examining-twitters-hottest-videos/"><u>2024 Approved Social Snapshot Examining Twitter's Hottest Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-your-ultimate-yt-shorts-companion/"><u>2024 Approved Your Ultimate YT Shorts Companion</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-tecno-spark-10c-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Tecno Spark 10C</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/is-netflix-not-working-properly-uncover-the-causes-and-quick-fixes/"><u>Is Netflix Not Working Properly? Uncover the Causes and Quick Fixes</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/pinnacle-edition-tweets-transformed-into-timeless-gifs-for-2024/"><u>Pinnacle Edition - Tweets Transformed Into Timeless GIFs for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ifa-players-visualized-data-infographics-for-2024/"><u>Top FIFA Players Visualized Data Infographics for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-a-complete-guide-to-twitter-archive-mastery/"><u>[New] 2024 Approved A Complete Guide to Twitter Archive Mastery</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-chronicles-of-charms-a-compreentic-toolkit-for-twitters-visual-treasures/"><u>[New] In 2024, Chronicles of Charms A Compreentic Toolkit for Twitter's Visual Treasures</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-quick-method-retain-tweets-video-on-your-android-gadget/"><u>[New] In 2024, Quick Method Retain Tweets' Video on Your Android Gadget</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-strategies-for-youtube-style-video-integration-in-instagram-from-twitter-for-2024/"><u>[New] Strategies for YouTube-Style Video Integration in Instagram From Twitter for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-amazonprimes-winning-tweets-of-the-year-2023/"><u>[Updated] In 2024, AmazonPrime's Winning Tweets of the Year 2023</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-efficiently-incorporate-media-in-your-tweets/"><u>[Updated] In 2024, Efficiently Incorporate Media in Your Tweets</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1725290501648-avchd-mov-avi-wmv-flv/"><u>無料で全ての動画形式変換 - AVCHD, MOV, AVI, WMV, FLV対応</u></a></li>
+<li><a href="https://games-able.techidaily.com/crucial-5-motivations-why-purchase-vintage-gaming-units/"><u>Crucial 5 Motivations: Why Purchase Vintage Gaming Units</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-magic-vs-2-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor Magic Vs 2 Phone? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-xr-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone XR</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-facebook-to-play-youtube-videos-without-interruption-for-2024/"><u>Navigating Facebook to Play YouTube Videos Without Interruption for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-quadro-rtx-saft-8000-driver-for-windows-free-download-win-10-8-7-supported/"><u>NVIDIA Quadro RTX ˈsaɪft 8000 Driver for Windows - Free Download | Win 10, 8, 7 Supported</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-networking-heavyweights-understanding-the-impact-of-facebook-twitter-instagram-and-youtube/"><u>Social Networking Heavyweights: Understanding the Impact of Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-freeing-your-device-from-the-icloud-activation-restriction/"><u>Step-by-Step Guide: Freeing Your Device From the iCloud Activation Restriction</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-apple-iphone-15-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your Apple iPhone 15 has bad ESN or blacklisted IMEI?</u></a></li>
 </ul></div>
 

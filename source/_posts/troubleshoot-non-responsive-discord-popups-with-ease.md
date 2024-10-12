@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Non-Responsive Discord Popups with Ease
-date: 2024-10-05T20:25:17.954Z
-updated: 2024-10-06T19:26:25.764Z
+date: 2024-10-10T00:27:55.089Z
+updated: 2024-10-12T13:39:32.123Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
  Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
@@ -52,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 ### Fix 2: Run Discord as administrator
@@ -68,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
  1) On your desktop,**right-click** the shortcut of **Discord** and then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
@@ -84,6 +77,13 @@ See if this issue reappears. If not, you have fixed this issue.
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for software interruption
 
@@ -102,10 +102,10 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
@@ -128,15 +128,28 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 iv. Restart your PC.
@@ -168,22 +181,15 @@ See if this issue reappears. If not, you have fixed this issue!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
@@ -207,17 +213,18 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-immerse-in-visual-creation-best-3d-model-and-rendering-tools-reviewed/"><u>[New] 2024 Approved Immerse in Visual Creation Best 3D Model & Rendering Tools Reviewed</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-quick-tips-for-uploading-content-on-twitter-for-2024/"><u>[New] Quick Tips for Uploading Content on Twitter for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-twit-trends-unveiled-10-heatwave-videos-that-are-viral-for-2024/"><u>[New] Twit-Trends Unveiled 10 Heatwave Videos That Are Viral for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-unified-platforms-for-sharing-videos-for-2024/"><u>[New] Unified Platforms for Sharing Videos for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-essential-guide-for-newbies-visual-fidelity-in-videos/"><u>[Updated] 2024 Approved Essential Guide for Newbies Visual Fidelity in Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-expert-tips-for-crafting-viral-twitter-campaigns-for-2024/"><u>[Updated] Expert Tips for Crafting Viral Twitter Campaigns for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-most-trending-twitch-originals-from-amazon-prime-for-2024/"><u>[Updated] The Most Trending Twitch Originals From Amazon Prime for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/top-rated-no-cost-video-player-substitutes-for-macos-users/"><u>Top Rated No-Cost Video Player Substitutes for macOS Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-solutions-for-sharing-media-subscriptions-among-family-members/"><u>Unlocking Solutions for Sharing Media Subscriptions Among Family Members</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-upload-guide-twitter-video-aspect-ratio-mandated/"><u>[New] 2024 Approved Upload Guide Twitter Video Aspect Ratio Mandated</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-viral-video-to-visuals-converting-tweets-to-costless-cgi/"><u>[New] 2024 Approved Viral Video to Visuals Converting Tweets to Costless CGI</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-employing-google-trends-to-discover-compelling-video-themes/"><u>[New] In 2024, Employing Google Trends to Discover Compelling Video Themes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unpacking-history-with-youtube-student-edition-top-10/"><u>[New] In 2024, Unpacking History with YouTube – Student Edition (Top 10)</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-effective-strategies-for-twitter-marketing/"><u>[Updated] 2024 Approved Effective Strategies for Twitter Marketing</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-viral-tendencies-on-twittersphere-most-viewed/"><u>[Updated] In 2024, Viral Tendencies on Twittersphere (Most Viewed)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-nighttime-photography-success-tips-and-tricks/"><u>2024 Approved Nighttime Photography Success Tips & Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-scanner-and-printer-drivers-for-windows-easy-download-and-free-solutions/"><u>Canon Scanner & Printer Drivers for Windows - Easy Download and Free Solutions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/complete-guide-downloading-content-from-bg-video-successfully/"><u>Complete Guide: Downloading Content From BG Video Successfully</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-the-quintessence-of-five-superior-slow-cams/"><u>Discovering the Quintessence of Five Superior Slow Cams</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-realme-c67-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme C67 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-vivo-x100-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Vivo X100 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-level-up-your-recording-3-simple-and-effective-methods/"><u>Updated 2024 Approved Level Up Your Recording 3 Simple and Effective Methods</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Common Issues to Prevent Tales of Arise From Crashing
-date: 2024-10-05T18:09:10.644Z
-updated: 2024-10-06T19:26:27.367Z
+date: 2024-10-05T10:43:18.254Z
+updated: 2024-10-11T19:44:32.995Z
 tags:
   - win11
   - win10
@@ -53,13 +53,6 @@ Century: Age of Ashes system requirements
 6. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Verify integrity of game files
 
  Century: Age of Ashes will crash if some of the game files are broken. Before trying anything more complicated, you can verify and repair game files easily in Steam:
@@ -69,14 +62,14 @@ Century: Age of Ashes system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -103,13 +96,6 @@ Century: Age of Ashes system requirements
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Install the latest game patch
 
  The developer of Century: Age of Ashes releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -117,6 +103,13 @@ Century: Age of Ashes system requirements
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Century: Age of Ashes again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -129,6 +122,13 @@ Century: Age of Ashes system requirements
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Nvidia GeForce Experience, Discord, etc.), make sure you’ve disabled the in-game overlay in those apps feature:
 
@@ -156,10 +156,10 @@ Century: Age of Ashes system requirements
 If this fix didn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Repair corrupted system files
@@ -196,34 +196,34 @@ If this fix didn’t work, try the next fix, below.
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -260,18 +260,17 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-from-zero-to-hero-on-twitter-live/"><u>[New] In 2024, From Zero to Hero on Twitter Live</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/imelight-rhythms-the-creme-de-la-crop-of-yt-short-scores-for-2024/"><u>[New] Limelight Rhythms The Crème De La Crop of YT Short Scores for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-effortless-media-incorporation-youtube-to-slides/"><u>[Updated] Effortless Media Incorporation YouTube to Slides</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-streamlining-twitters-video-transfer-to-fb-network/"><u>[Updated] In 2024, Streamlining Twitters Video Transfer to FB Network</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-scene-seizing-exploration/"><u>[Updated] In 2024, Ultimate Scene Seizing Exploration</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-surge-in-online-income-the-revelation-of-500plus-subscribers-power/"><u>[Updated] Surge in Online Income The Revelation of 500+ Subscribers' Power</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-twitters-space-best-practices-for-tiktok-videos/"><u>2024 Approved Twitter's Space Best Practices for TikTok Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-unlocking-the-potential-twitter-to-snapchat-video-exchange/"><u>2024 Approved Unlocking the Potential Twitter to Snapchat Video Exchange</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-12r-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus 12R</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/android-linking-to-windows-shared-drives/"><u>Android Linking to Windows Shared Drives</u></a></li>
-<li><a href="https://fox-access.techidaily.com/best-bargain-4k-camera-deals/"><u>Best Bargain 4K Camera Deals</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/pinnacle-platforms-alternatives-to-the-oldest-birdcalls-for-2024/"><u>Pinnacle Platforms Alternatives to the Oldest Birdcalls for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/twitter-video-converter-convert-twitter-video-to-audiomp4webm/"><u>Twitter Video Converter | Convert Twitter Video to Audio/MP4/WebM</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-the-essentials-of-real-time-tweets-on-twitter/"><u>[New] 2024 Approved The Essentials of Real-Time Tweets on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-instant-sharing-with-media-files-twitters-guide-for-2024/"><u>[New] Instant Sharing with Media Files Twitter's Guide for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-preservation-in-audio-how-ffmpeg-handles-originality/"><u>[Updated] Preservation in Audio How FFmpeg Handles Originality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-screen-moments-a-compreenasive-recorder-roundup/"><u>2024 Approved Screen Moments A Compreenasive Recorder Roundup</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweetstream-extractor-pull-twitter-videos-to-iphone/"><u>2024 Approved TweetStream Extractor Pull Twitter Videos to iPhone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/discover-the-latest-movies-with-these-top-10-trailer-apps-for-ios-for-2024/"><u>Discover the Latest Movies with These Top 10 Trailer Apps for iOS for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/go-instant-hitmaker-the-ultimate-guide-to-going-viral-on-tiktok-10-must-dos/"><u>Go Instant Hitmaker: The Ultimate Guide to Going Viral on TikTok (10 Must-Do's)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-converter-de-imagens-nova-versao-do-movavi-para-conversao-online/"><u>Gratis Converter De Imagens - Nova Versão Do Movavi Para Conversão Online</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/not-found-alert-missing-content-error-on-website/"><u>Not Found Alert: Missing Content Error on Website</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/tweaking-the-viewers-journey-the-art-of-custom-thumbnail-design-in-twitter-for-2024/"><u>Tweaking the Viewer's Journey The Art of Custom Thumbnail Design in Twitter for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/workaround-twitter-videos-in-chrome-problem-for-2024/"><u>Workaround Twitter Videos in Chrome Problem for 2024</u></a></li>
 </ul></div>
 

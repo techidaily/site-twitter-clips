@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: Why Does 'Insurgency: Sandstorm' Repeatedly Experience Crashes?"
-date: 2024-10-03T18:04:27.710Z
-updated: 2024-10-06T17:41:55.275Z
+date: 2024-10-10T20:54:06.241Z
+updated: 2024-10-12T08:43:54.799Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 6. **[Allow the game through Windows Firewall](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Change the screen resolution to 1080p (PS4 Pro)](https://www.drivereasy.com/knowledge/solved-insurgency-sandstorm-keeps-crashing/#Fix7)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify integrity of game files
 
  If your game files are missing or corrupted, you’re likely to encounter the crashing issue when playing Insurgency: Sandstorm. To make sure the game is correctly installed on your PC, you can scan and repair your game files via Steam. Here’s how:
@@ -38,29 +45,30 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 1. Run Steam and click**LIBRARY** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-library.jpg)
 2. **Right-click** Insurgency: Sandstorm and select**Properties…** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
-3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
+3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the process is finished, launch Insurgency: Sandstorm to see if the game crashes again.
 
 If the game keeps crashing, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the game as an administrator
 
@@ -74,13 +82,6 @@ If the game keeps crashing, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-browse-local-files.jpg)
 4. Navigate to**Insurgency > Binaries > Win64** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Right-click the**InsurgencyClient-Win64-Shipping.exe** application and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 6. Select the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .  
@@ -90,6 +91,13 @@ If the game keeps crashing, move on to the next fix.
 Launch the game again to check if your problem is resolved.
 
 If the crashing issue remains, check out the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -121,13 +129,6 @@ If the crashing issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/appdata-local.jpg)
 2. Navigate to**Insurgency > Saved > Config > WindowsClient** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Delete the**GameUserSettings.ini** file.
 
  Relaunch Insurgency: Sandstorm and all your video settings should be reset to default. Check if the crashing issue is resolved.
@@ -135,10 +136,10 @@ If the crashing issue remains, check out the next fix.
 If this fix doesn’t do the trick, continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Close background applications
@@ -162,6 +163,14 @@ If the crashing issue persists, go ahead with the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**firewall.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Click**Change settings** and then click**Allow another app…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
@@ -169,35 +178,28 @@ If the crashing issue persists, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add-another-app-browse.jpg)
 5. Select**InsurgencyEAC.exe** application and click**Open** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click**Network types…** , check**Private** and**Public** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/network-types.jpg)
 7. Click**Add** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add.jpg)
 8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
 
-Once done, relaunch the game to see if it crashes again.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Once done, relaunch the game to see if it crashes again.
 
 ### Fix 7: Change the screen resolution to 1080p (PS4 Pro)
 
@@ -224,22 +226,22 @@ Once done, relaunch the game to see if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-maintaining-the-right-video-aspect-on-twitters/"><u>[New] 2024 Approved Maintaining the Right Video Aspect on Twitters</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-amazon-primes-social-success-stories-likes-and-watches-galore/"><u>[New] Amazon Prime’s Social Success Stories Likes & Watches Galore</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-youtube-studio-edits-demystified-for-aspiring-filmmakers/"><u>[New] In 2024, YouTube Studio Edits Demystified for Aspiring Filmmakers</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-strategic-use-of-twitters-wayback-machine-features/"><u>[Updated] 2024 Approved Strategic Use of Twitter's Wayback Machine Features</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-understanding-twitters-new-video-format-codes/"><u>[Updated] 2024 Approved Understanding Twitter's New Video Format Codes</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-integrating-twitter-videos-into-facebook-social-graph/"><u>2024 Approved Integrating Twitter Videos Into Facebook Social Graph</u></a></li>
-<li><a href="https://article-files.techidaily.com/cost-free-treasure-hunts-finding-gorgeous-tiktok-backdrops-for-2024/"><u>Cost-Free Treasure Hunts Finding Gorgeous TikTok Backdrops for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-tweeted-trailblazers-cutting-edge-strategies-to-save-tweets-on-screen/"><u>In 2024, Tweeted Trailblazers Cutting-Edge Strategies to Save Tweets on Screen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722903474140-master-the-art-of-transferring-printouts-to-computers-without-hassle/"><u>Master the Art of Transferring Printouts to Computers Without Hassle</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/meme-masterpiece-wave/"><u>Meme Masterpiece Wave</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-tecno-phantom-v-fold-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Tecno Phantom V Fold – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/overcoming-the-english-language-trap-in-ai-conversations-key-findings-from-stanford-analysis-zdnet/"><u>Overcoming the English-Language Trap in AI Conversations: Key Findings From Stanford Analysis | ZDNET</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/saving-facebook-gifs-on-computer-phone-and-tablet/"><u>Saving Facebook GIFs on Computer, Phone & Tablet</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/social-savvy-how-to-save-gifs-for-iphoneandroid-use/"><u>Social Savvy How to Save GIFs for iPhone/Android Use</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tackling-the-blackout-challenge-in-halo-infinite-a-step-by-step-solution-breakdown/"><u>Tackling the Blackout Challenge in Halo Infinite: A Step-by-Step Solution Breakdown</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/thunder-gods-fury-new-age-begins/"><u>Thunder God's Fury New Age Begins</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-v29-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo V29 FRP Bypass</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-10-most-shared-tiktoks-in-social-media-circles-for-2024/"><u>[New] 10 Most Shared TikToks in Social Media Circles for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-exclusive-roundup-affordable-high-quality-live-streaming-services/"><u>[New] 2024 Approved Exclusive Roundup Affordable, High-Quality Live Streaming Services</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-most-popular-and-praised-prime-originals-on-twitter/"><u>[New] In 2024, The Most Popular & Praised Prime Originals on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-integrated-upload-sending-vids-to-twitter-and-tumblr/"><u>[New] Integrated Upload Sending Vids to Twitter and Tumblr</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-peaceful-playback-practices-for-pcos-users/"><u>[New] Peaceful Playback Practices for PC/OS Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-insider-guide-elevating-your-instagram-imagery/"><u>[Updated] 2024 Approved The Insider Guide Elevating Your Instagram Imagery</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-for-free-how-to-convert-twitter-videos-to-gifs/"><u>[Updated] For Free! How to Convert Twitter Videos to GIFS?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-from-twitters-tube-to-your-whatsapp-buddy-list-for-2024/"><u>[Updated] From Twitter's Tube to Your WhatsApp Buddy List for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-high-speed-windowed-image-inspector/"><u>[Updated] In 2024, High-Speed Windowed Image Inspector</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-learn-to-post-multimedia-video-edition-on-twitter/"><u>[Updated] In 2024, Learn to Post Multimedia Video Edition on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/buzzing-on-both-platforms-top-10-tiktok-tweets-explored-for-2024/"><u>Buzzing on Both Platforms Top 10 TikTok Tweets Explored for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/banner-templates-for-youtube-downloads-and-makers/"><u>Free Banner Templates for YouTube Downloads & Makers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-do-ai-text-limits-vary-by-platform-eg-gpt/"><u>How Do AI Text Limits Vary by Platform, E.g., GPT?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-pushing-boundaries-with-vidmas-video-capture-features/"><u>In 2024, Pushing Boundaries with Vidma's Video Capture Features</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/sending-non-retwitted-videos-from-your-mobile-browser-to-twitter-for-2024/"><u>Sending Non-Retwitted Videos From Your Mobile Browser to Twitter for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-c32-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-for-a-defective-headphone-jack-on-your-notebook-issues-resolved/"><u>Troubleshooting Guide for a Defective Headphone Jack on Your Notebook (ISSUES RESOLVED)</u></a></li>
 </ul></div>
 

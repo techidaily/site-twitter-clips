@@ -1,7 +1,7 @@
 ---
 title: Solving Sound Issues - Get Your Fortnite Microphone Up and Running Again!
-date: 2024-09-29T18:52:36.824Z
-updated: 2024-10-06T20:02:50.891Z
+date: 2024-10-06T17:54:04.750Z
+updated: 2024-10-12T08:18:03.830Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Check your microphone device settings
 
  Your Turtle Beach mic may be disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -47,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Select **Sound** .
 
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
@@ -75,15 +75,22 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **9)** Click**OK** , then click**OK** .
@@ -93,16 +100,10 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ---
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
@@ -128,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
  Once you’ve updated the driver for your Turtle Beach headset, restart your computer. Then log in again and see if the microphone is working.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
 
@@ -164,19 +158,17 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-evaluating-magix-multimedia-software/"><u>[New] 2024 Approved Evaluating MAGIX Multimedia Software</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-video-organization-the-art-of-chapter-addition/"><u>[New] In 2024, YouTube Video Organization The Art of Chapter Addition</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitters-most-popular-video-hotspots/"><u>[Updated] Twitter's Most Popular Video Hotspots</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitters-space-best-practices-for-tiktok-videos-for-2024/"><u>[Updated] Twitter's Space Best Practices for TikTok Videos for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-ultimate-gif-hack-top-twitter-tool-2024/"><u>[Updated] Ultimate GIF Hack Top Twitter Tool 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-adobe-premiere-pro-utilize-av1-codec-for-media-imports-and-exports/"><u>Can Adobe Premiere Pro Utilize AV1 Codec for Media Imports and Exports?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/diving-into-twitter-starting-fresh-for-2024/"><u>Diving Into Twitter Starting Fresh for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/fb-messenger-call-history-management-made-easy-for-2024/"><u>FB Messenger Call History Management Made Easy for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-motorola-moto-g13-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Motorola Moto G13 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-streaming-screenshots-share-without-twitting/"><u>In 2024, Streaming Screenshots Share Without Twitting</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-note-12-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi Note 12 5G Device</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ring-yt-thumbnail-design-for-enhanced-views/"><u>Mastering YT Thumbnail Design for Enhanced Views</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-5-prime-apps-for-clandestine-story-viewers-for-2024/"><u>The 5 Prime Apps for Clandestine Story Viewers for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/tweetvid-to-mp4-quick-conversion-tool-for-2024/"><u>TweetVid to MP4 - Quick Conversion Tool for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2023-streamline-post-tweeted-videos-to-whatsapp-for-2024/"><u>[New] 2023 Streamline Post Tweeted Videos to WhatsApp for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-building-your-brand-as-a-reviewer-of-cars-and-automotive-gear/"><u>[Updated] Building Your Brand as a Reviewer of Cars and Automotive Gear</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-from-shared-laughter-to-your-storage-twitters-gif-guide-for-2024/"><u>[Updated] From Shared Laughter to Your Storage Twitter's GIF Guide for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-social-media-synopsis-top-trending-twitvideos/"><u>[Updated] In 2024, Social Media Synopsis Top Trending TwitVideos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tailored-thumbnail-for-twitter-clips-for-2024/"><u>[Updated] Tailored Thumbnail for Twitter Clips for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-pixel-perfect-review-amd-radeon/"><u>2024 Approved Pixel Perfect Review AMD Radeon</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-14-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 14 Pro How to Bypass?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-vivo-s18-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo S18 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-sony-xperia-1-v-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Sony Xperia 1 V to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tactics-for-triumphing-in-virtual-marketplaces/"><u>In 2024, Tactics for Triumphing in Virtual Marketplaces</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unseen-chronicles-5-expertly-crafted-viewer-tools-for-2024/"><u>Unseen Chronicles 5 Expertly Crafted Viewer Tools for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-windows-keyboard-step-by-step-guide-for-a-smooth-typing-experience/"><u>Unstick Windows Keyboard: Step-by-Step Guide for a Smooth Typing Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: B4B Gobi Crash Troubleshooting on UDK - Fixing UE4 Game Issues Easily
-date: 2024-09-29T17:29:24.126Z
-updated: 2024-10-06T20:35:47.750Z
+date: 2024-10-09T19:10:12.698Z
+updated: 2024-10-11T18:44:16.208Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 3. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify integrity of game files
 
  The Back 4 Blood UE4-Gobi Fatal Error if there are corrupted game files. If it’s the case, you need to repair the corrupted game files.
@@ -37,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 1. Launch **Epic Games Launcher** and go to your **Library** .
 2. Click on the **three dots** under the **Back 4 Blood** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -50,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  When the verifying process is completed, launch Back 4 Blood and see if this fix works. If the game still crashes, don’t worry. Read on and try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -74,14 +81,21 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -95,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 
  Launch Back 4 Blood again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Perform a clean boot
 
  The Back 4 Blood UE4-Gobi Fatal Error may appear if there is a certain application conflicting with it. To find out the problematic application that crashes the game, you need to perform a clean boot. Here’s how to do it:
@@ -110,24 +117,24 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
@@ -136,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 6. Click **Restart** to restart your PC.  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Restart** your PC and run Back 4 Blood to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each service, you need to restart your PC to apply the changes.
 
@@ -175,14 +175,16 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-tips-for-sharing-twitter-videos-on-instagram/"><u>[New] 2024 Approved Tips for Sharing Twitter Videos on Instagram</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-strategies-for-youtube-style-video-integration-in-instagram-from-twitter/"><u>[Updated] In 2024, Strategies for YouTube-Style Video Integration in Instagram From Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitching-online-highlighting-todays-trending-video-takes/"><u>[Updated] Twitching Online Highlighting Today's Trending Video Takes</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unmatched-4k-experience-the-premier-top-eight-list/"><u>[Updated] Unmatched 4K Experience The Premier Top Eight List</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-redmi-note-12r-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Redmi Note 12R Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206895787-how-to-fix-a-frozen-windows-10-screen-expert-advice-needed/"><u>How to Fix a Frozen Windows 10 Screen - Expert Advice Needed</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12r-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12R Phone without PIN</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/iphoneandroid-sharing-videos-on-twitter-without-retweeting-for-2024/"><u>IPhone/Android Sharing Videos On Twitter Without Retweeting for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-lava-yuva-2-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Lava Yuva 2 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-achieve-high-rankings-on-youtube-with-top-seo-tips-1-11/"><u>[New] 2024 Approved Achieve High Rankings on YouTube with Top SEO Tips (1-11)</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-eliminate-quiet-vids-tweet-audio-revival/"><u>[New] Eliminate Quiet Vids Tweet Audio Revival</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-how-to-live-stream-on-twitter/"><u>[New] In 2024, How to Live Stream on Twitter</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-sweet-slumber-scenes-video-critique/"><u>[New] Sweet Slumber Scenes Video Critique</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-pixels-to-audible-artistry/"><u>[New] Transforming Pixels to Audible Artistry</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-quick-video-sharing-tweet-it-up-no-need-for-retweets/"><u>[Updated] Quick Video Sharing Tweet It Up - No Need for Retweets</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-12-ultimate-relaxing-pc-titles/"><u>[Updated] Top 12 Ultimate Relaxing PC Titles</u></a></li>
+<li><a href="https://network-issues.techidaily.com/direct3d-startup-complication-remedied/"><u>Direct3D Startup Complication Remedied</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-above-and-beyond-the-best-non-twitter-networks/"><u>In 2024, Above and Beyond The Best Non-Twitter Networks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/six-common-issues-that-make-iphones-run-slow-and-how-to-resolve-them/"><u>Six Common Issues That Make iPhones Run Slow and How to Resolve Them</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-powerful-path-to-flawless-photo-edits-mastering-background-eraser-use/"><u>The Powerful Path to Flawless Photo Edits Mastering Background Eraser Use</u></a></li>
 </ul></div>
 
