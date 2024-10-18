@@ -1,7 +1,7 @@
 ---
 title: "Beat the Shadows: Fixing PC Playthroughs of Resident Evil Village When Faced with a Black Screen"
-date: 2024-10-08T13:13:50.623Z
-updated: 2024-10-12T12:23:05.789Z
+date: 2024-10-16T21:47:48.809Z
+updated: 2024-10-17T18:40:06.007Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Download an invisible cursor theme file
@@ -44,6 +44,13 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
 3. Click**Mouse** on the left panel, then click**Additional mouse options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
 
@@ -53,10 +60,10 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Change resolution
@@ -68,13 +75,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 3. Choose**Screen Resolution** that fits your PC, remember the 16: 9 works better.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-14-23.jpg)
 4. Make sure you’re in full screen, not borderless window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : This fix might let the image lose a lot of quality.
 
@@ -110,10 +110,10 @@ There are two ways you can update your device drivers:
 3. Click the **Update**  button next to the device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -141,17 +141,14 @@ There are two ways you can update your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-android-technique-accessing-and-saving-twitter-videos/"><u>[New] In 2024, Android Technique Accessing and Saving Twitter Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-exquisite-android-3d-media-experience/"><u>[New] In 2024, Exquisite Android 3D Media Experience</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-whatsapp-transfers-broadcasting-twitter-videos-with-ease/"><u>[New] In 2024, WhatsApp Transfers Broadcasting Twitter Videos with Ease</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-how-to-record-webcam-video-on-hp-laptops-and-chromebooks-for-2024/"><u>[Updated] How to Record Webcam Video on HP Laptops and Chromebooks for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-mastering-twitter-archives-for-analysis-for-2024/"><u>[Updated] Mastering Twitter Archives for Analysis for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-experience-the-april-8-eclipse-with-googles-complimentary-viewing-options-learn-how/"><u>1. Experience the April 8 Eclipse with Google's Complimentary Viewing Options - Learn How!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/effortlessly-transfer-your-dvd-content-free-conversion-tool-for-windows-turn-dvds-into-mobile-friendly-mp4avi-files-with-winx/"><u>Effortlessly Transfer Your DVD Content: Free Conversion Tool for Windows - Turn DVDs Into Mobile-Friendly MP4/AVI Files With WinX</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-xiaomi-redmi-note-12r-by-fonelab-android-recover-data/"><u>How to recover lost data from Xiaomi Redmi Note 12R?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-oppo-a2-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo A2 Phone Screen?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-share-with-impact-tiktok-videos-on-twitter/"><u>In 2024, Share with Impact TikTok Videos on Twitter</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/photo-preservation-101-digitalization-of-ancestral-prints-for-2024/"><u>Photo Preservation 101 Digitalization of Ancestral Prints for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/k-the-secrets-to-increasing-views-in-60-second-youtube-shorts-for-2024/"><u>Unlock the Secrets to Increasing Views in 60-Second YouTube Shorts for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-harnessing-the-power-of-your-retweet-archives/"><u>[New] Harnessing the Power of Your Retweet Archives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-extracting-youtube-songs-safely-a-free-guide-explored/"><u>[Updated] Extracting YouTube Songs Safely A Free Guide Explored</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-buzzing-on-both-platforms-top-10-tiktok-tweets-explored/"><u>[Updated] In 2024, Buzzing on Both Platforms Top 10 TikTok Tweets Explored</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-shortcut-to-share-tiktoks-and-twitters-integration/"><u>[Updated] In 2024, The Shortcut to Share TikToks & Twitters Integration</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tiktoks-rise-to-fame-through-twitters-top-10-list/"><u>[Updated] In 2024, TikTok's Rise to Fame Through Twitter’s Top 10 List</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-reno-8t-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo Reno 8T for Parents | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-lava-yuva-2-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Lava Yuva 2 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/ultimate-strategies-for-restoring-lost-fla-design-files-a-step-by-step-tutorial/"><u>Ultimate Strategies for Restoring Lost .FLA Design Files – A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

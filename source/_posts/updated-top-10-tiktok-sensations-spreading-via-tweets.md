@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 10 TikTok Sensations Spreading via Tweets"
-date: 2024-10-08T12:47:59.648Z
-updated: 2024-10-11T20:28:02.289Z
+date: 2024-10-16T08:56:54.026Z
+updated: 2024-10-18T05:08:22.864Z
 tags:
   - ai video
   - ai twitter
@@ -47,6 +47,13 @@ Here’s a link to the video:
 
 [Zach King’s Harry Potter Illusion.](https://twitter.com/zachking/status/1204490381200506880?ref%5Fsrc=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1204698987325837313%7Ctwgr%5E%7Ctwcon%5Es3%5F&ref%5Furl=https%3A%2F%2Fwww.thepoke.co.uk%2F2019%2F12%2F11%2Fincredible-harry-potter-broom-trick%2F)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. David Allen’s Dancing with Drones
 
 ![Screenshot of David Allen viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-2.jpg)
@@ -60,6 +67,19 @@ Before filming this explosive content, David believed he was posting low-effort 
 Here’s a link to the video:
 
 [David Allen Dancing with Drones](https://www.tiktok.com/@totouchanemu/video/6990181852803894533?is%5Fcopy%5Furl=0&is%5Ffrom%5Fwebapp=v1&sender%5Fdevice=pc&sender%5Fweb%5Fid=6981905548543346181)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Bella Porch’s “M to the B”
 
@@ -90,13 +110,6 @@ Here’s a link to the video:
 ## 5\. Billie Eilish's first TikTok video
 
 ![Screenshot of Billie Eilish viral  Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Billie Elish has her own charm, best shown via the first video on TikTok. Billie decided to use a Time Warp Scan filter on her first video to the platform.
 
@@ -240,13 +253,6 @@ Here’s a link to the video:
 
 ![Screenshot of @youneszarou tasty take on photograpgy](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 While platforms like Instagram are best known to share your photography skills, you can utilize TikTok to show the effort and process of taking a creative picture. And that is what user [@youneszarou](https://www.tiktok.com/@youneszarou) has done in his most liked video. With the help of an acrylic board, a few orange slices, and his friends, [@youneszarou](https://www.tiktok.com/@youneszarou) shows how he pulled off the beautiful photograph.
 
 Here’s a link to the video:
@@ -263,9 +269,23 @@ Here’s a link to the video:
 
 [Nick Luciano Parody Video](https://www.tiktok.com/@thenickluciano/video/7012645750429519109?lang=en)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. @myaussiegal's
 
 ![Screenshot of @myaussiegal Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Will you be amazed that a dog is drawing a flower, or it is one of the most liked videos on TikTok? Because both are true. And [@myaussiegal's](https://www.tiktok.com/@my%5Faussie%5Fga) shows that in her video. A dog carrying out the canvas, the paint tubes, and drawing out a charming sunflower — and users make it one of the most liked videos on TikTok.
 
@@ -306,13 +326,6 @@ Knowing what’s popular and trending is helpful in deciding what kind of TikTok
 Most people think that making videos on TikTok is easy and superficial. After all, the videos, on average, are about 10 seconds long. But upon downloading the application, you will soon start feeling lost. Those 10 seconds become the hardest to shoot. And why not? Millions of people globally are competing to create something new, simple, and creative, something that not only engages the audience but also forces them to rewatch, like, share, and comment on the clip.
 
 Wann’ know how to create something simple yet trend-worthy on TikTok? Take inspiration from these top ten TikTok viral videos that rule Twitter in 2022.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Zach King’s Harry Potter doing the laundry
 
@@ -424,13 +437,6 @@ Here’s a link to the profile:
 
 ![Screenshot ZeddyWill’s Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Some weird poses, swift tones, and a lot of giggling ended up dominating TikTok's soundbites.
 
 Here’s a link to the video:
@@ -451,16 +457,16 @@ Most people think that making videos on TikTok is easy and superficial. After al
 
 Wann’ know how to create something simple yet trend-worthy on TikTok? Take inspiration from these top ten TikTok viral videos that rule Twitter in 2022.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Zach King’s Harry Potter doing the laundry
 
 ![Screenshot of Zach King’s viral Tiktok video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you are TikTok or Twitter, you must have seen Zach King’s Harry Potter illusion video. With over 2.8 Billion views, Zach King flying on a broom is the most-watched video on TikTok. And for a reason: be it the caption or video, every second of it is enough to awe the user.
 
@@ -473,10 +479,10 @@ Here’s a link to the video:
 [Zach King’s Harry Potter Illusion.](https://twitter.com/zachking/status/1204490381200506880?ref%5Fsrc=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1204698987325837313%7Ctwgr%5E%7Ctwcon%5Es3%5F&ref%5Furl=https%3A%2F%2Fwww.thepoke.co.uk%2F2019%2F12%2F11%2Fincredible-harry-potter-broom-trick%2F)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. David Allen’s Dancing with Drones
@@ -492,6 +498,19 @@ Before filming this explosive content, David believed he was posting low-effort 
 Here’s a link to the video:
 
 [David Allen Dancing with Drones](https://www.tiktok.com/@totouchanemu/video/6990181852803894533?is%5Fcopy%5Furl=0&is%5Ffrom%5Fwebapp=v1&sender%5Fdevice=pc&sender%5Fweb%5Fid=6981905548543346181)
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Bella Porch’s “M to the B”
 
@@ -551,13 +570,6 @@ Here’s a link to the video:
 
 [Nick Luciano Parody Video](https://www.tiktok.com/@thenickluciano/video/7012645750429519109?lang=en)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. @myaussiegal's
 
 ![Screenshot of @myaussiegal Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-8.jpg)
@@ -578,13 +590,6 @@ Here’s a link to the profile:
 
 [Outdoor Kinda Guy](https://www.tiktok.com/discover/outdoor-kinda-guy?lang=en)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. ZeddyWill’s — Bro, who got you smiling like that?
 
 ![Screenshot ZeddyWill’s Tiktok viral video](https://images.wondershare.com/filmora/article-images/2022/02/tiktok-viral-videos-on-twitter-10.jpg)
@@ -594,6 +599,13 @@ Some weird poses, swift tones, and a lot of giggling ended up dominating TikTok'
 Here’s a link to the video:
 
 [Zeddy's Bro, who got you smiling like that?](https://www.tiktok.com/@zeddywill/video/6988664229502979334?referer%5Furl=https%3A%2F%2Fwww.buzzfeed.com%2F&referer%5Fvideo%5Fid=6988664229502979334&refer=embed)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -622,15 +634,21 @@ Those are the top 10 clips for this Twitter Video Viral 2022 TikTok list. Hope y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-tweeting-tiktoks-made-easy/"><u>[New] In 2024, Tweeting TikToks Made Easy</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-vids-in-verse-strategies-for-effective-twitter-video-downloads/"><u>[New] In 2024, Vids in Verse Strategies for Effective Twitter Video Downloads</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-the-path-from-twitter-video-to-fb-sharing/"><u>[New] The Path From Twitter Video to FB Sharing</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-social-media-syncing-made-simple-tweets-and-tiktoks/"><u>[Updated] Social Media Syncing Made Simple Tweets and TikToks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-paramount-top-rated-vr-movies/"><u>2024 Approved Paramount Top-Rated VR Movies</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-live-sound-experience-service/"><u>Best Live Sound Experience Service</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-itel-p55t-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Itel P55T Location | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y200-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y200? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-xs-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone XS Max? 5 Tips You Must Know</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-image-improvement-masterclass-top-apps-decoded/"><u>[New] Image Improvement Masterclass - Top Apps Decoded</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-jokesters-journal-the-top-10-hilarious-tweet-threads/"><u>[New] In 2024, Jokester's Journal The Top 10 Hilarious Tweet Threads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-new-realms-todays-vr-tomorrows-trials/"><u>[New] Navigating New Realms Today's VR, Tomorrow's Trials</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-posting-tweets-with-vids-check-the-aspect-ratio-for-2024/"><u>[New] Posting Tweets with Vids? Check the Aspect Ratio for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-twitters-hilarious-highlights/"><u>[New] Twitter's Hilarious Highlights</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitters-favorites-top-10-tiktok-vids/"><u>[Updated] 2024 Approved Twitter's Favorites Top 10 TikTok Vids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-craft-perfect-openings-anywhere-and-anytime/"><u>[Updated] Craft Perfect Openings, Anywhere and Anytime</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-secrets-to-effective-targeted-tweets/"><u>[Updated] Secrets to Effective Targeted Tweets</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebook-video-presentation-boost-adding-bb-and-lc-frameworks/"><u>2024 Approved Facebook Video Presentation Boost Adding BB and LC Frameworks</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-magic-vs-2-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-non-functional-usb-input-devices-on-windows-7-operating-system/"><u>How to Resolve Non-Functional USB Input Devices on Windows 7 Operating System</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-instant-sharing-convert-tweets-to-snaps-users/"><u>In 2024, Instant Sharing Convert Tweets to Snaps Users</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/joking-jokebooks-top-10-hilarious-social-media-posts/"><u>Joking Jokebooks Top 10 Hilarious Social Media Posts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/pushing-the-boundaries-animated-fb-ads-that-increase-return-on-investment/"><u>Pushing the Boundaries Animated FB Ads That Increase Return on Investment</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-graphics-cards-focus-on-functionality/"><u>Troubleshooting Graphics Cards: Focus on Functionality</u></a></li>
 </ul></div>
 

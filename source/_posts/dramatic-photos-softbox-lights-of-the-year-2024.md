@@ -1,7 +1,7 @@
 ---
 title: "Dramatic Photos: Softbox Lights of the Year 2024"
-date: 2024-10-10T19:13:18.549Z
-updated: 2024-10-12T06:30:30.161Z
+date: 2024-10-12T19:15:28.971Z
+updated: 2024-10-18T02:29:19.581Z
 categories:
   - BestProducts
 description: "This Article Describes Dramatic Photos: Softbox Lights of the Year 2024"
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/13a2ed7d3d473fc4b094f952faefa5141a38181bb
 ![Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter](https://www.lifewire.com/thmb/7R_IVd_cu2-li0Lw4-mRkmgyF1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Beatit_JumpStarter_BT-D11_HeroSquare-8435600d56284af29842af0fe633c98d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Tony Mitera
@@ -73,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/13a2ed7d3d473fc4b094f952faefa5141a38181bb
 
  Lifewire / Tony Mitera
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: A lot of power packed into a small frame**
 
  The Beatit Jump Starter D11’s main unit's effectively a small black brick with red accents. Roughly the size of a small paperback book, the unit's constructed out of durable plastic and features a flashlight at one end. Along one of the long sides there's a small display that shows battery status, the on/off switch, two USB power outputs, and the device’s charging port. On the opposing side a rubber flap covers the jumper cable port; a unique port that the jumper cable accessory plugs in to.
@@ -82,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/13a2ed7d3d473fc4b094f952faefa5141a38181bb
  Time and again, the Beatit D11 was able to get a car with a very depleted battery started.
 
  The list of accessories that come with the unit includes both a wall charger and a 12V port charger, a Micro USB cable to charge devices with, and the jumper cables themselves. The jumper cable accessory is a pair of terminal clamps with relatively short cables that together join into a plastic module that plugs into the specific port on the unit. The module has a single status LED on its side that flashes different colors to signify different conditions, such as the unit being ready for jump starting, or indicating incorrect connection of the clamps.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup Process: It can’t realistically be much simpler**
 
@@ -106,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/13a2ed7d3d473fc4b094f952faefa5141a38181bb
 
  Lifewire / Tony Mitera
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Key Features: The flashlight is nice but is basically a spotlight**
 
  There aren’t a ton of other features present with the Beatit Jump Starter D11 but there are some of note, including the unit’s built-in flashlight. It’s a nice addition to have if you must jump start a car in the middle of the night, but it doesn’t put out of a ton of light and the beam is pretty narrow. You can pick the unit up and use it as a large flashlight, though doing so while also trying to get the clamps attached is cumbersome.
@@ -120,6 +113,19 @@ thumbnail: https://thmb.techidaily.com/13a2ed7d3d473fc4b094f952faefa5141a38181bb
  A nice feature that is present in many jump starters but always appreciated is the included[12V port charger](https://www.lifewire.com/car-cigarette-lighter-12v-socket-534754) , which lets you charge the unit back up within the car once you have it started. Charging from the wall charger is faster overall, but people with a dodgy battery but a working alternator will appreciate being able to use the jump starter to get their car started and then charge the unit back up as they drive to their destination.
 
  Lifewire / Tony Mitera
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Price: A ton of value for a tiny cost**
 
@@ -144,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/13a2ed7d3d473fc4b094f952faefa5141a38181bb
  In a crowded field, there are few units that are as easy to recommend as the Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter. It has relatively few features when compared to some of its competitors but otherwise excels at what it's designed to do. Charge it up, keep it stashed in your vehicle, and you’ll have a perfect tool to easily provide a jump to whatever vehicle needs it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -181,22 +187,24 @@ thumbnail: https://thmb.techidaily.com/13a2ed7d3d473fc4b094f952faefa5141a38181bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-digital-discovery-uncovering-popularity-peaks-in-tweets/"><u>[New] In 2024, Digital Discovery Uncovering Popularity Peaks in Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-iphoneandroid-sharing-videos-on-twitter-without-retweeting-for-2024/"><u>[New] IPhone/Android Sharing Videos On Twitter Without Retweeting for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-quicktime-magic-precise-timelapse-shots-with-samsung/"><u>[New] Quicktime Magic Precise Timelapse Shots with Samsung</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-the-hottest-hashtags-10-twitter-sensations-today/"><u>[New] The Hottest Hashtags 10 Twitter Sensations Today</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitter-reaction-videos-a-comprehensive-overview-for-2024/"><u>[Updated] Twitter Reaction Videos A Comprehensive Overview for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-a-step-by-step-approach-to-downloading-memorable-moments-from-social-media/"><u>2024 Approved A Step-By-Step Approach to Downloading Memorable Moments From Social Media</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-tutorial-for-resolving-the-missing-mss32dll-file-problem/"><u>A Step-by-Step Tutorial for Resolving the Missing mss32.dll File Problem</u></a></li>
-<li><a href="https://fox-within.techidaily.com/hacer-que-tu-documentacion-sea-continua-sincronicie-su-google-drive-con-el-sistema-operativo-windows/"><u>Hacer Que Tu Documentación Sea Continua: Sincronicie Su Google Drive Con El Sistema Operativo Windows</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/how-does-the-samsung-galaxy-s10plus-stack-up-to-the-latest-s20-model/"><u>How Does the Samsung Galaxy S10+ Stack Up to the Latest S20 Model?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/interplatform-video-uploading-twitter-and-tumblr-synced-for-2024/"><u>Interplatform Video Uploading Twitter & Tumblr Synced for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/optimizando-handbrake-en-2021-la-guia-definitiva-para-conversion-de-dvds-a-formatos-mp4/"><u>Optimizando HandBrake en 2021: La Guía Definitiva Para Conversión De DVDs a Formatos MP4</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-steps-migrating-your-android-applications-to-a-fresh-device/"><u>Seamless Steps: Migrating Your Android Applications to a Fresh Device</u></a></li>
-<li><a href="https://facebook.techidaily.com/tiktoks-user-growth-signals-a-looming-challenge-for-facebook/"><u>TikTok’s User Growth Signals a Looming Challenge for Facebook</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/tiktoks-viral-video-wave-twitters-top-10-rankings-for-2024/"><u>TikTok's Viral Video Wave Twitter's Top 10 Rankings for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-obs-not-screen-record-problems/"><u>Troubleshooting Tips for 'OBS Not Screen Record' Problems</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/viral-visionaries-the-10-highest-viewed-twitters-today-for-2024/"><u>Viral Visionaries The 10 Highest-Viewed Twitters Today for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-blending-harmonies-in-a-social-media-slot-for-2024/"><u>[New] Blending Harmonies in a Social Media Slot for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-bring-a-chuckle-to-life-generating-text-memes/"><u>[New] Bring a Chuckle to Life Generating Text Memes</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-connecting-twitters-vids-with-fb-audience-for-2024/"><u>[New] Connecting Twitter's Vids with FB Audience for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-checklist-tracking-igtv-analytics/"><u>[New] The Ultimate Checklist Tracking IGTV Analytics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-create-a-square-video-for-instagram-in-imovie/"><u>[Updated] 2024 Approved How to Create a Square Video for Instagram in iMovie?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-re-enable-sound-on-twitter-video-tweets/"><u>[Updated] 2024 Approved Re-Enable Sound on Twitter Video Tweets</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-cost-free-creative-conversion-twitter-to-tweeple-gifs-for-2024/"><u>[Updated] Cost-Free Creative Conversion Twitter to Tweeple GIFs for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-free-frame-conversion-tweeting-vids-into-animated-gifs/"><u>[Updated] In 2024, Free Frame Conversion Tweeting Vids Into Animated GIFs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-top-tweet-talent-showdown-1-10-edition/"><u>[Updated] In 2024, Top Tweet Talent Showdown #1-#10 Edition</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-unlock-creative-expression-adding-descriptive-texts-to-your-tiktok-videos-for-2024/"><u>[Updated] Unlock Creative Expression Adding Descriptive Texts to Your TikTok Videos for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-viral-jokes-whos-winning-on-the-meme-front-in-2024/"><u>[Updated] Viral Jokes Who's Winning on the Meme Front, In 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/essential-guide-fetching-twitter-videos-directly-from-mobile/"><u>Essential Guide Fetching Twitter Videos Directly From Mobile</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/fix-quiet-tweets-with-youtube-links/"><u>Fix Quiet Tweets with YouTube Links</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-descubra-os-melhores-programas-de-edicao-de-som-para-pcs-com-windowsmac-top-15-destacados/"><u>Grátis: Descubra Os Melhores Programas De Edição De Som Para PCs Com Windows/Mac – Top 15 Destacados</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-prime-motorsport-experiences-quintessential-list/"><u>In 2024, Prime Motorsport Experiences Quintessential List</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/sending-instagram-direct-messages-with-twitter-videos-for-2024/"><u>Sending Instagram Direct Messages with Twitter Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-c32-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from C32</u></a></li>
 </ul></div>
 

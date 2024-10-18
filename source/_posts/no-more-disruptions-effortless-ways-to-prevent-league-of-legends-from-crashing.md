@@ -1,7 +1,7 @@
 ---
 title: "No More Disruptions: Effortless Ways to Prevent League of Legends From Crashing"
-date: 2024-10-09T06:52:40.490Z
-updated: 2024-10-11T19:26:26.505Z
+date: 2024-10-15T20:55:42.120Z
+updated: 2024-10-18T03:02:37.379Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 6. **[Disable Discord overlay](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Unplug peripherals
@@ -49,46 +49,19 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-1.jpg)
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Rename the game folder
 
@@ -116,6 +89,19 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
 
 ### Fix 5 – Scan and repair game files
@@ -127,7 +113,21 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files.jpg)
 3. Click**Begin Scan** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
 
@@ -166,24 +166,16 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-dynamic-backdrop-customization-in-teammate-windows-prepost-calls/"><u>[New] In 2024, Dynamic Backdrop Customization in Teammate Windows, Pre/Post Calls</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-mastering-twitter-cleanup-top-apps-for-efficient-management/"><u>[New] Mastering Twitter Cleanup Top Apps for Efficient Management</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-polishing-your-youtube-production-post-publishment/"><u>[New] Polishing Your YouTube Production Post-Publishment</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-twitters-viral-spotlight-top-10-tiktoks-of-the-week/"><u>[New] Twitter's Viral Spotlight Top 10 TikToks of the Week</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhancing-memories-date-insertion-techniques-for-photos/"><u>[Updated] 2024 Approved Enhancing Memories Date Insertion Techniques for Photos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-from-tweets-to-tomes-the-full-year-in-video/"><u>[Updated] 2024 Approved From Tweets to Tomes The Full Year in Video</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-superior-websites-to-ditch-twitter-completely/"><u>[Updated] 2024 Approved Superior Websites to Ditch Twitter Completely</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-workaround-twitter-videos-in-chrome-problem/"><u>[Updated] In 2024, Workaround Twitter Videos in Chrome Problem</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-social-snippets-showcase-twitters-trending-threads/"><u>[Updated] Social Snippets Showcase Twitter’s Trending Threads</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-quick-technique-downloading-tweet-videos-to-your-phone/"><u>2024 Approved Quick Technique Downloading Tweet Videos to Your Phone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-social-scoop-twitters-trending-talks/"><u>2024 Approved Social Scoop Twitter’s Trending Talks</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-starting-simple-how-to-create-your-own-twitter/"><u>2024 Approved Starting Simple How to Create Your Own Twitter</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-x-flip-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo X Flip</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-beyond-the-basics-non-inshot-pc-video-tools/"><u>In 2024, Beyond the Basics Non-Inshot PC Video Tools</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oneplus-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your OnePlus FRP Locks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Lenovo ThinkPhone? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oneplus-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your OnePlus</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-wireless-woes-repair-steps-for-a-persistent-pc-and-bluetooth-keyboard-pairing-problem/"><u>Solving Wireless Woes: Repair Steps for a Persistent PC and Bluetooth Keyboard Pairing Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-getting-the-clipboard-working-again-in-windows-11/"><u>Step-by-Step Solutions: Getting the Clipboard Working Again in Windows 11</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-mastering-cross-platform-communication-twitch-and-whatsapp-synergy/"><u>[New] 2024 Approved Mastering Cross-Platform Communication Twitch & WhatsApp Synergy</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-making-your-twitter-videos-dance-convert-them-into-expressive-animated-gifs/"><u>[New] In 2024, Making Your Twitter Videos Dance Convert Them Into Expressive Animated GIFs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-the-art-of-influential-hashtags-on-ig/"><u>[Updated] Mastering the Art of Influential Hashtags on IG</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-achieving-high-view-count-a-youtube-video-guide/"><u>2024 Approved Achieving High View Count A YouTube Video Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/convert-for-free-from-twitter-videos-to-animated-gifs/"><u>Convert for Free From Twitter Videos to Animated Gifs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-lava-yuva-3-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Lava Yuva 3 FRP?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-jest-journal-chronicles-of-timely-laughter/"><u>In 2024, Jest Journal Chronicles of Timely Laughter</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/ios-mastery-effortlessly-extracting-youtube-videos/"><u>IOS Mastery Effortlessly Extracting Youtube Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-video-freedom-on-chromecast-playing-any-file-type/"><u>New In 2024, Video Freedom on Chromecast Playing Any File Type</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/videotweeteraudio-quick-audio-extractor/"><u>VideoTweeterAudio Quick Audio Extractor</u></a></li>
 </ul></div>
 
