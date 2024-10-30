@@ -1,7 +1,7 @@
 ---
 title: Instantly Resolve Fortnite Not Working – Expert Tips Revealed
-date: 2024-10-20T22:39:45.613Z
-updated: 2024-10-23T17:12:15.049Z
+date: 2024-10-22T23:35:42.877Z
+updated: 2024-10-29T22:19:09.615Z
 tags:
   - win11
   - win10
@@ -57,18 +57,18 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Stop overclocking
 
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent game crashes, you should reset the CPU or the graphics card to the manufacturer specifications.
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
@@ -76,32 +76,13 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Here are the system requirements for Control:
@@ -113,13 +94,6 @@ Here are the system requirements for Control:
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -140,23 +114,23 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
@@ -169,6 +143,13 @@ Here are the system requirements for Control:
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Modify Intel graphics card
 
@@ -184,24 +165,31 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
-6. Modify the settings the same way you see in the screenshot below.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
+6. Modify the settings the same way you see in the screenshot below.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
@@ -265,6 +253,13 @@ Here are the system requirements for Control:
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 10: Run Program Compatibility Troubleshooter
 
  If Control often crashes on your Windows 10 PC, you can try running Windows Program Compatibility Troubleshooter to run the game in Windows 7 mode. Here’s how to do it:
@@ -304,15 +299,22 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-rendering-reality-realistic-3d-text-effects/"><u>[New] In 2024, Rendering Reality Realistic 3D Text Effects</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-directly-connect-tweeting-with-videos-on-whatsapp/"><u>[Updated] 2024 Approved Directly Connect Tweeting with Videos on WhatsApp</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-transform-your-web-exploration-with-microsofts-split-screen-functionality/"><u>[Updated] 2024 Approved Transform Your Web Exploration with Microsoft's Split Screen Functionality</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-leveraging-live-tweets-strategies-unveiled/"><u>[Updated] In 2024, Leveraging Live Tweets Strategies Unveiled</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-understanding-whatsapps-voice-communication-system/"><u>[Updated] In 2024, Understanding WhatsApp's Voice Communication System</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-rapid-visual-repository-w-audio-walkthrough-guide-for-2024/"><u>[Updated] Rapid Visual Repository W/ Audio Walkthrough Guide for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweeted-timeline-capture-securing-your-social-media-videos/"><u>2024 Approved Tweeted Timeline Capture Securing Your Social Media Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-first-footsteps-into-frame-finesse-a-novices-guide-to-hd-content/"><u>In 2024, First Footsteps Into Frame Finesse A Novice's Guide to HD Content</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-yearly-viewer-ranking-twitters-hottest-topics/"><u>In 2024, Yearly Viewer Ranking Twitters' Hottest Topics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862800618-maximize-your-gameplay-high-refresh-rate-monitor-at-an-unbeatable-price-only-149/"><u>Maximize Your Gameplay: High Refresh Rate Monitor at an Unbeatable Price - Only $149</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-the-visionarys-handbook-for-twit-reaction-videos/"><u>[New] 2024 Approved The Visionary's Handbook for Twit-Reaction Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-ranked-techniques-for-capturing-online-sport-spectacles-for-2024/"><u>[New] Top-Ranked Techniques for Capturing Online Sport Spectacles for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unseen-pathways-to-friend-finder-excellence-for-2024/"><u>[New] Unseen Pathways to Friend Finder Excellence for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-elevating-twitter-interactions-through-personalized-video-previews/"><u>[Updated] In 2024, Elevating Twitter Interactions Through Personalized Video Previews</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-hassle-free-tactics-sharing-igtv-in-insta-stories/"><u>[Updated] In 2024, Hassle-Free Tactics Sharing IGTV in Insta Stories</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-quickflips-how-tweets-jumpstart-video-fame/"><u>[Updated] QuickFlips How Tweets Jumpstart Video Fame</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-swift-solution-tweeting-videos-not-functioning-chrome-for-2024/"><u>[Updated] Swift Solution Tweeting Videos Not Functioning Chrome for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-enhancing-conversion-rates-with-twitter-ads/"><u>2024 Approved Enhancing Conversion Rates with Twitter Ads</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-list-ringtone-picks-for-adoring-tyrion-lannister-fans/"><u>A-List Ringtone Picks for Adoring Tyrion Lannister Fans</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creative-edge-incorrances-on-luts-in-after-effects/"><u>Creative Edge Incorrances on LUTs in After Effects</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/explosive-engagement-on-twitter-the-hottest-content-now-for-2024/"><u>Explosive Engagement on Twitter The Hottest Content Now for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-sony-xperia-10-v-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Sony Xperia 10 V to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-10-hot-and-viral-videos-on-twitter/"><u>In 2024, 10 Hot and Viral Videos on Twitter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatbot-dialogue-address-and-rectify-six-typical-chatgpt-glitches/"><u>Mastering Chatbot Dialogue: Address and Rectify Six Typical ChatGPT Glitches</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-video-guidelines-and-step-by-step-uploading-guide/"><u>Twitter's Video Guidelines & Step-by-Step Uploading Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-infinix-smart-7-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Infinix Smart 7? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

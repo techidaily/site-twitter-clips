@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Common Issues to Prevent Tales of Arise From Crashing
-date: 2024-10-20T16:38:34.903Z
-updated: 2024-10-23T21:17:45.242Z
+date: 2024-10-28T19:17:58.356Z
+updated: 2024-10-29T18:47:04.331Z
 tags:
   - win11
   - win10
@@ -62,13 +62,6 @@ Century: Age of Ashes system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -90,14 +83,21 @@ Century: Age of Ashes system requirements
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
@@ -112,19 +112,6 @@ Century: Age of Ashes system requirements
 
  Launch Century: Age of Ashes again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Disable overlays
 
  Overlays are handy. However, sometimes they may interfere with the game and would block the game files, which may cause the game to crash.
@@ -134,13 +121,6 @@ Century: Age of Ashes system requirements
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Century: Age of Ashes_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
@@ -192,16 +172,10 @@ If this fix didn’t work, try the next fix, below.
  Note: This is a paid service with a 60-day money-back guarantee, which means that you’ll need to buy the full version to start repairing.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Perform a clean boot
@@ -212,8 +186,22 @@ If this fix didn’t work, try the next fix, below.
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
@@ -221,23 +209,23 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Restart** Windows OS and launch Century: Age of Ashes to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -273,22 +261,21 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-chatcam-downloader-high-quality/"><u>[New] ChatCam Downloader, High Quality</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-custom-thumbnail-for-twitter-videos/"><u>[New] Custom Thumbnail for Twitter Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-resolve-twitter-vids-playback-issue/"><u>[New] In 2024, Resolve Twitter Vids Playback Issue</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-tiktok-triumphs-in-twitter-land-toptiktoks-revealed/"><u>[New] In 2024, TikTok Triumphs in Twitter Land #TopTikToks Revealed</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-reel-it-in-techs-video-harvest-for-2024/"><u>[New] Reel It In Tech's Video Harvest for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-inside-the-code-how-apeaksoft-outperforms-in-screen-capture/"><u>[Updated] 2024 Approved Inside the Code How Apeaksoft Outperforms in Screen Capture</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-chuckle-fest-twitters-10-funniest-tweets/"><u>[Updated] Chuckle-Fest Twitter's 10 Funniest Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-from-tweeting-short-videos-to-interactive-shareable-customized-gifs-for-2024/"><u>[Updated] From Tweeting Short Videos to Interactive, Shareable Customized GIFS for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-swift-transfer-tweets-as-vids-on-whatsapp-platform/"><u>[Updated] In 2024, Swift Transfer Tweets as Vids on WhatsApp Platform</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-meme-mayhem-top-twenty-from-reddit-and-twitter-for-2024/"><u>[Updated] Meme Mayhem Top Twenty From Reddit & Twitter for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-strategies-for-chronicling-lol-showdowns-for-2024/"><u>[Updated] Top Strategies for Chronicling LOL Showdowns for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-tweet-to-gif-magic-videos-to-animations-at-no-charge/"><u>[Updated] Tweet-to-GIF Magic Videos to Animations at No Charge</u></a></li>
-<li><a href="https://facebook.techidaily.com/digital-self-care-how-to-step-away-from-fb/"><u>Digital Self-Care: How to Step Away From FB</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-ten-simple-steps-to-acquire-igtv-media/"><u>In 2024, Ten Simple Steps to Acquire IGTV Media</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/plain-story-formulation/"><u>Plain Story Formulation</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-secret-sauce-of-profitable-fb-ads-with-dynamic-animation/"><u>The Secret Sauce of Profitable FB Ads with Dynamic Animation</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-top-15-tools-for-boosting-fb-sales-through-data-analysis/"><u>[New] 2024 Approved Top 15 Tools for Boosting FB Sales Through Data Analysis</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-customize-twitter-video-snapshot/"><u>[New] In 2024, Customize Twitter Video Snapshot</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-twitters-top-10-viral-tiktoks-uncovered/"><u>[New] In 2024, Twitter's Top 10 Viral TikToks Uncovered</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-becoming-a-reaction-guru-a-complete-guidebook/"><u>[Updated] 2024 Approved Becoming a Reaction Guru A Complete Guidebook</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-ultimate-source-of-high-quality-video-downloaders/"><u>[Updated] 2024 Approved The Ultimate Source of High-Quality Video Downloaders</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-seamless-tweet-to-snap-transition-guide/"><u>[Updated] In 2024, The Seamless Tweet-to-Snap Transition Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-mastering-aspect-ratio-rules-for-twitter-content/"><u>[Updated] Mastering Aspect Ratio Rules for Twitter Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-iphone-to-smart-tv-connectivity-glitches-with-airplay/"><u>Easy Fixes for iPhone to Smart TV Connectivity Glitches with AirPlay</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhancing-your-photography-experience-on-an-iphones-lower-mp-camera/"><u>Enhancing Your Photography Experience on an iPhone's Lower MP Camera</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/how-to-download-gif-images-from-twitter-for-2024/"><u>How to Download GIF Images From Twitter for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unveiling-the-secrets-of-advanced-camera-settings/"><u>In 2024, Unveiling the Secrets of Advanced Camera Settings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-vimeo-id-picture-guide-width-depth-moment/"><u>In 2024, Vimeo ID Picture Guide Width, Depth, Moment</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/recover-missing-audio-from-tweeted-videos-for-2024/"><u>Recover Missing Audio From Tweeted Videos for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210137378-9781250277947-thank-you-for-teaching/"><u>Thank You For Teaching | Free Book</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ower-of-youtubes-creative-commons-for-videographers-for-2024/"><u>The Power of YouTube's Creative Commons for Videographers for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-twitter-apps-for-easily-tracking-and-engaging-in-hashtag-conversations/"><u>Top 4 Twitter Apps for Easily Tracking and Engaging in #Hashtag Conversations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving Sound Issues - Get Your Fortnite Microphone Up and Running Again!
-date: 2024-10-16T19:17:17.010Z
-updated: 2024-10-24T03:21:29.820Z
+date: 2024-10-23T19:56:34.415Z
+updated: 2024-10-29T22:35:22.063Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Check your microphone device settings
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Select **Sound** .
@@ -63,33 +63,27 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
@@ -119,16 +113,22 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
@@ -164,24 +164,24 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dissecting-youtube-chatter/"><u>[New] 2024 Approved Dissecting YouTube Chatter</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-the-art-of-screen-recording-on-snapchat-devices/"><u>[New] 2024 Approved Mastering the Art of Screen Recording on Snapchat Devices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-boost-your-mac-with-a-macos-sierra-installation-for-2024/"><u>[New] Boost Your Mac with a macOS Sierra Installation for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-effortless-extraction-of-twitter-jokes-3-ways-for-2024/"><u>[New] Effortless Extraction of Twitter Jokes 3 Ways for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-amazon-prime-and-twitter-most-shared-and-liked-shows-23/"><u>[New] In 2024, Amazon Prime and Twitter Most Shared & Liked Shows, '23</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-crafting-an-engaging-online-presence-with-fb/"><u>[New] In 2024, Crafting an Engaging Online Presence with FB</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/astering-the-art-of-thumbnail-design-tips-and-pitfalls/"><u>[New] Mastering the Art of Thumbnail Design Tips and Pitfalls</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-unified-platforms-for-sharing-videos-for-2024/"><u>[New] Unified Platforms for Sharing Videos for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-breaking-down-2023s-highest-viewed-tweets/"><u>[Updated] 2024 Approved Breaking Down 2023’S Highest-Viewed Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-maximizing-mobile-video-quality-in-tweets/"><u>[Updated] 2024 Approved Maximizing Mobile Video Quality in Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-vidtwitter-effortless-video-downloads-from-social-sites/"><u>[Updated] 2024 Approved VidTwitter Effortless Video Downloads From Social Sites</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-simplifying-tiktok-video-sharing-for-twitter/"><u>[Updated] In 2024, Simplifying TikTok Video Sharing for Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-re-image-twitter-video-portrait/"><u>[Updated] Re-Image Twitter Video Portrait</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-most-trending-twitch-originals-from-amazon-prime-for-2024/"><u>[Updated] The Most Trending Twitch Originals From Amazon Prime for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-12-pro-to-chromecast-drfone-by-drfone-ios/"><u>How to Cast Apple iPhone 12 Pro to Chromecast? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-x90s-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo X90S Phones with/without a PC</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tackling-challenges-head-on-essentials-for-onestream-livestreamers/"><u>In 2024, Tackling Challenges Head-On Essentials for OneStream Livestreamers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximize-your-health-how-this-iphone-automation-helps-simplify-weight-monitoring/"><u>Maximize Your Health: How This iPhone Automation Helps Simplify Weight Monitoring</u></a></li>
-<li><a href="https://extra-support.techidaily.com/seamless-transition-turning-srt-into-sub-for-2024/"><u>Seamless Transition Turning SRT Into SUB for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-10-best-funny-videos-on-twitter/"><u>[New] 2024 Approved 10 Best Funny Videos on Twitter</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-from-recording-to-broadcast-masterful-podcast-editing-with-garageband/"><u>[New] In 2024, From Recording to Broadcast Masterful Podcast Editing with GarageBand</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-visionarys-handbook-for-twit-reaction-videos/"><u>[New] In 2024, The Visionary's Handbook for Twit-Reaction Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-prime-video-hits-on-twitter-the-most-popular-watches-of-23/"><u>[New] Prime Video Hits on Twitter The Most Popular Watches of '23</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-sharing-videos-on-tweet-no-retweets-just-phones/"><u>[New] Sharing Videos on Tweet No Retweets, Just Phones</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-viral-views-vault-the-daily-top-10-watched-videos/"><u>[New] Viral Views Vault The Daily Top 10 Watched Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-sending-non-retwitted-videos-from-your-mobile-browser-to-twitter/"><u>[Updated] In 2024, Sending Non-Retwitted Videos From Your Mobile Browser to Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-snatching-twitter-laughter-3-pc-techniques/"><u>[Updated] In 2024, Snatching Twitter Laughter 3 PC Techniques</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-mastering-aspect-ratio-compliance-in-micro-video-tweets-for-2024/"><u>[Updated] Mastering Aspect Ratio Compliance in Micro-Video Tweets for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-transforming-standard-tweets-into-hd-spectacles/"><u>[Updated] Transforming Standard Tweets Into HD Spectacles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-guide-to-applying-vhs-filters-on-computers-for-2024/"><u>[Updated] Ultimate Guide to Applying VHS Filters on Computers for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-14-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 14 Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-xiaomi-14-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Xiaomi 14 Phone that is Locked?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-leading-video-call-applications-for-conference-success/"><u>In 2024, Leading Video Call Applications for Conference Success</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-xr-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone XR</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/lenovo-laptops-made-simple-mastering-the-factory-reset-process-for-fresh-start/"><u>Lenovo Laptops Made Simple: Mastering the Factory Reset Process for Fresh Start</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unbeatable-video-splitters-to-match-xplit-for-2024/"><u>Unbeatable Video Splitters to Match Xplit for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleash-creativity-with-top-9-free-tools-to-craft-your-brand-for-2024/"><u>Unleash Creativity with Top 9 Free Tools to Craft Your Brand for 2024</u></a></li>
 </ul></div>
 

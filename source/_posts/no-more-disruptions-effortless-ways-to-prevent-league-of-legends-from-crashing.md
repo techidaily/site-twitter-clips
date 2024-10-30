@@ -1,7 +1,7 @@
 ---
 title: "No More Disruptions: Effortless Ways to Prevent League of Legends From Crashing"
-date: 2024-10-16T16:49:02.324Z
-updated: 2024-10-23T23:43:45.259Z
+date: 2024-10-22T23:35:38.752Z
+updated: 2024-10-29T20:35:52.040Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Launch the game in windowed mode
 
  There are increasing reports about Diablo Immortal crashing in fullscreen. To avoid it crashing on startup, you can force the game to launch in windowed mode. Here’s how:
@@ -42,32 +49,31 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-1.jpg)
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Rename the game folder
@@ -79,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 3. Open the**Diablo Immortal Launcher** directly from the folder.
 
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
 
@@ -102,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
@@ -120,6 +119,19 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 2. Select**Diablo Immortal** from the game list. Then click the**gear icon** beside the Play button and click**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files.jpg)
 3. Click**Begin Scan** .  
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
@@ -160,20 +172,18 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-guide-to-cost-free-text-animations-onlineoff/"><u>[New] Guide to Cost-Free Text Animations (Online/Off)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-smart-list-essential-6-fb-lite-videos-for-you/"><u>[New] In 2024, Smart List Essential 6 FB Lite Videos for You</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-tweeting-to-whatsapp-direct-video-distribution/"><u>[New] In 2024, Tweeting to WhatsApp Direct Video Distribution</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-vision-guide-top-10-camera-lens-recommendations-2024/"><u>[New] The Ultimate Vision Guide Top 10 Camera Lens Recommendations 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-discovering-free-srt-excellence-our-top-8-picks/"><u>[Updated] 2024 Approved Discovering Free SRT Excellence Our Top 8 Picks</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-instant-sharing-convert-tweets-to-snaps-users/"><u>[Updated] 2024 Approved Instant Sharing Convert Tweets to Snaps Users</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-social-snippets-showcase-twitters-trending-threads/"><u>[Updated] 2024 Approved Social Snippets Showcase Twitter’s Trending Threads</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-tiktoks-voyage-to-twitter-success-stories/"><u>[Updated] 2024 Approved TikTok's Voyage to Twitter Success Stories</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-breezy-methodology-for-downloading-twitters-laughs-gifs/"><u>[Updated] Breezy Methodology for Downloading Twitter's Laughs (GIFs)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reviving-photo-viewer-on-win-11-methods-explained/"><u>[Updated] Reviving Photo Viewer on Win 11 - Methods Explained</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-tutorial-bringing-twitter-videos-into-instagram-world-for-2024/"><u>[Updated] Tutorial Bringing Twitter Videos Into Instagram World for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlock-content-insights-7-premier-free-tag-extraction-tools/"><u>[Updated] Unlock Content Insights 7 Premier Free Tag Extraction Tools</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/enhancing-listener-engagement-through-excellent-intros-for-2024/"><u>Enhancing Listener Engagement Through Excellent Intros for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy A24? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-6-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 6 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-methods-to-transfer-twitter-videos-to-instagram-feed-for-2024/"><u>[New] Methods to Transfer Twitter Videos to Instagram Feed for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unveiling-the-secrets-of-hands-in-vrar/"><u>[New] Unveiling the Secrets of Hands in VR/AR</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-10-viral-tweets-dominating-social-media-for-2024/"><u>[Updated] 10 Viral Tweets Dominating Social Media for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-cutting-through-steps-posting-tiktok-videos-on-twitter/"><u>[Updated] Cutting Through Steps Posting TikTok Videos on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tailor-made-twitter-video-coverage-for-2024/"><u>[Updated] Tailor-Made Twitter Video Coverage for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comparative-study-samsung-vs-traditional-photo-tools/"><u>2024 Approved Comparative Study Samsung vs Traditional Photo Tools</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-pioneering-clear-high-definition-on-twitter-videos/"><u>2024 Approved Pioneering Clear, High-Definition on Twitter Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ensuring-safety-while-acquiring-no-cost-vlc-player-for-mac-os/"><u>Ensuring Safety While Acquiring No-Cost VLC Player for Mac OS</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-screen-saving-solutions-a-critical-look-at-capturers/"><u>In 2024, Screen Saving Solutions A Critical Look at Capturers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-lava-storm-5g-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Lava Storm 5G has been deleted.</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/form-raw-footage-to-polished-youtube-stories-on-windows-for-2024/"><u>Transform Raw Footage to Polished YouTube Stories on Windows for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-powertoys-worldwide-mouse-capabilities/"><u>Unlock PowerToy's Worldwide Mouse Capabilities</u></a></li>
 </ul></div>
 

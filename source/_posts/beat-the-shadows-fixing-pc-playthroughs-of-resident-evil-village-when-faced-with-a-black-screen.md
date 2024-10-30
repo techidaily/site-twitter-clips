@@ -1,7 +1,7 @@
 ---
 title: "Beat the Shadows: Fixing PC Playthroughs of Resident Evil Village When Faced with a Black Screen"
-date: 2024-10-22T03:28:52.021Z
-updated: 2024-10-24T01:18:12.885Z
+date: 2024-10-25T22:29:04.979Z
+updated: 2024-10-29T22:13:20.911Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 3. [Change mouse settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Download an invisible cursor theme file
 
  To solve the mouse cursor that appears on the black bars in-game issue, download an invisible cursor theme file would do the job.
@@ -36,13 +43,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 2. Press the**Window logo key + I** together and click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
 3. Click**Mouse** on the left panel, then click**Additional mouse options** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
@@ -65,10 +65,10 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 **Note** : This fix might let the image lose a lot of quality.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change mouse settings
@@ -79,7 +79,21 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this fix brings no luck, move to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update device driver
 
@@ -102,22 +116,8 @@ There are two ways you can update your device drivers:
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -141,18 +141,19 @@ There are two ways you can update your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-amazon-prime-and-tweet-fandom-most-appreciated-videos-2023/"><u>[New] 2024 Approved Amazon Prime and Tweet Fandom - Most Appreciated Videos, 2023</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-prime-alternatives-to-gopro-selecting-the-ultimate-camera/"><u>[New] 2024 Approved Prime Alternatives to GoPro Selecting the Ultimate Camera</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-breaking-down-2023s-most-sharing-videos-on-twitter/"><u>[New] In 2024, Breaking Down 2023'S Most Sharing Videos on Twitter</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-facebook-overhaul-the-2023-updates-explained/"><u>[New] In 2024, Facebook Overhaul The 2023 Updates Explained</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-5-gif-making-software-with-the-highest-ratings/"><u>[New] Top 5 GIF Making Software with the Highest Ratings</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-most-liked-and-watched-amazon-prime-video-on-twitter-for-2024/"><u>[Updated] Most Liked and Watched Amazon Prime Video on Twitter for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-social-sphere-score-10-videos-that-are-going-viral-today/"><u>[Updated] Social Sphere Score 10 Videos That Are Going Viral Today</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-creme-de-la-creme-of-fps-games-7/"><u>[Updated] The Crème De La Créme of FPS Games (7)</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-insiders-look-at-twitter-ad-performance-metrics-for-2024/"><u>[Updated] The Insider's Look at Twitter Ad Performance Metrics for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerate-task-management-view-in-windows-11/"><u>Accelerate Task Management View in Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-the-ultimate-social-watchlist-2023s-top-tweets/"><u>In 2024, The Ultimate Social Watchlist - 2023'S Top Tweets</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-microsoft-enterprise-solutions-for-ios-expert-picks-from-zdnet/"><u>Top 10 Microsoft Enterprise Solutions for iOS : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-cross-platform-comedy-best-meme-contenders/"><u>[New] 2024 Approved Cross-Platform Comedy Best Meme Contenders</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-navigating-twitter-video-submission-protocols/"><u>[New] 2024 Approved Navigating Twitter Video Submission Protocols</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-best-practices-for-compliant-twitter-videos-for-2024/"><u>[New] Best Practices for Compliant Twitter Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-breaking-barriers-in-advertising-animating-for-maximum-roi-on-fb/"><u>[Updated] 2024 Approved Breaking Barriers in Advertising Animating for Maximum ROI on FB</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-cross-network-laughter-whos-tops-today/"><u>[Updated] 2024 Approved Cross-Network Laughter Who's Tops Today?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-choosing-prime-audio-editors-for-youtube-creators/"><u>[Updated] In 2024, Choosing Prime Audio Editors for YouTube Creators</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maintaining-morale-amidst-online-adversity/"><u>[Updated] Maintaining Morale Amidst Online Adversity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-ultimate-guide-5-top-earning-instagram-strategies-for-2024/"><u>[Updated] Ultimate Guide 5 Top-Earning Instagram Strategies for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-in-the-hole-adding-windows-to-your-steam-deck/"><u>Ace in the Hole: Adding Windows to Your Steam Deck</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/building-a-billion-view-empire-your-step-by-step-youtube-strategy/"><u>Building a Billion-View Empire Your Step-by-Step Youtube Strategy</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-sketch-to-scene-mastering-windows-movie-makers-animation/"><u>From Sketch to Scene Mastering Windows Movie Maker's Animation</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitterscape-archive-the-ultimate-compiler-and-preserver-of-tweets-in-frames/"><u>Twitterscape Archive The Ultimate Compiler & Preserver of Tweets in Frames</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-zero-5g-2023-turbo-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Infinix Zero 5G 2023 Turbo Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Honor X50 GT? | Dr.fone</u></a></li>
 </ul></div>
 
