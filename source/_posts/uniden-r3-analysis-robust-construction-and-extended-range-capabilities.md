@@ -1,7 +1,7 @@
 ---
 title: "Uniden R3 Analysis: Robust Construction and Extended Range Capabilities"
-date: 2024-10-26T00:03:16.634Z
-updated: 2024-10-29T16:26:11.838Z
+date: 2024-11-01T16:52:51.817Z
+updated: 2024-11-04T16:05:21.858Z
 categories:
   - BestProducts
 description: "This Article Describes Uniden R3 Analysis: Robust Construction and Extended Range Capabilities"
@@ -38,10 +38,10 @@ Lifewire / Andrew Hayward
 4.2
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## TopMate C302 Laptop Cooling Pad
@@ -70,6 +70,13 @@ Lifewire / Andrew Hayward
 
  The TopMate C302 is a strong example of the latter. It’s affordable and solidly effective, but the plastic design feels a bit flimsy. I wouldn’t bet on it lasting for the long haul without gentle handling, but given the price, you might not worry about it too much.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design: Light and a little flimsy
 
  The C302 measures just over 14 inches wide and is designed for laptops with screens up to 15.6 inches diagonal. It’s primarily made of lightweight plastic, with a thin metal grate on the top above the two 4.9-inch fans to help dissipate heat.
@@ -77,6 +84,19 @@ Lifewire / Andrew Hayward
  The entire pad weighs only 1.1 pounds, but the downside to it being so lightweight is that it feels a bit flimsy and rickety. It’ll do just fine holding your laptop and sitting on a desk, but I wouldn’t bet on it surviving a hard fall without some damage.
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/3qjwZzxQ2KVhmQJOdD2R9jBegvI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_03-ed7074949b6f4e4794ce30be2d582058.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
@@ -89,10 +109,10 @@ Lifewire / Andrew Hayward
  The C302 has a little bit of accent lighting via a pair of blue lights beneath each fan, but it doesn’t emanate a significant glow, nor is it customizable in any way.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Setup Process: Plug and play
@@ -104,10 +124,16 @@ Lifewire / Andrew Hayward
 Lifewire / Andrew Hayward
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance: It makes a difference
@@ -129,13 +155,6 @@ Lifewire / Andrew Hayward
  Lastly, UNIGINE’s Heaven Benchmark hit 162 degrees internally and 109 degrees externally on the Razer Blade 15 alone, and dropped to 154 degrees internally and 105 degrees externally when using the C302\. All told, this lightweight and affordable pad delivered solid cooling power that helped cut down on both the internal and external temperature of the laptop while under significant stress.
 
  Depending on test, the results were roughly comparable to or better than more expensive cooling pads, like the Kootek Laptop Cooling Pad and Thermaltake Massive TM, which have some added features onboard. It’s also pretty quiet in use—certainly quieter than the Razer Blade 15’s own internal fans.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Price: It’s very affordable
 
@@ -160,13 +179,6 @@ Lifewire / Andrew Hayward
 * [Flexispot Theodore Standing Desk](https://www.lifewire.com/flexispot-theodore-standing-desk-review-5183806)
 * [ProCase MacBook Pro 13 Case](https://www.lifewire.com/procase-macbook-pro-13-case-review-4689945)
 * [North Face Pivoter Backpack](https://www.lifewire.com/north-face-pivoter-backpack-review-4690198)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -196,19 +208,24 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-framed-to-impress-your-guide-to-tweets-in-high-definition/"><u>[New] In 2024, Framed to Impress Your Guide to Tweets in High Definition</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-pro-level-7-dslrs-that-transform-your-digital-storytelling/"><u>[New] In 2024, Pro-Level 7 DSLRs That Transform Your Digital Storytelling</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-snicker-schematics-androids-with-sarcasm/"><u>[New] Snicker Schematics Androids with Sarcasm</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-understanding-video-standards-on-the-microblogging-site/"><u>[New] Understanding Video Standards on the Microblogging Site</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-engagement-strategic-use-of-youtube-titles-for-2024/"><u>[Updated] Elevating Engagement Strategic Use of Youtube Titles for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-hashtag-hype-unveiling-twitters-toptiktok-videos/"><u>[Updated] Hashtag Hype Unveiling Twitter's #TopTikTok Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-tap-out-of-tiktok-clutter-editing-guide-for-massive-drafts/"><u>[Updated] In 2024, Tap Out of TikTok Clutter Editing Guide for Massive Drafts</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-simple-process-for-preserving-tweets-imagesvideos-for-2024/"><u>[Updated] Simple Process for Preserving Tweets' Images/Videos for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-complete-guide-to-tweeting-visual-content-in-form-of-customized-gifs/"><u>[Updated] The Complete Guide to Tweeting Visual Content in Form of Customized GIFS</u></a></li>
-<li><a href="https://facebook.techidaily.com/banned-beyond-borders-facebook-in-these-countries/"><u>Banned Beyond Borders: Facebook in These Countries?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/exploiting-b-roll-for-visual-impact-on-projects/"><u>Exploiting B Roll for Visual Impact on Projects</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-nubia-red-magic-9-proplus-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-through-2024s-premium-gaming-mobos-your-definitive-guide-categorized-by-socket-and-cpu-chipset/"><u>Navigating Through 2024'S Premium Gaming Mobos: Your Definitive Guide, Categorized by Socket & CPU Chipset</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-razer-blackwidow-drivers/"><u>Step-by-Step Guide: Updating Your Razer BlackWidow Drivers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-craft-images-with-orbital-soft-edge-psx-tech/"><u>[New] Craft Images with Orbital Soft Edge PSX Tech</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-63-chuckle-factory-on-tiktok/"><u>[New] In 2024, 63 Chuckle Factory on TikTok</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-direct-syncing-tweeting-videos-onto-snapchat-channels/"><u>[New] In 2024, Direct Syncing Tweeting Videos Onto Snapchat Channels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-xbox-screen-recording-uncovered-a-step-by-step-manual/"><u>[New] In 2024, Xbox Screen Recording Uncovered A Step-by-Step Manual</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/obile-mastery-in-thumbnail-creation-for-engaging-youtube-videos/"><u>[New] Mobile Mastery in Thumbnail Creation for Engaging YouTube Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-convert-for-free-from-twitter-videos-to-animated-gifs/"><u>[Updated] 2024 Approved Convert for Free From Twitter Videos to Animated Gifs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-humorous-vines-the-ultimate-10-list/"><u>[Updated] 2024 Approved Humorous Vines The Ultimate 10 List</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-navigating-tweeted-content-across-facebook/"><u>[Updated] 2024 Approved Navigating Tweeted Content Across Facebook</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-cross-platform-sharing-twitter-videos-on-instagram-highlights/"><u>[Updated] Cross-Platform Sharing Twitter Videos on Instagram Highlights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-future-is-here-high-resolution-video-on-nikon-j5/"><u>[Updated] The Future Is Here High-Resolution Video on Nikon J5</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-transforming-your-twitter-feed-adding-custom-thumbnails-to-videos-for-2024/"><u>[Updated] Transforming Your Twitter Feed Adding Custom Thumbnails to Videos for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-trending-tales-top-10-captivating-tweets-of-today/"><u>2024 Approved Trending Tales Top 10 Captivating Tweets of Today</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-a79-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo A79 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/reigning-tiktoks-on-twitter-a-viral-analysis-for-2024/"><u>Reigning TikToks on Twitter A Viral Analysis for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/say-cheerio-to-a-happy-birthday-italian/"><u>Say Cheerio to a Happy Birthday (Italian)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-viewing-guide-superman-film-series-sequenced-perfectly/"><u>The Ultimate Viewing Guide: Superman Film Series Sequenced Perfectly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unfettered-gpt-accessibility-globally-reachable-guide/"><u>Unfettered GPT Accessibility: Globally Reachable Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/video-upload-insights-aspect-ratio-for-twitters-platform-for-2024/"><u>Video Upload Insights Aspect Ratio for Twitter's Platform for 2024</u></a></li>
 </ul></div>
 

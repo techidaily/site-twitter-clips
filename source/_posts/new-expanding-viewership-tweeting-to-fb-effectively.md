@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Expanding Viewership  Tweeting to FB Effectively\""
-date: 2024-10-28T16:47:23.246Z
-updated: 2024-10-29T21:26:20.974Z
+date: 2024-11-02T17:24:13.283Z
+updated: 2024-11-04T18:40:48.944Z
 tags:
   - ai video
   - ai twitter
@@ -130,152 +130,17 @@ Here is how you can directly post your tweets on Facebook:
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-5.png)
 
-* From the bottom of the screen, press Okay in the blue button.
-* Now, you will be redirected back to the Facebook settings page. It will look something like the picture below, confirming that your Twitter is now connected to Facebook.
-
-![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-6.png)
-
-* You can uncheck any options in case you don’t want Twitter posting retweets onto Facebook.
-* Now, Click on Save Changes to save the settings.
-
-![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-7.png)
-
-* You can type in a trial tweet and post it to confirm if it shows on your Facebook Profile.
-
-Now, you are done! You can post your Tweets directly on Facebook in just a few easy steps.
-
-## Conclusion
-
-So, this is how you can post your content from Twitter to Facebook. You can post Tweets and videos directly and effortlessly. This technique can be instrumental if you are a blogger that wants to post similar content on all social media handles or a business that wants to spread information to all its potential customers.
-
-In short, simple steps, you will be able to save a lot of time spent in retyping posts across all platforms one by one. Now, with a single click, you can post your tweets on Facebook and share your favorite videos.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-It can be quite a hassle to post one video on Twitter and log into your Facebook account only to post the same video so your Facebook followers can see them too.
-
-However, social media apps have integrated to create a virtual universe that allows you to post or share a single video on multiple platforms at once.
-
-If your accounts are connected together, you might find sharing videos across multiple platforms relatively easy. But, that utilizes the auto-share feature that automatically shares everything you post on Twitter to all your other social media. But nobody really wants to do that.
-
-That's why we are here to teach you to the manual method of sharing videos and how you can post a video from Twitter to Facebook. This way, you can share all your favorite tweets and videos from Twitter to Facebook.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## How to Share Twitter Videos on Facebook
-
-There are multiple ways to post your Twitter videos on your Facebook account without linking the accounts together. We have listed three ways to do that. So, let’s begin:
-
-### 1\. Using the Direct Method to Share Twitter Videos on Facebook
-
-While scrolling through your Twitter feed, if you encounter a fascinating video and want to share it with your Facebook friends, then follow the steps below. The only way to share a video manually from Twitter to Facebook is by copying the link of the video.
-
-If you have not used this method before, do not worry. We will guide you through it.
-
-* Before starting, make sure you have the Twitter video opened in front of you, and you have also logged into your Facebook account.
-* Now open the video you want to share and from the upper right corner, click on the downward-facing arrow.
-* This will show you three options “**Copy Link To Tweet**”, “**Embed Tweet**”, “**I Don’t like this Tweet**”. Select “**Copy Link to Tweet**”.
-* Now a window will open showing the link of the Tweet. You can select the link and copy it.
-* Next, open your Facebook page, and from the newsfeed area, **Create a New Post**.
-* Post the link of the video in the “**Create a New Post Area**” Once you paste the link, Facebook will find the video and load it to your post. You can preview it too before posting.
-* You can also type in a caption for the video and just click post to post your video.
-
-This is the easiest and most direct way to post a video from Twitter to Facebook. However, if you do not want to use the direct method for some reason, there are multiple indirect methods to post Twitter videos to Facebook.
-
-### 2\. Downloading and Posting Videos Using TwDown Website
-
-There are multiple sites on the internet that can help you download a Twitter video and then post it. Given below are two websites you can use to download videos. So, let's dive in:
-
-* Log into your Twitter account and open your Newsfeed on your PC.
-* Locate the video you want to share on Facebook. If you found the video in your newsfeed, you can look for it there.
-* In case you retweeted the video, you can find the video on your profile. Click on the Profile symbol, and from the dropdown menu, select Profile. Now click on the Media tab from the top of your profile and look for the video.
-* Once you find the video, open it and click on Play to start playing the video.
-* Right-click on the video next, and from the menu, select Copy Video Address. This will copy the link for the video so you can paste it wherever you want.
-* Now open another tab in your browser and open the [TwDown](https://twdown.net/in) This website allows you to download Twitter videos and recordings easily.
-* Once you open the website, click on the URL textbox and paste the link you copied.
-* Wait for the website to find the video and load it. Once loaded, you can download it by clicking on Download Link.
-* This will open your video in a new tab, and you can click on the Download symbol to Download the video.
-* Once the video is downloaded, you can post it to Facebook.
-* Log into your Facebook account and open your Newsfeed. You will find the Create a New Post Text Box on the top.
-* Click on the Add a Video icon to add a new video.
-* Locate the video on your PC and click Open to add it to your post.
-* Now, write an appropriate caption to match your video and click on Post.
-
-And voila! You have posted a Twitter video on Facebook seamlessly.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 3\. Download a Twitter Video with the sssTwitter website and Post it on Facebook
-
-Another way to download and post a video from Twitter to Facebook is using the sssTwitter website. Here is how you can download and post the video:
-
-* Now log into your Twitter account and find the video you want to share on Facebook.
-* Make sure you do not tap on the video and only snap the tweet to grow it.
-* In the URL box on top of your tab, carefully edit your URL address. Add “sss” before Twitter. For example, if it looked like “[https://twitter.com/\[link](https://twitter.com/%5Blink)\]” before, make sure it looks like “[https://ssstwitter.com/\[link](https://ssstwitter.com/%5Blink)\]”
-* Now Press Enter. This will take you directly to the sssTwitter website, which will allow you to download the video.
-* You will encounter several Download links. By clicking on them, you will see multiple video quality options. Right-click on the video link of your favored quality and select Save As.
-* Give your video a name and choose the location, and press Save to start the download.
-* Once the video is downloaded, the next step is posting it to Facebook.
-* Open your Facebook app or log on to Facebook from the Web.
-* Go to the Newsfeed screen, and on the top, you will find the Create a new Post Text Box.
-* Click on add a video to add the video from your PC. Locate the file and wait for it to upload.
-* Add an appropriate caption to match the video and click on Post.
-
-And you have now successfully posted a video from Twitter to Facebook.
-
-## How to Post Tweets on Facebook
-
-Guide every step with good images.
-
-If you are running a business or an e-commerce store, then posting the same content across various social media platforms can be very important. You can notify your customers about the latest deals, discounts, sales, and products.
-
-If you are just an individual, then you may simply want to share your thoughts with all your followers on both Facebook and Twitter. But, while this is a great marketing strategy, it can be quite an ordeal typing the same messages or posting the same content separately on each platform.
-
-In that case, you may simply follow the steps below to connect your social media accounts. You can connect your Facebook profile with Twitter, and as soon as you post a Tweet or retweet something, it will automatically be posted on Twitter too.
-
-Here is how you can directly post your tweets on Facebook:
-
-* Start by launching your browser on your PC.
-* Open Twitter and log into your account by typing in your credentials.
-* Now, Click on the little gear sign on the right of the screen to open settings.
-
-![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-1.png)
-
-* From the drop-down menu, select **Settings**.
-
-![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-2.png)
-
-* From the settings screen, select Profile from the tabs on the left.
-
-![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-3.png)
-
-* Once opened, scroll downwards until you see Facebook.
-
-![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-4.png)
-
-* Click on the**Connect to Facebook**
-* Now a new window will open Facebook. Log into the account you want to connect to the Twitter handle by entering your ID and password.
-* Once logged in, Twitter will take some of your public information like birthday, name, etc.
-
-![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * From the bottom of the screen, press Okay in the blue button.
@@ -291,6 +156,13 @@ Here is how you can directly post your tweets on Facebook:
 * You can type in a trial tweet and post it to confirm if it shows on your Facebook Profile.
 
 Now, you are done! You can post your Tweets directly on Facebook in just a few easy steps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -395,16 +267,16 @@ Here is how you can directly post your tweets on Facebook:
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Once opened, scroll downwards until you see Facebook.
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Click on the**Connect to Facebook**
 * Now a new window will open Facebook. Log into the account you want to connect to the Twitter handle by entering your ID and password.
@@ -417,13 +289,6 @@ Here is how you can directly post your tweets on Facebook:
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * You can uncheck any options in case you don’t want Twitter posting retweets onto Facebook.
 * Now, Click on Save Changes to save the settings.
 
@@ -432,13 +297,6 @@ Here is how you can directly post your tweets on Facebook:
 * You can type in a trial tweet and post it to confirm if it shows on your Facebook Profile.
 
 Now, you are done! You can post your Tweets directly on Facebook in just a few easy steps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -477,13 +335,6 @@ If you have not used this method before, do not worry. We will guide you through
 * You can also type in a caption for the video and just click post to post your video.
 
 This is the easiest and most direct way to post a video from Twitter to Facebook. However, if you do not want to use the direct method for some reason, there are multiple indirect methods to post Twitter videos to Facebook.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Downloading and Posting Videos Using TwDown Website
 
@@ -543,10 +394,10 @@ Here is how you can directly post your tweets on Facebook:
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * From the drop-down menu, select **Settings**.
@@ -566,6 +417,167 @@ Here is how you can directly post your tweets on Facebook:
 * Once logged in, Twitter will take some of your public information like birthday, name, etc.
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-5.png)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+* From the bottom of the screen, press Okay in the blue button.
+* Now, you will be redirected back to the Facebook settings page. It will look something like the picture below, confirming that your Twitter is now connected to Facebook.
+
+![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-6.png)
+
+* You can uncheck any options in case you don’t want Twitter posting retweets onto Facebook.
+* Now, Click on Save Changes to save the settings.
+
+![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-7.png)
+
+* You can type in a trial tweet and post it to confirm if it shows on your Facebook Profile.
+
+Now, you are done! You can post your Tweets directly on Facebook in just a few easy steps.
+
+## Conclusion
+
+So, this is how you can post your content from Twitter to Facebook. You can post Tweets and videos directly and effortlessly. This technique can be instrumental if you are a blogger that wants to post similar content on all social media handles or a business that wants to spread information to all its potential customers.
+
+In short, simple steps, you will be able to save a lot of time spent in retyping posts across all platforms one by one. Now, with a single click, you can post your tweets on Facebook and share your favorite videos.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+It can be quite a hassle to post one video on Twitter and log into your Facebook account only to post the same video so your Facebook followers can see them too.
+
+However, social media apps have integrated to create a virtual universe that allows you to post or share a single video on multiple platforms at once.
+
+If your accounts are connected together, you might find sharing videos across multiple platforms relatively easy. But, that utilizes the auto-share feature that automatically shares everything you post on Twitter to all your other social media. But nobody really wants to do that.
+
+That's why we are here to teach you to the manual method of sharing videos and how you can post a video from Twitter to Facebook. This way, you can share all your favorite tweets and videos from Twitter to Facebook.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to Share Twitter Videos on Facebook
+
+There are multiple ways to post your Twitter videos on your Facebook account without linking the accounts together. We have listed three ways to do that. So, let’s begin:
+
+### 1\. Using the Direct Method to Share Twitter Videos on Facebook
+
+While scrolling through your Twitter feed, if you encounter a fascinating video and want to share it with your Facebook friends, then follow the steps below. The only way to share a video manually from Twitter to Facebook is by copying the link of the video.
+
+If you have not used this method before, do not worry. We will guide you through it.
+
+* Before starting, make sure you have the Twitter video opened in front of you, and you have also logged into your Facebook account.
+* Now open the video you want to share and from the upper right corner, click on the downward-facing arrow.
+* This will show you three options “**Copy Link To Tweet**”, “**Embed Tweet**”, “**I Don’t like this Tweet**”. Select “**Copy Link to Tweet**”.
+* Now a window will open showing the link of the Tweet. You can select the link and copy it.
+* Next, open your Facebook page, and from the newsfeed area, **Create a New Post**.
+* Post the link of the video in the “**Create a New Post Area**” Once you paste the link, Facebook will find the video and load it to your post. You can preview it too before posting.
+* You can also type in a caption for the video and just click post to post your video.
+
+This is the easiest and most direct way to post a video from Twitter to Facebook. However, if you do not want to use the direct method for some reason, there are multiple indirect methods to post Twitter videos to Facebook.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 2\. Downloading and Posting Videos Using TwDown Website
+
+There are multiple sites on the internet that can help you download a Twitter video and then post it. Given below are two websites you can use to download videos. So, let's dive in:
+
+* Log into your Twitter account and open your Newsfeed on your PC.
+* Locate the video you want to share on Facebook. If you found the video in your newsfeed, you can look for it there.
+* In case you retweeted the video, you can find the video on your profile. Click on the Profile symbol, and from the dropdown menu, select Profile. Now click on the Media tab from the top of your profile and look for the video.
+* Once you find the video, open it and click on Play to start playing the video.
+* Right-click on the video next, and from the menu, select Copy Video Address. This will copy the link for the video so you can paste it wherever you want.
+* Now open another tab in your browser and open the [TwDown](https://twdown.net/in) This website allows you to download Twitter videos and recordings easily.
+* Once you open the website, click on the URL textbox and paste the link you copied.
+* Wait for the website to find the video and load it. Once loaded, you can download it by clicking on Download Link.
+* This will open your video in a new tab, and you can click on the Download symbol to Download the video.
+* Once the video is downloaded, you can post it to Facebook.
+* Log into your Facebook account and open your Newsfeed. You will find the Create a New Post Text Box on the top.
+* Click on the Add a Video icon to add a new video.
+* Locate the video on your PC and click Open to add it to your post.
+* Now, write an appropriate caption to match your video and click on Post.
+
+And voila! You have posted a Twitter video on Facebook seamlessly.
+
+### 3\. Download a Twitter Video with the sssTwitter website and Post it on Facebook
+
+Another way to download and post a video from Twitter to Facebook is using the sssTwitter website. Here is how you can download and post the video:
+
+* Now log into your Twitter account and find the video you want to share on Facebook.
+* Make sure you do not tap on the video and only snap the tweet to grow it.
+* In the URL box on top of your tab, carefully edit your URL address. Add “sss” before Twitter. For example, if it looked like “[https://twitter.com/\[link](https://twitter.com/%5Blink)\]” before, make sure it looks like “[https://ssstwitter.com/\[link](https://ssstwitter.com/%5Blink)\]”
+* Now Press Enter. This will take you directly to the sssTwitter website, which will allow you to download the video.
+* You will encounter several Download links. By clicking on them, you will see multiple video quality options. Right-click on the video link of your favored quality and select Save As.
+* Give your video a name and choose the location, and press Save to start the download.
+* Once the video is downloaded, the next step is posting it to Facebook.
+* Open your Facebook app or log on to Facebook from the Web.
+* Go to the Newsfeed screen, and on the top, you will find the Create a new Post Text Box.
+* Click on add a video to add the video from your PC. Locate the file and wait for it to upload.
+* Add an appropriate caption to match the video and click on Post.
+
+And you have now successfully posted a video from Twitter to Facebook.
+
+## How to Post Tweets on Facebook
+
+Guide every step with good images.
+
+If you are running a business or an e-commerce store, then posting the same content across various social media platforms can be very important. You can notify your customers about the latest deals, discounts, sales, and products.
+
+If you are just an individual, then you may simply want to share your thoughts with all your followers on both Facebook and Twitter. But, while this is a great marketing strategy, it can be quite an ordeal typing the same messages or posting the same content separately on each platform.
+
+In that case, you may simply follow the steps below to connect your social media accounts. You can connect your Facebook profile with Twitter, and as soon as you post a Tweet or retweet something, it will automatically be posted on Twitter too.
+
+Here is how you can directly post your tweets on Facebook:
+
+* Start by launching your browser on your PC.
+* Open Twitter and log into your account by typing in your credentials.
+* Now, Click on the little gear sign on the right of the screen to open settings.
+
+![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-1.png)
+
+* From the drop-down menu, select **Settings**.
+
+![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-2.png)
+
+* From the settings screen, select Profile from the tabs on the left.
+
+![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-3.png)
+
+* Once opened, scroll downwards until you see Facebook.
+
+![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-4.png)
+
+* Click on the**Connect to Facebook**
+* Now a new window will open Facebook. Log into the account you want to connect to the Twitter handle by entering your ID and password.
+* Once logged in, Twitter will take some of your public information like birthday, name, etc.
+
+![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-share-twitter-videos-on-facebook-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * From the bottom of the screen, press Okay in the blue button.
 * Now, you will be redirected back to the Facebook settings page. It will look something like the picture below, confirming that your Twitter is now connected to Facebook.
@@ -610,16 +622,20 @@ In short, simple steps, you will be able to save a lot of time spent in retyping
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-tweet-visionary-free-transformation-of-youtube-vids-into-tweenish-graphics-for-2024/"><u>[New] Tweet Visionary Free Transformation of YouTube Vids Into Tweenish Graphics for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-quick-tips-extracting-and-keeping-gif-tweets/"><u>[Updated] 2024 Approved Quick Tips Extracting and Keeping GIF Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-viral-video-voyage-twitters-compiled-top-10-tiktoks/"><u>[Updated] 2024 Approved Viral Video Voyage Twitter's Compiled Top 10 TikToks</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-online-sensation-spotlight/"><u>[Updated] Online Sensation Spotlight</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-honor-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Honor .</u></a></li>
-<li><a href="https://win11.techidaily.com/ceasing-auto-opens-on-microsofts-marketplace-app/"><u>Ceasing Auto-Opens on Microsoft's Marketplace App</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-astro-a10-mic-issues-and-proven-fixes-overcoming-audio-troubles/"><u>Common Astro A10 Mic Issues and Proven Fixes: Overcoming Audio Troubles</u></a></li>
-<li><a href="https://media-tips.techidaily.com/converting-video-file-formats-from-mpeg-to-crisp-mp3-soundtracks/"><u>Converting Video File Formats: From MPEG to Crisp MP3 Soundtracks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/digital-mastery-top-10-instagram-enhancers/"><u>Digital Mastery Top 10 Instagram Enhancers</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/recuperation-rapide-dun-fichier-excel-supprime-sous-windows-11/"><u>Récupération Rapide D'un Fichier Excel Supprimé Sous Windows 11</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-re-enable-sound-on-twitter-video-tweets/"><u>[Updated] 2024 Approved Re-Enable Sound on Twitter Video Tweets</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-cost-free-creative-conversion-twitter-to-tweeple-gifs-for-2024/"><u>[Updated] Cost-Free Creative Conversion Twitter to Tweeple GIFs for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-free-frame-conversion-tweeting-vids-into-animated-gifs/"><u>[Updated] In 2024, Free Frame Conversion Tweeting Vids Into Animated GIFs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-top-tweet-talent-showdown-1-10-edition/"><u>[Updated] In 2024, Top Tweet Talent Showdown #1-#10 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-save-instagram-videos-on-desktop-devices/"><u>[Updated] Step-by-Step Save Instagram Videos on Desktop Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-guide-to-using-obs-for-gamers-for-2024/"><u>[Updated] The Ultimate Guide to Using OBS for Gamers for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-viral-jokes-whos-winning-on-the-meme-front-in-2024/"><u>[Updated] Viral Jokes Who's Winning on the Meme Front, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/black-friday-offer-best-price-keys-fan-unlocked-for-all-year-lifetime-windows-11/"><u>Black Friday Offer: Best Price Keys Fan Unlocked for All-Year Lifetime Windows 11</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/fix-quiet-tweets-with-youtube-links/"><u>Fix Quiet Tweets with YouTube Links</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-90-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor 90 Pro</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/sending-instagram-direct-messages-with-twitter-videos-for-2024/"><u>Sending Instagram Direct Messages with Twitter Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-full-scale-of-precision-a-review-of-asus-pa32us-capabilities-for-2024/"><u>The Full Scale of Precision A Review of Asus PA32U's Capabilities for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-and-review-xbox-one-elite-wireless-controller-series-2-a-gaming-legend/"><u>Ultimate Guide & Review: Xbox One Elite Wireless Controller Series 2 - A Gaming Legend</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-create-cinematic-magic-top-slow-motion-video-editors-for-2024/"><u>Updated Create Cinematic Magic Top Slow Motion Video Editors for 2024</u></a></li>
 </ul></div>
 

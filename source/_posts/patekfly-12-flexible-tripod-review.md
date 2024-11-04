@@ -1,7 +1,7 @@
 ---
 title: Patekfly 12 Flexible Tripod Review
-date: 2024-10-23T22:02:21.408Z
-updated: 2024-10-29T17:22:21.747Z
+date: 2024-10-28T16:47:10.072Z
+updated: 2024-11-04T17:01:05.965Z
 categories:
   - BestProducts
 description: This Article Describes Patekfly 12 Flexible Tripod Review
@@ -37,13 +37,6 @@ Lifewire / Danny Chadwick
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Rexing V1 DashCam
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/5zZ5bclZ7zJVo8nRB2Y33JNM3w4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_HeroSqaure-ac1bb2840cb04106b14f3838b80a3bf2.jpg)
@@ -73,7 +66,21 @@ Lifewire / Danny Chadwick
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/JfL4E5NnuBPl6-93Hv3PI4IJsV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_05-bcfff5f440b545378c9ee4e6b431ffac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Danny Chadwick
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Design: Fits perfectly on your windshield**
 
@@ -90,6 +97,13 @@ Lifewire / Danny Chadwick
  It also has an internal accelerometer that can detect the impact of an accident, as well as[GPS capabilities](https://www.lifewire.com/what-is-gps-how-it-works-4688647) . Unfortunately, it doesn’t come with all the necessary equipment to use the GPS feature—if you want to enable these, you have to buy the[Rexing GPS Logger](https://www.amazon.com/Rexing-GPS-Logger-V1-V1P/dp/B01AKH377A/?tag=lifewire-onsite-prod-20&ascsubtag=4770571%7Cn9eae1cd5706347139b8b83241f9d42ea10%7C) separately.
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/ztn3EsFqtKkWImvQhtgcr1vlHwI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_02-9ee3aa46e7394a1ab263a6b12b287314.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Danny Chadwick
 
@@ -116,26 +130,19 @@ Lifewire / Danny Chadwick
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/9_1pHoEq74JWPJ8reothv8PeI8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_04-c5d42af8ddfa4296a6c6b1e8551edef6.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Danny Chadwick
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance: Set it and forget it**
 
@@ -152,22 +159,15 @@ Lifewire / Danny Chadwick
  Like the rest of the dashboard cameras we tested, the Rexing V1 has the ability to record audio, but it does a middling job of it. Voices in the car and sounds coming from the interior speakers were clear enough to understand, but sounds from outside the vehicle were muddy at best.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: A good value**
 
  The Rexing V1 retails for $130, but as of the time of this writing, can typically be purchased for closer to $100\. We feel like this is a perfectly appropriate price for this device—it falls right in the middle of the typical dashcam price range, providing better performance than super budget models, but without the high-tech features of the more expensive options out there. In short, it’s a good price for a solid, basic device.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Z3 Plus vs. Rexing V1**
 
@@ -214,15 +214,22 @@ Lifewire / Danny Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-reclaim-lively-sounds-in-muted-video-tweets/"><u>[New] Reclaim Lively Sounds in Muted Video Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-unleashing-sound-in-social-video-sharing-platforms-for-2024/"><u>[New] Unleashing Sound in Social Video Sharing Platforms for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-future-frameworks-exclusive-list-of-top-cameras/"><u>[Updated] In 2024, Future Frameworks Exclusive List of Top Cameras</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-sharing-videos-tweet-tumble-route/"><u>[Updated] In 2024, Sharing Videos Tweet-Tumble Route</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-5-must-know-tips-for-efficient-macos-tiktok-use/"><u>2024 Approved 5 Must-Know Tips for Efficient macOS TikTok Use</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-canon-ts6220-series-printing-software-on-your-pc/"><u>How to Install Updated Canon TS6220 Series Printing Software on Your PC</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-from-twitter-video-snippets-to-lively-animated-gifs/"><u>In 2024, From Twitter Video Snippets to Lively Animated GIFs</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ize-youtube-video-the-ultimate-guide-to-ad-revenue-for-2024/"><u>Monetize YouTube Video | The Ultimate Guide to Ad Revenue for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/solucion-efectiva-para-recuperar-mensajes-eliminados-de-outlook-tecnicas-practicas-y-recomendaciones-utiles/"><u>Solución Efectiva Para Recuperar Mensajes Eliminados De Outlook: Técnicas Prácticas Y Recomendaciones Útiles</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unlock-savings-with-elite-technology-offers-celebrate-amazon-prime-day-202email-protected/"><u>Unlock Savings with Elite Technology Offers – Celebrate Amazon Prime Day 202([Email Protected])</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-digital-discovery-uncovering-popularity-peaks-in-tweets/"><u>[New] 2024 Approved Digital Discovery Uncovering Popularity Peaks in Tweets</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-videotwitterconverter-direct-media-conversion/"><u>[New] 2024 Approved VideoTwitterConverter Direct Media Conversion</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-building-a-powerful-twitter-marketing-strategy-for-2024/"><u>[New] Building a Powerful Twitter Marketing Strategy for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-deciding-on-itop-recorder-an-indispensable-tool-in-2024/"><u>[New] Deciding on ITop Recorder - An Indispensable Tool, In 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-polishing-audio-in-home-recordings-on-youtube/"><u>[New] In 2024, Polishing Audio in Home Recordings on YouTube</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-unmute-tracks-from-muted-video-tweets/"><u>[New] In 2024, Unmute Tracks From Muted Video Tweets</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-wit-waves-the-top-10-jokes/"><u>[Updated] 2024 Approved Wit Waves The Top 10 Jokes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevating-your-earning-game-with-youtube-monetization-strategies-for-2024/"><u>[Updated] Elevating Your Earning Game with YouTube Monetization Strategies for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-shared-humor-top-20-memes-across-social-networks/"><u>[Updated] In 2024, Shared Humor Top 20 Memes Across Social Networks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-incors-guide-to-enriched-video-engagement-through-commentary-and-alert-embeddings/"><u>[Updated] Incor's Guide to Enriched Video Engagement Through Commentary and Alert Embeddings</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-most-memorable-tiktok-videos-and-their-twitter-spreads/"><u>[Updated] Most Memorable TikTok Videos & Their Twitter Spreads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/avoid-using-third-party-software-like-itunes-alternatives-as-they-may-not-be-optimized-for-ios-device-management-and-could-contribute-to-device-not-found-er23/"><u>Avoid Using Third-Party Software Like iTunes Alternatives, as They May Not Be Optimized for iOS Device Management and Could Contribute to 'Device Not Found' Errors when Connecting Your iPhone/iPad via USB</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/combat-ennui-with-these-10-engaging-gaming-options-when-boredom-strikes/"><u>Combat Ennui with These 10 Engaging Gaming Options When Boredom Strikes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/892511-9781583945940-esoteric-anatomy/"><u>Esoteric Anatomy | Free Book</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pexels-101-finding-the-picture-of-your-dreams/"><u>In 2024, Pexels 101 Finding the Picture of Your Dreams</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-trending-tweets-triumph-todays-top-viewed-videos/"><u>In 2024, Trending Tweets Triumph Today's Top Viewed Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-sync-with-print-devices/"><u>Restoring Sync with Print Devices</u></a></li>
 </ul></div>
 
