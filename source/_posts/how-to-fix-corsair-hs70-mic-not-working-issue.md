@@ -1,7 +1,7 @@
 ---
 title: How to Fix Corsair HS70 Mic Not Working Issue
-date: 2024-11-07T16:18:30.022Z
-updated: 2024-11-13T21:08:20.805Z
+date: 2024-11-13T17:19:49.346Z
+updated: 2024-11-14T20:57:07.266Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
@@ -62,21 +69,14 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 2. Under the**Recording** tab, check to see if your headset microphone is set to disabled. If it is, right-click on it and select**Enable** . (If your mic is not the default device, click**Set Default** to set it as default)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
@@ -104,15 +104,22 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4 – Reinstall the Corsair headset and iCUE software
@@ -126,13 +133,6 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 5. Select**iCUE** and then click**Uninstall** .  
@@ -140,19 +140,19 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Restart your PC and replug your Corsair headset into your computer.
 8. Relaunch the iCUE software. You can click **[here](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Ficue&mktsrc=drivereasyen%5F166866)**  to download the latest version of iCUE.
 
  If this method doesn’t work, then try the one below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5 – Use a USB audio card
 
@@ -187,10 +187,10 @@ Top Pick
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6 – Seek technical support or after-sales service
@@ -216,22 +216,22 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-trending-upward-selective-use-for-your-insta-posts/"><u>[New] 2024 Approved Trending Upward Selective Use for Your Insta Posts</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-cross-social-smiles-top-meme-picks-on-reddit-and-twitter/"><u>[New] In 2024, Cross-Social Smiles Top Meme Picks on Reddit & Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-methods-to-transfer-twitter-videos-to-instagram-feed-for-2024/"><u>[New] Methods to Transfer Twitter Videos to Instagram Feed for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-silent-tweets-end-auditory-upgrades-for-twitter-videos-for-2024/"><u>[New] Silent Tweets' End Auditory Upgrades for Twitter Videos for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-cutting-through-steps-posting-tiktok-videos-on-twitter/"><u>[Updated] Cutting Through Steps Posting TikTok Videos on Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-setting-up-your-social-media-presence-with-twitter/"><u>[Updated] In 2024, Setting Up Your Social Media Presence with Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-nailing-the-perfect-aspect-ratio-on-tweets-for-2024/"><u>[Updated] Nailing the Perfect Aspect Ratio on Tweets for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-correcting-time-jumps-fixing-obs-studio-problems/"><u>2024 Approved Correcting Time Jumps Fixing OBS Studio Problems</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-pioneering-clear-high-definition-on-twitter-videos/"><u>2024 Approved Pioneering Clear, High-Definition on Twitter Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-media-player-replacements-for-vlc/"><u>2024 Approved The Ultimate Guide to Media Player Replacements for VLC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-how-clockdate-shows-in-window-11/"><u>Customizing How Clock/Date Shows in Window 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-does-iphone-13-hold-up-against-water-learn-about-its-durability/"><u>How Does iPhone 13 Hold Up Against Water? Learn About Its Durability</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-infinix-smart-7-hd-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Infinix Smart 7 HD Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-leveraging-tiktok-videos-for-twitter-audiences/"><u>In 2024, Leveraging TikTok Videos for Twitter Audiences</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/sharing-tips-easily-distribute-conversations-from-your-chatgpt-sessions/"><u>Sharing Tips: Easily Distribute Conversations From Your ChatGPT Sessions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hidden-dangers-of-over-relying-on-ai-6-critical-points/"><u>The Hidden Dangers of Over-Relying on AI: 6 Critical Points</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-4k-perfection-the-most-jaw-dropping-video-samples-out-there-for-2024/"><u>Updated 4K Perfection The Most Jaw-Dropping Video Samples Out There for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-curating-capsules-of-gratitude-paidfree-options/"><u>[New] In 2024, Curating Capsules of Gratitude Paid/Free Options</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-hidden-gems-advanced-techniques-for-bokeh/"><u>[New] Instagram's Hidden Gems Advanced Techniques for Bokeh</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-iphones-ultimate-podcast-downloading-manual/"><u>[New] IPhone's Ultimate Podcast Downloading Manual</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-social-media-sensation-tiktoks-top-10-per-share-for-2024/"><u>[New] Social Media Sensation TikTok's Top 10 Per Share for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-serious-sam-4-crashing-and-stuttering-on-pc/"><u>[SOLVED] Serious Sam 4 Crashing & Stuttering on PC</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-effortless-extraction-of-twitter-jokes-3-ways/"><u>[Updated] 2024 Approved Effortless Extraction of Twitter Jokes 3 Ways</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-secrets-of-saving-youtube-thumbnails-in-various-formats/"><u>[Updated] In 2024, Secrets of Saving Youtube Thumbnails in Various Formats</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-the-compre-point-saving-twitter-exclusive-gifs-on-phones/"><u>[Updated] The Compre Point Saving Twitter-Exclusive Gifs on Phones</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-uniting-twitter-and-facebook-through-shared-content-for-2024/"><u>[Updated] Uniting Twitter and Facebook Through Shared Content for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-yearly-top-tweets-a-viewers-paradise-on-twitter/"><u>2024 Approved Yearly Top Tweets A Viewers' Paradise on Twitter</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-for-constant-age-of-wonders-planetfall-crashes-on-pc/"><u>Fixes and Solutions for Constant 'Age of Wonders: Planetfall' Crashes on PC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-content-cash-cow-how-much-does-the-meme-king-make/"><u>In 2024, Content Cash Cow How Much Does the Meme King Make?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-direct-comparison-evaluating-obs-against-twitch-hubs/"><u>In 2024, Direct Comparison Evaluating OBS Against Twitch Hubs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-premium-guide-capturing-and-storing-tweets-jokes-on-pc/"><u>In 2024, Premium Guide Capturing and Storing Tweets Jokes on PC</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-secure-method-storing-tweet-imagesvideos-on-your-mobile/"><u>In 2024, Secure Method Storing Tweet Images/Videos on Your Mobile</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-social-media-showdown-twitters-top-tiktok-trends/"><u>In 2024, Social Media Showdown Twitters' Top TikTok Trends</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/personalized-gift-boxes-unlocked-the-best-online-shopping-spots-for-2024/"><u>Personalized Gift Boxes Unlocked The Best Online Shopping Spots for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: B4B Gobi Crash Troubleshooting on UDK - Fixing UE4 Game Issues Easily
-date: 2024-11-09T21:53:30.681Z
-updated: 2024-11-13T16:52:41.588Z
+date: 2024-11-13T00:24:18.576Z
+updated: 2024-11-14T18:58:16.153Z
 tags:
   - win11
   - win10
@@ -48,15 +48,22 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from the official server.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  When the verifying process is completed, launch Back 4 Blood and see if this fix works. If the game still crashes, don’t worry. Read on and try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -72,19 +79,6 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -109,18 +103,18 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
@@ -129,19 +123,19 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Restart** your PC and run Back 4 Blood to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each service, you need to restart your PC to apply the changes.
@@ -175,14 +169,20 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-explore-the-hd-landscape-youtube-twitters-and-more/"><u>[Updated] 2024 Approved Explore the HD Landscape YouTube, Twitters, and More</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-pros-guide-from-playback-to-perfected-overwatch-recordings/"><u>[Updated] In 2024, The Pro's Guide From Playback to Perfected Overwatch Recordings</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-strategies-for-full-time-workers-who-create-videos-for-2024/"><u>[Updated] Strategies for Full-Time Workers Who Create Videos for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-vivid-twitter-visuals-the-journey-to-full-hd-viewing-for-2024/"><u>[Updated] Vivid Twitter Visuals The Journey to Full HD Viewing for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-your-first-step-on-twitter-creating-an-account/"><u>2024 Approved Your First Step on Twitter Creating an Account</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-farm-tastic-fun-and-games-the-ultimate-agricompanion-titles/"><u>In 2024, Farm-Tastic Fun & Games The Ultimate AgriCompanion Titles</u></a></li>
-<li><a href="https://facebook.techidaily.com/lack-of-faith-in-major-platforms-spikes-for-facebook/"><u>Lack of Faith in Major Platforms Spikes for Facebook</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/utilizing-twitters-videos-in-your-instagram-content-strategy/"><u>Utilizing Twitter's Videos in Your Instagram Content Strategy</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-update-brings-new-features-to-amds-radeon-hd-6950/"><u>Win11 Update Brings New Features to AMD's Radeon HD 6950</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-sharing-tiktok-on-twitter-quickly/"><u>[New] 2024 Approved Sharing TikTok on Twitter Quickly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-thriving-as-an-independent-youtube-entrepreneur-dodging-the-ad-dilemrante/"><u>[New] 2024 Approved Thriving as an Independent YouTube Entrepreneur Dodging the Ad Dilemrante</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-update-short-twitter-video-coverage/"><u>[New] 2024 Approved Update Short Twitter Video Coverage</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-become-a-pro-at-tweeting-live-video-responses/"><u>[New] Become a Pro at Tweeting Live Video Responses</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-comedy-kings-and-queens-whos-tops/"><u>[New] In 2024, Comedy Kings and Queens Who's Tops?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-enhance-your-livestream-going-beyond-obs/"><u>[Updated] In 2024, Enhance Your Livestream Going Beyond OBS</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-proven-methods-for-twitter-brand-awareness/"><u>[Updated] In 2024, Proven Methods for Twitter Brand Awareness</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tweak-twitter-video-clip-cover/"><u>[Updated] In 2024, Tweak Twitter Video Clip Cover</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-twitchconverter-tweets-to-streams/"><u>[Updated] In 2024, TwitchConverter Tweets to Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-the-art-of-social-media-stardom-with-these-9-strategies/"><u>2024 Approved Master the Art of Social Media Stardom with These 9 Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-hdcp-problem-insights-into-common-issues-and-efficient-remedies/"><u>Fixing the HDCP Problem: Insights Into Common Issues & Efficient Remedies</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-from-simple-designs-to-compelling-animated-graphics/"><u>In 2024, From Simple Designs to Compelling Animated Graphics</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-spotlight-on-top-trending-tweets/"><u>In 2024, Spotlight on Top Trending Tweets</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-the-topmate-c302-an-economical-and-powerful-solution-for-your-overheating-laptop-our-thorough-review-explains/"><u>Is the TopMate C302 an Economical and Powerful Solution for Your Overheating Laptop? Our Thorough Review Explains</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-how-to-make-a-stop-motion-video-on-instagram-for-2024/"><u>Updated How to Make a Stop Motion Video on Instagram for 2024</u></a></li>
 </ul></div>
 

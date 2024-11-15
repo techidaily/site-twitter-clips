@@ -1,7 +1,7 @@
 ---
 title: Essential Tips and Techniques for Fixing a Malfunctioning Google Meet Camera
-date: 2024-11-12T19:08:13.546Z
-updated: 2024-11-13T16:15:05.601Z
+date: 2024-11-11T19:09:34.088Z
+updated: 2024-11-14T18:19:22.639Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, chances are that an outdated or corrupted graphics driver is causing the crashing issue for you. Try updating your graphics driver to see if it resolves your issue. There are two ways you can do this:
@@ -76,6 +83,13 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -102,10 +116,10 @@ If your problem persists, then go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-896.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Right-click **DOOM** and select **Properties** .
@@ -120,13 +134,6 @@ If your problem persists, then go ahead with the next fix below.
 
 If this didn’t work, try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Lower your in-game settings
 
  Improper game settings can also cause the game to fail. If the game isn’t running smoothly, try lowing the graphics settings. Here is how:
@@ -138,13 +145,6 @@ If this didn’t work, try the fix, below.
 **3)** Find the**Virtual Texture Pool Size** , and turn it to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_17-36-42.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Relaunch the game to see if this worked.
 
@@ -160,33 +160,26 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click **View advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
@@ -196,16 +189,16 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/paging-file.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
@@ -221,10 +214,10 @@ If not, move on and try the next solution below.
  If the game crashing issue still exists, then go ahead with the next solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Check for Windows updates
@@ -251,13 +244,6 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
@@ -266,9 +252,29 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Highlight the **DOOM Eternal folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_12-34-56-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall DOOM.
 
@@ -295,17 +301,16 @@ If not, move on and try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-harnessing-the-power-of-your-retweet-archives/"><u>[New] Harnessing the Power of Your Retweet Archives</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/00001776-updated-2024-approved-tripping-up-heres-how-to-avoid-it/"><u>[Updated] 2024 Approved Tripping Up? Here's How to Avoid It!</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-buzzing-on-both-platforms-top-10-tiktok-tweets-explored/"><u>[Updated] In 2024, Buzzing on Both Platforms Top 10 TikTok Tweets Explored</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-shortcut-to-share-tiktoks-and-twitters-integration/"><u>[Updated] In 2024, The Shortcut to Share TikToks & Twitters Integration</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tiktoks-rise-to-fame-through-twitters-top-10-list/"><u>[Updated] In 2024, TikTok's Rise to Fame Through Twitter’s Top 10 List</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-innovative-youtube-channel-titles-the-key-to-successful-blogging-and-filmmaking-no-more-than-156-characters/"><u>[Updated] Innovative YouTube Channel Titles The Key to Successful Blogging & Filmmaking (No More than 156 Characters)</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-pc-strategies-for-acquiring-twitter-jokes-gifs-for-2024/"><u>[Updated] PC Strategies for Acquiring Twitter Jokes (GIFs) for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/deciphering-cod-warzone-pacific-chaos-resolution/"><u>Deciphering COD: Warzone Pacific Chaos Resolution</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guida-alla-configurazione-e-al-supporto-telematico-online-per-i-programmi-di-estrazione-di-video-winx-versione-ai-integrata/"><u>Guida Alla Configurazione E Al Supporto Telematico Online per I Programmi Di Estrazione Di Video WinX - Versione AI Integrata</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-the-power-of-ai-top-8-reasons-educators-should-adapt/"><u>Harnessing the Power of AI: Top 8 Reasons Educators Should Adapt</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premium-computing-solutions-on-desktops-for-2024/"><u>Premium Computing Solutions on Desktops for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-review-of-the-latest-raspberry-pi-pico-a-deep-dive-into-its-new-arm-plus-risc-v-cores-at-an-affordable-price/"><u>Unboxing Review of the Latest Raspberry Pi Pico: A Deep Dive Into Its New Arm + RISC-V Cores at an Affordable Price</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-2023s-leading-twitvideos-the-years-hottest-tweets/"><u>[New] In 2024, 2023'S Leading TwitVideos The Year's Hottest Tweets</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-stop-the-mute-add-sound-to-tweeted-clips/"><u>[New] In 2024, Stop the Mute Add Sound to Tweeted Clips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-lens-legends-choice-the-finest-6-4k-dslr-cameras/"><u>[Updated] Lens Legends Choice The Finest 6 4K DSLR Cameras</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-viral-video-explosion-twitters-hot-tiktoks-listed/"><u>[Updated] Viral Video Explosion Twitter’s Hot TikToks Listed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-listing-top-15-platforms-for-gopro-optimal-use/"><u>2024 Approved Exclusive Listing Top 15 Platforms for GoPro Optimal Use</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/connect-your-tiktok-creativity-to-twitter-for-2024/"><u>Connect Your TikTok Creativity to Twitter for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-definition-aesthetics-exclusive-top-15-lut-selection-for-gopro-for-2024/"><u>High-Definition Aesthetics Exclusive Top 15 LUT Selection for GOPRO for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-accuracy-audit-a-vll-driven-review/"><u>In 2024, Accuracy Audit A VLL-Driven Review</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-text-animation-tools/"><u>New 2024 Approved Top Text Animation Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-v27-pro-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo V27 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/x-transcription-software-pc-for-2024/"><u>X-Transcription Software PC for 2024</u></a></li>
 </ul></div>
 
