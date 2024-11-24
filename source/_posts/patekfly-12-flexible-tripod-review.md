@@ -1,7 +1,7 @@
 ---
 title: Patekfly 12 Flexible Tripod Review
-date: 2024-11-12T21:14:59.605Z
-updated: 2024-11-14T21:49:00.751Z
+date: 2024-11-22T02:36:53.983Z
+updated: 2024-11-24T05:02:59.791Z
 categories:
   - BestProducts
 description: This Article Describes Patekfly 12 Flexible Tripod Review
@@ -38,16 +38,7 @@ Lifewire / Danny Chadwick
 4.2
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Rexing V1 DashCam
@@ -79,13 +70,14 @@ Lifewire / Danny Chadwick
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/JfL4E5NnuBPl6-93Hv3PI4IJsV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_05-bcfff5f440b545378c9ee4e6b431ffac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Fits perfectly on your windshield**
@@ -105,26 +97,10 @@ Lifewire / Danny Chadwick
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/ztn3EsFqtKkWImvQhtgcr1vlHwI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_02-9ee3aa46e7394a1ab263a6b12b287314.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Danny Chadwick
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Setup Process: Be sure that’s where you want to put it**
 
@@ -139,10 +115,7 @@ Lifewire / Danny Chadwick
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/df0_L-UzAk3OryqSCncsjfqi8QM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_03-2273fff3f71944368711b60f5da9687e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Danny Chadwick
@@ -220,16 +193,22 @@ Lifewire / Danny Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-navigating-the-spectrum-in-hands-on-recognition-technology/"><u>[New] 2024 Approved Navigating the Spectrum in Hands-On Recognition Technology</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-crafting-powerful-hashtags-for-fb-brand-identity/"><u>[New] In 2024, Crafting Powerful Hashtags for FB Brand Identity</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-spotting-success-stories-2023s-most-shared-tweets/"><u>[New] Spotting Success Stories 2023’S Most Shared Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tweets-unfolded-yearly-guide-to-social-reactions/"><u>[Updated] In 2024, Tweets Unfolded Yearly Guide to Social Reactions</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-stream-perfecting-tweets-with-correct-video-formats-for-2024/"><u>[Updated] Stream-Perfecting Tweets with Correct Video Formats for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-mastering-twitter-uploading-videos-compliance/"><u>2024 Approved Mastering Twitter Uploading Videos Compliance</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweeted-to-fame-identifying-2023s-most-shared-content/"><u>2024 Approved Tweeted to Fame Identifying 2023'S Most Shared Content</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016025357-easy-audio-fix-techniques-for-a-silent-pc-get-sound-back-now/"><u>Easy Audio Fix Techniques for a Silent PC - Get Sound Back Now</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/elite-converter-mp4-to-instant-fb-access-2023/"><u>Elite Converter MP4 to Instant FB Access 2023</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-tips-to-defeat-the-requires-elevation-hurdle-in-win-11/"><u>Expert Tips to Defeat the Requires Elevation Hurdle in Win 11</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/split-trim-and-perfect-video-editing-techniques-in-windows-live-movie-maker-for-2024/"><u>Split, Trim, and Perfect Video Editing Techniques in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-quicktakes-why-videos-thrive-on-twitter-writes/"><u>[New] 2024 Approved QuickTakes Why Videos Thrive on Twitter' Writes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eciphering-revenue-sharing-in-youtube-shorts-for-2024/"><u>[New] Deciphering Revenue Sharing in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-how-to-tweet-videos-on-iphoneandroid-without-a-retweet/"><u>[New] In 2024, How To Tweet Videos on iPhone/Android Without a Retweet</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-quick-video-sharing-tweet-it-up-no-need-for-retweets/"><u>[New] In 2024, Quick Video Sharing Tweet It Up - No Need for Retweets</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-laugh-ledger-comedy-chronicles-from-twitters-best-videos-for-2024/"><u>[New] Laugh Ledger Comedy Chronicles From Twitter's Best Videos for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-cross-platform-content-spread-tweeting-and-tumbling-for-2024/"><u>[Updated] Cross-Platform Content Spread Tweeting & Tumbling for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-trending-on-twitter-unpacking-top-10-tiktok-videos/"><u>[Updated] Trending on Twitter Unpacking Top 10 TikTok Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-smile-slam-the-best-comedy-moments-on-social-media/"><u>2024 Approved Smile Slam The Best Comedy Moments on Social Media</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-huawei-nova-y71-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Huawei Nova Y71 online without jailbreak</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-harmony-through-play-our-best-10-gems/"><u>In 2024, Harmony Through Play Our Best 10 Gems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-itel-a60-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Itel A60 online without jailbreak</u></a></li>
+<li><a href="https://win-help.techidaily.com/secure-your-information-how-to-safely-backup-files-and-folders-in-windows-versions-111087-learn-these-2-proven-techniques/"><u>Secure Your Information: How to Safely Backup Files and Folders in Windows Versions (11/10/8/7) - Learn These 2 Proven Techniques</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/silence-problem-twitter-videos-lacking-sounds-for-2024/"><u>Silence Problem Twitter Videos Lacking Sounds for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ps5s-popular-dualsense-controller-why-it-doesnt-appeal-to-me/"><u>The PS5's Popular DualSense Controller - Why It Doesn't Appeal to Me</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-mac-mice-recommendations/"><u>Top-Rated Mac Mice Recommendations</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
 </ul></div>
 

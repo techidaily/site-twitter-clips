@@ -1,7 +1,7 @@
 ---
 title: "Complete Solution: Resolving Issues with Non-Functional 'Beyond the Wire' Microphone"
-date: 2024-11-07T19:15:59.941Z
-updated: 2024-11-14T16:35:23.172Z
+date: 2024-11-23T07:05:06.798Z
+updated: 2024-11-24T02:51:43.597Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 
  If the mic of your Logitech G733 works on other devices, it suggests that the hardware is fine. If it’s the case, read on and try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Allow access to your Logitech G733 microphone
 
  First, ensure that you allow Windows and your application to access your headset microphone. To check this, follow the steps below:
@@ -53,13 +57,14 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 4. Scroll down to check if the**Allow desktop apps access to your microphone** part is set to **On** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Allow desktop apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-desktop-apps-to-access-your-microphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then check if your Logitech G733 mic works on your computer. If not, don’t worry. Just try the next fix, below.
 
@@ -71,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 ![control mmsys.cpl sounds](https://images.drivereasy.com/wp-content/uploads/2021/04/control-mmsys.cpl-sounds.jpg)
 2. Navigate to the **Recording** tab, then**right-click** on any empty place inside the device list and**check Show Disabled Devices** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Show disabled Recording Devices ](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 3. **Right-click** the**Headset Microphone** and click **Enable** .  
 
@@ -85,10 +83,7 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 4. Then**right-click** it again and select **Set as Default Device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Set as default recording device](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
@@ -100,13 +95,14 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 ![drag the volume slider towards the maximum value.](https://images.drivereasy.com/wp-content/uploads/2020/12/img_5b4db71801655.jpg)
 7. Click**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your audio drivers
@@ -125,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — if you don’t already have it, you’ll be prompted to upgrade when you click **Update All** .)  
 ![audio-driver-update](https://images.drivereasy.com/wp-content/uploads/2021/03/audio-driver-update.jpg)
 4. Reboot your PC for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -159,16 +148,22 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-direct-screen-capture-chromium-version/"><u>[New] 2024 Approved Direct Screen Capture Chromium Version</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-lenovo-laptop-a-complete-guide-to-recording-screens/"><u>[New] In 2024, Lenovo Laptop A Complete Guide to Recording Screens</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-unveiling-snapchat-video-feeds-from-twitter/"><u>[New] Unveiling Snapchat Video Feeds From Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-direct-from-mobile-how-to-upload-videos-on-twit/"><u>[Updated] Direct From Mobile How to Upload Videos on Twit</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unveiling-the-best-practices-for-youtube-fb-sharing/"><u>[Updated] In 2024, Unveiling the Best Practices for YouTube FB Sharing</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitters-hit-videos-the-most-watched-of-the-year/"><u>[Updated] Twitter's Hit Videos The Most Watched of the Year</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-videotwitterconverter-direct-media-conversion/"><u>[Updated] VideoTwitterConverter Direct Media Conversion</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/brief-blueprints-sending-ios-videos-and-images/"><u>Brief Blueprints Sending iOS Videos & Images</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/live-link-legends-favoring-the-framework-software-or-fabrication-hardware/"><u>Live Link Legends Favoring the Framework (Software) or Fabrication (Hardware)?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/tweetsnapter-the-leading-tool-for-storing-your-gif-delights-for-2024/"><u>TweetSnapter The Leading Tool for Storing Your Gif Delights for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/voice-transformation-tools-magic-edition-highlighted/"><u>Voice Transformation Tools Magic Edition Highlighted</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-10-best-funny-videos-on-twitter/"><u>[New] 2024 Approved 10 Best Funny Videos on Twitter</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nhancing-youtube-visibility-with-featured-channels-techniques/"><u>[New] Enhancing YouTube Visibility with Featured Channels Techniques</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-visionarys-handbook-for-twit-reaction-videos/"><u>[New] In 2024, The Visionary's Handbook for Twit-Reaction Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-sharing-videos-on-tweet-no-retweets-just-phones/"><u>[New] Sharing Videos on Tweet No Retweets, Just Phones</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-viral-views-vault-the-daily-top-10-watched-videos/"><u>[New] Viral Views Vault The Daily Top 10 Watched Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-sending-non-retwitted-videos-from-your-mobile-browser-to-twitter/"><u>[Updated] In 2024, Sending Non-Retwitted Videos From Your Mobile Browser to Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-snatching-twitter-laughter-3-pc-techniques/"><u>[Updated] In 2024, Snatching Twitter Laughter 3 PC Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-infusing-beats-into-ig-story-posts-without-limits-for-2024/"><u>[Updated] Infusing Beats Into IG Story Posts Without Limits for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-mastering-aspect-ratio-compliance-in-micro-video-tweets-for-2024/"><u>[Updated] Mastering Aspect Ratio Compliance in Micro-Video Tweets for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-snap-share-thrive-on-instagram-for-2024/"><u>[Updated] Snap, Share, Thrive on Instagram for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-transforming-standard-tweets-into-hd-spectacles/"><u>[Updated] Transforming Standard Tweets Into HD Spectacles</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-7-plus-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 7 Plus Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/1716162754270-how-to-use-the-instagram-green-screen-effect/"><u>How to Use the Instagram Green Screen Effect</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Fixing Foneazy MockGo Not Working On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-realme-v30-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Realme V30 Phone</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-premier-screen-picks-for-ps5-and-xbox-games/"><u>The Premier Screen Picks for PS5 and Xbox Games</u></a></li>
 </ul></div>
 

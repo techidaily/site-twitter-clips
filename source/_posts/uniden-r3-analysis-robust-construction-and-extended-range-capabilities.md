@@ -1,7 +1,7 @@
 ---
 title: "Uniden R3 Analysis: Robust Construction and Extended Range Capabilities"
-date: 2024-11-07T22:23:49.206Z
-updated: 2024-11-15T00:39:34.786Z
+date: 2024-11-19T03:25:17.670Z
+updated: 2024-11-24T03:29:36.669Z
 categories:
   - BestProducts
 description: "This Article Describes Uniden R3 Analysis: Robust Construction and Extended Range Capabilities"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ## Common in Prostate Cancer, Osteoblastic Lesions Can Lead to Osteosclerosis and Structurally Unsound Bones
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TopMate C302 Laptop Cooling Pad
 
@@ -37,22 +41,12 @@ Lifewire / Andrew Hayward
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## TopMate C302 Laptop Cooling Pad
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Um5K58ex8qVMnW5PlEtqzPi9c-4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_HeroSquare-53c92cb3074b41d9b696fd9f6fa1a64e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
@@ -77,13 +71,6 @@ Lifewire / Andrew Hayward
 
  The TopMate C302 is a strong example of the latter. It’s affordable and solidly effective, but the plastic design feels a bit flimsy. I wouldn’t bet on it lasting for the long haul without gentle handling, but given the price, you might not worry about it too much.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Design: Light and a little flimsy
 
  The C302 measures just over 14 inches wide and is designed for laptops with screens up to 15.6 inches diagonal. It’s primarily made of lightweight plastic, with a thin metal grate on the top above the two 4.9-inch fans to help dissipate heat.
@@ -102,18 +89,15 @@ Lifewire / Andrew Hayward
 
  The C302 has a little bit of accent lighting via a pair of blue lights beneath each fan, but it doesn’t emanate a significant glow, nor is it customizable in any way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Setup Process: Plug and play
 
  The C302 is a purely plug-and-play accessory with no flashy perks or settings to deal with, nor any need for software on your computer. Simply place it under your laptop, adjust the feet and holding nubs as desired, and plug the USB port into your computer to power on the pad. The fans will then activate and run at the only available speed, and you can unplug it when you’re done or don’t need it anymore.
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/xhFp_B4P4BG8gb4dtJAGBbXPAlw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_05-4ce850d84f4a4e1d931588e23f39cb82.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
@@ -131,24 +115,25 @@ Lifewire / Andrew Hayward
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/Xs71AyeThjZwy-vZJ9LfxIhuXJc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_04-eadbaf270b874af9bb8843b95efe8ca7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Andrew Hayward
 
  Lastly, UNIGINE’s Heaven Benchmark hit 162 degrees internally and 109 degrees externally on the Razer Blade 15 alone, and dropped to 154 degrees internally and 105 degrees externally when using the C302\. All told, this lightweight and affordable pad delivered solid cooling power that helped cut down on both the internal and external temperature of the laptop while under significant stress.
 
  Depending on test, the results were roughly comparable to or better than more expensive cooling pads, like the Kootek Laptop Cooling Pad and Thermaltake Massive TM, which have some added features onboard. It’s also pretty quiet in use—certainly quieter than the Razer Blade 15’s own internal fans.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Price: It’s very affordable
 
  At $30, this is one of the most affordable laptop cooling pads on the market right now. While results varied across multiple tests and games/apps, the C302 was pretty well in line with some of the pricier options I tested. It feels a little flimsy and doesn’t have any premium features, but the C302 is a very good entry-level option.
 
 ![TopMate C302 Laptop Cooling Pad](https://www.lifewire.com/thmb/3hXx9Tb9omnQS0YyIXmv97Lunr0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TopMate_C302_02-8fc1ac2169044c0a82b61a80f63ef089.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
@@ -196,22 +181,20 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-supercharge-your-tweet-views-for-flawless-hd/"><u>[New] Supercharge Your Tweet Views for Flawless HD</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-transform-photos-with-expert-color-techniques/"><u>[New] Transform Photos with Expert Color Techniques</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-necessary-details-for-twitter-video-submissions-aspect-ratio/"><u>[Updated] 2024 Approved Necessary Details for Twitter Video Submissions (Aspect Ratio)</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-directly-uploading-tweets-videos-to-instagram-profile-for-2024/"><u>[Updated] Directly Uploading Tweets Videos to Instagram Profile for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-essential-info-for-tweeting-videos-aspect-ratios-required-for-2024/"><u>[Updated] Essential Info for Tweeting Videos Aspect Ratios Required for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-elite-no-price-fb-photovideo-magic-maker/"><u>[Updated] In 2024, Elite No-Price FB Photo/Video Magic Maker</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-unclog-youtube-videos-from-twitter-in-chrome/"><u>[Updated] In 2024, Unclog YouTube Videos From Twitter in Chrome</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-one-ear-beats-troubleshoot-guide/"><u>2024 Approved One-Ear Beats Troubleshoot Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-reactivate-lost-chatter-in-social-media-clips/"><u>2024 Approved Reactivate Lost Chatter in Social Media Clips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-holiday-flicks-to-enjoy-in-high-quality-this-season-at-hallmark-stores-amazon-and-walmart/"><u>Best Holiday Flicks to Enjoy in High Quality This Season at Hallmark Stores, Amazon and Walmart</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/byte-sized-hits-the-heart-of-viral-content-for-2024/"><u>Byte-Sized Hits The Heart of Viral Content for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/daily-assistants-showdown-comparing-claude-and-chatgpt-for-routine-needs/"><u>Daily Assistants Showdown: Comparing Claude and ChatGPT for Routine Needs</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/digital-detailing-expert-tips-for-attaching-dates-in-photography/"><u>Digital Detailing Expert Tips for Attaching Dates in Photography</u></a></li>
-<li><a href="https://article-tips.techidaily.com/echoes-expanse-a-compreshift-of-best-speech-to-text-applications/"><u>Echoes Expanse A Compreshift of Best Speech-to-Text Applications</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-review-insights-acevideo-editor-2023-edition-for-2024/"><u>Full Review Insights AceVideo Editor, 2023 Edition for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-itel-a70-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Itel A70</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-who-are-the-biggest-watchers-top-amazon-series-liked-by-twitter-2023/"><u>In 2024, Who Are the Biggest Watchers? Top Amazon Series Liked by Twitter, 2023</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-cutting-through-content-clutter-youtube-shorts-essentials/"><u>[New] Cutting Through Content Clutter YouTube Shorts Essentials</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-digital-domination-how-videos-rule-twitter/"><u>[New] In 2024, Digital Domination How Videos Rule Twitter</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-essential-6-social-channels-for-enterprise-leadership/"><u>[New] In 2024, Essential 6 Social Channels for Enterprise Leadership</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-stream-power-showdown-vmix-clashes-with-wirecast-for-broadcast-excellence/"><u>[New] Stream Power Showdown VMix Clashes with Wirecast for Broadcast Excellence</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-transform-your-screen-recording-process-using-aiseesoft-tools-for-2024/"><u>[New] Transform Your Screen Recording Process Using Aiseesoft Tools for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-elite-5-non-twitter-channels-online/"><u>[Updated] In 2024, Elite 5 Non-Twitter Channels Online</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-twitgrabber-mobile-app-for-downloading-tweets-videos/"><u>[Updated] In 2024, TwitGrabber Mobile App for Downloading Tweets' Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-no-price-no-problem-turning-twitter-vids-into-gifs/"><u>[Updated] No Price, No Problem Turning Twitter Vids Into GIFs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-the-gif-grabbers-handbook-a-comprehensible-guide-to-downloading-twitter-gifs-for-2024/"><u>[Updated] The GIF Grabber's Handbook A Comprehensible Guide to Downloading Twitter GIFs for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-se-2020-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone SE (2020) When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/discover-iconic-cinema-essential-youtube-channels/"><u>Discover Iconic Cinema Essential YouTube Channels</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/get-set-to-soar-with-the-syma-x8-f9x-quadcopter-the-best-choice-for-budget-friendly-flight-fun/"><u>Get Set to Soar with the Syma X8 F9X Quadcopter – The Best Choice for Budget-Friendly Flight Fun!</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/social-media-stardom-guide/"><u>Social Media Stardom Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/wit-waves-the-top-10-jokes-for-2024/"><u>Wit Waves The Top 10 Jokes for 2024</u></a></li>
 </ul></div>
 

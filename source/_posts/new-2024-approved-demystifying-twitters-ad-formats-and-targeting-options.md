@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Demystifying Twitter's Ad Formats and Targeting Options\""
-date: 2024-10-31T17:21:30.707Z
-updated: 2024-11-04T16:22:41.045Z
+date: 2024-11-17T22:42:17.297Z
+updated: 2024-11-24T03:35:17.220Z
 tags:
   - ai video
   - ai twitter
@@ -29,6 +29,206 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
  More than half of social media managers think that Twitter is the platform that leads the market in terms of return of investment since 94 percent of the social network's users have claimed that they planned to buy a product after discovering it on Twitter. In this article, we are going to show you how to advertise on Twitter.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Types of Advertising on Twitter
+
+ If your company has reached the decision to start advertising on Twitter, there are three different ways in which you can accomplish this. Promoted Tweets, Promoted Trends and Promoted Accounts all offer different opportunities, so let's take a closer look at each of these options.
+
+#### 1\. Promoted Accounts
+
+ As much as 85 percent of users have reported that promoted accounts helped them find new businesses that offer products they were looking for. The true purpose of promoted accounts is to make your Twitter account visible to the audience you targeted and gain more followers in such a manner.
+
+ Promoted accounts appear in timelines of Twitter users that fit in your target group and they also appear in Who to Follow recommendations or search results. If you choose to promote an account you'll be able to increase its visibility and availability to your potential customers.
+
+#### 2\. Promoted Tweets
+
+ Any post you share on Twitter is called a tweet, and a promoted tweet is just the type of tweet a brand paid for so it can reach more people. A promoted tweet is displayed on the user's timelines, Twitter's mobile app or high in the search results. You can comment on, retweet or like promoted tweets, which creates a great opportunity to present the services your company offers to Twitter users who don't follow your account. They also enable you to pick a target group and recommend the products you think they might need.
+
+#### 3\. Promoted Trends
+
+ A trend on Twitter is defined as a topic that is most frequently talked about at the moment. You can find the latest trending subjects in the Discover tab on your Twitter account, so using a promoted trend to advertise your brand's products and services allows you to promote a hashtag at the very top of the Discover tab.
+
+ After someone clicks on the hashtag, they will be able to see a tweet you're promoting as well as a list of results for the given topic. If people start using that hashtag, more Twitter users will learn about your promoted tweet and enable you to grow the number of your followers organically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Types of Twitter Ad Campaigns
+
+ Combining several ad products is the most common method of creating an ad campaign on Twitter, although you can also use a single ad product for the same purpose. These are the types of ad campaigns most frequently used by marketers on Twitter.
+
+#### Tweet Engagements
+
+ This a simple ad campaign that focuses on increasing the number of people talking about your brand on Twitter. You only have to pay for the first engagement with a user, while all other results of your campaign are free.
+
+#### Lead Generation
+
+ This service enables you to create Lead Generation cards in Twitter's ad manager, which contain the user's email address and their real name as well as their username on the platform. You can download the list of possible leads from your Twitter Ads account.
+
+#### Clicks and Conversions
+
+ This advertising strategy is aimed at driving as much traffic to your website as possible. The service is paid on per click basis, so you don't have to spend a lot of money on a campaign that isn't producing results.
+
+#### Awareness and Followers
+
+ If you want to increase the brand awareness, then an awareness campaign is the best solution. This type of campaign presents your profile to an audience you can't reach and it is the only type of campaign that is based on impressions rather than on engagement rates. Follower campaigns are aimed at increasing the follower base on your Twitter account.
+
+#### Fees and Payment
+
+ Twitter Ads enables you to choose between self-service and full service. If you choose to create your campaign independently you'll be in charge of the entire process, while the full-service system also includes support from the platform.
+
+ In either case, you will only have to pay for the achieved results, while the rate you'll pay for each click is determined through the auction system.
+
+## How to Set up Twitter Ad Campaigns
+
+ Creating a new ad campaign is a simple process that can be completed in just four steps. Here's how you can set up your first Twitter ad campaign and start enjoying its benefits.
+
+#### Step 1
+
+![twitter ads 1](https://images.wondershare.com/filmora/article-images/twitter-ads-1.jpg)
+
+ Open Twitter Ads Manager. On the left side of the screen, you'll be able to see campaign objectives, select the ones that are most appropriate for your campaign and then click on Create Campaign button. This action will open a new window where you can give a title to your campaign or decide when you want the campaign to start.
+
+#### Step 2
+
+![twitter ads 2](https://images.wondershare.com/filmora/article-images/twitter-ads-2.jpg)
+
+ In the next step, you will be asked to define your target audience. The platform offers a wide array of targeting options including gender, postal code or language. Twitter Ads offers support through the process, so you can maximize efficiency and reduce the costs of the campaign.
+
+#### Step 3
+
+![twitter ads 3](https://images.wondershare.com/filmora/article-images/twitter-ads-3.jpg)
+
+ Once you've defined the target audience as precisely as possible, you can move on to set your budget. By setting the financial limit to your campaign you can control how much you are spending on ads on a daily basis.
+
+#### Step 4
+
+![twitter ads 4](https://images.wondershare.com/filmora/article-images/twitter-ads-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ At the end of the ad campaign setup, you will be asked to select a tweet you want to promote. The platform provides a list of tweets that already exist, but you can also insert the tweet your marketing team has created. You can also upload media, before hitting the Publish Tweet button and starting your new Twitter Ad campaign.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ A few years after Twitter was launched, the Twitter Ads platform went live. Since 2010 the Twitter's own advertising platform has enabled countless businesses of all sizes to reach new markets, extend their target audiences and generate profit. From the start, the platform fostered a brand-friendly atmosphere that helped small and medium-sized businesses grow.
+
+ More than half of social media managers think that Twitter is the platform that leads the market in terms of return of investment since 94 percent of the social network's users have claimed that they planned to buy a product after discovering it on Twitter. In this article, we are going to show you how to advertise on Twitter.
+
+## Types of Advertising on Twitter
+
+ If your company has reached the decision to start advertising on Twitter, there are three different ways in which you can accomplish this. Promoted Tweets, Promoted Trends and Promoted Accounts all offer different opportunities, so let's take a closer look at each of these options.
+
+#### 1\. Promoted Accounts
+
+ As much as 85 percent of users have reported that promoted accounts helped them find new businesses that offer products they were looking for. The true purpose of promoted accounts is to make your Twitter account visible to the audience you targeted and gain more followers in such a manner.
+
+ Promoted accounts appear in timelines of Twitter users that fit in your target group and they also appear in Who to Follow recommendations or search results. If you choose to promote an account you'll be able to increase its visibility and availability to your potential customers.
+
+#### 2\. Promoted Tweets
+
+ Any post you share on Twitter is called a tweet, and a promoted tweet is just the type of tweet a brand paid for so it can reach more people. A promoted tweet is displayed on the user's timelines, Twitter's mobile app or high in the search results. You can comment on, retweet or like promoted tweets, which creates a great opportunity to present the services your company offers to Twitter users who don't follow your account. They also enable you to pick a target group and recommend the products you think they might need.
+
+#### 3\. Promoted Trends
+
+ A trend on Twitter is defined as a topic that is most frequently talked about at the moment. You can find the latest trending subjects in the Discover tab on your Twitter account, so using a promoted trend to advertise your brand's products and services allows you to promote a hashtag at the very top of the Discover tab.
+
+ After someone clicks on the hashtag, they will be able to see a tweet you're promoting as well as a list of results for the given topic. If people start using that hashtag, more Twitter users will learn about your promoted tweet and enable you to grow the number of your followers organically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Types of Twitter Ad Campaigns
+
+ Combining several ad products is the most common method of creating an ad campaign on Twitter, although you can also use a single ad product for the same purpose. These are the types of ad campaigns most frequently used by marketers on Twitter.
+
+#### Tweet Engagements
+
+ This a simple ad campaign that focuses on increasing the number of people talking about your brand on Twitter. You only have to pay for the first engagement with a user, while all other results of your campaign are free.
+
+#### Lead Generation
+
+ This service enables you to create Lead Generation cards in Twitter's ad manager, which contain the user's email address and their real name as well as their username on the platform. You can download the list of possible leads from your Twitter Ads account.
+
+#### Clicks and Conversions
+
+ This advertising strategy is aimed at driving as much traffic to your website as possible. The service is paid on per click basis, so you don't have to spend a lot of money on a campaign that isn't producing results.
+
+#### Awareness and Followers
+
+ If you want to increase the brand awareness, then an awareness campaign is the best solution. This type of campaign presents your profile to an audience you can't reach and it is the only type of campaign that is based on impressions rather than on engagement rates. Follower campaigns are aimed at increasing the follower base on your Twitter account.
+
+#### Fees and Payment
+
+ Twitter Ads enables you to choose between self-service and full service. If you choose to create your campaign independently you'll be in charge of the entire process, while the full-service system also includes support from the platform.
+
+ In either case, you will only have to pay for the achieved results, while the rate you'll pay for each click is determined through the auction system.
+
+## How to Set up Twitter Ad Campaigns
+
+ Creating a new ad campaign is a simple process that can be completed in just four steps. Here's how you can set up your first Twitter ad campaign and start enjoying its benefits.
+
+#### Step 1
+
+![twitter ads 1](https://images.wondershare.com/filmora/article-images/twitter-ads-1.jpg)
+
+ Open Twitter Ads Manager. On the left side of the screen, you'll be able to see campaign objectives, select the ones that are most appropriate for your campaign and then click on Create Campaign button. This action will open a new window where you can give a title to your campaign or decide when you want the campaign to start.
+
+#### Step 2
+
+![twitter ads 2](https://images.wondershare.com/filmora/article-images/twitter-ads-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ In the next step, you will be asked to define your target audience. The platform offers a wide array of targeting options including gender, postal code or language. Twitter Ads offers support through the process, so you can maximize efficiency and reduce the costs of the campaign.
+
+#### Step 3
+
+![twitter ads 3](https://images.wondershare.com/filmora/article-images/twitter-ads-3.jpg)
+
+ Once you've defined the target audience as precisely as possible, you can move on to set your budget. By setting the financial limit to your campaign you can control how much you are spending on ads on a daily basis.
+
+#### Step 4
+
+![twitter ads 4](https://images.wondershare.com/filmora/article-images/twitter-ads-4.jpg)
+
+ At the end of the ad campaign setup, you will be asked to select a tweet you want to promote. The platform provides a list of tweets that already exist, but you can also insert the tweet your marketing team has created. You can also upload media, before hitting the Publish Tweet button and starting your new Twitter Ad campaign.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ A few years after Twitter was launched, the Twitter Ads platform went live. Since 2010 the Twitter's own advertising platform has enabled countless businesses of all sizes to reach new markets, extend their target audiences and generate profit. From the start, the platform fostered a brand-friendly atmosphere that helped small and medium-sized businesses grow.
+
+ More than half of social media managers think that Twitter is the platform that leads the market in terms of return of investment since 94 percent of the social network's users have claimed that they planned to buy a product after discovering it on Twitter. In this article, we are going to show you how to advertise on Twitter.
+
 ## Types of Advertising on Twitter
 
  If your company has reached the decision to start advertising on Twitter, there are three different ways in which you can accomplish this. Promoted Tweets, Promoted Trends and Promoted Accounts all offer different opportunities, so let's take a closer look at each of these options.
@@ -83,18 +283,15 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
 ![twitter ads 1](https://images.wondershare.com/filmora/article-images/twitter-ads-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Open Twitter Ads Manager. On the left side of the screen, you'll be able to see campaign objectives, select the ones that are most appropriate for your campaign and then click on Create Campaign button. This action will open a new window where you can give a title to your campaign or decide when you want the campaign to start.
 
 #### Step 2
 
 ![twitter ads 2](https://images.wondershare.com/filmora/article-images/twitter-ads-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the next step, you will be asked to define your target audience. The platform offers a wide array of targeting options including gender, postal code or language. Twitter Ads offers support through the process, so you can maximize efficiency and reduce the costs of the campaign.
 
@@ -102,24 +299,15 @@ thumbnail: https://thmb.techidaily.com/32b091bb5633d3a9c4c2a4da4b60ec3b4374fdb76
 
 ![twitter ads 3](https://images.wondershare.com/filmora/article-images/twitter-ads-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you've defined the target audience as precisely as possible, you can move on to set your budget. By setting the financial limit to your campaign you can control how much you are spending on ads on a daily basis.
 
 #### Step 4
 
 ![twitter ads 4](https://images.wondershare.com/filmora/article-images/twitter-ads-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  At the end of the ad campaign setup, you will be asked to select a tweet you want to promote. The platform provides a list of tweets that already exist, but you can also insert the tweet your marketing team has created. You can also upload media, before hitting the Publish Tweet button and starting your new Twitter Ad campaign.
 
@@ -206,10 +394,7 @@ Follow @Ollie Mattison
 ![twitter ads 3](https://images.wondershare.com/filmora/article-images/twitter-ads-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you've defined the target audience as precisely as possible, you can move on to set your budget. By setting the financial limit to your campaign you can control how much you are spending on ads on a daily basis.
@@ -218,108 +403,8 @@ Follow @Ollie Mattison
 
 ![twitter ads 4](https://images.wondershare.com/filmora/article-images/twitter-ads-4.jpg)
 
- At the end of the ad campaign setup, you will be asked to select a tweet you want to promote. The platform provides a list of tweets that already exist, but you can also insert the tweet your marketing team has created. You can also upload media, before hitting the Publish Tweet button and starting your new Twitter Ad campaign.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- A few years after Twitter was launched, the Twitter Ads platform went live. Since 2010 the Twitter's own advertising platform has enabled countless businesses of all sizes to reach new markets, extend their target audiences and generate profit. From the start, the platform fostered a brand-friendly atmosphere that helped small and medium-sized businesses grow.
-
- More than half of social media managers think that Twitter is the platform that leads the market in terms of return of investment since 94 percent of the social network's users have claimed that they planned to buy a product after discovering it on Twitter. In this article, we are going to show you how to advertise on Twitter.
-
-## Types of Advertising on Twitter
-
- If your company has reached the decision to start advertising on Twitter, there are three different ways in which you can accomplish this. Promoted Tweets, Promoted Trends and Promoted Accounts all offer different opportunities, so let's take a closer look at each of these options.
-
-#### 1\. Promoted Accounts
-
- As much as 85 percent of users have reported that promoted accounts helped them find new businesses that offer products they were looking for. The true purpose of promoted accounts is to make your Twitter account visible to the audience you targeted and gain more followers in such a manner.
-
- Promoted accounts appear in timelines of Twitter users that fit in your target group and they also appear in Who to Follow recommendations or search results. If you choose to promote an account you'll be able to increase its visibility and availability to your potential customers.
-
-#### 2\. Promoted Tweets
-
- Any post you share on Twitter is called a tweet, and a promoted tweet is just the type of tweet a brand paid for so it can reach more people. A promoted tweet is displayed on the user's timelines, Twitter's mobile app or high in the search results. You can comment on, retweet or like promoted tweets, which creates a great opportunity to present the services your company offers to Twitter users who don't follow your account. They also enable you to pick a target group and recommend the products you think they might need.
-
-#### 3\. Promoted Trends
-
- A trend on Twitter is defined as a topic that is most frequently talked about at the moment. You can find the latest trending subjects in the Discover tab on your Twitter account, so using a promoted trend to advertise your brand's products and services allows you to promote a hashtag at the very top of the Discover tab.
-
- After someone clicks on the hashtag, they will be able to see a tweet you're promoting as well as a list of results for the given topic. If people start using that hashtag, more Twitter users will learn about your promoted tweet and enable you to grow the number of your followers organically.
-
-## Types of Twitter Ad Campaigns
-
- Combining several ad products is the most common method of creating an ad campaign on Twitter, although you can also use a single ad product for the same purpose. These are the types of ad campaigns most frequently used by marketers on Twitter.
-
-#### Tweet Engagements
-
- This a simple ad campaign that focuses on increasing the number of people talking about your brand on Twitter. You only have to pay for the first engagement with a user, while all other results of your campaign are free.
-
-#### Lead Generation
-
- This service enables you to create Lead Generation cards in Twitter's ad manager, which contain the user's email address and their real name as well as their username on the platform. You can download the list of possible leads from your Twitter Ads account.
-
-#### Clicks and Conversions
-
- This advertising strategy is aimed at driving as much traffic to your website as possible. The service is paid on per click basis, so you don't have to spend a lot of money on a campaign that isn't producing results.
-
-#### Awareness and Followers
-
- If you want to increase the brand awareness, then an awareness campaign is the best solution. This type of campaign presents your profile to an audience you can't reach and it is the only type of campaign that is based on impressions rather than on engagement rates. Follower campaigns are aimed at increasing the follower base on your Twitter account.
-
-#### Fees and Payment
-
- Twitter Ads enables you to choose between self-service and full service. If you choose to create your campaign independently you'll be in charge of the entire process, while the full-service system also includes support from the platform.
-
- In either case, you will only have to pay for the achieved results, while the rate you'll pay for each click is determined through the auction system.
-
-## How to Set up Twitter Ad Campaigns
-
- Creating a new ad campaign is a simple process that can be completed in just four steps. Here's how you can set up your first Twitter ad campaign and start enjoying its benefits.
-
-#### Step 1
-
-![twitter ads 1](https://images.wondershare.com/filmora/article-images/twitter-ads-1.jpg)
-
- Open Twitter Ads Manager. On the left side of the screen, you'll be able to see campaign objectives, select the ones that are most appropriate for your campaign and then click on Create Campaign button. This action will open a new window where you can give a title to your campaign or decide when you want the campaign to start.
-
-#### Step 2
-
-![twitter ads 2](https://images.wondershare.com/filmora/article-images/twitter-ads-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
- In the next step, you will be asked to define your target audience. The platform offers a wide array of targeting options including gender, postal code or language. Twitter Ads offers support through the process, so you can maximize efficiency and reduce the costs of the campaign.
-
-#### Step 3
-
-![twitter ads 3](https://images.wondershare.com/filmora/article-images/twitter-ads-3.jpg)
-
- Once you've defined the target audience as precisely as possible, you can move on to set your budget. By setting the financial limit to your campaign you can control how much you are spending on ads on a daily basis.
-
-#### Step 4
-
-![twitter ads 4](https://images.wondershare.com/filmora/article-images/twitter-ads-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At the end of the ad campaign setup, you will be asked to select a tweet you want to promote. The platform provides a list of tweets that already exist, but you can also insert the tweet your marketing team has created. You can also upload media, before hitting the Publish Tweet button and starting your new Twitter Ad campaign.
@@ -327,121 +412,8 @@ Follow @Ollie Mattison
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- A few years after Twitter was launched, the Twitter Ads platform went live. Since 2010 the Twitter's own advertising platform has enabled countless businesses of all sizes to reach new markets, extend their target audiences and generate profit. From the start, the platform fostered a brand-friendly atmosphere that helped small and medium-sized businesses grow.
-
- More than half of social media managers think that Twitter is the platform that leads the market in terms of return of investment since 94 percent of the social network's users have claimed that they planned to buy a product after discovering it on Twitter. In this article, we are going to show you how to advertise on Twitter.
-
-## Types of Advertising on Twitter
-
- If your company has reached the decision to start advertising on Twitter, there are three different ways in which you can accomplish this. Promoted Tweets, Promoted Trends and Promoted Accounts all offer different opportunities, so let's take a closer look at each of these options.
-
-#### 1\. Promoted Accounts
-
- As much as 85 percent of users have reported that promoted accounts helped them find new businesses that offer products they were looking for. The true purpose of promoted accounts is to make your Twitter account visible to the audience you targeted and gain more followers in such a manner.
-
- Promoted accounts appear in timelines of Twitter users that fit in your target group and they also appear in Who to Follow recommendations or search results. If you choose to promote an account you'll be able to increase its visibility and availability to your potential customers.
-
-#### 2\. Promoted Tweets
-
- Any post you share on Twitter is called a tweet, and a promoted tweet is just the type of tweet a brand paid for so it can reach more people. A promoted tweet is displayed on the user's timelines, Twitter's mobile app or high in the search results. You can comment on, retweet or like promoted tweets, which creates a great opportunity to present the services your company offers to Twitter users who don't follow your account. They also enable you to pick a target group and recommend the products you think they might need.
-
-#### 3\. Promoted Trends
-
- A trend on Twitter is defined as a topic that is most frequently talked about at the moment. You can find the latest trending subjects in the Discover tab on your Twitter account, so using a promoted trend to advertise your brand's products and services allows you to promote a hashtag at the very top of the Discover tab.
-
- After someone clicks on the hashtag, they will be able to see a tweet you're promoting as well as a list of results for the given topic. If people start using that hashtag, more Twitter users will learn about your promoted tweet and enable you to grow the number of your followers organically.
-
-## Types of Twitter Ad Campaigns
-
- Combining several ad products is the most common method of creating an ad campaign on Twitter, although you can also use a single ad product for the same purpose. These are the types of ad campaigns most frequently used by marketers on Twitter.
-
-#### Tweet Engagements
-
- This a simple ad campaign that focuses on increasing the number of people talking about your brand on Twitter. You only have to pay for the first engagement with a user, while all other results of your campaign are free.
-
-#### Lead Generation
-
- This service enables you to create Lead Generation cards in Twitter's ad manager, which contain the user's email address and their real name as well as their username on the platform. You can download the list of possible leads from your Twitter Ads account.
-
-#### Clicks and Conversions
-
- This advertising strategy is aimed at driving as much traffic to your website as possible. The service is paid on per click basis, so you don't have to spend a lot of money on a campaign that isn't producing results.
-
-#### Awareness and Followers
-
- If you want to increase the brand awareness, then an awareness campaign is the best solution. This type of campaign presents your profile to an audience you can't reach and it is the only type of campaign that is based on impressions rather than on engagement rates. Follower campaigns are aimed at increasing the follower base on your Twitter account.
-
-#### Fees and Payment
-
- Twitter Ads enables you to choose between self-service and full service. If you choose to create your campaign independently you'll be in charge of the entire process, while the full-service system also includes support from the platform.
-
- In either case, you will only have to pay for the achieved results, while the rate you'll pay for each click is determined through the auction system.
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## How to Set up Twitter Ad Campaigns
-
- Creating a new ad campaign is a simple process that can be completed in just four steps. Here's how you can set up your first Twitter ad campaign and start enjoying its benefits.
-
-#### Step 1
-
-![twitter ads 1](https://images.wondershare.com/filmora/article-images/twitter-ads-1.jpg)
-
- Open Twitter Ads Manager. On the left side of the screen, you'll be able to see campaign objectives, select the ones that are most appropriate for your campaign and then click on Create Campaign button. This action will open a new window where you can give a title to your campaign or decide when you want the campaign to start.
-
-#### Step 2
-
-![twitter ads 2](https://images.wondershare.com/filmora/article-images/twitter-ads-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
- In the next step, you will be asked to define your target audience. The platform offers a wide array of targeting options including gender, postal code or language. Twitter Ads offers support through the process, so you can maximize efficiency and reduce the costs of the campaign.
-
-#### Step 3
-
-![twitter ads 3](https://images.wondershare.com/filmora/article-images/twitter-ads-3.jpg)
-
- Once you've defined the target audience as precisely as possible, you can move on to set your budget. By setting the financial limit to your campaign you can control how much you are spending on ads on a daily basis.
-
-#### Step 4
-
-![twitter ads 4](https://images.wondershare.com/filmora/article-images/twitter-ads-4.jpg)
-
- At the end of the ad campaign setup, you will be asked to select a tweet you want to promote. The platform provides a list of tweets that already exist, but you can also insert the tweet your marketing team has created. You can also upload media, before hitting the Publish Tweet button and starting your new Twitter Ad campaign.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
 
@@ -470,24 +442,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-saving-gifs-from-twitter-ios-and-android-guide/"><u>[New] 2024 Approved Saving GIFs From Twitter IOS & Android Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unlocking-the-potential-of-facetime-voice-logging/"><u>[New] 2024 Approved Unlocking the Potential of FaceTime Voice Logging</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-visualtwitter-quickly-download-and-share-videos-on-mobile/"><u>[New] 2024 Approved VisualTwitter Quickly Download and Share Videos on Mobile</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-breakthrough-tactic-unleash-mac-with-apple-watch/"><u>[New] Breakthrough Tactic Unleash Mac with Apple Watch</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-chuckle-champions-twitters-comedy-corner-for-2024/"><u>[New] Chuckle-Champions Twitter’s Comedy Corner for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-crafting-captivating-youtube-presence-the-ultimate-guide-to-making-thumbnails-on-phones/"><u>[New] Crafting Captivating YouTube Presence The Ultimate Guide to Making Thumbnails on Phones</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-wit-waves-the-top-10-jokes-for-2024/"><u>[New] Wit Waves The Top 10 Jokes for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-demystifying-youtube-a-guide-to-viewing-video-comments/"><u>[Updated] 2024 Approved Demystifying YouTube A Guide to Viewing Video Comments</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-share-your-videos-and-photos-posting-to-twitter-no-retweeting/"><u>[Updated] Share Your Videos and Photos Posting to Twitter - No Retweeting</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-strategies-for-maximizing-your-twitter-archive/"><u>[Updated] Strategies for Maximizing Your Twitter Archive</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-instant-transmission-tweets-as-vids-on-whatsapp/"><u>2024 Approved Instant Transmission Tweets as Vids on WhatsApp</u></a></li>
-<li><a href="https://win-help.techidaily.com/comprehensive-guide-and-visual-aid-mastering-crossplay-between-pc-and-android-systems-for-gaming-enthusiasts/"><u>Comprehensive Guide & Visual Aid: Mastering Crossplay Between PC and Android Systems for Gaming Enthusiasts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-techniques-to-overcome-javascript-challenges-in-your-discord-applications/"><u>Effortless Techniques to Overcome JavaScript Challenges in Your Discord Applications</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-engaging-with-your-audience-through-twitter-promos/"><u>In 2024, Engaging With Your Audience Through Twitter Promos</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-infinix-hot-40-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Infinix Hot 40 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-masterclass-navigating-zooms-video-broadcasting-features/"><u>In 2024, Masterclass Navigating Zoom's Video Broadcasting Features</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-uniting-tiktok-and-twitter-with-one-click/"><u>In 2024, Uniting TikTok and Twitter with One Click</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/1714938256611-new-2024-approved-how-to-make-your-voice-deeper-with-filmora/"><u>New 2024 Approved How to Make Your Voice Deeper With Filmora</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/vintage-voices-where-to-download-classical-ringtones-for-2024/"><u>Vintage Voices Where to Download Classical Ringtones for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-resolve-fb-live-failure-video-not-posting/"><u>[New] 2024 Approved Resolve FB Live Failure Video Not Posting</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-modern-way-tweeting-videos-to-whatsapp/"><u>[New] In 2024, The Modern Way Tweeting Videos to WhatsApp</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-unified-platforms-for-sharing-videos/"><u>[New] In 2024, Unified Platforms for Sharing Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-premier-5-online-communities-ascending-beyond-twitter/"><u>[Updated] 2024 Approved Premier 5 Online Communities Ascending Beyond Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-tweak-twitter-video-clip-cover/"><u>[Updated] 2024 Approved Tweak Twitter Video Clip Cover</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-efficiently-producing-quality-videos-on-the-latest-windows-os/"><u>[Updated] In 2024, Efficiently Producing Quality Videos on the Latest Windows OS</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-mend-error-non-playing-vids-in-chrome/"><u>2024 Approved Mend Error Non-Playing Vids in Chrome</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-social-media-sensation-spotlights/"><u>2024 Approved Social Media Sensation Spotlights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/assessing-the-benefits-and-limitations-of-using-auto-gpt-sans-gpt-4/"><u>Assessing the Benefits and Limitations of Using Auto-GPT Sans GPT-4</u></a></li>
+<li><a href="https://fox-links.techidaily.com/find-the-best-value-top-6-budget-friendly-camera-options/"><u>Find the Best Value Top 6 Budget-Friendly Camera Options</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-zip-to-sub-transforming-compressed-texts-to-srt-format-for-2024/"><u>From Zip to Sub Transforming Compressed Texts to SRT Format for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Teleport Your GPS Location On Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/list-three-benefits-of-applying-a-cultural-relativist-approach-when-encountering-unfamiliar-customs-or-beliefs/"><u>List Three Benefits of Applying a Cultural Relativist Approach when Encountering Unfamiliar Customs or Beliefs.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-ai-how-vector-databases-make-a-difference/"><u>Pioneering AI: How Vector Databases Make a Difference</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-hd-chronicles-of-twitters-visual-content/"><u>The HD Chronicles of Twitter's Visual Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-cam-gear-mastering-low-speed-video-recording-for-2024/"><u>Ultimate Cam Gear Mastering Low-Speed Video Recording for 2024</u></a></li>
 </ul></div>
 

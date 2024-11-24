@@ -1,7 +1,7 @@
 ---
 title: "No More Disruptions: Effortless Ways to Prevent League of Legends From Crashing"
-date: 2024-11-13T22:28:03.310Z
-updated: 2024-11-14T16:36:50.046Z
+date: 2024-11-20T04:39:29.319Z
+updated: 2024-11-24T02:21:10.775Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
  Diablo Immortal is arriving but many players reported that it doesn’t work as smoothly as expected. If you’re on PC and also encounter the Diablo Immortal crashing on startup, don’t worry. After reading this post, you’ll learn 6 simple fixes that solve your problem easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 fixes to try
 
  You may not try them all. Just work from the top down until you find the one that does the trick.
@@ -30,16 +34,13 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 5. [**Scan and repair game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Disable Discord overlay](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Unplug peripherals
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Launch the game in windowed mode
 
@@ -53,19 +54,14 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
 
@@ -93,21 +89,7 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-5.7.2-scan-1.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
 
@@ -120,20 +102,11 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files.jpg)
 3. Click**Begin Scan** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
 
@@ -145,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 2. Click the**gear icon** in the lower-left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
@@ -172,17 +149,18 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-tiktoks-triumph-the-most-shared-videos-on-twitter/"><u>[New] 2024 Approved TikTok's Triumph The Most Shared Videos on Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-exploring-and-harnessing-twitter-archive-insights-for-2024/"><u>[New] Exploring and Harnessing Twitter Archive Insights for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-streamline-your-twitterscape-with-these-pc-tips/"><u>[New] Streamline Your Twitterscape with These PC Tips</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-complete-guide-to-youtubes-live-image-lore/"><u>[Updated] 2024 Approved A Complete Guide to YouTube's Live Image Lore</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-social-streaming-breaking-the-virality-chain-on-twitter/"><u>[Updated] Social Streaming Breaking the Virality Chain on Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-screen-saver-saviors-how-to-download-and-save-your-favorite-tweets/"><u>2024 Approved Screen Saver Saviors How to Download and Save Your Favorite Tweets</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-m14-4g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy M14 4G</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortlessly-enhance-your-world-of-warships-gaming-on-pc-solve-common-crash-issues/"><u>Effortlessly Enhance Your World of Warships Gaming on PC – Solve Common Crash Issues</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c55-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C55 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/terminology-trek-through-the-virtual-landscape-for-2024/"><u>Terminology Trek Through the Virtual Landscape for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-8-solutions-to-prevent-marvels-guardians-of-the-galaxy-from-crashing-on-pc/"><u>Top 8 Solutions to Prevent Marvel's Guardians of the Galaxy From Crashing on PC</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-collecting-serene-melodies-a-comprehensive-approach/"><u>Updated In 2024, Collecting Serene Melodies A Comprehensive Approach</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-spotlight-on-success-top-tiktok-tweets/"><u>[New] 2024 Approved Spotlight on Success Top TikTok Tweets</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-update-twitter-video-box-picture/"><u>[New] 2024 Approved Update Twitter Video Box Picture</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-adjust-twitter-video-compact-summary-for-2024/"><u>[New] Adjust Twitter Video Compact Summary for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-silent-tweets-end-auditory-upgrades-for-twitter-videos/"><u>[Updated] 2024 Approved Silent Tweets' End Auditory Upgrades for Twitter Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-advanced-systems-for-tracking-human-manoeuvres-for-2024/"><u>[Updated] Advanced Systems for Tracking Human Manoeuvres for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-modify-twitter-video-capture-image/"><u>[Updated] In 2024, Modify Twitter Video Capture Image</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-navigating-advanced-sound-switching-techniques/"><u>2024 Approved Navigating Advanced Sound-Switching Techniques</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-nokia-105-classic-easily-by-drfone-android/"><u>In 2024, How To Unlock a Nokia 105 Classic Easily?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-boundaries-top-prime-lenses-for-industry-pros/"><u>In 2024, Pushing Boundaries Top Prime Lenses for Industry Pros</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/master-class-bots-for-chat-engagement/"><u>Master-Class Bots for Chat Engagement</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/notebooks-everything-you-need-to-know-in-depth-analysis-gadgetzeta/"><u>Notebooks: Everything You Need to Know | In-Depth Analysis | GadgetZeta.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-steps-to-integrate-your-samsung-soundbar-into-your-home-cinema-setup/"><u>Simple Steps to Integrate Your Samsung Soundbar Into Your Home Cinema Setup</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potential-web-designs-using-ai-chatgpt-guide/"><u>Unlocking Potential Web Designs Using AI: ChatGPT Guide</u></a></li>
 </ul></div>
 
