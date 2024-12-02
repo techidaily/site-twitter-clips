@@ -1,7 +1,7 @@
 ---
 title: "The Mighty ZTE Blade A3Y: Balancing Quality and Cost in Today's Smartphone Market"
-date: 2024-11-18T00:58:17.022Z
-updated: 2024-11-24T05:50:04.972Z
+date: 2024-12-01T04:09:31.598Z
+updated: 2024-12-01T19:02:35.364Z
 categories:
   - BestProducts
 description: "This Article Describes The Mighty ZTE Blade A3Y: Balancing Quality and Cost in Today's Smartphone Market"
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Paradox Interactive Surviving Mars
@@ -42,9 +42,17 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
 3
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Paradox Interactive Surviving Mars
 
 ![Surviving Mars](https://www.lifewire.com/thmb/Em7mFCNB7ffPEBeVuQuFIJpvJyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -66,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
  Released in 2018, the Surviving Mars developed by Haemimont Games and published by Paradox Interactive poses a massive challenge: colonizing a planet. When I picked this up, I decided to check out how the game fared for a two-year-old game in terms of[graphics](https://www.lifewire.com/graphic-design-basics-s2-1074288) , gameplay, and competition. Read on for the verdict to see how it measures up against other games on our best city-building games list—and for forewarning about those pesky cold waves.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Plot: Lots of options**
@@ -78,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 ![Surviving Mars](https://www.lifewire.com/thmb/tWjPu4rcPDZ30Ilhru3tUFnqjc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_02-d1d5dfcccecb478098ab06a6b5137e68.jpg)
 
  Lifewire / Rebecca Isaacs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Performance: Humans have never been so annoying**
 
@@ -115,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
  I wanted to focus on building bigger domes to accommodate population growth and build important research centers, not worry over whether my scientists would automatically begin working at those same facilities.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Decent for what you get**
 
  For around $30, you can add this game to your gaming library. It makes sense for a two-year-old game not to cost the regular price of new games these days. Even better, if you watch for sales, you can get it for cheaper. Be forewarned though—the other additions to the game, like the Laika Project, will cost you more. The $30 is solely for the base game.
@@ -140,7 +140,7 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
  While Surviving Mars is marred by slowness and micromanagement, the unique gameplay and setting make for a true sci-fi treat. It’s at a fair price point, promises lots of fun, and some fun twists and turns. Just watch out for those blasted dust storms. Your colonists’ lives depend on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -170,18 +170,24 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-easy-video-calls-with-googles-hangouts-on-your-android/"><u>[New] 2024 Approved Easy Video Calls with Google's Hangouts on Your Android</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-from-camera-roll-to-twitter-feed-video-posting-guide/"><u>[New] 2024 Approved From Camera Roll to Twitter Feed Video Posting Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-perfecting-the-art-of-twitter-broadcasts/"><u>[New] 2024 Approved Perfecting the Art of Twitter Broadcasts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-youtube-clicks-with-imagery/"><u>[New] Maximizing YouTube Clicks with Imagery</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-navigating-whatsapps-vocal-messaging-system-for-2024/"><u>[Updated] Navigating WhatsApp's Vocal Messaging System for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-viral-tweets-watchlist-the-hottest-twitch-videos-on-twitter/"><u>[Updated] Viral Tweets Watchlist The Hottest Twitch Videos on Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-filming-for-tweet-sharing-content-without-retweeting/"><u>2024 Approved Filming for Tweet Sharing Content without Retweeting</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-revolutionizing-audio-documentation-the-art-of-call-recording/"><u>2024 Approved Revolutionizing Audio Documentation The Art of Call Recording</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweet-visionary-free-transformation-of-youtube-vids-into-tweenish-graphics/"><u>2024 Approved Tweet Visionary Free Transformation of YouTube Vids Into Tweenish Graphics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/lumafusion-tips-for-subtle-sound-reduction-for-2024/"><u>Lumafusion Tips for Subtle Sound Reduction for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-and-overcoming-issues-with-dragon-quest-xi-stability/"><u>Resolved: Troubleshooting and Overcoming Issues with Dragon Quest XI Stability</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/revolutionize-your-twitter-experience-with-essential-apps-for-2024/"><u>Revolutionize Your Twitter Experience with Essential Apps for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unlocking-social-connections-facetime-tutorials-for-android-for-2024/"><u>Unlocking Social Connections Facetime Tutorials for Android for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-pivotal-information-in-the-realm-of-asmr/"><u>[New] In 2024, Pivotal Information in the Realm of ASMR</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-prime-video-stardom-top-tweets-and-peak-watchability-rankings-for-2024/"><u>[New] Prime Video Stardom Top Tweets and Peak Watchability Rankings for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rippleringers-finding-the-happiest-online-rhythms/"><u>[New] RippleRingers Finding the Happiest Online Rhythms</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nboxing-ubiquity-the-profitable-vloggers-playbook/"><u>[New] Unboxing Ubiquity The Profitable Vlogger's Playbook</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-10-most-viewed-videos-on-twitter/"><u>[Updated] 10 Most Viewed Videos on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2023-quick-share-tweeted-videos-for-whatsapp-for-2024/"><u>[Updated] 2023 Quick Share Tweeted Videos for WhatsApp for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevating-your-youtube-presence-with-ideal-video-formats-for-2024/"><u>[Updated] Elevating Your YouTube Presence with Ideal Video Formats for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-exploring-and-utilizing-your-twitter-archive/"><u>[Updated] In 2024, Exploring and Utilizing Your Twitter Archive</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-quicktweetgrabber-swiftly-secure-tweets-videos-on-iphone/"><u>[Updated] QuickTweetGrabber Swiftly Secure Tweets' Videos on iPhone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitters-video-guidelines-and-step-by-step-uploading-guide/"><u>[Updated] Twitter's Video Guidelines & Step-by-Step Uploading Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-your-media-display-with-these-12-videophones/"><u>2024 Approved Master Your Media Display with These 12 Videophones</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-implemented-previously-unsuccessful-attempts-to-reach-dhcp-server-now-successful/"><u>Fix Implemented: Previously Unsuccessful Attempts to Reach DHCP Server Now Successful</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-connectivity-with-destiny-2-servers-when-theyre-down/"><u>How to Restore Connectivity with Destiny 2 Servers When They're Down</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-clear-your-twitter-timeline-fast-topunfollowtools-revealed/"><u>In 2024, Clear Your Twitter Timeline Fast #TopUnfollowTools Revealed</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-the-guide-to-sharing-your-tiktok-content-on-twitter/"><u>In 2024, The Guide to Sharing Your TikTok Content on Twitter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/les-5-meilleurs-editeurs-de-videos-pour-instagram-reconnus-par-les-utilisateurs-guide-complet/"><u>Les 5 Meilleurs Editeurs De Vidéos Pour Instagram Reconnus Par Les Utilisateurs: Guide Complet</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/most-popular-tweets-of-2023-viewership-ranked/"><u>Most Popular Tweets of 2023 - Viewership Ranked</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/spectacular-screen-synergy-the-perfect-partner-pairing-for-an-mcn-for-2024/"><u>Spectacular Screen Synergy The Perfect Partner Pairing for an MCN for 2024</u></a></li>
 </ul></div>
 

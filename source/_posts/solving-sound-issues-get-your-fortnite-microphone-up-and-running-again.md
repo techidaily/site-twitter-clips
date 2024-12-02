@@ -1,7 +1,7 @@
 ---
 title: Solving Sound Issues - Get Your Fortnite Microphone Up and Running Again!
-date: 2024-11-18T04:24:13.541Z
-updated: 2024-11-23T18:05:47.308Z
+date: 2024-11-25T00:27:23.832Z
+updated: 2024-12-01T18:30:49.296Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
  Many **Turtle Beach** users are reporting that their **headset** microphone is not working properly — it’s not recording any sound! If you’re experiencing this problem, don’t worry. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -32,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 3. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Check your microphone device settings
 
@@ -49,13 +41,25 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
@@ -69,23 +73,19 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -101,13 +101,13 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
@@ -143,14 +143,16 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-optimizing-content-sharing-from-twitters-to-snaps/"><u>[New] 2024 Approved Optimizing Content Sharing From Twitters to Snaps</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-updating-twitters-video-previews-on-your-account/"><u>[New] Updating Twitter's Video Previews on Your Account</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-shortcut-to-share-tiktoks-and-twitters-integration/"><u>[Updated] In 2024, The Shortcut to Share TikToks & Twitters Integration</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tiktoks-rise-to-fame-through-twitters-top-10-list/"><u>[Updated] In 2024, TikTok's Rise to Fame Through Twitter’s Top 10 List</u></a></li>
-<li><a href="https://extra-information.techidaily.com/flawless-tint-enhancer/"><u>Flawless Tint Enhancer</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-change-ogv-files-into-wmv-format-with-movavi/"><u>Free Online Converter: Change OGV Files Into WMV Format with Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-efficiency-10-unbeatable-strategies-to-work-with-chatgpt-in-vs-code/"><u>Maximize Efficiency: 10 Unbeatable Strategies to Work with ChatGPT in VS Code</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-for-accurate-measurements-with-android-device-measure-app/"><u>Ultimate Tips for Accurate Measurements with Android Device Measure App</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/visual-storytelling-with-harmonic-backdrop/"><u>Visual Storytelling with Harmonic Backdrop</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-secrets-revealed-mastering-minecraft-recordings-on-a-macbook-pro/"><u>[New] 2024 Approved Secrets Revealed Mastering Minecraft Recordings on a MacBook Pro</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-essential-info-for-tweeting-videos-aspect-ratios-required/"><u>[New] Essential Info for Tweeting Videos Aspect Ratios Required</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-whats-buzzing-the-social-sphere-tiktok-and-twitter-hits-for-2024/"><u>[Updated] What's Buzzing the Social Sphere? TikTok & Twitter Hits for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-2023-twitter-trends-the-most-engaged-viewers/"><u>2024 Approved 2023 Twitter Trends The Most Engaged Viewers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-downloads-4-prime-ringtones-providers/"><u>2024 Approved Seamless Downloads 4 Prime Ringtones Providers</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-uniting-platforms-sharing-vids-on-twtplustumblr-space/"><u>2024 Approved Uniting Platforms Sharing Vids on Twt+Tumblr Space</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/linking-up-tweeted-movies-and-music-on-fb-platform-for-2024/"><u>Linking Up Tweeted Movies and Music on FB Platform for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-honor-80-pro-straight-screen-edition-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor 80 Pro Straight Screen Edition Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-5-breakthrough-technology-innovations-in-2n23-that-revolutionized-industries-insights-from-zdnet/"><u>Top 5 Breakthrough Technology Innovations in 2N'23 That Revolutionized Industries - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-your-digital-identity-finding-your-email-address-easily/"><u>Unveiling Your Digital Identity: Finding Your Email Address Easily</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Swiftly Transferring Twitter's Videography Onto Instagram Canvas"
-date: 2024-11-23T04:23:48.281Z
-updated: 2024-11-24T07:30:27.885Z
+date: 2024-11-28T05:08:47.899Z
+updated: 2024-12-02T10:05:59.527Z
 tags:
   - ai video
   - ai twitter
@@ -33,13 +33,13 @@ Each platform also has its own audience, and you might have different people fol
 
 This article will teach you how to share a Twitter video on Instagram and Instagram story. You can post on Twitter and Facebook together with one click and save a lot of time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Importance of Posting Across Multiple Platforms
 
 If you are new to social media or simply new to blogging, then this article will guide you on how to post your content on Twitter and Instagram simultaneously. Even while scrolling, if you come across an exciting video that you would like to post on your Instagram you can easily do that using one of the methods below. But, why would one want to post the same post on Twitter and then on Instagram?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Reach a Wider Audience
 
@@ -73,7 +73,7 @@ If you are using chrome and your PC to access Twitter and Instagram, then open y
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-post-twitter-video-on-instagram-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Once you locate the video, right-click on the video, and from the menu, select “Copy Video Address”. This will copy the video URL to the PC’s clipboard.
@@ -140,10 +140,6 @@ A great way to post a Twitter Video on Instagram on iOS is using the Shortcuts a
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-post-twitter-video-on-instagram-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Then select the TVDL shortcut. In a few moments, the video will start downloading.
 * If you are doing this for the first time, you may need to grant access to third-party API, your Photos app, and your Twitter account so you can save the downloaded videos. You can then select the download quality, and then the video will start downloading.
 
@@ -175,6 +171,10 @@ As mentioned before, Instagram is a visual that is all about aesthetics and beau
 * Now click on the Export button above the timeline to export your video in your desired format and location.
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-post-twitter-video-on-instagram-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can post your edited video to your Instagram story.
 
@@ -269,10 +269,6 @@ Now that you are familiar with all the benefits of cross-posting Twitter videos 
 
 Instagram stories are also a very interactive feature that allow you to post content that will stay on your profile for just 24 hours and then get deleted automatically. You can post your Twitter video on Instagram stories if you don’t want to post the video permanently on your profile. Here is how you can post Twitter videos on Instagram stories:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Share Twitter Videos on Instagram Story Chrome
 
 While you always have the option of posting the Twitter video link on your Instagram story, this is not the same as posting as video. The link will lead them back to Twitter to watch the video, and people rarely open links to watch something. This means that you might have to post the actual video on your stories, and here is how you can do that.
@@ -283,6 +279,10 @@ If you are using chrome and your PC to access Twitter and Instagram, then open y
 * Locate the video from your Newsfeed. If you have retweeted the video, then you can find it under the media tab of your Profile.
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-post-twitter-video-on-instagram-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Once you locate the video, right-click on the video, and from the menu, select “Copy Video Address”. This will copy the video URL to the PC’s clipboard.
 * You need to download the video with a video downloading website like [Twitter Video Downloader](https://twittervideodownloader.com/).
@@ -306,10 +306,6 @@ If you are using chrome and your PC to access Twitter and Instagram, then open y
 * Lastly, click on Your Story from the bottom of the screen to post it to your Instagram Story.
 
 And you are done! You have posted your Twitter Video on your Instagram story.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Post Twitter Videos on Instagram Story Android
 
@@ -352,6 +348,10 @@ A great way to post a Twitter Video on Instagram on iOS is using the Shortcuts a
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-post-twitter-video-on-instagram-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Then select the TVDL shortcut. In a few moments, the video will start downloading.
 * If you are doing this for the first time, you may need to grant access to third-party API, your Photos app, and your Twitter account so you can save the downloaded videos. You can then select the download quality, and then the video will start downloading.
 
@@ -390,10 +390,6 @@ Now you can post your edited video to your Instagram story.
 
 While scrolling through your Twitter, if you come across exciting tweets, you can share them on your Instagram story easily. Follow the steps below to learn how to share a Tweet on the Instagram story via Chrome, Android, and iOS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Share Tweets on Instagram Story from Chrome
 
 If you are using your PC for scrolling through Twitter and keeping up to date with the world, then you can use the method below:
@@ -427,6 +423,10 @@ If you are an android user and want to share some funny tweets to your Instagram
 * Once you are done, you can share it on your story by tapping on Add to Story from the bottom left corner.
 
 The tweet will now be added to your story, and you can view it by tapping on the colorful ring surrounding your profile picture.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Share Tweets on Instagram Story from IOS
 
@@ -548,10 +548,6 @@ A great way to post a Twitter Video on Instagram on iOS is using the Shortcuts a
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-post-twitter-video-on-instagram-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * In the description, the app will show “ Add untrusted Shortcut” Tap on that.
 * In case the app shows an error message, go to Settings, then Shortcuts and then toggle the Allow Untrusted Shortcuts option.
 * Now Open Twitter and locate the video you want to share.
@@ -571,6 +567,10 @@ A great way to post a Twitter Video on Instagram on iOS is using the Shortcuts a
 * Now select the video you want to post and tap on Add to Story.
 
 Now the video has been added to your Instagram story.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Editing Twitter Video with iMyFone Filme and Posting on Instagram
 
@@ -618,6 +618,10 @@ If you are using your PC for scrolling through Twitter and keeping up to date wi
 
 And the video will be added to your story.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Post Tweets on Instagram Story from Android
 
 If you are an android user and want to share some funny tweets to your Instagram story, then follow the steps below:
@@ -644,10 +648,6 @@ Sharing Tweets to Instagram Story is extremely easy with an iPhone. Just follow 
 * Lastly, click on Add to story to post it as your story. You can even send it to groups or chats.
 
 This will post the tweet on your Instagram story.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -681,10 +681,6 @@ Cross-posting is a very effective social media strategy that allows you to strea
 
 Cross posting also helps in keeping all social media up to date. Anyone looking through your social media can see all the work you have done to date.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Share Twitter Video on Instagram Story
 
 Instagram is a relatively more visual platform compared to Twitter, with an array of pictures and videos everywhere. This makes Instagram also more photo and video-friendly.
@@ -710,6 +706,10 @@ If you are using chrome and your PC to access Twitter and Instagram, then open y
 * Now, paste the copied video URL into the URL box on the top of the screen.
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-post-twitter-video-on-instagram-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Then click Download. This will allow the website to locate the video and convert it.
 * You can set your output format to mp4 and click on Download to download the video to your device.
@@ -754,10 +754,6 @@ A great way to post a Twitter Video on Instagram on iOS is using the Shortcuts a
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-post-twitter-video-on-instagram-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Now open your phone’s browser and open <https://www.tvdl.app/>.
 * Tap on the Get Shortcut option. You may tap on the links at the top of the page for a different choice.
 * You will now get redirected to the Shortcuts app. From there, you can add the TVDL link shortcut.
@@ -776,6 +772,10 @@ A great way to post a Twitter Video on Instagram on iOS is using the Shortcuts a
 * If you are doing this for the first time, you may need to grant access to third-party API, your Photos app, and your Twitter account so you can save the downloaded videos. You can then select the download quality, and then the video will start downloading.
 
 ![twitter videos](https://images.wondershare.com/filmora/article-images/2022/02/how-to-post-twitter-video-on-instagram-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Once done, the video will be saved in the Photos app.
 * You can then open your Instagram profile and tap on the “+” sign at the bottom of the screen to create a new post on Instagram.
@@ -886,16 +886,21 @@ All the methods are discussed in detail and cater for each type of device. With 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-resolve-twitter-vids-playback-issue/"><u>[New] In 2024, Resolve Twitter Vids Playback Issue</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-reddit-trophy-case-top-ten-threads-for-2024/"><u>[New] The Ultimate Reddit Trophy Case - Top Ten Threads for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-chuckle-fest-twitters-10-funniest-tweets/"><u>[Updated] Chuckle-Fest Twitter's 10 Funniest Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-from-tweeting-short-videos-to-interactive-shareable-customized-gifs-for-2024/"><u>[Updated] From Tweeting Short Videos to Interactive, Shareable Customized GIFS for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-swift-transfer-tweets-as-vids-on-whatsapp-platform/"><u>[Updated] In 2024, Swift Transfer Tweets as Vids on WhatsApp Platform</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-meme-mayhem-top-twenty-from-reddit-and-twitter-for-2024/"><u>[Updated] Meme Mayhem Top Twenty From Reddit & Twitter for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-top-shots-premium-video-cams-for-slow-motion-magic/"><u>[Updated] Top Shots Premium Video Cams for Slow-Motion Magic</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-streamlined-method-for-crafting-mobile-focused-youtube-channels/"><u>2024 Approved Streamlined Method for Crafting Mobile-Focused YouTube Channels</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211413271-9781913504113-the-psychedelic-renaissance/"><u>The Psychedelic Renaissance | Free Book</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-complimentary-ai-applications-creating-expert-level-emails-using-chatgpt-and-summarizing-daily-correspondence/"><u>Top 5 Complimentary AI Applications: Creating Expert-Level Emails Using ChatGPT and Summarizing Daily Correspondence</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-key-tips-for-configuring-and-measuring-effective-fb-instream-ads/"><u>[New] 2024 Approved Key Tips for Configuring and Measuring Effective FB Instream Ads</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-breaking-down-2023s-most-sharing-videos-on-twitter/"><u>[New] Breaking Down 2023'S Most Sharing Videos on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-customize-twitter-video-image-for-2024/"><u>[New] Customize Twitter Video Image for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-capturing-the-spirit-2023s-most-shared-tweets/"><u>[New] In 2024, Capturing the Spirit 2023'S Most Shared Tweets</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-integrate-twitter-videos-into-your-instagram-feed/"><u>[New] In 2024, Integrate Twitter Videos Into Your Instagram Feed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-essential-info-on-crafting-engaging-yt-shorts/"><u>[Updated] 2024 Approved Essential Info on Crafting Engaging YT Shorts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-new-worlds-top-10-sci-fi-metaverse-movie-adventures/"><u>[Updated] Exploring New Worlds Top 10 Sci-Fi Metaverse Movie Adventures</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-the-key-to-a-successful-tweet-including-aspect-ratio-details/"><u>[Updated] The Key to a Successful Tweet Including Aspect Ratio Details</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-y28-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo Y28 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-power-how-to-use-phantoms-retro-vision-for-2024/"><u>Harnessing Power How to Use Phantom's Retro Vision for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-11-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme 11 Pro Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-7-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 7 without Passcode or Face ID</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-complying-with-aspect-ratios-in-tweets/"><u>In 2024, Complying with Aspect Ratios in Tweets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/simplifying-large-screen-viewing-for-youtubers/"><u>Simplifying Large-Screen Viewing for YouTubers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-essentials-2023s-highest-ranked-twitter-content-for-2024/"><u>The Essentials 2023'S Highest-Ranked Twitter Content for 2024</u></a></li>
 </ul></div>
 

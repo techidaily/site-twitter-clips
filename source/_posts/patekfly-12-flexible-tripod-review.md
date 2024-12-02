@@ -1,7 +1,7 @@
 ---
 title: Patekfly 12 Flexible Tripod Review
-date: 2024-11-22T02:36:53.983Z
-updated: 2024-11-24T05:02:59.791Z
+date: 2024-11-30T16:14:40.704Z
+updated: 2024-12-02T00:17:26.128Z
 categories:
   - BestProducts
 description: This Article Describes Patekfly 12 Flexible Tripod Review
@@ -13,9 +13,17 @@ thumbnail: https://www.lifewire.com/thmb/8FvBYNDOJSBUbPGXqjYT1bza6Z4=/400x300/fi
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Rexing V1 DashCam
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/uK2E64Wzmh1SC5wGVrVGSMMtQgk=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_HeroSqaure-ac1bb2840cb04106b14f3838b80a3bf2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Danny Chadwick
 
@@ -38,7 +46,7 @@ Lifewire / Danny Chadwick
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Rexing V1 DashCam
@@ -71,14 +79,10 @@ Lifewire / Danny Chadwick
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/JfL4E5NnuBPl6-93Hv3PI4IJsV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_05-bcfff5f440b545378c9ee4e6b431ffac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Danny Chadwick
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Design: Fits perfectly on your windshield**
 
@@ -96,10 +100,6 @@ Lifewire / Danny Chadwick
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/ztn3EsFqtKkWImvQhtgcr1vlHwI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_02-9ee3aa46e7394a1ab263a6b12b287314.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Danny Chadwick
 
 ## **Setup Process: Be sure that’s where you want to put it**
@@ -113,10 +113,6 @@ Lifewire / Danny Chadwick
  Also included in the box is a special tool that helps you hide the power cable. To prevent the wire from hanging down in front of your windshield, you need to wedge it up under the edge of the roof and through the side panels (the instruction manual shows you the best route to take). It may seem complicated at first, but this whole process only took us about ten minutes to accomplish.
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/df0_L-UzAk3OryqSCncsjfqi8QM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_03-2273fff3f71944368711b60f5da9687e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Danny Chadwick
 
@@ -143,6 +139,10 @@ Lifewire / Danny Chadwick
  One feature that is unique to the Rexing V1 is time-lapse recording. It is turned off by default and Rexing recommends you keep it off for your day-to-day driving. But if you’re taking a road trip with scenic routes or want to record a particular journey, this feature is fun to have.
 
  Like the rest of the dashboard cameras we tested, the Rexing V1 has the ability to record audio, but it does a middling job of it. Voices in the car and sounds coming from the interior speakers were clear enough to understand, but sounds from outside the vehicle were muddy at best.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: A good value**
 
@@ -193,22 +193,16 @@ Lifewire / Danny Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-quicktakes-why-videos-thrive-on-twitter-writes/"><u>[New] 2024 Approved QuickTakes Why Videos Thrive on Twitter' Writes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/eciphering-revenue-sharing-in-youtube-shorts-for-2024/"><u>[New] Deciphering Revenue Sharing in YouTube Shorts for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-how-to-tweet-videos-on-iphoneandroid-without-a-retweet/"><u>[New] In 2024, How To Tweet Videos on iPhone/Android Without a Retweet</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-quick-video-sharing-tweet-it-up-no-need-for-retweets/"><u>[New] In 2024, Quick Video Sharing Tweet It Up - No Need for Retweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-laugh-ledger-comedy-chronicles-from-twitters-best-videos-for-2024/"><u>[New] Laugh Ledger Comedy Chronicles From Twitter's Best Videos for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-cross-platform-content-spread-tweeting-and-tumbling-for-2024/"><u>[Updated] Cross-Platform Content Spread Tweeting & Tumbling for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-trending-on-twitter-unpacking-top-10-tiktok-videos/"><u>[Updated] Trending on Twitter Unpacking Top 10 TikTok Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-smile-slam-the-best-comedy-moments-on-social-media/"><u>2024 Approved Smile Slam The Best Comedy Moments on Social Media</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-huawei-nova-y71-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Huawei Nova Y71 online without jailbreak</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-harmony-through-play-our-best-10-gems/"><u>In 2024, Harmony Through Play Our Best 10 Gems</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-itel-a60-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Itel A60 online without jailbreak</u></a></li>
-<li><a href="https://win-help.techidaily.com/secure-your-information-how-to-safely-backup-files-and-folders-in-windows-versions-111087-learn-these-2-proven-techniques/"><u>Secure Your Information: How to Safely Backup Files and Folders in Windows Versions (11/10/8/7) - Learn These 2 Proven Techniques</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/silence-problem-twitter-videos-lacking-sounds-for-2024/"><u>Silence Problem Twitter Videos Lacking Sounds for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ps5s-popular-dualsense-controller-why-it-doesnt-appeal-to-me/"><u>The PS5's Popular DualSense Controller - Why It Doesn't Appeal to Me</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-mac-mice-recommendations/"><u>Top-Rated Mac Mice Recommendations</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-leading-platforms-mimicking-twitters-network/"><u>[New] 2024 Approved Leading Platforms Mimicking Twitter's Network</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-directly-delivering-tiktok-videos-to-twitters-feed-for-2024/"><u>[New] Directly Delivering TikTok Videos to Twitter's Feed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-innovative-typesetting-in-adobe-ae/"><u>[New] Innovative Typesetting in Adobe AE</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-navigating-new-user-registration-on-twitter/"><u>[New] Navigating New User Registration on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-smile-slam-the-best-comedy-moments-on-social-media-for-2024/"><u>[New] Smile Slam The Best Comedy Moments on Social Media for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-harmonizing-visuals-and-sound-in-instagram-videos/"><u>[Updated] 2024 Approved Harmonizing Visuals & Sound in Instagram Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-stop-screen-blackouts-with-obs-game-recordings/"><u>[Updated] In 2024, Stop Screen Blackouts with OBS Game Recordings</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tiktok-triumphs-in-twitter-land-toptiktoks-revealed/"><u>[Updated] In 2024, TikTok Triumphs in Twitter Land #TopTikToks Revealed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-innovative-templates-to-amplify-yt-decks/"><u>[Updated] Innovative Templates to Amplify YT Decks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/boosting-collaboration-mastering-real-time-photography-on-google-meet-for-2024/"><u>Boosting Collaboration Mastering Real-Time Photography on Google Meet for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-youtube-creative-commons-and-how-to-use-cc-to-make-video-for-2024/"><u>What's YouTube Creative Commons and How to Use CC to Make Video for 2024</u></a></li>
 </ul></div>
 

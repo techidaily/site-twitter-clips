@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Laughing Matters  The Viral Meme Scoreboard\""
-date: 2024-11-22T21:15:20.893Z
-updated: 2024-11-23T23:47:34.841Z
+date: 2024-11-25T05:27:16.422Z
+updated: 2024-12-02T12:19:53.915Z
 tags:
   - ai video
   - ai twitter
@@ -46,10 +46,6 @@ From a line spoken by comedian Rainier Wolfcastle in a Simpsons episode, it’s 
 
 ![The Joke](https://images.wondershare.com/filmora/article-images/The-Joke-meme.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Feels Bad Man / Sad Frog
 
 This meme, which consists of a sad frog with tears in his eyes and sometimes has the words “Feels Bad Man” with it, is about failure or feeling bad because something didn’t go your way. It may be posted as a response to someone’s sad story, or as a sarcastic way to respond to something that happened to you.
@@ -62,19 +58,11 @@ Confession Bear is a picture of a Malaysian Sun Bear who appears to be pouting, 
 
 ![Confession Bear](https://images.wondershare.com/filmora/article-images/Confession-Bear-meme.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. This is Fine
 
 4his is Fine” is based on a cartoon where a dog is sitting in a chair, drinking out of a coffee mug and stating “This is Fine” while the entire house is burning down around him. This is usually posted as a response to a news story or information where something chaotic is happening and no one seems to be reacting as they should be.
 
 ![This is Fine](https://images.wondershare.com/filmora/article-images/this-is-fine-meme.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Smug Frog
 
@@ -88,9 +76,170 @@ Kayode Ewumi, an actor, is pointing to his temple with a grin on his face. (It�
 
 ![Roll Safe](https://images.wondershare.com/filmora/article-images/roll-safe-meme.JPG)
 
+### 8\. Rage Guy
+
+Rage guy is a pencil drawing of an angry face yelling “fffffffuuuuuuu” or something similar. It’s usually used when the person posting is exasperated about something stupid that is being discussed.
+
+![Rage Guy](https://images.wondershare.com/filmora/article-images/Rage-Guy-meme.JPG)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### 9\. Make America Great Again
+
+Used as Trump’s campaign slogan, nowadays this is used as satire when pointing out things that are going on around the United States that aren’t so great.
+
+![Make America Great Again](https://images.wondershare.com/filmora/article-images/Make-America-Great-Again-meme.JPG)
+
+### 10\. Fake CCG Cards
+
+CCG’s like Magic the Gathering are still popular, and fake CCG cards are used as image parodies for almost anything imaginable, from people, to animals, to other memes.
+
+![Fake CCG Cards](https://images.wondershare.com/filmora/article-images/Fake-CCG-Cards-meme.JPG)
+
+## Part 2: The Most Popular Memes on Twitter
+
+### 1\. Arthur’s Fist
+
+This is a picture of a fist from Arthur, the animated cartoon featuring the anteater from kid’s books; it’s usually posted in response to frustrating or infuriating situations that are posted.
+
+![Arthur’s Fist](https://images.wondershare.com/filmora/article-images/Arthur-Fist-meme.JPG)
+
+### 2\. Evil Kermit
+
+Evil Kermit, covered in a black cloak, is talking to traditional Kermit (the frog from one of the Muppet films). This picture is usually accompanied by a conversation between the user and their “evil self” about a decision that they’re trying to make.
+
+![Evil Kermit](https://images.wondershare.com/filmora/article-images/Evil-Kermit-meme.JPG)
+
+### 3\. Nut Button
+
+Nut Button started as a sexual meme, but it’s commonly used as a picture of someone hitting a blue or red button with a word on it. It’s accompanied by text explaining why you would want to hit that button in that context.
+
+![Nut Button](https://images.wondershare.com/filmora/article-images/Nut-Button-meme.JPG)
+
+### 4\. Spongebob Mock
+
+Spongebob Mocking is a screen capture of Spongebob making a strange face and walking like a chicken. It is usually accompanied by a reply written like this: ExAmPlE tExT, which is mocking the person who said the same sentence.
+
+![Spongebob Mock](https://images.wondershare.com/filmora/article-images/Spongebob-Mock-meme.JPG)
+
+### 5\. Reaction Images
+
+These images vary, but they’re usually a person with a specific expression on their face, and someone posts it as their response to something that another Twitter user has said.
+
+![Reaction Images](https://images.wondershare.com/filmora/article-images/Computer-Reaction-Faces-meme.JPG)
+
+### 6\. Expanding Brain
+
+Expanding Brain is a picture with three images of the brain; one ordinary, one slightly lit up, and then one that appears to be exploding in light. On the right hand side of the image, it’s usually something about the user’s evolving thoughts or ideas relating to a topic or how they do things.
+
+![Expanding Brain](https://images.wondershare.com/filmora/article-images/Expanding-Brain-meme.JPG)
+
+### 7\. Demotivational Posters
+
+These posters, at first glance, look like motivational posters, with images of nature or animals or other beautiful things – but the text is usually something sarcastic or sardonic.
+
+![Demotivational Posters](https://images.wondershare.com/filmora/article-images/Demotivational-Posters-meme.JPG)
+
+### 8\. Cash Me Outside/Howbow Dah
+
+From a Dr. Phil episode, this picture is of an angry girl who told the audience “Catch me outside, how about that?” in a strong accent – needless to say, it’s been immortalized in memes and used when people are arguing (whether playfully or literally).
+
+![Cash Me Outside](https://images.wondershare.com/filmora/article-images/Cash-Me-Ousside-meme.JPG)
+
+### 9\. Conceited Reaction
+
+The rapper Conceited is captured in this meme, looking off camera and pursing his lips in a disapproving look. Now people use it to show their disapproval or anxiety around a topic.
+
+![Conceited Reaction](https://images.wondershare.com/filmora/article-images/Conceited-Reaction-meme.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 10\. Computer Reaction Faces
+
+Usually represented by a stick figure, it’s someone looking at a computer with some sort of emotion on their face, related to the person’s reaction to something being said or discussed on a thread.
+
+![Computer Reaction Faces](https://images.wondershare.com/filmora/article-images/Computer-Reaction-Faces-meme.JPG)
+
+## Conclusion
+
+There are so many different types of memes out there, and it’s really interesting to see all of the ones that have gotten a lot of traction and that will make a difference in our world as well. Are any memes missing from this list? Do you think there will be other popular memes if they were to do this 5 or 10 years from now?
+
+If you want to make memes right now, Filmora meme maker can help you easily create memes quickly. Click [here](https://tools.techidaily.com/wondershare/filmora/download/) to find more.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+After looking at the memes on the four most popular meme platforms – Twitter, Reddit, Gab, and /pol/, scientists from the Cyprus University of Technology, University College London, the University of Alabama at Birmingham, and King’s College London worked together to build a [study](https://arxiv.org/pdf/1805.12512.pdf) related to the use and popularity of memes.
+
+Which memes did the study show were the most popular in the mainstream Twitter and Reddit communities? Let’s explore some of them.
+
+* [**Part1: The Most Popular Memes on Reddit**](#part1)
+* [**Part2: The Most Popular Memes on Twitter**](#part2)
+
+## Part 1: The Most Popular Memes on Reddit
+
+### 1\. Manning Face
+
+This is a meme featuring Peyton Manning wearing a black hood and kneeling on a football field during practice. It is usually used as what is called a “bait and switch” meme. People will click on a link and expect it to be something interesting or important, and it just ends up being Manning Face.
+
+![Manning Face](https://images.wondershare.com/filmora/article-images/Manning-Face-meme.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 2\. That's The Joke
+
+From a line spoken by comedian Rainier Wolfcastle in a Simpsons episode, it’s a meme now used in order to either explain the punchline to a joke in a condescending manner, or it is meant to be a deadpan (or annoyed) reply to something that wouldn’t have been funny otherwise.
+
+![The Joke](https://images.wondershare.com/filmora/article-images/The-Joke-meme.JPG)
+
+### 3\. Feels Bad Man / Sad Frog
+
+This meme, which consists of a sad frog with tears in his eyes and sometimes has the words “Feels Bad Man” with it, is about failure or feeling bad because something didn’t go your way. It may be posted as a response to someone’s sad story, or as a sarcastic way to respond to something that happened to you.
+
+![Sad Frog](https://images.wondershare.com/filmora/article-images/Sad-Frog-meme.JPG)
+
+### 4\. Confession Bear
+
+Confession Bear is a picture of a Malaysian Sun Bear who appears to be pouting, leaning against a log. Usually, Confession Bear is accompanied by some sort of confession that people normally wouldn’t admit in polite company – things that are seen as taboo.
+
+![Confession Bear](https://images.wondershare.com/filmora/article-images/Confession-Bear-meme.JPG)
+
+### 5\. This is Fine
+
+4his is Fine” is based on a cartoon where a dog is sitting in a chair, drinking out of a coffee mug and stating “This is Fine” while the entire house is burning down around him. This is usually posted as a response to a news story or information where something chaotic is happening and no one seems to be reacting as they should be.
+
+![This is Fine](https://images.wondershare.com/filmora/article-images/this-is-fine-meme.JPG)
+
+### 6\. Smug Frog
+
+Smug Frog, who is usually known as Pepe the Frog, is a meme where a strange looking anthropomorphic frog is looking at the user, offering a cocky, smug grin. Before it was stolen by groups that many people don’t wish to be associated with, Smug Frog was often used as a response to people, either to represent “I told you so” or “Tell Me More.”
+
+![Smug Frog](https://images.wondershare.com/filmora/article-images/Smug-Frog-meme.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 7\. Roll Safe
+
+Kayode Ewumi, an actor, is pointing to his temple with a grin on his face. (It’s from a scene in a movie where he played a character called “Roll Safe.”) It’s usually used to represent “that’s using your brain” or it’s meant in sarcasm to make fun of people who didn’t use common sense in a situation.
+
+![Roll Safe](https://images.wondershare.com/filmora/article-images/roll-safe-meme.JPG)
 
 ### 8\. Rage Guy
 
@@ -124,14 +273,6 @@ Evil Kermit, covered in a black cloak, is talking to traditional Kermit (the fro
 
 ![Evil Kermit](https://images.wondershare.com/filmora/article-images/Evil-Kermit-meme.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Nut Button
 
 Nut Button started as a sexual meme, but it’s commonly used as a picture of someone hitting a blue or red button with a word on it. It’s accompanied by text explaining why you would want to hit that button in that context.
@@ -161,6 +302,10 @@ Expanding Brain is a picture with three images of the brain; one ordinary, one s
 These posters, at first glance, look like motivational posters, with images of nature or animals or other beautiful things – but the text is usually something sarcastic or sardonic.
 
 ![Demotivational Posters](https://images.wondershare.com/filmora/article-images/Demotivational-Posters-meme.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Cash Me Outside/Howbow Dah
 
@@ -300,7 +445,7 @@ These images vary, but they’re usually a person with a specific expression on 
 ![Reaction Images](https://images.wondershare.com/filmora/article-images/Computer-Reaction-Faces-meme.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Expanding Brain
@@ -379,7 +524,7 @@ This meme, which consists of a sad frog with tears in his eyes and sometimes has
 ![Sad Frog](https://images.wondershare.com/filmora/article-images/Sad-Frog-meme.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Confession Bear
@@ -393,6 +538,10 @@ Confession Bear is a picture of a Malaysian Sun Bear who appears to be pouting, 
 4his is Fine” is based on a cartoon where a dog is sitting in a chair, drinking out of a coffee mug and stating “This is Fine” while the entire house is burning down around him. This is usually posted as a response to a news story or information where something chaotic is happening and no one seems to be reacting as they should be.
 
 ![This is Fine](https://images.wondershare.com/filmora/article-images/this-is-fine-meme.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Smug Frog
 
@@ -426,162 +575,9 @@ CCG’s like Magic the Gathering are still popular, and fake CCG cards are used 
 
 ## Part 2: The Most Popular Memes on Twitter
 
-### 1\. Arthur’s Fist
-
-This is a picture of a fist from Arthur, the animated cartoon featuring the anteater from kid’s books; it’s usually posted in response to frustrating or infuriating situations that are posted.
-
-![Arthur’s Fist](https://images.wondershare.com/filmora/article-images/Arthur-Fist-meme.JPG)
-
-### 2\. Evil Kermit
-
-Evil Kermit, covered in a black cloak, is talking to traditional Kermit (the frog from one of the Muppet films). This picture is usually accompanied by a conversation between the user and their “evil self” about a decision that they’re trying to make.
-
-![Evil Kermit](https://images.wondershare.com/filmora/article-images/Evil-Kermit-meme.JPG)
-
-### 3\. Nut Button
-
-Nut Button started as a sexual meme, but it’s commonly used as a picture of someone hitting a blue or red button with a word on it. It’s accompanied by text explaining why you would want to hit that button in that context.
-
-![Nut Button](https://images.wondershare.com/filmora/article-images/Nut-Button-meme.JPG)
-
-### 4\. Spongebob Mock
-
-Spongebob Mocking is a screen capture of Spongebob making a strange face and walking like a chicken. It is usually accompanied by a reply written like this: ExAmPlE tExT, which is mocking the person who said the same sentence.
-
-![Spongebob Mock](https://images.wondershare.com/filmora/article-images/Spongebob-Mock-meme.JPG)
-
-### 5\. Reaction Images
-
-These images vary, but they’re usually a person with a specific expression on their face, and someone posts it as their response to something that another Twitter user has said.
-
-![Reaction Images](https://images.wondershare.com/filmora/article-images/Computer-Reaction-Faces-meme.JPG)
-
-### 6\. Expanding Brain
-
-Expanding Brain is a picture with three images of the brain; one ordinary, one slightly lit up, and then one that appears to be exploding in light. On the right hand side of the image, it’s usually something about the user’s evolving thoughts or ideas relating to a topic or how they do things.
-
-![Expanding Brain](https://images.wondershare.com/filmora/article-images/Expanding-Brain-meme.JPG)
-
-### 7\. Demotivational Posters
-
-These posters, at first glance, look like motivational posters, with images of nature or animals or other beautiful things – but the text is usually something sarcastic or sardonic.
-
-![Demotivational Posters](https://images.wondershare.com/filmora/article-images/Demotivational-Posters-meme.JPG)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-### 8\. Cash Me Outside/Howbow Dah
-
-From a Dr. Phil episode, this picture is of an angry girl who told the audience “Catch me outside, how about that?” in a strong accent – needless to say, it’s been immortalized in memes and used when people are arguing (whether playfully or literally).
-
-![Cash Me Outside](https://images.wondershare.com/filmora/article-images/Cash-Me-Ousside-meme.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### 9\. Conceited Reaction
-
-The rapper Conceited is captured in this meme, looking off camera and pursing his lips in a disapproving look. Now people use it to show their disapproval or anxiety around a topic.
-
-![Conceited Reaction](https://images.wondershare.com/filmora/article-images/Conceited-Reaction-meme.JPG)
-
-### 10\. Computer Reaction Faces
-
-Usually represented by a stick figure, it’s someone looking at a computer with some sort of emotion on their face, related to the person’s reaction to something being said or discussed on a thread.
-
-![Computer Reaction Faces](https://images.wondershare.com/filmora/article-images/Computer-Reaction-Faces-meme.JPG)
-
-## Conclusion
-
-There are so many different types of memes out there, and it’s really interesting to see all of the ones that have gotten a lot of traction and that will make a difference in our world as well. Are any memes missing from this list? Do you think there will be other popular memes if they were to do this 5 or 10 years from now?
-
-If you want to make memes right now, Filmora meme maker can help you easily create memes quickly. Click [here](https://tools.techidaily.com/wondershare/filmora/download/) to find more.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-After looking at the memes on the four most popular meme platforms – Twitter, Reddit, Gab, and /pol/, scientists from the Cyprus University of Technology, University College London, the University of Alabama at Birmingham, and King’s College London worked together to build a [study](https://arxiv.org/pdf/1805.12512.pdf) related to the use and popularity of memes.
-
-Which memes did the study show were the most popular in the mainstream Twitter and Reddit communities? Let’s explore some of them.
-
-* [**Part1: The Most Popular Memes on Reddit**](#part1)
-* [**Part2: The Most Popular Memes on Twitter**](#part2)
-
-## Part 1: The Most Popular Memes on Reddit
-
-### 1\. Manning Face
-
-This is a meme featuring Peyton Manning wearing a black hood and kneeling on a football field during practice. It is usually used as what is called a “bait and switch” meme. People will click on a link and expect it to be something interesting or important, and it just ends up being Manning Face.
-
-![Manning Face](https://images.wondershare.com/filmora/article-images/Manning-Face-meme.JPG)
-
-### 2\. That's The Joke
-
-From a line spoken by comedian Rainier Wolfcastle in a Simpsons episode, it’s a meme now used in order to either explain the punchline to a joke in a condescending manner, or it is meant to be a deadpan (or annoyed) reply to something that wouldn’t have been funny otherwise.
-
-![The Joke](https://images.wondershare.com/filmora/article-images/The-Joke-meme.JPG)
-
-### 3\. Feels Bad Man / Sad Frog
-
-This meme, which consists of a sad frog with tears in his eyes and sometimes has the words “Feels Bad Man” with it, is about failure or feeling bad because something didn’t go your way. It may be posted as a response to someone’s sad story, or as a sarcastic way to respond to something that happened to you.
-
-![Sad Frog](https://images.wondershare.com/filmora/article-images/Sad-Frog-meme.JPG)
-
-### 4\. Confession Bear
-
-Confession Bear is a picture of a Malaysian Sun Bear who appears to be pouting, leaning against a log. Usually, Confession Bear is accompanied by some sort of confession that people normally wouldn’t admit in polite company – things that are seen as taboo.
-
-![Confession Bear](https://images.wondershare.com/filmora/article-images/Confession-Bear-meme.JPG)
-
-### 5\. This is Fine
-
-4his is Fine” is based on a cartoon where a dog is sitting in a chair, drinking out of a coffee mug and stating “This is Fine” while the entire house is burning down around him. This is usually posted as a response to a news story or information where something chaotic is happening and no one seems to be reacting as they should be.
-
-![This is Fine](https://images.wondershare.com/filmora/article-images/this-is-fine-meme.JPG)
-
-### 6\. Smug Frog
-
-Smug Frog, who is usually known as Pepe the Frog, is a meme where a strange looking anthropomorphic frog is looking at the user, offering a cocky, smug grin. Before it was stolen by groups that many people don’t wish to be associated with, Smug Frog was often used as a response to people, either to represent “I told you so” or “Tell Me More.”
-
-![Smug Frog](https://images.wondershare.com/filmora/article-images/Smug-Frog-meme.JPG)
-
-### 7\. Roll Safe
-
-Kayode Ewumi, an actor, is pointing to his temple with a grin on his face. (It’s from a scene in a movie where he played a character called “Roll Safe.”) It’s usually used to represent “that’s using your brain” or it’s meant in sarcasm to make fun of people who didn’t use common sense in a situation.
-
-![Roll Safe](https://images.wondershare.com/filmora/article-images/roll-safe-meme.JPG)
-
-### 8\. Rage Guy
-
-Rage guy is a pencil drawing of an angry face yelling “fffffffuuuuuuu” or something similar. It’s usually used when the person posting is exasperated about something stupid that is being discussed.
-
-![Rage Guy](https://images.wondershare.com/filmora/article-images/Rage-Guy-meme.JPG)
-
-### 9\. Make America Great Again
-
-Used as Trump’s campaign slogan, nowadays this is used as satire when pointing out things that are going on around the United States that aren’t so great.
-
-![Make America Great Again](https://images.wondershare.com/filmora/article-images/Make-America-Great-Again-meme.JPG)
-
-### 10\. Fake CCG Cards
-
-CCG’s like Magic the Gathering are still popular, and fake CCG cards are used as image parodies for almost anything imaginable, from people, to animals, to other memes.
-
-![Fake CCG Cards](https://images.wondershare.com/filmora/article-images/Fake-CCG-Cards-meme.JPG)
-
-## Part 2: The Most Popular Memes on Twitter
 
 ### 1\. Arthur’s Fist
 
@@ -650,6 +646,10 @@ There are so many different types of memes out there, and it’s really interest
 If you want to make memes right now, Filmora meme maker can help you easily create memes quickly. Click [here](https://tools.techidaily.com/wondershare/filmora/download/) to find more.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -678,24 +678,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-decoding-the-mystery-of-where-are-my-youtube-comments/"><u>[New] 2024 Approved Decoding the Mystery of Where Are My YouTube Comments?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-essence-of-authenticity-applying-personalized-watermarks-in-insta/"><u>[New] 2024 Approved The Essence of Authenticity Applying Personalized Watermarks in Insta</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-tweetsnapter-the-leading-tool-for-storing-your-gif-delights/"><u>[New] 2024 Approved TweetSnapter The Leading Tool for Storing Your Gif Delights</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-conquer-youtube-vimeo-editing-5-advanced-trimming-strategies/"><u>[New] Conquer YouTube-Vimeo Editing 5 Advanced Trimming Strategies</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-spotlight-podcast-in-one-ig-swipe-for-2024/"><u>[New] Spotlight Podcast in One IG Swipe for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-cross-platform-content-spread-tweeting-and-tumbling/"><u>[Updated] Cross-Platform Content Spread Tweeting & Tumbling</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-top-5-websites-for-an-active-social-presence/"><u>[Updated] Top 5 Websites for an Active Social Presence</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-leveraging-twitters-visual-content-on-snapchat/"><u>2024 Approved Leveraging Twitter's Visual Content on Snapchat</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/amazon-primes-social-standings-top-watchers-and-likers-twitter-2023/"><u>Amazon Prime's Social Standings - Top Watchers and Likers Twitter, 2023</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211310125-9798869060129-cannastrology/"><u>Cannastrology | Free Book</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/crafting-connections-posting-vids-between-tweets-and-tumbles-for-2024/"><u>Crafting Connections Posting Vids Between Tweets & Tumbles for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/effortlessly-share-twitters-visual-media-to-instagram-for-2024/"><u>Effortlessly Share Twitter's Visual Media to Instagram for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/from-plugging-in-to-power-up-a-comprehensive-overview-of-at-home-ev-charging/"><u>From Plugging In to Power Up: A Comprehensive Overview of At-Home EV Charging</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-lava-yuva-3-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Lava Yuva 3 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y78-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y78 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/screen-capture-power-play-apowsort-reviewed-and-comparisons-made/"><u>Screen Capture Power Play Apowsort Reviewed & Comparisons Made</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/taking-twitter-videos-from-regular-to-high-definition-for-2024/"><u>Taking Twitter Videos From Regular to High-Definition for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/unmute-tracks-from-muted-video-tweets-for-2024/"><u>Unmute Tracks From Muted Video Tweets for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitter-video-requirement-aspect-ratio/"><u>[New] 2024 Approved Twitter Video Requirement - Aspect Ratio</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-pinnacle-of-radio-drama-crafting/"><u>[New] In 2024, Pinnacle of Radio Drama Crafting</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-route-from-youtube-to-igtv-adoption/"><u>[New] In 2024, The Ultimate Route From YouTube to IGTV Adoption</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-innovating-tiktok-posts-for-twitters-platform/"><u>[New] Innovating TikTok Posts for Twitter's Platform</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-tiktok-trends-the-top-ten-tweets-shaping-social-media-for-2024/"><u>[New] TikTok Trends The Top Ten Tweets Shaping Social Media for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-dual-domain-delight-posting-videos-across-social-platforms/"><u>[Updated] 2024 Approved Dual-Domain Delight Posting Videos Across Social Platforms</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-ultimate-selection-of-apps-to-tame-your-feed/"><u>[Updated] 2024 Approved The Ultimate Selection of Apps to Tame Your Feed</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-a-seamless-transition-sharing-tiktok-videos-with-twitter/"><u>[Updated] In 2024, A Seamless Transition Sharing TikTok Videos with Twitter</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-quick-guide-to-overcoming-instagram-video-hiccups/"><u>[Updated] In 2024, Quick Guide to Overcoming Instagram Video Hiccups</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitters-most-popular-amazon-originals-in-2e23-for-2024/"><u>[Updated] Twitter's Most Popular Amazon Originals in 2E'23 For 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/covert-creativity-easy-photo-fixes-for-starters-for-2024/"><u>Covert Creativity Easy Photo Fixes for Starters for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/csgo-stability-boost-resolve-game-crashes-efficiently-and-swiftly/"><u>CSGO Stability Boost: Resolve Game Crashes Efficiently and Swiftly</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/direct-sharing-integrating-twitter-video-into-instagram-experience/"><u>Direct Sharing Integrating Twitter Video Into Instagram Experience</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-sapphire-graphics-driver-for-windows-free-updates/"><u>Download and Install Sapphire Graphics Driver for Windows - Free Updates</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-s23-fe-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy S23 FE Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/geautomatiseerde-avi-asf-omwandling-gratuite-online-oplossing-met-movavi/"><u>Geautomatiseerde AVI-ASF Omwandling: Gratuite Online Oplossing Met Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-preorders-smartly-marvel-spidey-ps5-exclusive/"><u>Navigate Preorders Smartly - Marvel Spidey PS5 Exclusive</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-role-of-cdn-in-reducing-web-page-load-times-for-2024/"><u>The Role of CDN in Reducing Web Page Load Times for 2024</u></a></li>
 </ul></div>
 

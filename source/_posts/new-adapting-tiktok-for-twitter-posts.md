@@ -1,7 +1,7 @@
 ---
 title: "[New] Adapting TikTok for Twitter Posts"
-date: 2024-11-17T08:28:05.323Z
-updated: 2024-11-23T17:04:37.382Z
+date: 2024-11-30T12:19:51.144Z
+updated: 2024-12-02T00:20:08.522Z
 tags:
   - ai video
   - ai twitter
@@ -37,6 +37,10 @@ Part 1: [Share Tiktok Videos On Twitter.com Via Desktop](#step1)
 
 Part 2: [How to Share Tiktok Videos on Twitter Mobile App](#step2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Share Tiktok Videos On Twitter.com Via Desktop
 
 Sharing Tiktok videos on a desktop is something a lot of us consider stressful, because of the lengthy process of downloading the social media apps from third-party platforms that must also be installed on the PC.
@@ -47,13 +51,13 @@ Well, the truth is users can share Tiktok videos on desktop via their web browse
 
 ![Screenshot showing Tiktok login page](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Navigate to the Tiktok video you're looking to share on Twitter, click on it and select ‘Copy link’.
 
 ![Interface showing how to copy a Tiktok video link](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Once you copy the link, open <https://freedownloadvideo.net/dailymotion-video-downloader> and paste the copied link in the ‘Paste URL box’.
 
@@ -70,10 +74,6 @@ Well, the truth is users can share Tiktok videos on desktop via their web browse
 **Step 6:** Select the downloaded Tiktok video to upload on Twitter and hit the Tweet button to share the Tiktok video to your audience on Twitter instantly.
 
 ![Interface of Twitter showing how to Tweet a video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Share Tiktok Videos on Twitter Mobile App
 
@@ -103,7 +103,7 @@ To get started with the process, you first need to save the Tiktok video to your
 * Up next, hit the ‘Tweet’ button at the top corner of the screen to instantly share your Twitter Tiktok video viral. It's as simple as ABC!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Share Tiktok Videos on Twitter iOS App
@@ -129,9 +129,225 @@ The process of sharing Tiktok videos on the Twitter Android app is the same on T
 * Click on ‘Media’ to access your gallery and select the saved Tiktok video.
 * Once the video upload is successful, click ‘Tweet’ at the top corner of the screen to share your Twitter Tiktok video instantly.
 
+## Conclusion
+
+There you have it. Sharing your favorite Tiktok video on Twitter is as easy as taking a walk in the park. It doesn't matter if you're tech-literate or not, this article explains all you need to know about sharing Twitter Tiktok videos. It only takes a few clicks to get the job done perfectly!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Tiktok, since its launch to the online realm, has been a blessing to a lot of content creators. This fast-growing social media app has made it easy for many video creators to reach out to a larger audience quickly and efficiently. So perhaps you're looking to utilize Tiktok videos to grow your audience on Twitter, or you want to repost a Tiktok video on Twitter so your followers can view it without leaving Twitter, you've stumbled into the right page.
+
+Today, we will walk you through how to share a Tiktok video on Twitter just within a few clicks. So, stick with us to discover the unknown.
+
+#### In this article
+
+Part 1: [Share Tiktok Videos On Twitter.com Via Desktop](#step1)
+
+Part 2: [How to Share Tiktok Videos on Twitter Mobile App](#step2)
+
+## Part 1: Share Tiktok Videos On Twitter.com Via Desktop
+
+Sharing Tiktok videos on a desktop is something a lot of us consider stressful, because of the lengthy process of downloading the social media apps from third-party platforms that must also be installed on the PC.
+
+Well, the truth is users can share Tiktok videos on desktop via their web browser. So, to save you from all kinds of unwanted hassles, we've outlined a simple stepwise guide to walk you through the process of sharing Tiktok videos on Twitter.com via web browser on desktop.
+
+**Step 1:** Open the Tiktok official website on your PC and login into your account.
+
+![Screenshot showing Tiktok login page](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-1.jpg)
+
+**Step 2:** Navigate to the Tiktok video you're looking to share on Twitter, click on it and select ‘Copy link’.
+
+![Interface showing how to copy a Tiktok video link](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-2.jpg)
+
+**Step 3:** Once you copy the link, open <https://freedownloadvideo.net/dailymotion-video-downloader> and paste the copied link in the ‘Paste URL box’.
+
+![Screenshot of Freedownloadvideo.net page to paste URL link](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-3.jpg)
+
+**Step 4**: Hit the Download button and save your Tiktok video to your desktop as per requirement.
+
+![Interface of Freedownloadvideo.net page to download video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-4.jpg)
+
+**Step 5:** Open Twitter.com on your PC and login into your account. Then click on the ‘Media’ button on the ‘Home’ interface located in the ‘Tweet’ section.
+
+![Interface of Twitter to showing the Tweet section](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-5.jpg)
+
+**Step 6:** Select the downloaded Tiktok video to upload on Twitter and hit the Tweet button to share the Tiktok video to your audience on Twitter instantly.
+
+![Interface of Twitter showing how to Tweet a video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-6.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 2: How to Share Tiktok Videos on Twitter Mobile App
+
+It's very easy to share Tiktok videos on your Twitter mobile app either via Android or iPhone. All you just have to do is to follow the procedures outlined below to get the job done effectively.
+
+### Method 1: Share Tiktok Videos on Twitter Android App
+
+To get started with the process, you first need to save the Tiktok video to your Android smartphone camera roll. However, what if the Tiktok video disabled from being downloaded and it can only be shared via a link? Then you will need a tool to download the video using a URL. Follow the steps below to get your Tiktok video on Twitter either by saving directly to your device or downloading it from a URL and sharing it to Twitter.
+
+**Step 1: Download Tiktok Video To Directly To Your Phone**
+
+* From the Tiktok video, click on the ‘Share’ button, and select ‘Save Video’. However, if the video has been disabled from being downloaded, just click on ‘Copy Link’.
+
+![Screenshot of Tiktok showing how to save video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-7.jpg)
+
+* Visit <https://freedownloadvideo.net/dailymotion-video-downloader>’ on your web browser and paste the copied link in the URL box. Then Download the Tiktok video according to your requirements.
+
+![screenshot of freedownload.net showing show to download URL video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-8.jpg)
+
+**Step 2: Share Tiktok Video On Twitter**
+
+* Now that you've saved the preferred Tiktok video on your device camera roll, launch the Twitter app and click the compose button at the bottom corner of the screen.
+
+![screenshot showing how to share video on Twitter](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-9.jpg)
+
+* On the new interface, click the ‘Photo/Video’ button to access your gallery and select the saved Tiktok video.
+* Up next, hit the ‘Tweet’ button at the top corner of the screen to instantly share your Twitter Tiktok video viral. It's as simple as ABC!
+
+### Method 2: Share Tiktok Videos on Twitter iOS App
+
+The process of sharing Tiktok videos on the Twitter Android app is the same on Twitter iOS app. So, without wasting much of your time, let's dive in to learn how to share Tiktok videos on Twitter iOS app handily.
+
+**Step 1: Download Tiktok Video To Directly To Your Phone**
+
+* Open Tiktok, navigate to the video you're looking to share, click on the ‘Share’ button, and select ‘Save Video’. But, if the video is disabled from being downloaded, you can just click on ‘Copy Link’.
+
+![Screenshot of Tiktok showing how to save video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-10.jpg)
+
+* Open <https://freedownloadvideo.net/dailymotion-video-downloader>’ in your browser and paste the copied link in the ‘Paste URL’ text box. Then click on Download to save the Tiktok video according to your requirements.
+
+![screenshot of freedownload.net showing show to download URL video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-11.jpg)
+
+**Step 2: Share Tiktok Video On Twitter**
+
+* Open Twitter app on your iOS device and click on compose at the bottom corner of the screen.
+
+![screenshot showing how to share video on Twitter](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+* Click on ‘Media’ to access your gallery and select the saved Tiktok video.
+* Once the video upload is successful, click ‘Tweet’ at the top corner of the screen to share your Twitter Tiktok video instantly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Conclusion
+
+There you have it. Sharing your favorite Tiktok video on Twitter is as easy as taking a walk in the park. It doesn't matter if you're tech-literate or not, this article explains all you need to know about sharing Twitter Tiktok videos. It only takes a few clicks to get the job done perfectly!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Tiktok, since its launch to the online realm, has been a blessing to a lot of content creators. This fast-growing social media app has made it easy for many video creators to reach out to a larger audience quickly and efficiently. So perhaps you're looking to utilize Tiktok videos to grow your audience on Twitter, or you want to repost a Tiktok video on Twitter so your followers can view it without leaving Twitter, you've stumbled into the right page.
+
+Today, we will walk you through how to share a Tiktok video on Twitter just within a few clicks. So, stick with us to discover the unknown.
+
+#### In this article
+
+Part 1: [Share Tiktok Videos On Twitter.com Via Desktop](#step1)
+
+Part 2: [How to Share Tiktok Videos on Twitter Mobile App](#step2)
+
+## Part 1: Share Tiktok Videos On Twitter.com Via Desktop
+
+Sharing Tiktok videos on a desktop is something a lot of us consider stressful, because of the lengthy process of downloading the social media apps from third-party platforms that must also be installed on the PC.
+
+Well, the truth is users can share Tiktok videos on desktop via their web browser. So, to save you from all kinds of unwanted hassles, we've outlined a simple stepwise guide to walk you through the process of sharing Tiktok videos on Twitter.com via web browser on desktop.
+
+**Step 1:** Open the Tiktok official website on your PC and login into your account.
+
+![Screenshot showing Tiktok login page](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-1.jpg)
+
+**Step 2:** Navigate to the Tiktok video you're looking to share on Twitter, click on it and select ‘Copy link’.
+
+![Interface showing how to copy a Tiktok video link](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-2.jpg)
+
+**Step 3:** Once you copy the link, open <https://freedownloadvideo.net/dailymotion-video-downloader> and paste the copied link in the ‘Paste URL box’.
+
+![Screenshot of Freedownloadvideo.net page to paste URL link](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-3.jpg)
+
+**Step 4**: Hit the Download button and save your Tiktok video to your desktop as per requirement.
+
+![Interface of Freedownloadvideo.net page to download video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-4.jpg)
+
+**Step 5:** Open Twitter.com on your PC and login into your account. Then click on the ‘Media’ button on the ‘Home’ interface located in the ‘Tweet’ section.
+
+![Interface of Twitter to showing the Tweet section](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-5.jpg)
+
+**Step 6:** Select the downloaded Tiktok video to upload on Twitter and hit the Tweet button to share the Tiktok video to your audience on Twitter instantly.
+
+![Interface of Twitter showing how to Tweet a video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-6.jpg)
+
+## Part 2: How to Share Tiktok Videos on Twitter Mobile App
+
+It's very easy to share Tiktok videos on your Twitter mobile app either via Android or iPhone. All you just have to do is to follow the procedures outlined below to get the job done effectively.
+
+### Method 1: Share Tiktok Videos on Twitter Android App
+
+To get started with the process, you first need to save the Tiktok video to your Android smartphone camera roll. However, what if the Tiktok video disabled from being downloaded and it can only be shared via a link? Then you will need a tool to download the video using a URL. Follow the steps below to get your Tiktok video on Twitter either by saving directly to your device or downloading it from a URL and sharing it to Twitter.
+
+**Step 1: Download Tiktok Video To Directly To Your Phone**
+
+* From the Tiktok video, click on the ‘Share’ button, and select ‘Save Video’. However, if the video has been disabled from being downloaded, just click on ‘Copy Link’.
+
+![Screenshot of Tiktok showing how to save video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+* Visit <https://freedownloadvideo.net/dailymotion-video-downloader>’ on your web browser and paste the copied link in the URL box. Then Download the Tiktok video according to your requirements.
+
+![screenshot of freedownload.net showing show to download URL video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-8.jpg)
+
+**Step 2: Share Tiktok Video On Twitter**
+
+* Now that you've saved the preferred Tiktok video on your device camera roll, launch the Twitter app and click the compose button at the bottom corner of the screen.
+
+![screenshot showing how to share video on Twitter](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+* On the new interface, click the ‘Photo/Video’ button to access your gallery and select the saved Tiktok video.
+* Up next, hit the ‘Tweet’ button at the top corner of the screen to instantly share your Twitter Tiktok video viral. It's as simple as ABC!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### Method 2: Share Tiktok Videos on Twitter iOS App
+
+The process of sharing Tiktok videos on the Twitter Android app is the same on Twitter iOS app. So, without wasting much of your time, let's dive in to learn how to share Tiktok videos on Twitter iOS app handily.
+
+**Step 1: Download Tiktok Video To Directly To Your Phone**
+
+* Open Tiktok, navigate to the video you're looking to share, click on the ‘Share’ button, and select ‘Save Video’. But, if the video is disabled from being downloaded, you can just click on ‘Copy Link’.
+
+![Screenshot of Tiktok showing how to save video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-10.jpg)
+
+* Open <https://freedownloadvideo.net/dailymotion-video-downloader>’ in your browser and paste the copied link in the ‘Paste URL’ text box. Then click on Download to save the Tiktok video according to your requirements.
+
+![screenshot of freedownload.net showing show to download URL video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-11.jpg)
+
+**Step 2: Share Tiktok Video On Twitter**
+
+* Open Twitter app on your iOS device and click on compose at the bottom corner of the screen.
+
+![screenshot showing how to share video on Twitter](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-12.jpg)
+
+* Click on ‘Media’ to access your gallery and select the saved Tiktok video.
+* Once the video upload is successful, click ‘Tweet’ at the top corner of the screen to share your Twitter Tiktok video instantly.
 
 ## Conclusion
 
@@ -199,234 +415,18 @@ To get started with the process, you first need to save the Tiktok video to your
 
 ![screenshot of freedownload.net showing show to download URL video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Share Tiktok Video On Twitter**
 
 * Now that you've saved the preferred Tiktok video on your device camera roll, launch the Twitter app and click the compose button at the bottom corner of the screen.
 
 ![screenshot showing how to share video on Twitter](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-9.jpg)
 
-* On the new interface, click the ‘Photo/Video’ button to access your gallery and select the saved Tiktok video.
-* Up next, hit the ‘Tweet’ button at the top corner of the screen to instantly share your Twitter Tiktok video viral. It's as simple as ABC!
-
-### Method 2: Share Tiktok Videos on Twitter iOS App
-
-The process of sharing Tiktok videos on the Twitter Android app is the same on Twitter iOS app. So, without wasting much of your time, let's dive in to learn how to share Tiktok videos on Twitter iOS app handily.
-
-**Step 1: Download Tiktok Video To Directly To Your Phone**
-
-* Open Tiktok, navigate to the video you're looking to share, click on the ‘Share’ button, and select ‘Save Video’. But, if the video is disabled from being downloaded, you can just click on ‘Copy Link’.
-
-![Screenshot of Tiktok showing how to save video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-10.jpg)
-
-* Open <https://freedownloadvideo.net/dailymotion-video-downloader>’ in your browser and paste the copied link in the ‘Paste URL’ text box. Then click on Download to save the Tiktok video according to your requirements.
-
-![screenshot of freedownload.net showing show to download URL video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-11.jpg)
-
-**Step 2: Share Tiktok Video On Twitter**
-
-* Open Twitter app on your iOS device and click on compose at the bottom corner of the screen.
-
-![screenshot showing how to share video on Twitter](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-12.jpg)
-
-* Click on ‘Media’ to access your gallery and select the saved Tiktok video.
-* Once the video upload is successful, click ‘Tweet’ at the top corner of the screen to share your Twitter Tiktok video instantly.
-
-## Conclusion
-
-There you have it. Sharing your favorite Tiktok video on Twitter is as easy as taking a walk in the park. It doesn't matter if you're tech-literate or not, this article explains all you need to know about sharing Twitter Tiktok videos. It only takes a few clicks to get the job done perfectly!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Tiktok, since its launch to the online realm, has been a blessing to a lot of content creators. This fast-growing social media app has made it easy for many video creators to reach out to a larger audience quickly and efficiently. So perhaps you're looking to utilize Tiktok videos to grow your audience on Twitter, or you want to repost a Tiktok video on Twitter so your followers can view it without leaving Twitter, you've stumbled into the right page.
-
-Today, we will walk you through how to share a Tiktok video on Twitter just within a few clicks. So, stick with us to discover the unknown.
-
-#### In this article
-
-Part 1: [Share Tiktok Videos On Twitter.com Via Desktop](#step1)
-
-Part 2: [How to Share Tiktok Videos on Twitter Mobile App](#step2)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-## Part 1: Share Tiktok Videos On Twitter.com Via Desktop
-
-Sharing Tiktok videos on a desktop is something a lot of us consider stressful, because of the lengthy process of downloading the social media apps from third-party platforms that must also be installed on the PC.
-
-Well, the truth is users can share Tiktok videos on desktop via their web browser. So, to save you from all kinds of unwanted hassles, we've outlined a simple stepwise guide to walk you through the process of sharing Tiktok videos on Twitter.com via web browser on desktop.
-
-**Step 1:** Open the Tiktok official website on your PC and login into your account.
-
-![Screenshot showing Tiktok login page](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-1.jpg)
-
-**Step 2:** Navigate to the Tiktok video you're looking to share on Twitter, click on it and select ‘Copy link’.
-
-![Interface showing how to copy a Tiktok video link](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**Step 3:** Once you copy the link, open <https://freedownloadvideo.net/dailymotion-video-downloader> and paste the copied link in the ‘Paste URL box’.
-
-![Screenshot of Freedownloadvideo.net page to paste URL link](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-3.jpg)
-
-**Step 4**: Hit the Download button and save your Tiktok video to your desktop as per requirement.
-
-![Interface of Freedownloadvideo.net page to download video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-4.jpg)
-
-**Step 5:** Open Twitter.com on your PC and login into your account. Then click on the ‘Media’ button on the ‘Home’ interface located in the ‘Tweet’ section.
-
-![Interface of Twitter to showing the Tweet section](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-5.jpg)
-
-**Step 6:** Select the downloaded Tiktok video to upload on Twitter and hit the Tweet button to share the Tiktok video to your audience on Twitter instantly.
-
-![Interface of Twitter showing how to Tweet a video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-6.jpg)
-
-## Part 2: How to Share Tiktok Videos on Twitter Mobile App
-
-It's very easy to share Tiktok videos on your Twitter mobile app either via Android or iPhone. All you just have to do is to follow the procedures outlined below to get the job done effectively.
-
-### Method 1: Share Tiktok Videos on Twitter Android App
-
-To get started with the process, you first need to save the Tiktok video to your Android smartphone camera roll. However, what if the Tiktok video disabled from being downloaded and it can only be shared via a link? Then you will need a tool to download the video using a URL. Follow the steps below to get your Tiktok video on Twitter either by saving directly to your device or downloading it from a URL and sharing it to Twitter.
-
-**Step 1: Download Tiktok Video To Directly To Your Phone**
-
-* From the Tiktok video, click on the ‘Share’ button, and select ‘Save Video’. However, if the video has been disabled from being downloaded, just click on ‘Copy Link’.
-
-![Screenshot of Tiktok showing how to save video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-7.jpg)
-
-* Visit <https://freedownloadvideo.net/dailymotion-video-downloader>’ on your web browser and paste the copied link in the URL box. Then Download the Tiktok video according to your requirements.
-
-![screenshot of freedownload.net showing show to download URL video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-8.jpg)
-
-**Step 2: Share Tiktok Video On Twitter**
-
-* Now that you've saved the preferred Tiktok video on your device camera roll, launch the Twitter app and click the compose button at the bottom corner of the screen.
-
-![screenshot showing how to share video on Twitter](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-9.jpg)
 
 * On the new interface, click the ‘Photo/Video’ button to access your gallery and select the saved Tiktok video.
 * Up next, hit the ‘Tweet’ button at the top corner of the screen to instantly share your Twitter Tiktok video viral. It's as simple as ABC!
-
-### Method 2: Share Tiktok Videos on Twitter iOS App
-
-The process of sharing Tiktok videos on the Twitter Android app is the same on Twitter iOS app. So, without wasting much of your time, let's dive in to learn how to share Tiktok videos on Twitter iOS app handily.
-
-**Step 1: Download Tiktok Video To Directly To Your Phone**
-
-* Open Tiktok, navigate to the video you're looking to share, click on the ‘Share’ button, and select ‘Save Video’. But, if the video is disabled from being downloaded, you can just click on ‘Copy Link’.
-
-![Screenshot of Tiktok showing how to save video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-10.jpg)
-
-* Open <https://freedownloadvideo.net/dailymotion-video-downloader>’ in your browser and paste the copied link in the ‘Paste URL’ text box. Then click on Download to save the Tiktok video according to your requirements.
-
-![screenshot of freedownload.net showing show to download URL video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-11.jpg)
-
-**Step 2: Share Tiktok Video On Twitter**
-
-* Open Twitter app on your iOS device and click on compose at the bottom corner of the screen.
-
-![screenshot showing how to share video on Twitter](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-12.jpg)
-
-* Click on ‘Media’ to access your gallery and select the saved Tiktok video.
-* Once the video upload is successful, click ‘Tweet’ at the top corner of the screen to share your Twitter Tiktok video instantly.
-
-## Conclusion
-
-There you have it. Sharing your favorite Tiktok video on Twitter is as easy as taking a walk in the park. It doesn't matter if you're tech-literate or not, this article explains all you need to know about sharing Twitter Tiktok videos. It only takes a few clicks to get the job done perfectly!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Tiktok, since its launch to the online realm, has been a blessing to a lot of content creators. This fast-growing social media app has made it easy for many video creators to reach out to a larger audience quickly and efficiently. So perhaps you're looking to utilize Tiktok videos to grow your audience on Twitter, or you want to repost a Tiktok video on Twitter so your followers can view it without leaving Twitter, you've stumbled into the right page.
-
-Today, we will walk you through how to share a Tiktok video on Twitter just within a few clicks. So, stick with us to discover the unknown.
-
-#### In this article
-
-Part 1: [Share Tiktok Videos On Twitter.com Via Desktop](#step1)
-
-Part 2: [How to Share Tiktok Videos on Twitter Mobile App](#step2)
-
-## Part 1: Share Tiktok Videos On Twitter.com Via Desktop
-
-Sharing Tiktok videos on a desktop is something a lot of us consider stressful, because of the lengthy process of downloading the social media apps from third-party platforms that must also be installed on the PC.
-
-Well, the truth is users can share Tiktok videos on desktop via their web browser. So, to save you from all kinds of unwanted hassles, we've outlined a simple stepwise guide to walk you through the process of sharing Tiktok videos on Twitter.com via web browser on desktop.
-
-**Step 1:** Open the Tiktok official website on your PC and login into your account.
-
-![Screenshot showing Tiktok login page](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-**Step 2:** Navigate to the Tiktok video you're looking to share on Twitter, click on it and select ‘Copy link’.
-
-![Interface showing how to copy a Tiktok video link](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-2.jpg)
-
-**Step 3:** Once you copy the link, open <https://freedownloadvideo.net/dailymotion-video-downloader> and paste the copied link in the ‘Paste URL box’.
-
-![Screenshot of Freedownloadvideo.net page to paste URL link](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-3.jpg)
-
-**Step 4**: Hit the Download button and save your Tiktok video to your desktop as per requirement.
-
-![Interface of Freedownloadvideo.net page to download video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-4.jpg)
-
-**Step 5:** Open Twitter.com on your PC and login into your account. Then click on the ‘Media’ button on the ‘Home’ interface located in the ‘Tweet’ section.
-
-![Interface of Twitter to showing the Tweet section](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-5.jpg)
-
-**Step 6:** Select the downloaded Tiktok video to upload on Twitter and hit the Tweet button to share the Tiktok video to your audience on Twitter instantly.
-
-![Interface of Twitter showing how to Tweet a video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-6.jpg)
-
-## Part 2: How to Share Tiktok Videos on Twitter Mobile App
-
-It's very easy to share Tiktok videos on your Twitter mobile app either via Android or iPhone. All you just have to do is to follow the procedures outlined below to get the job done effectively.
-
-### Method 1: Share Tiktok Videos on Twitter Android App
-
-To get started with the process, you first need to save the Tiktok video to your Android smartphone camera roll. However, what if the Tiktok video disabled from being downloaded and it can only be shared via a link? Then you will need a tool to download the video using a URL. Follow the steps below to get your Tiktok video on Twitter either by saving directly to your device or downloading it from a URL and sharing it to Twitter.
-
-**Step 1: Download Tiktok Video To Directly To Your Phone**
-
-* From the Tiktok video, click on the ‘Share’ button, and select ‘Save Video’. However, if the video has been disabled from being downloaded, just click on ‘Copy Link’.
-
-![Screenshot of Tiktok showing how to save video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-* Visit <https://freedownloadvideo.net/dailymotion-video-downloader>’ on your web browser and paste the copied link in the URL box. Then Download the Tiktok video according to your requirements.
-
-![screenshot of freedownload.net showing show to download URL video](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-8.jpg)
-
-**Step 2: Share Tiktok Video On Twitter**
-
-* Now that you've saved the preferred Tiktok video on your device camera roll, launch the Twitter app and click the compose button at the bottom corner of the screen.
-
-![screenshot showing how to share video on Twitter](https://images.wondershare.com/filmora/article-images/2022/02/share-tiktok-video-on-twitter-9.jpg)
-
-* On the new interface, click the ‘Photo/Video’ button to access your gallery and select the saved Tiktok video.
-* Up next, hit the ‘Tweet’ button at the top corner of the screen to instantly share your Twitter Tiktok video viral. It's as simple as ABC!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Share Tiktok Videos on Twitter iOS App
 
@@ -478,24 +478,24 @@ There you have it. Sharing your favorite Tiktok video on Twitter is as easy as t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-a-tweet-a-day-your-2023-video-journey-begins-here-for-2024/"><u>[New] A Tweet a Day - Your 2023 Video Journey Begins Here for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-easy-media-sharing-on-twitter-no-retweets-required/"><u>[New] Easy Media Sharing on Twitter - No Retweets Required</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-from-twitter-video-snippets-to-lively-animated-gifs/"><u>[New] From Twitter Video Snippets to Lively Animated GIFs</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-social-stage-this-years-viral-video-vanguards-on-twitter/"><u>[Updated] 2024 Approved The Social Stage This Year's Viral Video Vanguards on Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-digital-diary-a-complete-2023-collection-of-twit-threads/"><u>[Updated] Digital Diary A Complete 2023 Collection of Twit-Threads</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-step-by-step-process-of-crafting-perfect-tweet-ads-for-2024/"><u>[Updated] Step-by-Step Process of Crafting Perfect Tweet Ads for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-digital-picks-free-alarm-ringtones-download-for-2024/"><u>[Updated] Top Digital Picks Free Alarm Ringtones Download for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-nokia-g42-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nokia G42 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-spotting-hdd-vs-ssd-in-windows-operations/"><u>Essential Guide: Spotting HDD vs SSD in Windows Operations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-from-analog-to-digital-safeguarding-older-photographic-memories/"><u>In 2024, From Analog to Digital Safeguarding Older Photographic Memories</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-how-to-meet-twitters-video-standards-aspect-ratio-matters/"><u>In 2024, How to Meet Twitter's Video Standards Aspect Ratio Matters</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-reverse-videos-on-android/"><u>In 2024, How to Reverse Videos on Android ?</u></a></li>
-<li><a href="https://games-able.techidaily.com/late-launches-the-unseen-growth-catalyst/"><u>Late Launches: The Unseen Growth Catalyst</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ry-in-motion-transform-youtube-videos-into-expressive-gifs-for-2024/"><u>Mastery in Motion Transform YouTube Videos Into Expressive GIFs for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/mobile-methods-download-gifs-from-twitter-on-devices-for-2024/"><u>Mobile Methods Download GIFs From Twitter on Devices for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/rage-raid-and-rebel-without-a-gta-tale/"><u>Rage, Raid and Rebel Without a GTA Tale</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-pinnacle-of-digital-frames-by-brookstone/"><u>The Pinnacle of Digital Frames by Brookstone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-computer-components-expert-reviews-and-insights/"><u>Tom's Computer Components: Expert Reviews & Insights</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/viral-video-victories-the-daily-top-10-twitch-videos/"><u>Viral Video Victories The Daily Top 10 Twitch Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-15-groundbreayer-tiktok-challenges-to-master-now/"><u>[New] 15 Groundbreayer TikTok Challenges to Master Now</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-streamline-content-management-twitter-vids-to-insta-feed/"><u>[New] 2024 Approved Streamline Content Management Twitter Vids to Insta Feed</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-adjust-twitter-video-compact-summary-for-2024/"><u>[New] Adjust Twitter Video Compact Summary for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-exploring-televised-facebook-live-4-strategies-for-2024/"><u>[New] Exploring Televised Facebook Live 4 Strategies for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rivacy-first-sending-your-personal-youtube-link-via-google/"><u>[New] Privacy First Sending Your Personal YouTube Link via Google</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-twitters-new-era-of-videography-aspect-ratios-mandatory-for-2024/"><u>[New] Twitter's New Era of Videography Aspect Ratios Mandatory for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-silent-tweets-end-auditory-upgrades-for-twitter-videos/"><u>[Updated] 2024 Approved Silent Tweets' End Auditory Upgrades for Twitter Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-from-social-tv-viewing-to-funny-interactive-gifs-a-twitter-video-journey-for-2024/"><u>[Updated] From Social TV Viewing to Funny, Interactive Gifs A Twitter Video Journey for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-modify-twitter-video-capture-image/"><u>[Updated] In 2024, Modify Twitter Video Capture Image</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-infinite-screen-shot-device/"><u>[Updated] Infinite Screen Shot Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precision-and-perfection-applying-luts-in-video-post-production/"><u>[Updated] Precision and Perfection Applying LUTs in Video Post-Production</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-enhanced-image-quality-with-midjourney-v5-say-goodbye-to-frustrating-mishaps/"><u>1. Enhanced Image Quality with MidJourney v5: Say Goodbye to Frustrating Mishaps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-11-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 11? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/download-and-install-windows-11-arm-with-a-focus-on-iso-guide/"><u>Download & Install Windows 11 ARM with a Focus on ISO Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/effortless-snaptweet-videos-from-twitter/"><u>Effortless SnapTweet Videos From Twitter</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-future-the-top-chosen-tv-streaming-apps/"><u>Navigating the Future: The Top Chosen TV Streaming Apps</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/solving-the-system-repair-disc-cannot-be-created-error-on-windows-111087/"><u>Solving the 'System Repair Disc Cannot Be Created' Error on Windows 11/10/8/7</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitter-vids-analysis-the-holistic-2023-guide/"><u>Twitter Vids Analysis The Holistic 2023 Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/visualizing-tweet-reactions-a-complete-twitch-tale-for-23-for-2024/"><u>Visualizing Tweet Reactions - A Complete Twitch-Tale for '23 for 2024</u></a></li>
 </ul></div>
 
