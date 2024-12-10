@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Non-Responsive Discord Popups with Ease
-date: 2024-11-25T12:49:32.448Z
-updated: 2024-12-01T16:44:30.434Z
+date: 2024-12-07T17:49:18.005Z
+updated: 2024-12-10T00:09:43.113Z
 tags:
   - win11
   - win10
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Discord as administrator
 
  If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
@@ -59,23 +55,19 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
  4) Run your game again.
 
 See if this issue reappears. If not, you have fixed this issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
@@ -90,7 +82,7 @@ See if this issue reappears. If not, you have fixed this issue.
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
@@ -103,13 +95,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
@@ -124,7 +116,7 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
@@ -146,7 +138,7 @@ iv. Restart your PC.
 See if this issue reappears. If not, you have fixed this issue!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
@@ -167,9 +159,17 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
@@ -193,20 +193,24 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-the-ultimate-viewership-chart-twitters-top-10-videos/"><u>[New] 2024 Approved The Ultimate Viewership Chart Twitter's Top 10 Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-a-comprehensive-analysis-ergonomic-furnitures-impact-on-efficiency/"><u>[New] In 2024, A Comprehensive Analysis Ergonomic Furniture's Impact on Efficiency</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-voice-interpretation-without-a-price-tag/"><u>[New] In 2024, Voice Interpretation Without a Price Tag</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-shifting-focus-twitters-videos-to-facebook-streaming/"><u>[New] Shifting Focus Twitters' Videos to Facebook Streaming</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-art-of-audio-visual-storytelling-with-iphone/"><u>[New] The Art of Audio-Visual Storytelling with iPhone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-your-first-step-on-twitter-creating-an-account/"><u>[New] Your First Step on Twitter Creating an Account</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-exploring-the-finest-wedding-cinematography-youtube-and-vimeos-selection/"><u>[Updated] In 2024, Exploring the Finest Wedding Cinematography - Youtube & Vimeo's Selection</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-seamless-strategies-to-record-and-archive-gotomeetings/"><u>[Updated] Seamless Strategies to Record and Archive GoToMeetings</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitta-videos-new-audio-formats-for-2024/"><u>[Updated] Twitta Videos New Audio Formats for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-innovations-for-crafting-striking-fb-video-ads/"><u>2024 Approved Innovations for Crafting Striking FB Video Ads</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-nokia-xr21-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Nokia XR21 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-cross-platform-comedy-best-meme-contenders/"><u>In 2024, Cross-Platform Comedy Best Meme Contenders</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/navigating-twitter-video-content-flow-to-facebook-for-2024/"><u>Navigating Twitter Video Content Flow to Facebook for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-solution-found-the-affordable-30-usb-hub-that-saved-my-macbook-from-constant-connection-issues-zdnet/"><u>Ultimate Solution Found: The Affordable $30 USB Hub That Saved My MacBook From Constant Connection Issues - ZDNET</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/visual-tweets-the-panorama-of-threaded-video-for-2024/"><u>Visual Tweets The Panorama of Threaded Video for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-1-tiktok-videos-that-trended-on-twitter/"><u>[New] 2024 Approved 1 TikTok Videos That Trended on Twitter</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/udiovisual-authority-the-finest-computers-for-professional-edits-for-2024/"><u>[New] Audiovisual Authority The Finest Computers for Professional Edits for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-who-are-the-biggest-watchers-top-amazon-series-liked-by-twitter-2023-for-2024/"><u>[New] Who Are the Biggest Watchers? Top Amazon Series Liked by Twitter, 2023 for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-hilarity-highway-the-funniest-youtube-videos-on-twitter/"><u>[Updated] 2024 Approved Hilarity Highway The Funniest YouTube Videos on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-snort-spree-top-10-viral-laughs-online/"><u>[Updated] 2024 Approved Snort Spree Top 10 Viral Laughs Online</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-best-twitter-tools-for-purifying-and-personalizing-your-timeline/"><u>[Updated] In 2024, Best Twitter Tools for Purifying & Personalizing Your Timeline</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-enhancing-engagement-share-tiktoks-on-twitter/"><u>[Updated] In 2024, Enhancing Engagement Share TikToks on Twitter</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximize-video-quality-top-8-youtube-to-avi-converters/"><u>[Updated] Maximize Video Quality Top 8 YouTube to AVI Converters</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-whats-captivating-twitter-users-the-most-for-2024/"><u>[Updated] What's Captivating Twitter Users the Most for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unveiling-the-past-essential-historical-yt-creators-for-students/"><u>2024 Approved Unveiling the Past Essential Historical YT Creators for Students</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/aomei-leitfaden-fur-den-zentralisierten-datenspiegelungswiederherstellungsprozess/"><u>AOMEI-Leitfaden Für Den Zentralisierten Datenspiegelungswiederherstellungsprozess</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-iphone-16-vs-iphone-15-essential-factors-for-choosing-the-new-standard-from-apple-insights-from-zdnet/"><u>Apple iPhone 16 vs iPhone 15: Essential Factors for Choosing the New Standard From Apple - Insights From ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-v27e-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo V27e FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamlining-the-process-of-making-smaller-images-tips-and-tricks/"><u>In 2024, Streamlining the Process of Making Smaller Images Tips & Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/integrating-apis-expanding-functionality-beyond-basic-html-for-2024/"><u>Integrating APIs Expanding Functionality Beyond Basic HTML for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/mobile-friendly-video-posts-on-twitter-excluding-retweets-for-2024/"><u>Mobile-Friendly Video Posts on Twitter Excluding Retweets for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/aac-m4rmp3/"><u>ムーヴァヴィー迅速なAAC M4RをMP3に変換!オンラインで簡単に行える安全版</u></a></li>
 </ul></div>
 

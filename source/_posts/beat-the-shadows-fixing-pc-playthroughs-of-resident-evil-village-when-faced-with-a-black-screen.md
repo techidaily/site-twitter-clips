@@ -1,7 +1,7 @@
 ---
 title: "Beat the Shadows: Fixing PC Playthroughs of Resident Evil Village When Faced with a Black Screen"
-date: 2024-11-30T11:40:49.977Z
-updated: 2024-12-02T05:41:41.706Z
+date: 2024-12-02T16:12:33.069Z
+updated: 2024-12-10T02:34:17.975Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 3. [Change mouse settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Download an invisible cursor theme file
 
  To solve the mouse cursor that appears on the black bars in-game issue, download an invisible cursor theme file would do the job.
@@ -44,19 +40,19 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click**Apply** . Your mouse cursor will disappear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
 6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Change resolution
 
@@ -69,13 +65,13 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 4. Make sure you’re in full screen, not borderless window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : This fix might let the image lose a lot of quality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change mouse settings
@@ -112,6 +108,10 @@ There are two ways you can update your device drivers:
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -134,22 +134,24 @@ There are two ways you can update your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-download-and-conversion-mastery-vimeo-to-mp4-guide/"><u>[New] 2024 Approved Download and Conversion Mastery Vimeo to MP4 Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-essential-tips-for-twitpic-uploads/"><u>[New] 2024 Approved Essential Tips for Twitpic Uploads</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-2023-techniques-posting-tiktoks-on-twitter/"><u>[New] In 2024, 2023 Techniques Posting TikToks on Twitter</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-10-camcorders-ultimate-picks-expert-reviews/"><u>[New] In 2024, Top 10 Camcorders Ultimate Picks – Expert Reviews</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-tweetturnstile-how-video-trends-surge-online/"><u>[New] In 2024, TweetTurnstile How Video Trends Surge Online</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-a-quick-guide-to-editing-and-updating-twitter-video-images/"><u>[Updated] 2024 Approved A Quick Guide to Editing and Updating Twitter Video Images</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-mastering-aspect-ratio-compliance-in-micro-video-tweets/"><u>[Updated] 2024 Approved Mastering Aspect Ratio Compliance in Micro-Video Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-navigate-the-tiktok-twitter-connection/"><u>[Updated] 2024 Approved Navigate the TikTok-Twitter Connection</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-guide-to-turn-off-ig-predictions-for-2024/"><u>[Updated] The Guide to Turn Off IG Predictions for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitter-to-instagram-seamless-video-broadcasting/"><u>[Updated] Twitter to Instagram Seamless Video Broadcasting</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-watchful-eye-discovering-twitters-hd-features-for-2024/"><u>[Updated] Watchful Eye Discovering Twitter’s HD Features for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-nokia-c12-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Nokia C12 Pro Phones</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-9afrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 9AFRP Lock</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/s-top-animation-software-10-best-2d-tools-for-beginners-and-pros-for-2024/"><u>S Top Animation Software 10 Best 2D Tools for Beginners and Pros for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-next-gen-hackers-tracking-7-emerging-trends/"><u>The Next-Gen Hackers: Tracking 7 Emerging Trends</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/top-10-instagram-tags-for-maximum-engagement-right-now/"><u>Top 10 Instagram Tags for Maximum Engagement Right Now</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitter-to-whatsapp-sharing-videos-simplified/"><u>[New] 2024 Approved Twitter to WhatsApp Sharing Videos Simplified</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-effortlessly-manage-followers-with-top-twitter-cleanup-apps/"><u>[New] Effortlessly Manage Followers with Top Twitter Cleanup Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-20-copy-free-pubg-thumbnail-sequences/"><u>[New] Excellent 20 Copy-Free PUBG Thumbnail Sequences</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-mastering-the-art-of-moving-twitter-videos-into-whatsapp-for-2024/"><u>[New] Mastering the Art of Moving Twitter Videos Into WhatsApp for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-quick-hits-on-twittersphere-video-vanguard-for-2024/"><u>[New] Quick Hits on Twittersphere Video Vanguard for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-tickle-me-trendsetters-top-20-hilarious-tiktok-jokes-and-riddles-for-2024/"><u>[New] Tickle-Me Trendsetters Top 20 Hilarious TikTok Jokes & Riddles for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-tiktok-hits-twitters-viral-top-10-list/"><u>[New] TikTok Hits Twitter's Viral Top 10 List</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tiktok-phenomena-the-twitter-top-ten-chart/"><u>[Updated] In 2024, TikTok Phenomena The Twitter Top Ten Chart</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-workaround-twitter-videos-in-chrome-problem/"><u>[Updated] Workaround Twitter Videos in Chrome Problem</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/choosing-your-champion-a-detailed-comparison-of-iphone-15-pro-and-pro-max-features/"><u>Choosing Your Champion: A Detailed Comparison of iPhone 15 Pro and Pro Max Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comparing-the-best-of-gopro-cameras-for-2024/"><u>Comparing the Best of GoPro Cameras for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-for-pinning-software-on-win11-desktop/"><u>Essential Steps for Pinning Software on Win11 Desktop</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/how-to-share-twitter-videos-on-facebook-for-2024/"><u>How to Share Twitter Videos on Facebook for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-the-role-of-cdn-in-reducing-web-page-load-times/"><u>In 2024, The Role of CDN in Reducing Web Page Load Times</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-where-to-download-and-listen-dj-music/"><u>New 2024 Approved Where to Download and Listen DJ Music?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tier-5-speedy-screen-recorders-for-2024/"><u>Tier 5 Speedy Screen Recorders for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016352949-windows-11-support-article-why-wont-my-headphones-work-solutions-inside/"><u>Windows 11 Support Article: Why Won't My Headphones Work? Solutions Inside</u></a></li>
 </ul></div>
 

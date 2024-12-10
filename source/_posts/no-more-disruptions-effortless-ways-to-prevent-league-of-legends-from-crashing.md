@@ -1,7 +1,7 @@
 ---
 title: "No More Disruptions: Effortless Ways to Prevent League of Legends From Crashing"
-date: 2024-11-25T02:07:27.201Z
-updated: 2024-12-02T10:04:06.598Z
+date: 2024-12-08T05:56:23.107Z
+updated: 2024-12-10T01:30:58.147Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
  Diablo Immortal is arriving but many players reported that it doesn’t work as smoothly as expected. If you’re on PC and also encounter the Diablo Immortal crashing on startup, don’t worry. After reading this post, you’ll learn 6 simple fixes that solve your problem easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 fixes to try
@@ -46,20 +46,20 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-1.jpg)
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Rename the game folder
 
@@ -85,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-5.7.2-scan-1.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
@@ -103,16 +99,16 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 3. Click**Begin Scan** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Disable Discord overlay
 
@@ -124,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
 
@@ -149,18 +149,24 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2023-how-to-post-twitter-videos-on-snapchat-in-2024/"><u>[New] 2023 | How to Post Twitter Videos on Snapchat, In 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-how-to-add-and-change-thumbnails-of-twitter-videos/"><u>[New] How to Add and Change Thumbnails of Twitter Videos?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-quiet-your-feed-stop-instagrams-suggestion-system-for-2024/"><u>[New] Quiet Your Feed Stop Instagram's Suggestion System for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-6-fiscal-picks-in-the-4k-projector-market/"><u>[New] Top 6 Fiscal Picks in the 4K Projector Market</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-direct-transfers-sending-tweets-to-instagram-story/"><u>[Updated] 2024 Approved Direct Transfers Sending Tweets to Instagram Story</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-viewing-youtube-video-reactions-and-votes/"><u>[Updated] Mastering the Art of Viewing YouTube Video Reactions and Votes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comparing-the-samsung-galaxy-a71-amoeba-a-cost-effective-contender-against-top-tier-phones/"><u>Comparing the Samsung Galaxy A71 Amoeba: A Cost-Effective Contender Against Top-Tier Phones</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/google-home-devices-showdown-audio-power-of-nest-vs-mini-models/"><u>Google Home Devices Showdown: Audio Power of Nest Vs. Mini Models</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-7-plus-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-archive-of-awe-high-quality-gif-preservation-for-tweeters/"><u>In 2024, Archive of Awe High-Quality GIF Preservation for Tweeters</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-clear-obstacle-youtube-tweets-on-google-chrome/"><u>In 2024, Clear Obstacle YouTube Tweets on Google Chrome</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-your-treasure-trove-of-free-marketing-50plus-youtube-ads-ready-to-go/"><u>In 2024, Your Treasure Trove of Free Marketing 50+ YouTube Ads Ready to Go</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-mastering-tiktok-video-posts-on-twitter/"><u>[New] 2024 Approved Mastering TikTok Video Posts on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-adapting-tiktok-for-twitter-posts/"><u>[New] Adapting TikTok for Twitter Posts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iscovering-income-monetization-through-youtube-sponsored-videos-for-2024/"><u>[New] Discovering Income Monetization Through YouTube Sponsored Videos for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-rapid-reclamation-of-elusive-videos/"><u>[New] Rapid Reclamation of Elusive Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-top-5-platforms-for-active-engagement-outside-of-twitter-for-2024/"><u>[New] Top 5 Platforms For Active Engagement Outside of Twitter for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-viral-video-vault-the-days-most-retweeted-threads-on-twitter-for-2024/"><u>[New] Viral Video Vault The Day's Most Retweeted Threads on Twitter for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-quick-start-marketing-tricks-elevating-your-brands-reach/"><u>[Updated] 2024 Approved Quick-Start Marketing Tricks Elevating Your Brand's Reach</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevate-your-videos-visibility-with-perfect-thumbnail-sizing/"><u>[Updated] In 2024, Elevate Your Video's Visibility with Perfect Thumbnail Sizing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-instantpause-live-video-cutout-tips/"><u>[Updated] In 2024, InstantPause Live Video Cutout Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-superior-supplements-to-enhance-gopro/"><u>[Updated] In 2024, Superior Supplements to Enhance GoPro</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-quick-tips-for-uploading-content-on-twitter/"><u>[Updated] Quick Tips for Uploading Content on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-understanding-your-twitter-archives-potential-for-2024/"><u>[Updated] Understanding Your Twitter Archive's Potential for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-influencer-integration-amplifying-engagement-through-collaborations/"><u>2024 Approved Influencer Integration Amplifying Engagement Through Collaborations</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-most-liked-prime-videos-amongst-twittersphere/"><u>2024 Approved Most Liked Prime Videos Amongst Twittersphere</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/a-step-by-step-approach-to-downloading-memorable-moments-from-social-media-for-2024/"><u>A Step-By-Step Approach to Downloading Memorable Moments From Social Media for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/breaking-boundaries-on-twittersphere-new-hits/"><u>Breaking Boundaries on Twittersphere New Hits</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-social-networking-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Networking: A Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-14-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone 14 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Poco X5? | Dr.fone</u></a></li>
 </ul></div>
 
