@@ -1,7 +1,7 @@
 ---
 title: "The Mighty ZTE Blade A3Y: Balancing Quality and Cost in Today's Smartphone Market"
-date: 2024-12-07T21:07:15.389Z
-updated: 2024-12-10T01:10:02.026Z
+date: 2024-12-11T08:01:28.852Z
+updated: 2024-12-15T19:19:06.733Z
 categories:
   - BestProducts
 description: "This Article Describes The Mighty ZTE Blade A3Y: Balancing Quality and Cost in Today's Smartphone Market"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 ## Paradox Interactive Surviving Mars
 
 ![Surviving Mars](https://www.lifewire.com/thmb/AjVVBONBD_MfQeA3voTlfDA2Jrc=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Paradox Interactive Surviving Mars
@@ -65,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
  Released in 2018, the Surviving Mars developed by Haemimont Games and published by Paradox Interactive poses a massive challenge: colonizing a planet. When I picked this up, I decided to check out how the game fared for a two-year-old game in terms of[graphics](https://www.lifewire.com/graphic-design-basics-s2-1074288) , gameplay, and competition. Read on for the verdict to see how it measures up against other games on our best city-building games list—and for forewarning about those pesky cold waves.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Plot: Lots of options**
 
  For a city-building game, Surviving Mars offers a plethora of gaming options once you move past the tutorial. For example, when starting a game, you can choose who funds the colony, ranging from a United Space Federation to China to the United States. Each comes with its own perks and drawbacks, and creates new challenges for each scenario. You can also set more harsh conditions to create more fun[gameplay](https://www.lifewire.com/produce-videogame-videos-for-youtube-3562561) , as well as pick an area of land less suitable for human habitation.
@@ -73,11 +81,11 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
 ![Surviving Mars](https://www.lifewire.com/thmb/tWjPu4rcPDZ30Ilhru3tUFnqjc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_02-d1d5dfcccecb478098ab06a6b5137e68.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Rebecca Isaacs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: Humans have never been so annoying**
 
@@ -92,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
  In over twenty hours of gameplay, I learned the hard way that humans in this game are not only picky, but they demand the life of luxury the second they step off the rocket and into the dome. It didn’t matter that only twelve called a single dome home. It didn’t matter that there was barely enough of them to cover operating the grocery store and space bar. A lack of space for these amenities fell upon deaf ears. They wanted access to their art stores, electronics, and fine dining immediately. In that regard, I’m a little conflicted; as much as I wanted more shopping options for Mars, I realized not long after humans arrived that Haemimont Games, in reality, gave me a blessing by keeping a bland palate. Plus, more buildings and items become available as research, funding, and planetary discoveries allow.
 
 ![Surviving Mars](https://www.lifewire.com/thmb/QVd7bcTZ_ZbmQxeJCAcRbA8iomg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_04-e663486372a94a05afa9541d4d7930bb.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -115,15 +119,15 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
  I wanted to focus on building bigger domes to accommodate population growth and build important research centers, not worry over whether my scientists would automatically begin working at those same facilities.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Decent for what you get**
 
  For around $30, you can add this game to your gaming library. It makes sense for a two-year-old game not to cost the regular price of new games these days. Even better, if you watch for sales, you can get it for cheaper. Be forewarned though—the other additions to the game, like the Laika Project, will cost you more. The $30 is solely for the base game.
 
 ![Surviving Mars](https://www.lifewire.com/thmb/xyO7-tOzWWRT_ffxzC7TaIMOwH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_03-9d30e99e7a0b4364bc86c4b40dfc99bf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -138,10 +142,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
  **A interesting new take on city-builders, if you can stomach the micromanagement.**
 
  While Surviving Mars is marred by slowness and micromanagement, the unique gameplay and setting make for a true sci-fi treat. It’s at a fair price point, promises lots of fun, and some fun twists and turns. Just watch out for those blasted dust storms. Your colonists’ lives depend on it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -170,14 +170,18 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-amazon-prime-fan-favorites-highest-likes-and-view-counts-for-2024/"><u>[New] Amazon Prime Fan Favorites Highest Likes & View Counts for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-unrivaled-5-non-twitter-communities-online-for-2024/"><u>[Updated] Unrivaled 5 Non-Twitter Communities Online for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-laughter-league-social-medias-best-jokes/"><u>2024 Approved Laughter League Social Media's Best Jokes</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-integrated-approach-to-post-videos-on-twittertumblr/"><u>In 2024, Integrated Approach to Post Videos on Twitter/Tumblr</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-0xc19t01e1-hurdle-fixing-common-windows-10-boot-issues/"><u>Overcoming the 0Xc19t01e1 Hurdle: Fixing Common Windows 10 Boot Issues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/prime-meme-framework-essentials/"><u>Prime Meme Framework Essentials</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/purifying-audio-from-films-and-movies-cost-effective-methods-for-2024/"><u>Purifying Audio From Films and Movies Cost-Effective Methods for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-your-fallout-76-connection-issues-on-pc-a-step-by-step-guide/"><u>Solving Your Fallout 76 Connection Issues on PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fixes-for-xinput1nnot-found-and-missing-dll-issues/"><u>The Ultimate Fixes for 'Xinput1_nnot Found' And 'Missing DLL' Issues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/loggers-guide-top-5-audio-excellence-headphones/"><u>[New] Vloggers’ Guide Top 5 Audio Excellence Headphones</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-streamline-the-spectacle-exploring-hd-video-on-twitter/"><u>[Updated] 2024 Approved Streamline the Spectacle Exploring HD Video on Twitter</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-digital-dreams-unite-conference-for-2024/"><u>[Updated] Digital Dreams Unite Conference for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-elevating-engagement-with-strategic-audio-additions-for-2024/"><u>[Updated] Elevating Engagement with Strategic Audio Additions for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-exploring-the-architects-behind-popular-discord-glyphs/"><u>[Updated] Exploring The Architects Behind Popular Discord Glyphs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-methods-for-making-meetings-memorable/"><u>[Updated] In 2024, Methods for Making Meetings Memorable</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitter-integration-for-tiktok-video-content/"><u>[Updated] Twitter Integration for TikTok Video Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-visionary-creatives-for-backdrops-pixelpioneers-realm-for-2024/"><u>[Updated] Visionary Creatives for Backdrops PixelPioneer's Realm for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-social-sightings-exploring-the-most-engaged-twitters/"><u>2024 Approved Social Sightings Exploring the Most Engaged Twitters</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cost-effective-4k-photography-gear-for-2024/"><u>Cost-Effective 4K Photography Gear for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-gt-neo-5-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme GT Neo 5 Without PUK Codes</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-seamless-video-transition-tweeting-plus-tumbling/"><u>In 2024, Seamless Video Transition Tweeting + Tumbling</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/re-enable-sound-on-twitter-video-tweets/"><u>Re-Enable Sound on Twitter Video Tweets</u></a></li>
 </ul></div>
 

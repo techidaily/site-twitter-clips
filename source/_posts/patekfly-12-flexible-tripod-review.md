@@ -1,7 +1,7 @@
 ---
 title: Patekfly 12 Flexible Tripod Review
-date: 2024-12-02T18:49:39.365Z
-updated: 2024-12-09T20:30:34.449Z
+date: 2024-12-14T08:59:18.148Z
+updated: 2024-12-16T03:23:39.619Z
 categories:
   - BestProducts
 description: This Article Describes Patekfly 12 Flexible Tripod Review
@@ -41,6 +41,10 @@ Lifewire / Danny Chadwick
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/5zZ5bclZ7zJVo8nRB2Y33JNM3w4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_HeroSqaure-ac1bb2840cb04106b14f3838b80a3bf2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Danny Chadwick
 
 [View On Amazon](https://www.amazon.com/V1-Dashboard-Recorder-G-Sensor-Recording/dp/B00X528FNE/?tag=lifewire-onsite-prod-20&ascsubtag=4770571%7Cn9eae1cd5706347139b8b83241f9d42ea10%7CB00X528FNE) [View On Home Depot](https://www.homedepot.com/p/Rexing-V1-2-4-in-LCD-FHD-1080p-170-Wide-Angle-Dashboard-Camera-Recorder-Car-Dash-Cam-with-G-Sensor-WDR-Loop-Recording-V1/301705517)
@@ -68,6 +72,10 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Fits perfectly on your windshield**
 
  The Rexing V1 Dashcam has a more distinctive form factor than other models we reviewed. Unlike many popular dashcam models, the V1 doesn’t resemble a point-and-shoot camera that hangs from your windshield. Rather, it’s angled to fit the curve of the glass. This makes for a more integrated, smooth look.
@@ -84,10 +92,14 @@ Lifewire / Danny Chadwick
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/ztn3EsFqtKkWImvQhtgcr1vlHwI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_02-9ee3aa46e7394a1ab263a6b12b287314.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Be sure that’s where you want to put it**
@@ -104,10 +116,6 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Camera Quality: Basic**
 
  You can set this dash-mounted camera to capture footage in either 720p or 1080p resolution, which is pretty limited. Similar dashcams can capture footage up to 2560 x 1440 resolution, with others going all the way up to 4K. However, if all you’re looking for is a simple security device, 1080p will do just fine.
@@ -116,15 +124,7 @@ Lifewire / Danny Chadwick
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/9_1pHoEq74JWPJ8reothv8PeI8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_04-c5d42af8ddfa4296a6c6b1e8551edef6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Danny Chadwick
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Performance: Set it and forget it**
 
@@ -141,7 +141,7 @@ Lifewire / Danny Chadwick
  Like the rest of the dashboard cameras we tested, the Rexing V1 has the ability to record audio, but it does a middling job of it. Voices in the car and sounds coming from the interior speakers were clear enough to understand, but sounds from outside the vehicle were muddy at best.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: A good value**
@@ -193,22 +193,24 @@ Lifewire / Danny Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-quick-twitterscape-snag-gifs-with-these-tips/"><u>[New] 2024 Approved Quick Twitterscape Snag Gifs with These Tips</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-tiktoks-rise-to-fame-through-twitters-top-10-list/"><u>[New] TikTok's Rise to Fame Through Twitter’s Top 10 List</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-trending-tweets-triumph-identifying-todays-highest-viewed-content/"><u>[New] Trending Tweets Triumph Identifying Today's Highest-Viewed Content</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-direct-video-sync-from-twitter-to-tumblr/"><u>[Updated] Direct Video Sync From Twitter to Tumblr</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-understanding-aspect-ratio-regulations-on-twitter/"><u>[Updated] In 2024, Understanding Aspect Ratio Regulations on Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-no-cash-all-fun-turning-twitter-vids-into-gifs-for-2024/"><u>[Updated] No Cash, All Fun Turning Twitter Vids Into GIFs for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-above-and-beyond-the-best-non-twitter-networks/"><u>2024 Approved Above and Beyond The Best Non-Twitter Networks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-applying-luts-in-film-color-grading/"><u>2024 Approved Tips for Applying LUTs in Film Color Grading</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/conquering-competition-crafting-standout-youtube-advertising-banners/"><u>Conquering Competition Crafting Standout YouTube Advertising Banners</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-hp-deskjet-ink-advantage-3050-printer-drivers-for-windows-free/"><u>Download and Update HP Deskjet Ink Advantage 3050 Printer Drivers for Windows: FREE</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-sony-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Sony</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-x90s-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo X90S FRP Bypass Instantly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gross-income-estimates-for-youtube-star-pewdopeep/"><u>In 2024, Gross Income Estimates for YouTube Star PewDoPeep</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-stability-how-to-eliminate-persistent-crashing-issues-in-pc-games/"><u>Mastering Stability: How to Eliminate Persistent Crashing Issues in PC Games</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722960236975-step-by-step-guide-to-updating-your-amd-vega-driver-boosting-games-like-never-before/"><u>Step-by-Step Guide to Updating Your AMD Vega Driver - Boosting Games Like Never Before</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/whatsapp-transfers-broadcasting-twitter-videos-with-ease-for-2024/"><u>WhatsApp Transfers Broadcasting Twitter Videos with Ease for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-ensure-video-success-on-twitter-understand-the-aspect-ratio/"><u>[New] 2024 Approved Ensure Video Success on Twitter Understand the Aspect Ratio</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-pioneering-your-way-up-on-youtube-26-key-strategies/"><u>[New] 2024 Approved Pioneering Your Way Up on YouTube 26 Key Strategies</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-streamlining-full-hd-watching-of-twit-videos-for-2024/"><u>[New] Streamlining Full HD Watching of Twit Videos for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-chuckle-cache-discovering-twitters-humor-treasures/"><u>[Updated] 2024 Approved Chuckle Cache Discovering Twitters Humor Treasures</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-modify-twitter-video-capture-image/"><u>[Updated] 2024 Approved Modify Twitter Video Capture Image</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-archive-awesome-perfecting-twitter-video-backups/"><u>[Updated] Archive Awesome Perfecting Twitter Video Backups</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-breaking-into-twitter-live-your-strategy-for-2024/"><u>[Updated] Breaking Into Twitter Live Your Strategy for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-stardust-the-premier-10-sites-for-hdr-skyscapes/"><u>[Updated] Capturing Stardust The Premier 10 Sites for HDR Skyscapes</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-how-to-post-photos-and-videos-on-twitter-from-smartphones/"><u>2024 Approved How To Post Photos and Videos on Twitter From Smartphones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoiding-common-pitfalls-with-chatgpt-in-your-academic-life/"><u>Avoiding Common Pitfalls with ChatGPT in Your Academic Life</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-lenovo-thinkpad-picks-for-the-modern-work-from-anywhere-user-ignore-the-new-releases/"><u>Best Lenovo ThinkPad Picks for the Modern Work-From-Anywhere User – Ignore the New Releases</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-exploring-the-capabilities-of-bandicam-for-multimedia-creators/"><u>In 2024, Exploring the Capabilities of Bandicam for Multimedia Creators</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-a14-4g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy A14 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-time-travel-photos-on-snapchat-step-by-step-guide/"><u>In 2024, Time-Travel Photos on Snapchat Step by Step Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-utilizing-the-power-of-twitter-archive-data/"><u>In 2024, Utilizing the Power of Twitter Archive Data</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/prime-video-titans-the-tweeted-and-tested-binge-masters-for-2024/"><u>Prime Video Titans The #Tweeted and Tested Binge Masters for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/rising-stars-will-likes-surpass-tiktoks-mass-appeal-for-2024/"><u>Rising Stars Will Likes Surpass TikTok's Mass Appeal for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-12-common-problems-with-iphone-12-solutions-and-workarounds/"><u>Top 12 Common Problems with iPhone 12: Solutions & Workarounds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-strategies-for-declining-unproductive-meetings-insights-from-zdnet/"><u>Top 5 Strategies for Declining Unproductive Meetings - Insights From ZDNet</u></a></li>
 </ul></div>
 

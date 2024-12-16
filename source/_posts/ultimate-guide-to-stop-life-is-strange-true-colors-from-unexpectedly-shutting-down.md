@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Stop Life Is Strange: True Colors From Unexpectedly Shutting Down"
-date: 2024-12-07T05:26:38.579Z
-updated: 2024-12-09T18:00:45.931Z
+date: 2024-12-08T16:46:25.434Z
+updated: 2024-12-15T18:20:07.785Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
  Call of duty: Vanguard is released, and as expected for most new titles, quite a few bugs and issues come with the launch. Many players have reported that COD Vanguard keeps freezing on their PCs and the game is almost unplayable. If you’re in the same boat, no worries! Here are some working fixes you can try:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 [8: Increase your virtual memory](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Call of Duty: Vanguard System Requirements
@@ -59,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 | **High-Rez asset cache** | Up to 32 GB                                                     | Up to 32 GB                                  | Up to 32 GB                                                 | Up to 64 GB                                      |
 | **Video memory**         | 2 GB                                                            | 4 GB                                         | 8 GB                                                        | 10 GB                                            |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Close background applications
 
  The first quick fix you can try is to shut down the programs running in the background. They may interfere with Vanguard and cause the game to freeze. Or, these applications may take up the resources that are required for Vanguard to run smoothly, thus triggering performance issues. You can kill the background processes via Task Manager:
@@ -66,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 1. Press**Ctrl** and**Shift** and**Esc** to open the Task Manager.
 2. Under the**Processes** tab, right-click the processes that you want to shut down, then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
 
@@ -94,17 +94,13 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If you’re still experiencing the freezing issue after you updated the graphics driver, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Scan and repair your game files
 
@@ -121,6 +117,10 @@ If this doesn’t help, move on to the next fix.
  Sometimes when the game doesn’t have the required administrator rights, it could crash or freeze randomly in the middle of the gameplay. You can provide them by running the game executable file as administrator.
 
 If Vanguard still freezes randomly on your PC, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Repair corrupted system files
 
@@ -139,10 +139,6 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 
  If you’re still experiencing random freezes while playing Vanguard, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Make sure your system is up-to-date
 
  As the system requirements suggest, it’s important to make sure your system is up-to-date. Windows releases updates on a regular basis which may fix known bugs and compatibility issues. Installing the latest updates may make a difference in solving the freezing issues in Vanguard.
@@ -153,10 +149,6 @@ If Vanguard still freezes randomly on your PC, try the next fix.
  (If you don’t see the search bar, click the Start button and you’ll find it in the pop-up menu.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
@@ -177,7 +169,7 @@ If this doesn’t solve your problem, try the next fix.
 If the freezing issue persists, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 8: Increase your virtual memory
@@ -189,11 +181,19 @@ If the freezing issue persists, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the **Advanced** tab, under the Performance section, click **Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
@@ -227,21 +227,16 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-the-hot-list-viral-video-threads-for-the-week/"><u>[New] 2024 Approved The Hot List Viral Video Threads for the Week</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-direct-video-transfer-from-twitter-to-tumblr/"><u>[New] Direct Video Transfer From Twitter to Tumblr</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-revealing-the-best-of-both-worlds-1-tiktoks-on-twitter/"><u>[New] In 2024, Revealing the Best of Both Worlds #1 TikToks on Twitter</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-essential-lenovo-display-recording-hacks/"><u>[New] In 2024, The Essential Lenovo Display Recording Hacks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-reviewing-bandicams-effectiveness-in-professional-video-editing/"><u>[New] Reviewing Bandicam's Effectiveness in Professional Video Editing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-enhancing-visuals-tips-for-recording-ppt-effectively/"><u>[Updated] 2024 Approved Enhancing Visuals Tips for Recording PPT Effectively</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-ensure-video-success-on-twitter-understand-the-aspect-ratio/"><u>[Updated] In 2024, Ensure Video Success on Twitter Understand the Aspect Ratio</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-reel-your-best-footage-from-instagram-with-these-aids-for-2024/"><u>[Updated] Reel Your Best Footage From Instagram With These Aids for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitters-viral-video-catalogue-highest-viewers-for-2024/"><u>[Updated] Twitter’s Viral Video Catalogue Highest Viewers for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-how-to-meet-aspect-ratio-requirements-on-twitter/"><u>2024 Approved How to Meet Aspect Ratio Requirements on Twitter</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/craft-a-masterpiece-top-8-iphone-drawing-apps-reviewed-for-2024/"><u>Craft a Masterpiece Top 8 iPhone Drawing Apps Reviewed for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-prime-cardboard-compatible-vr-adventures-for-2024/"><u>Explore Prime Cardboard-Compatible VR Adventures for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/find-your-deals-on-oodle-zero-cost-local-classifieds/"><u>Find Your Deals on Oodle: Zero Cost Local Classifieds</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-copycat-chronicles-the-science-of-satire/"><u>In 2024, Copycat Chronicles The Science of Satire</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/logitech-g403-peripheral-where-to-download-the-right-pc-drivers-for-seamless-integration/"><u>Logitech G403 Peripheral: Where to Download the Right PC Drivers for Seamless Integration</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/remedying-silent-tweets-with-audio-integration-for-2024/"><u>Remedying Silent Tweets with Audio Integration for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-prime-video-stardom-top-tweets-and-peak-watchability-rankings/"><u>[New] 2024 Approved Prime Video Stardom Top Tweets and Peak Watchability Rankings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mp4mpl2s-creation-from-twitter-videos/"><u>[New] In 2024, MP4/MPL2S Creation From Twitter Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-twitching-videos-seamlessly-twitter-and-tumblr-guide/"><u>[New] In 2024, Twitching Videos Seamlessly Twitter & Tumblr Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-begin-your-google-meet-on-devices/"><u>[Updated] 2024 Approved How to Begin Your Google Meet on Devices?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-navigating-twitters-reaction-videos-explained/"><u>[Updated] 2024 Approved Navigating Twitter's Reaction Videos Explained</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-maximizing-your-platforms-posting-tiktok-content-on-twitter/"><u>[Updated] Maximizing Your Platforms Posting TikTok Content on Twitter</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-sonys-ps5-exclusives-the-ultimate-gaming-selection/"><u>Discover Sony's PS5 Exclusives: The Ultimate Gaming Selection</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-iphones-defective-screen-time-functionality-apples-solution-in-progress/"><u>Fixing iPhone's Defective Screen Time Functionality - Apple's Solution in Progress</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-explore-twitter-videos-in-high-fidelity-format/"><u>In 2024, Explore Twitter Videos in High Fidelity Format</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-the-best-translator-to-translate-videos-online-for-2024/"><u>New The Best Translator to Translate Videos Online for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/transformative-tactics-for-impeccable-hue-correction/"><u>Transformative Tactics for Impeccable Hue Correction</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "No More Disruptions: Effortless Ways to Prevent League of Legends From Crashing"
-date: 2024-12-08T05:56:23.107Z
-updated: 2024-12-10T01:30:58.147Z
+date: 2024-12-11T09:31:12.324Z
+updated: 2024-12-16T08:59:23.098Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
  Diablo Immortal is arriving but many players reported that it doesn’t work as smoothly as expected. If you’re on PC and also encounter the Diablo Immortal crashing on startup, don’t worry. After reading this post, you’ll learn 6 simple fixes that solve your problem easily.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6 fixes to try
 
  You may not try them all. Just work from the top down until you find the one that does the trick.
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Launch the game in windowed mode
 
  There are increasing reports about Diablo Immortal crashing in fullscreen. To avoid it crashing on startup, you can force the game to launch in windowed mode. Here’s how:
@@ -46,20 +46,16 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-1.jpg)
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Rename the game folder
 
@@ -70,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 3. Open the**Diablo Immortal Launcher** directly from the folder.
 
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
 
@@ -85,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-5.7.2-scan-1.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
@@ -98,16 +102,12 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files.jpg)
 3. Click**Begin Scan** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Disable Discord overlay
@@ -122,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
@@ -149,24 +149,22 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-mastering-tiktok-video-posts-on-twitter/"><u>[New] 2024 Approved Mastering TikTok Video Posts on Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-adapting-tiktok-for-twitter-posts/"><u>[New] Adapting TikTok for Twitter Posts</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/iscovering-income-monetization-through-youtube-sponsored-videos-for-2024/"><u>[New] Discovering Income Monetization Through YouTube Sponsored Videos for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-rapid-reclamation-of-elusive-videos/"><u>[New] Rapid Reclamation of Elusive Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-top-5-platforms-for-active-engagement-outside-of-twitter-for-2024/"><u>[New] Top 5 Platforms For Active Engagement Outside of Twitter for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-viral-video-vault-the-days-most-retweeted-threads-on-twitter-for-2024/"><u>[New] Viral Video Vault The Day's Most Retweeted Threads on Twitter for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-quick-start-marketing-tricks-elevating-your-brands-reach/"><u>[Updated] 2024 Approved Quick-Start Marketing Tricks Elevating Your Brand's Reach</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevate-your-videos-visibility-with-perfect-thumbnail-sizing/"><u>[Updated] In 2024, Elevate Your Video's Visibility with Perfect Thumbnail Sizing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-instantpause-live-video-cutout-tips/"><u>[Updated] In 2024, InstantPause Live Video Cutout Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-superior-supplements-to-enhance-gopro/"><u>[Updated] In 2024, Superior Supplements to Enhance GoPro</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-quick-tips-for-uploading-content-on-twitter/"><u>[Updated] Quick Tips for Uploading Content on Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-understanding-your-twitter-archives-potential-for-2024/"><u>[Updated] Understanding Your Twitter Archive's Potential for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-influencer-integration-amplifying-engagement-through-collaborations/"><u>2024 Approved Influencer Integration Amplifying Engagement Through Collaborations</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-most-liked-prime-videos-amongst-twittersphere/"><u>2024 Approved Most Liked Prime Videos Amongst Twittersphere</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/a-step-by-step-approach-to-downloading-memorable-moments-from-social-media-for-2024/"><u>A Step-By-Step Approach to Downloading Memorable Moments From Social Media for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/breaking-boundaries-on-twittersphere-new-hits/"><u>Breaking Boundaries on Twittersphere New Hits</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-social-networking-a-look-at-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Networking: A Look at Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-14-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone 14 Plus Apple ID and Apple Pay</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-explore-top-7-live-streaming-iosandroid-apps-perfect-for-youtube-channel-creators/"><u>[New] 2024 Approved Explore Top 7 Live Streaming iOS/Android Apps Perfect for YouTube Channel Creators</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-who-are-the-biggest-watchers-top-amazon-series-liked-by-twitter-2023/"><u>[New] 2024 Approved Who Are the Biggest Watchers? Top Amazon Series Liked by Twitter, 2023</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-prime-selector-20-twitters-animated-treasure-chest/"><u>[New] In 2024, Prime Selector 2.0 Twitter's Animated Treasure Chest</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-ultimate-list-of-prime-video-favorites-on-twittersphere/"><u>[New] In 2024, The Ultimate List of Prime Video Favorites on Twittersphere</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-selecting-9-superior-streamscape-filters/"><u>[New] The Ultimate Guide to Selecting 9 Superior Streamscape Filters</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-elevate-your-photography-with-polarrs-complete-features-for-2024/"><u>[Updated] Elevate Your Photography with Polarr's Complete Features for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-making-the-most-of-both-worlds-tweeting-and-sending-videos-with-whatsapp/"><u>[Updated] In 2024, Making the Most of Both Worlds Tweeting & Sending Videos with WhatsApp</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-premiering-popularity-amazon-prime-tweets-of-23/"><u>[Updated] In 2024, Premiering Popularity Amazon Prime Tweets of '23</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-lightning-fast-windowed-photo-reader-for-win11-for-2024/"><u>[Updated] Lightning-Fast Windowed Photo Reader for Win11 for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tweeting-trouble-laughter-league/"><u>[Updated] Tweeting Trouble Laughter League</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-unveiling-the-most-engaged-with-tweets/"><u>2024 Approved Unveiling The Most Engaged-With Tweets</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-to-fix-hevc-playback-problems-in-vlc-media-player-for-smooth-video-streaming/"><u>How to Fix HEVC Playback Problems in VLC Media Player for Smooth Video Streaming</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oneplus-11r-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with OnePlus 11R? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/leading-8-photo-migration-programs-effortlessly-sync-images-across-ios-mac-and-pc-gadgets/"><u>Leading 8 Photo Migration Programs: Effortlessly Sync Images Across iOS, Mac & PC Gadgets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-implementing-the-battleye-anti-cheating-system-tips-and-fixes/"><u>Successfully Implementing the BattlEye Anti-Cheating System - Tips & Fixes</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/syncing-twitter-to-snapchat-video-uploading-techniques/"><u>Syncing Twitter to Snapchat Video Uploading Techniques</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-13c-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi 13C Reset Code | Dr.fone</u></a></li>
 </ul></div>
 
