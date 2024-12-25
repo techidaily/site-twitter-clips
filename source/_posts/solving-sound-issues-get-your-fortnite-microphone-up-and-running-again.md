@@ -1,7 +1,7 @@
 ---
 title: Solving Sound Issues - Get Your Fortnite Microphone Up and Running Again!
-date: 2024-12-14T19:28:41.351Z
-updated: 2024-12-16T00:28:43.666Z
+date: 2024-12-22T17:38:52.630Z
+updated: 2024-12-24T20:09:20.309Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Check your microphone device settings
 
  Your Turtle Beach mic may be disabled or not set as the default device on your computer. Or the microphone volume is set to a very low value so it can’t record your sound clearly. To check these settings:
@@ -41,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Select **Sound** .
 
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
@@ -97,12 +93,16 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
@@ -112,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
@@ -143,15 +143,16 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-quick-tips-sending-tweets-content-via-whatsapp-app/"><u>[New] 2024 Approved Quick Tips Sending Tweets' Content via WhatsApp App</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-social-synergy-sharing-tweets-as-snaps-in-2e-2023-for-2024/"><u>[New] Social Synergy Sharing Tweets as Snaps in 2E 2023 for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-gopro-editing-software-best-15-action-cam-video-editors-for-2024/"><u>[Updated] GoPro Editing Software Best 15 Action Cam Video Editors for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-spotlight-on-popular-tiktok-cover-art-for-2024/"><u>[Updated] Spotlight on Popular TikTok Cover Art for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-giggle-fest-on-the-twittersphere/"><u>2024 Approved Giggle Fest on the Twittersphere</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nubia-red-magic-8s-proplus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nubia Red Magic 8S Pro+ without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-logitech-m525-mouse-software-for-optimal-performance/"><u>How To Find and Install Logitech M525 Mouse Software for Optimal Performance</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-13t-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Xiaomi 13T Pro Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/lumafusion-tips-for-subtle-sound-reduction-for-2024/"><u>Lumafusion Tips for Subtle Sound Reduction for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/mastering-video-posting-between-twitter-and-tumblr-for-2024/"><u>Mastering Video Posting Between Twitter and Tumblr for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-chuckle-champions-humor-hunt-on-twitter-for-2024/"><u>[New] Chuckle-Champions Humor Hunt on Twitter for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-review-the-t5-eye-unleashing-potential/"><u>[New] Review The T5 Eye, Unleashing Potential</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-optimizing-twitter-video-shares-for-facebook-users/"><u>[Updated] 2024 Approved Optimizing Twitter Video Shares for Facebook Users</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-maximizing-visibility-on-twitter-campaigns/"><u>2024 Approved Maximizing Visibility on Twitter Campaigns</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-mediasync-tool-for-easy-iphone-ipad-data-transfer-via-windows-pc-with-winx/"><u>Best MediaSync Tool for Easy iPhone iPad Data Transfer via Windows PC with WinX</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chroma-chronicles-expertise-in-color-crafting-for-2024/"><u>Chroma Chronicles Expertise in Color Crafting for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/navigating-the-aspect-ratio-maze-for-twitter-media/"><u>Navigating the Aspect Ratio Maze for Twitter Media</u></a></li>
+<li><a href="https://article-helps.techidaily.com/pinnacle-teaser-film-assortment/"><u>Pinnacle Teaser Film Assortment</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/proven-techniques-to-store-your-mov-videos-on-windows-10-for-2024/"><u>Proven Techniques to Store Your .mov Videos on Windows 10 for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/unlock-twitter-written-by-your-name/"><u>Unlock Twitter' Written By [Your Name]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208973359-unlock-your-pcs-wireless-potential-expert-tips-for-enabling-bluetooth-on-windows-woke-solved/"><u>Unlock Your PC's Wireless Potential: Expert Tips for Enabling Bluetooth on Windows Woke - Solved!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beat the Shadows: Fixing PC Playthroughs of Resident Evil Village When Faced with a Black Screen"
-date: 2024-12-13T07:58:23.211Z
-updated: 2024-12-15T22:59:06.928Z
+date: 2024-12-21T02:42:56.009Z
+updated: 2024-12-24T22:13:50.870Z
 tags:
   - win11
   - win10
@@ -40,22 +40,18 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click**Apply** . Your mouse cursor will disappear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
 6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Change resolution
@@ -68,11 +64,11 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-14-23.jpg)
 4. Make sure you’re in full screen, not borderless window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : This fix might let the image lose a lot of quality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change mouse settings
 
@@ -85,7 +81,7 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 If this fix brings no luck, move to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update device driver
@@ -108,6 +104,10 @@ There are two ways you can update your device drivers:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
@@ -134,21 +134,20 @@ There are two ways you can update your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-how-to-add-and-change-thumbnails-of-twitter-videos/"><u>[New] How to Add and Change Thumbnails of Twitter Videos?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-tiktok-sensation-round-up-twitters-buzzing-top-ten/"><u>[New] In 2024, TikTok Sensation Round-Up Twitter's Buzzing Top Ten</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-social-sphere-shift-identifying-the-days-hottest-tweets-for-2024/"><u>[New] Social Sphere Shift Identifying the Day's Hottest Tweets for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-direct-transfers-sending-tweets-to-instagram-story/"><u>[Updated] 2024 Approved Direct Transfers Sending Tweets to Instagram Story</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-best-way-to-record-podcast-remotely/"><u>[Updated] Best Way to Record Podcast Remotely</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-massive-igtv-audience-engagement-essential-steps/"><u>[Updated] Mastering Massive IGTV Audience Engagement Essential Steps</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-navigating-the-world-of-tweets-starting-fresh/"><u>[Updated] Navigating the World of Tweets Starting Fresh</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-image-purity-via-photopea-methods/"><u>2024 Approved Streamlining Image Purity via Photopea Methods</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connect-smartly-a-comprehensive-guide-to-syncing-and-utilizing-a-chromecast-remote/"><u>Connect Smartly: A Comprehensive Guide to Syncing and Utilizing a Chromecast Remote</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-a-unique-channel-look-for-free-for-2024/"><u>Craft a Unique Channel Look for Free for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-ensure-stable-playback-of-palworld-without-interruptions-on-your-laptop-or-pc/"><u>How to Ensure Stable Playback of Palworld Without Interruptions on Your Laptop or PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-quickly-and-discreetly-delete-a-facebook-story/"><u>How to Quickly and Discreetly Delete a Facebook Story</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-archive-of-awe-high-quality-gif-preservation-for-tweeters/"><u>In 2024, Archive of Awe High-Quality GIF Preservation for Tweeters</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-zte-nubia-flip-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost ZTE Nubia Flip 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209863355-9780648391203-rainbow-gums-gift/"><u>Rainbow Gum's Gift | Free Book</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/social-sensation-tweets-whats-going-big-online/"><u>Social Sensation Tweets What's Going Big Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dslr-or-mirrorless-for-high-quality-video-recording/"><u>[New] In 2024, DSLR or Mirrorless for High-Quality Video Recording?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-flickr-profile-picture-breakdown-area-codec-timeframe/"><u>[New] In 2024, Flickr Profile Picture Breakdown Area, Codec, Timeframe</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-laugh-ledger-the-ultimate-list-of-hilarious-tweet-threads/"><u>[Updated] 2024 Approved Laugh Ledger The Ultimate List of Hilarious Tweet Threads</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitterscape-in-focus-your-route-to-watching-hd-videos/"><u>[Updated] 2024 Approved Twitterscape in Focus Your Route to Watching HD Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-essential-info-for-tweeting-videos-aspect-ratios-required-for-2024/"><u>[Updated] Essential Info for Tweeting Videos Aspect Ratios Required for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-upload-guide-twitter-video-aspect-ratio-mandated/"><u>[Updated] In 2024, Upload Guide Twitter Video Aspect Ratio Mandated</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/byte-sized-hits-the-heart-of-viral-content-for-2024/"><u>Byte-Sized Hits The Heart of Viral Content for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/charger-free-solutions-for-keeping-your-phone-battery-full/"><u>Charger-Free Solutions for Keeping Your Phone Battery Full</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/dai-unocchiata-a-questi-semplici-trucchi-per-risolvere-i-problemi-con-laggiornamento-kb5034441-in-windows-10-e-11/"><u>Dai Un'occhiata a Questi Semplici Trucchi per Risolvere I Problemi Con L'aggiornamento KB5034441 in Windows 10 E 11!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-minutes-to-seconds-mastering-time-lapse-video-production-for-2024/"><u>From Minutes to Seconds Mastering Time Lapse Video Production for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gemini-ai-versus-chatgpt-plus-which-delivers-better-results/"><u>Gemini AI Versus ChatGPT Plus: Which Delivers Better Results?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-sending-non-retwitted-videos-from-your-mobile-browser-to-twitter/"><u>In 2024, Sending Non-Retwitted Videos From Your Mobile Browser to Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-twitters-guide-adding-videos/"><u>In 2024, Twitter's Guide Adding Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-resolving-non-functioning-lenovo-fingerprint-scanner-issues/"><u>Quick Fixes: Resolving Non-Functioning Lenovo Fingerprint Scanner Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-non-functional-webcam-on-windows/"><u>Solutions for Non-Functional Webcam on Windows</u></a></li>
 </ul></div>
 

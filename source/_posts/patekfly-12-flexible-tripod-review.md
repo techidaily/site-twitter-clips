@@ -1,7 +1,7 @@
 ---
 title: Patekfly 12 Flexible Tripod Review
-date: 2024-12-14T08:59:18.148Z
-updated: 2024-12-16T03:23:39.619Z
+date: 2024-12-21T18:14:24.401Z
+updated: 2024-12-24T17:02:20.386Z
 categories:
   - BestProducts
 description: This Article Describes Patekfly 12 Flexible Tripod Review
@@ -42,7 +42,7 @@ Lifewire / Danny Chadwick
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/5zZ5bclZ7zJVo8nRB2Y33JNM3w4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_HeroSqaure-ac1bb2840cb04106b14f3838b80a3bf2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Danny Chadwick
@@ -72,10 +72,6 @@ Lifewire / Danny Chadwick
 
  Lifewire / Danny Chadwick
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: Fits perfectly on your windshield**
 
  The Rexing V1 Dashcam has a more distinctive form factor than other models we reviewed. Unlike many popular dashcam models, the V1 doesn’t resemble a point-and-shoot camera that hangs from your windshield. Rather, it’s angled to fit the curve of the glass. This makes for a more integrated, smooth look.
@@ -93,13 +89,13 @@ Lifewire / Danny Chadwick
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/ztn3EsFqtKkWImvQhtgcr1vlHwI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_02-9ee3aa46e7394a1ab263a6b12b287314.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Be sure that’s where you want to put it**
@@ -115,6 +111,10 @@ Lifewire / Danny Chadwick
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/df0_L-UzAk3OryqSCncsjfqi8QM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_03-2273fff3f71944368711b60f5da9687e.jpg)
 
  Lifewire / Danny Chadwick
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Camera Quality: Basic**
 
@@ -140,13 +140,13 @@ Lifewire / Danny Chadwick
 
  Like the rest of the dashboard cameras we tested, the Rexing V1 has the ability to record audio, but it does a middling job of it. Voices in the car and sounds coming from the interior speakers were clear enough to understand, but sounds from outside the vehicle were muddy at best.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: A good value**
 
  The Rexing V1 retails for $130, but as of the time of this writing, can typically be purchased for closer to $100\. We feel like this is a perfectly appropriate price for this device—it falls right in the middle of the typical dashcam price range, providing better performance than super budget models, but without the high-tech features of the more expensive options out there. In short, it’s a good price for a solid, basic device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Z3 Plus vs. Rexing V1**
 
@@ -193,24 +193,15 @@ Lifewire / Danny Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-ensure-video-success-on-twitter-understand-the-aspect-ratio/"><u>[New] 2024 Approved Ensure Video Success on Twitter Understand the Aspect Ratio</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-pioneering-your-way-up-on-youtube-26-key-strategies/"><u>[New] 2024 Approved Pioneering Your Way Up on YouTube 26 Key Strategies</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-streamlining-full-hd-watching-of-twit-videos-for-2024/"><u>[New] Streamlining Full HD Watching of Twit Videos for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-chuckle-cache-discovering-twitters-humor-treasures/"><u>[Updated] 2024 Approved Chuckle Cache Discovering Twitters Humor Treasures</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-modify-twitter-video-capture-image/"><u>[Updated] 2024 Approved Modify Twitter Video Capture Image</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-archive-awesome-perfecting-twitter-video-backups/"><u>[Updated] Archive Awesome Perfecting Twitter Video Backups</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-breaking-into-twitter-live-your-strategy-for-2024/"><u>[Updated] Breaking Into Twitter Live Your Strategy for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capturing-stardust-the-premier-10-sites-for-hdr-skyscapes/"><u>[Updated] Capturing Stardust The Premier 10 Sites for HDR Skyscapes</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-how-to-post-photos-and-videos-on-twitter-from-smartphones/"><u>2024 Approved How To Post Photos and Videos on Twitter From Smartphones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoiding-common-pitfalls-with-chatgpt-in-your-academic-life/"><u>Avoiding Common Pitfalls with ChatGPT in Your Academic Life</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/best-lenovo-thinkpad-picks-for-the-modern-work-from-anywhere-user-ignore-the-new-releases/"><u>Best Lenovo ThinkPad Picks for the Modern Work-From-Anywhere User – Ignore the New Releases</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-exploring-the-capabilities-of-bandicam-for-multimedia-creators/"><u>In 2024, Exploring the Capabilities of Bandicam for Multimedia Creators</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-a14-4g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy A14 4G Devices | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-time-travel-photos-on-snapchat-step-by-step-guide/"><u>In 2024, Time-Travel Photos on Snapchat Step by Step Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-utilizing-the-power-of-twitter-archive-data/"><u>In 2024, Utilizing the Power of Twitter Archive Data</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/prime-video-titans-the-tweeted-and-tested-binge-masters-for-2024/"><u>Prime Video Titans The #Tweeted and Tested Binge Masters for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/rising-stars-will-likes-surpass-tiktoks-mass-appeal-for-2024/"><u>Rising Stars Will Likes Surpass TikTok's Mass Appeal for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-12-common-problems-with-iphone-12-solutions-and-workarounds/"><u>Top 12 Common Problems with iPhone 12: Solutions & Workarounds</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-strategies-for-declining-unproductive-meetings-insights-from-zdnet/"><u>Top 5 Strategies for Declining Unproductive Meetings - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-integrating-zoom-into-your-inbox-experience/"><u>[New] Integrating Zoom Into Your Inbox Experience</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-unclog-youtube-videos-from-twitter-in-chrome-for-2024/"><u>[New] Unclog YouTube Videos From Twitter in Chrome for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-unveiling-the-secrets-of-a-fresh-twitter-account/"><u>[Updated] Unveiling the Secrets of a Fresh Twitter Account</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-the-power-of-hdr-in-portrait-photography/"><u>2024 Approved Harnessing the Power of HDR in Portrait Photography</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-financial-race-between-dailymovement-and-youtube-channels/"><u>2024 Approved The Financial Race Between DailyMovement and YouTube Channels</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweet-treasure-trove-discovering-the-days-hot-videos/"><u>2024 Approved Tweet Treasure Trove Discovering the Day's Hot Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/a-beginners-tutorial-on-using-luts-in-ar/"><u>A Beginner's Tutorial on Using LUTs in AR</u></a></li>
+<li><a href="https://win-online.techidaily.com/ignite-your-imagination-top-5-creative-techniques-for-2009-powered-by-massmail-solutions/"><u>Ignite Your Imagination: Top 5 Creative Techniques for 2009, Powered by MassMail Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/personal-safety-the-new-era-primetrackings-smaller-tracker-providing-uncompromised-assurance/"><u>Personal Safety: The New Era – PrimeTracking's Smaller Tracker Providing Uncompromised Assurance</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/revolutionize-your-followers-list-with-top-twitter-cleanup-tools/"><u>Revolutionize Your Followers List with Top Twitter Cleanup Tools</u></a></li>
 </ul></div>
 

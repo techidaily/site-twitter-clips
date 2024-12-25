@@ -1,7 +1,7 @@
 ---
 title: B4B Gobi Crash Troubleshooting on UDK - Fixing UE4 Game Issues Easily
-date: 2024-12-08T19:45:48.656Z
-updated: 2024-12-16T04:36:47.908Z
+date: 2024-12-18T20:11:57.193Z
+updated: 2024-12-24T16:02:03.757Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 3. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify integrity of game files
 
  The Back 4 Blood UE4-Gobi Fatal Error if there are corrupted game files. If it’s the case, you need to repair the corrupted game files.
@@ -47,16 +51,20 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from the official server.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the verifying process is completed, launch Back 4 Blood and see if this fix works. If the game still crashes, don’t worry. Read on and try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
@@ -74,12 +82,12 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -101,16 +109,8 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
@@ -121,11 +121,11 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and run Back 4 Blood to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each service, you need to restart your PC to apply the changes.
 
@@ -158,24 +158,17 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-the-hot-list-viral-video-threads-for-the-week/"><u>[New] 2024 Approved The Hot List Viral Video Threads for the Week</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-direct-video-transfer-from-twitter-to-tumblr/"><u>[New] Direct Video Transfer From Twitter to Tumblr</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-revealing-the-best-of-both-worlds-1-tiktoks-on-twitter/"><u>[New] In 2024, Revealing the Best of Both Worlds #1 TikToks on Twitter</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-breaking-the-monotony-innovative-yt-playlist-shuffling/"><u>[Updated] 2024 Approved Breaking the Monotony Innovative YT Playlist Shuffling</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-all-about-youtubes-elite-access-a-complete-breakdown/"><u>[Updated] All About YouTube's Elite Access - A Complete Breakdown</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-ensure-video-success-on-twitter-understand-the-aspect-ratio/"><u>[Updated] In 2024, Ensure Video Success on Twitter Understand the Aspect Ratio</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-viral-jokes-whos-winning-on-the-meme-front/"><u>[Updated] In 2024, Viral Jokes Who's Winning on the Meme Front?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitters-viral-video-catalogue-highest-viewers-for-2024/"><u>[Updated] Twitter’s Viral Video Catalogue Highest Viewers for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-how-to-meet-aspect-ratio-requirements-on-twitter/"><u>2024 Approved How to Meet Aspect Ratio Requirements on Twitter</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/highpoint-artist-suite-evaluation/"><u>Highpoint Artist Suite Evaluation</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c53-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-engage-audiences-skywards-drone-filming-and-facebook-live/"><u>In 2024, Engage Audiences Skywards Drone Filming and Facebook Live</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-download-youtube-playlist-step-by-step/"><u>In 2024, How to Download YouTube Playlist-Step by Step!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-skill-of-bulk-message-selection-on-gmail-platform/"><u>Mastering the Skill of Bulk Message Selection on Gmail Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/narratives-that-captivate-ai-and-video-games/"><u>Narratives That Captivate: AI and Video Games</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/quick-and-easy-twitter-to-snapchat-video-sharing-tips-for-2024/"><u>Quick & Easy Twitter to Snapchat Video Sharing Tips for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/social-media-showdown-twitters-top-tiktok-trends-for-2024/"><u>Social Media Showdown Twitters' Top TikTok Trends for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/streamline-your-footage-insta-length-management-on-macos-for-2024/"><u>Streamline Your Footage Insta-Length Management on macOS for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211310977-9781923009486-what-happens-next/"><u>What Happens Next? | Free Book</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-scream-loud-with-joy-our-picks-from-the-best-funny-youtubers/"><u>[New] 2024 Approved Scream Loud with Joy Our Picks From the Best Funny YouTubers</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-seamless-transfer-of-social-media-videos-from-twitter-to-whatsapp-for-2024/"><u>[New] Seamless Transfer of Social Media Videos From Twitter to WhatsApp for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-essential-free-cloud-services-with-massive-1tb-space-included/"><u>[Updated] 2024 Approved Essential Free Cloud Services with Massive 1TB Space Included</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-crafting-visual-impact-a-guide-to-color-balancing-mastery-for-2024/"><u>[Updated] Crafting Visual Impact A Guide to Color Balancing Mastery for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extensive-physical-action-audit/"><u>[Updated] Extensive Physical Action Audit</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-videotwitterconverter-mp4-and-webm-generator/"><u>[Updated] In 2024, VideoTwitterConverter MP4 & WebM Generator</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-the-ultimate-selection-of-apps-to-tame-your-feed-for-2024/"><u>[Updated] The Ultimate Selection of Apps to Tame Your Feed for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-viral-tendencies-on-twittersphere-most-viewed/"><u>2024 Approved Viral Tendencies on Twittersphere (Most Viewed)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cambia-tu-archivo-mp3-al-formato-mp4-gratuito-de-forma-online-con-rapidez-usando-movavi/"><u>Cambia Tu Archivo MP3 Al Formato MP4 Gratuito De Forma Online Con Rapidez Usando Movavi</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-windows-11-video-creation-and-editing-techniques-for-2024/"><u>Mastering Windows 11 Video Creation & Editing Techniques for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/trending-tiktoks-of-tomorrow/"><u>Trending TikToks of Tomorrow</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/king-online-income-the-creators-path-to-prosperity/"><u>Unlocking Online Income The Creator’s Path to Prosperity</u></a></li>
 </ul></div>
 

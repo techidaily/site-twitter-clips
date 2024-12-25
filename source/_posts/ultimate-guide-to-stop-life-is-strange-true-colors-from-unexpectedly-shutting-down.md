@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Stop Life Is Strange: True Colors From Unexpectedly Shutting Down"
-date: 2024-12-08T16:46:25.434Z
-updated: 2024-12-15T18:20:07.785Z
+date: 2024-12-19T16:25:35.212Z
+updated: 2024-12-24T18:45:11.431Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/key-art-vg-desktop1-1200x668.jpg)
 
  Call of duty: Vanguard is released, and as expected for most new titles, quite a few bugs and issues come with the launch. Many players have reported that COD Vanguard keeps freezing on their PCs and the game is almost unplayable. If you’re in the same boat, no worries! Here are some working fixes you can try:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 
 [8: Increase your virtual memory](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Call of Duty: Vanguard System Requirements
 
 | **System requirements**  | **Minimum**                                                     | **Recommended**                              | **Competitive**                                             | **Ultra 4K**                                     |
@@ -59,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 | **High-Rez asset cache** | Up to 32 GB                                                     | Up to 32 GB                                  | Up to 32 GB                                                 | Up to 64 GB                                      |
 | **Video memory**         | 2 GB                                                            | 4 GB                                         | 8 GB                                                        | 10 GB                                            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Close background applications
 
  The first quick fix you can try is to shut down the programs running in the background. They may interfere with Vanguard and cause the game to freeze. Or, these applications may take up the resources that are required for Vanguard to run smoothly, thus triggering performance issues. You can kill the background processes via Task Manager:
@@ -72,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
 If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update the graphics driver
 
@@ -93,14 +85,14 @@ If this doesn’t solve your problem, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If you’re still experiencing the freezing issue after you updated the graphics driver, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Scan and repair your game files
 
@@ -119,7 +111,7 @@ If this doesn’t help, move on to the next fix.
 If Vanguard still freezes randomly on your PC, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Repair corrupted system files
@@ -156,7 +148,15 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Check your antivirus software
 
@@ -168,10 +168,6 @@ If this doesn’t solve your problem, try the next fix.
 
 If the freezing issue persists, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 8: Increase your virtual memory
 
  According to the system requirements, you need to have at least 8 GB RAM to run Call of Duty: Vanguard. If your PC is running out of memory, the game performance may be impacted and you may experience random freezes. If that’s the case, you can check your virtual memory and then increase it if needed:
@@ -181,10 +177,6 @@ If the freezing issue persists, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the **Advanced** tab, under the Performance section, click **Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
 
@@ -192,11 +184,15 @@ If the freezing issue persists, there’s one more fix you can try.
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
@@ -204,6 +200,10 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 7. If you don’t know how much RAM you have, press the **Windows key** and **R** to invoke the Run box. Then type in **msinfo32** and click **OK** . You’ll find the information in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 8. Calculate and fill in the **Initial size and Maximum size** , click **Set** then click **OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 9. Reboot your PC to see if Vanguard still freezes on your PC.
@@ -227,16 +227,21 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-prime-video-stardom-top-tweets-and-peak-watchability-rankings/"><u>[New] 2024 Approved Prime Video Stardom Top Tweets and Peak Watchability Rankings</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mp4mpl2s-creation-from-twitter-videos/"><u>[New] In 2024, MP4/MPL2S Creation From Twitter Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-twitching-videos-seamlessly-twitter-and-tumblr-guide/"><u>[New] In 2024, Twitching Videos Seamlessly Twitter & Tumblr Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-begin-your-google-meet-on-devices/"><u>[Updated] 2024 Approved How to Begin Your Google Meet on Devices?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-navigating-twitters-reaction-videos-explained/"><u>[Updated] 2024 Approved Navigating Twitter's Reaction Videos Explained</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-maximizing-your-platforms-posting-tiktok-content-on-twitter/"><u>[Updated] Maximizing Your Platforms Posting TikTok Content on Twitter</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-sonys-ps5-exclusives-the-ultimate-gaming-selection/"><u>Discover Sony's PS5 Exclusives: The Ultimate Gaming Selection</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-iphones-defective-screen-time-functionality-apples-solution-in-progress/"><u>Fixing iPhone's Defective Screen Time Functionality - Apple's Solution in Progress</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-explore-twitter-videos-in-high-fidelity-format/"><u>In 2024, Explore Twitter Videos in High Fidelity Format</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-the-best-translator-to-translate-videos-online-for-2024/"><u>New The Best Translator to Translate Videos Online for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/transformative-tactics-for-impeccable-hue-correction/"><u>Transformative Tactics for Impeccable Hue Correction</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-capturing-moments-with-the-best-5-photo-and-video-apps-for-iphonesandroid/"><u>[New] 2024 Approved Capturing Moments with the Best 5 Photo & Video Apps for iPhones/Android</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-how-to-stream-videos-on-twitter-using-your-smartphone/"><u>[New] 2024 Approved How To Stream Videos on Twitter Using Your Smartphone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-a-buyers-guide-to-exceptional-hdr-photography-equipment/"><u>[New] In 2024, A Buyer's Guide to Exceptional HDR Photography Equipment</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-android-technique-accessing-and-saving-twitter-videos/"><u>[New] In 2024, Android Technique Accessing and Saving Twitter Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-whatsapp-transfers-broadcasting-twitter-videos-with-ease/"><u>[New] In 2024, WhatsApp Transfers Broadcasting Twitter Videos with Ease</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-craft-your-creative-identity-mastering-instagram-photowatermarking/"><u>[Updated] In 2024, Craft Your Creative Identity Mastering Instagram Photowatermarking</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-how-to-meet-aspect-ratio-requirements-on-twitter/"><u>[Updated] In 2024, How to Meet Aspect Ratio Requirements on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-leveraging-twitters-video-capabilities-for-instagram-audience-for-2024/"><u>[Updated] Leveraging Twitter's Video Capabilities for Instagram Audience for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-mastering-twitter-archives-for-analysis-for-2024/"><u>[Updated] Mastering Twitter Archives for Analysis for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-revolutionize-your-social-media-experience-with-premier-tools-for-2024/"><u>[Updated] Revolutionize Your Social Media Experience with Premier Tools for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-effortless-ootd-videography-for-mac-users-on-tiktok/"><u>2024 Approved Effortless OOTD Videography for Mac Users on TikTok</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-through-instagram-video-hiccups/"><u>2024 Approved Navigating Through Instagram Video Hiccups</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-ultimate-mkv-editing-solutions-a-guide-to-the-top-10-applications-for-slicing-adjusting-and-merging-mkv-videos/"><u>Discover the Ultimate MKV Editing Solutions: A Guide to the Top 10 Applications for Slicing, Adjusting, and Merging .mkv Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-huawei-nova-y91-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Huawei Nova Y91</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ight-on-10-rapidly-expanding-youtube-talks-of-inspiration/"><u>Spotlight on 10 Rapidly Expanding YouTube Talks of Inspiration</u></a></li>
 </ul></div>
 

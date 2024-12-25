@@ -1,7 +1,7 @@
 ---
 title: Instantly Resolve Fortnite Not Working – Expert Tips Revealed
-date: 2024-12-13T08:00:46.978Z
-updated: 2024-12-16T03:29:14.739Z
+date: 2024-12-22T02:17:48.028Z
+updated: 2024-12-24T21:59:30.098Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 
 **Control keeps crashing on your PC?** Don’t worry…  
  Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -35,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 11. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics drivers
@@ -74,10 +78,14 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here are the system requirements for Control:
 
@@ -105,10 +113,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
@@ -123,19 +127,15 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Modify Intel graphics card
 
@@ -146,15 +146,11 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
@@ -167,10 +163,14 @@ Here are the system requirements for Control:
 7. Click **Apply** to save the settings.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
 
@@ -184,6 +184,10 @@ Here are the system requirements for Control:
 4. Launch Control again.
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a Windows Update
 
@@ -222,10 +226,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
@@ -235,10 +235,6 @@ Here are the system requirements for Control:
  Since Control consumes a lot of memory and CPU usage when you’re playing a game, many third-party antivirus applications may regard it as a potential threat and Control may not run as expected. You can try   **adding Control as an exception to your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 10: Run Program Compatibility Troubleshooter
 
@@ -250,6 +246,10 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
 
@@ -279,20 +279,20 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitter-to-whatsapp-sharing-videos-simplified/"><u>[New] 2024 Approved Twitter to WhatsApp Sharing Videos Simplified</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-effortlessly-manage-followers-with-top-twitter-cleanup-apps/"><u>[New] Effortlessly Manage Followers with Top Twitter Cleanup Apps</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-mastering-the-art-of-moving-twitter-videos-into-whatsapp-for-2024/"><u>[New] Mastering the Art of Moving Twitter Videos Into WhatsApp for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-youtube-video-blueprint-mastering-visual-content-sharing/"><u>[New] The Ultimate Youtube Video Blueprint Mastering Visual Content Sharing</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-cross-platform-video-tutorial-twitter-to-instagram/"><u>[Updated] Cross-Platform Video Tutorial Twitter to Instagram</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-workaround-twitter-videos-in-chrome-problem/"><u>[Updated] Workaround Twitter Videos in Chrome Problem</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-new-imessage-games-of-2-you-cant-miss/"><u>Best New iMessage Games of 2# You Can't Miss!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/comprehensive-review-of-syma-x8c/"><u>Comprehensive Review of Syma X8C</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/how-to-make-memes-with-white-background-step-by-step/"><u>How to Make Memes with White Background Step by Step</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-x-flip-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo X Flip to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-streamlining-your-rl-gameplay-videography/"><u>In 2024, Streamlining Your RL Gameplay Videography</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-the-role-of-cdn-in-reducing-web-page-load-times/"><u>In 2024, The Role of CDN in Reducing Web Page Load Times</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimal-selection-top-cost-effective-iosandroid-live-streamers-for-2024/"><u>Optimal Selection Top Cost-Effective iOS/Android Live Streamers for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-large-language-models-functionality-and-mechanics/"><u>Understanding Large Language Models: Functionality & Mechanics</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-mastering-tweeted-videos-on-facebooks-networks/"><u>[New] 2024 Approved Mastering Tweeted Videos on Facebooks Networks</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-samsungs-virtual-world-enhanced-by-compatible-smartphones-2023-guide/"><u>[New] Samsung's Virtual World Enhanced by Compatible Smartphones - 2023 Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-sharing-twitter-videos-a-step-by-step-guide-for-whatsapp-users/"><u>[New] Sharing Twitter Videos A Step-by-Step Guide for WhatsApp Users</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-transitioning-twitter-videos-to-instagrams-visual-space/"><u>[New] Transitioning Twitter Videos to Instagram's Visual Space</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-youtube-gaming-content-with-key-freefire-hashtags-for-2024/"><u>[Updated] Elevate Your YouTube Gaming Content With Key FreeFire Hashtags for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-speaking-to-tomorrow-iphone-voice-memo/"><u>[Updated] Speaking to Tomorrow - iPhone Voice Memo</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-eliminate-hurdle-video-playback-issue-in-chrome/"><u>2024 Approved Eliminate Hurdle Video Playback Issue in Chrome</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-v29-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo V29 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/boost-your-household-internet-with-the-orbi-wi-fi-6-a-comprehensive-review/"><u>Boost Your Household Internet With The Orbi Wi-Fi 6: A Comprehensive Review</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-fixing-a-corrupted-partition-function-number-pfn-that-triggers-blue-screen-errors-in-windows-11/"><u>Comprehensive Guide to Fixing a Corrupted Partition Function Number (PFN) That Triggers Blue Screen Errors in Windows 11</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-the-key-to-a-successful-tweet-including-aspect-ratio-details/"><u>In 2024, The Key to a Successful Tweet Including Aspect Ratio Details</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-science-and-magic-behind-perfecting-luts/"><u>In 2024, The Science and Magic Behind Perfecting LUTs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/modify-twitter-video-screenshot/"><u>Modify Twitter Video Screenshot</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-15-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 15 You Should Try Out</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-connected-world-sharing-twitter-media-in-whatsapp-chat-for-2024/"><u>The Connected World Sharing Twitter Media in WhatsApp Chat for 2024</u></a></li>
 </ul></div>
 
