@@ -1,7 +1,7 @@
 ---
 title: Solving Sound Issues - Get Your Fortnite Microphone Up and Running Again!
-date: 2024-12-22T17:38:52.630Z
-updated: 2024-12-24T20:09:20.309Z
+date: 2024-12-28T20:38:45.030Z
+updated: 2025-01-03T10:31:48.084Z
 tags:
   - win11
   - win10
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
@@ -53,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Right click the**Headset Microphone** and click **Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Right click it again and select **Set as Default Device** .
 
@@ -73,11 +73,19 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **9)** Click**OK** , then click**OK** .
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -93,17 +101,9 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
@@ -112,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
@@ -143,16 +143,24 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-chuckle-champions-humor-hunt-on-twitter-for-2024/"><u>[New] Chuckle-Champions Humor Hunt on Twitter for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-review-the-t5-eye-unleashing-potential/"><u>[New] Review The T5 Eye, Unleashing Potential</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-optimizing-twitter-video-shares-for-facebook-users/"><u>[Updated] 2024 Approved Optimizing Twitter Video Shares for Facebook Users</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-maximizing-visibility-on-twitter-campaigns/"><u>2024 Approved Maximizing Visibility on Twitter Campaigns</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-mediasync-tool-for-easy-iphone-ipad-data-transfer-via-windows-pc-with-winx/"><u>Best MediaSync Tool for Easy iPhone iPad Data Transfer via Windows PC with WinX</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/chroma-chronicles-expertise-in-color-crafting-for-2024/"><u>Chroma Chronicles Expertise in Color Crafting for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/navigating-the-aspect-ratio-maze-for-twitter-media/"><u>Navigating the Aspect Ratio Maze for Twitter Media</u></a></li>
-<li><a href="https://article-helps.techidaily.com/pinnacle-teaser-film-assortment/"><u>Pinnacle Teaser Film Assortment</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/proven-techniques-to-store-your-mov-videos-on-windows-10-for-2024/"><u>Proven Techniques to Store Your .mov Videos on Windows 10 for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/unlock-twitter-written-by-your-name/"><u>Unlock Twitter' Written By [Your Name]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208973359-unlock-your-pcs-wireless-potential-expert-tips-for-enabling-bluetooth-on-windows-woke-solved/"><u>Unlock Your PC's Wireless Potential: Expert Tips for Enabling Bluetooth on Windows Woke - Solved!</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-convert-twitter-vids-to-customized-soundtracks/"><u>[New] In 2024, Convert Twitter Vids to Customized Soundtracks</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-tailoring-twitter-video-thumbnails-a-step-by-step-guide/"><u>[New] In 2024, Tailoring Twitter Video Thumbnails A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ights-camera-action-youtubes-17-essentials/"><u>[New] Lights, Camera, Action! - YouTube's #17 Essentials</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-unleashing-full-hd-clarity-on-every-tweet-scroll-for-2024/"><u>[New] Unleashing Full HD Clarity on Every Tweet Scroll for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-share-with-impact-tiktok-videos-on-twitter/"><u>[Updated] 2024 Approved Share with Impact TikTok Videos on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tweetvidsoundscape-instant-video-to-sound/"><u>[Updated] TweetVidSoundscape Instant Video-to-Sound</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-expand-your-online-horizons-upload-360-photos-with-ease-on-mobile-platforms/"><u>2024 Approved Expand Your Online Horizons Upload 360 Photos with Ease on Mobile Platforms</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-videotwitterconverter-direct-media-conversion/"><u>2024 Approved VideoTwitterConverter Direct Media Conversion</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/essential-techniques-in-creating-youtube-thumbnails-that-stand-out-for-2024/"><u>Essential Techniques in Creating YouTube Thumbnails That Stand Out for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/power-boosters-secrets-to-stellar-video-thumbnails-for-2024/"><u>Font Power Boosters Secrets to Stellar Video Thumbnails for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/how-to-effortlessly-save-films-from-myflixer-for-offline-viewing/"><u>How To Effortlessly Save Films From MyFlixer for Offline Viewing</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-se-2020-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone SE (2020) online without SIM Card?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/how-to-watch-twitter-videos-in-full-hd-in-2024/"><u>How To Watch Twitter Videos in Full HD, In 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-best-apps-for-perfecting-picture-framing/"><u>In 2024, Best Apps for Perfecting Picture Framing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elevate-your-videos-with-effective-youtube-thumbnails/"><u>In 2024, Elevate Your Videos with Effective YouTube Thumbnails</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-posting-tweets-with-vids-check-the-aspect-ratio/"><u>In 2024, Posting Tweets with Vids? Check the Aspect Ratio</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-lava-agni-2-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Lava Agni 2 5G</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/video-connectivity-sharing-across-twitter-and-tumblr-for-2024/"><u>Video Connectivity Sharing Across Twitter & Tumblr for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Mighty ZTE Blade A3Y: Balancing Quality and Cost in Today's Smartphone Market"
-date: 2024-12-18T23:17:31.044Z
-updated: 2024-12-24T19:55:12.803Z
+date: 2024-12-28T22:21:54.653Z
+updated: 2025-01-03T01:04:15.550Z
 categories:
   - BestProducts
 description: "This Article Describes The Mighty ZTE Blade A3Y: Balancing Quality and Cost in Today's Smartphone Market"
@@ -13,13 +13,13 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
 3
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Paradox Interactive Surviving Mars
 
 ![Surviving Mars](https://www.lifewire.com/thmb/AjVVBONBD_MfQeA3voTlfDA2Jrc=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
 ![Surviving Mars](https://www.lifewire.com/thmb/Em7mFCNB7ffPEBeVuQuFIJpvJyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Rebecca Isaacs
 
 [View On Steampowered.com](https://store.steampowered.com/app/464920/Surviving%5FMars/) [View On G2a.com](https://www.g2a.com/en-us/surviving-mars-first-colony-edition-steam-key-global-i10000147752001?)
@@ -69,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
  Released in 2018, the Surviving Mars developed by Haemimont Games and published by Paradox Interactive poses a massive challenge: colonizing a planet. When I picked this up, I decided to check out how the game fared for a two-year-old game in terms of[graphics](https://www.lifewire.com/graphic-design-basics-s2-1074288) , gameplay, and competition. Read on for the verdict to see how it measures up against other games on our best city-building games list—and for forewarning about those pesky cold waves.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Plot: Lots of options**
 
  For a city-building game, Surviving Mars offers a plethora of gaming options once you move past the tutorial. For example, when starting a game, you can choose who funds the colony, ranging from a United Space Federation to China to the United States. Each comes with its own perks and drawbacks, and creates new challenges for each scenario. You can also set more harsh conditions to create more fun[gameplay](https://www.lifewire.com/produce-videogame-videos-for-youtube-3562561) , as well as pick an area of land less suitable for human habitation.
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
  As for a real plotline, there isn’t really one—the only kind of plot in the game is the objective to colonize Mars. There are challenges which you can do if you’re feeling particularly adventurous, which is nice, but they’re not a real plotline, and only serve to give you a different angle to colonizing the planet.
 
 ![Surviving Mars](https://www.lifewire.com/thmb/tWjPu4rcPDZ30Ilhru3tUFnqjc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_02-d1d5dfcccecb478098ab06a6b5137e68.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -92,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
  In over twenty hours of gameplay, I learned the hard way that humans in this game are not only picky, but they demand the life of luxury the second they step off the rocket and into the dome. It didn’t matter that only twelve called a single dome home. It didn’t matter that there was barely enough of them to cover operating the grocery store and space bar. A lack of space for these amenities fell upon deaf ears. They wanted access to their art stores, electronics, and fine dining immediately. In that regard, I’m a little conflicted; as much as I wanted more shopping options for Mars, I realized not long after humans arrived that Haemimont Games, in reality, gave me a blessing by keeping a bland palate. Plus, more buildings and items become available as research, funding, and planetary discoveries allow.
 
 ![Surviving Mars](https://www.lifewire.com/thmb/QVd7bcTZ_ZbmQxeJCAcRbA8iomg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_04-e663486372a94a05afa9541d4d7930bb.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -115,15 +115,15 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
  I wanted to focus on building bigger domes to accommodate population growth and build important research centers, not worry over whether my scientists would automatically begin working at those same facilities.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Decent for what you get**
 
  For around $30, you can add this game to your gaming library. It makes sense for a two-year-old game not to cost the regular price of new games these days. Even better, if you watch for sales, you can get it for cheaper. Be forewarned though—the other additions to the game, like the Laika Project, will cost you more. The $30 is solely for the base game.
 
 ![Surviving Mars](https://www.lifewire.com/thmb/xyO7-tOzWWRT_ffxzC7TaIMOwH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_03-9d30e99e7a0b4364bc86c4b40dfc99bf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -140,7 +140,7 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
  While Surviving Mars is marred by slowness and micromanagement, the unique gameplay and setting make for a true sci-fi treat. It’s at a fair price point, promises lots of fun, and some fun twists and turns. Just watch out for those blasted dust storms. Your colonists’ lives depend on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -170,20 +170,18 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-10-most-shared-tiktoks-in-social-media-circles-for-2024/"><u>[New] 10 Most Shared TikToks in Social Media Circles for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-hdmi-legacy-package/"><u>[New] HDMI Legacy Package</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-integrated-upload-sending-vids-to-twitter-and-tumblr/"><u>[New] Integrated Upload Sending Vids to Twitter and Tumblr</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-from-twitters-tube-to-your-whatsapp-buddy-list-for-2024/"><u>[Updated] From Twitter's Tube to Your WhatsApp Buddy List for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-step-by-step-process-to-embrace-cc-copyrights/"><u>[Updated] In 2024, Step-by-Step Process to Embrace CC Copyrights</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-guide-posting-shorts-on-youtube-from-pcmobile-devices/"><u>[Updated] Step-by-Step Guide Posting Shorts on YouTube From PC/Mobile Devices</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/buzzing-on-both-platforms-top-10-tiktok-tweets-explored-for-2024/"><u>Buzzing on Both Platforms Top 10 TikTok Tweets Explored for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oneplus-11r-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of OnePlus 11R?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo A78 5G? | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-giggle-galore-twitters-top-10-joke-threads/"><u>In 2024, Giggle Galore Twitter's Top 10 Joke Threads</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-ideal-sound-devices-for-digital-influencers/"><u>In 2024, Ideal Sound Devices for Digital Influencers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ipad-pro-vs-macbook-pro-whats-the-difference/"><u>IPad Pro Vs. MacBook Pro: What's the Difference?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/sending-non-retwitted-videos-from-your-mobile-browser-to-twitter-for-2024/"><u>Sending Non-Retwitted Videos From Your Mobile Browser to Twitter for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-smart-home-gadgets-of-2024-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Smart Home Gadgets of 2024 - Comprehensive Testing & Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://win-tips.techidaily.com/unraveling-the-historical-importance-the-great-wall-of-china-decoded-by-yl-computing-and-yl-software/"><u>Unraveling the Historical Importance: The Great Wall of China Decoded by YL Computing and YL Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-lastest-guide-to-upload-youtube-video-from-iphoneipad/"><u>[New] Lastest Guide to Upload YouTube Video From iPhone/iPad</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-personalize-twitter-video-thumbnail-for-2024/"><u>[New] Personalize Twitter Video Thumbnail for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-quick-simple-steps-to-saving-twitters-emotive-graphics-gifs-for-2024/"><u>[New] Quick, Simple Steps to Saving Twitter’s Emotive Graphics (GIFs) for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-step-by-step-locating-your-next-social-video-fb-2023/"><u>[Updated] 2024 Approved Step-by-Step Locating Your Next Social Video (FB 2023)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-how-can-you-improve-zoom-video-resolution-quality/"><u>[Updated] How Can You Improve Zoom Video Resolution Quality?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-premier-sites-for-tweeting-in-a-post-twitter-era/"><u>[Updated] In 2024, Premier Sites for Tweeting in a Post-Twitter Era</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-optimize-your-tweeted-videos-aspect-ratio-checklist-for-2024/"><u>[Updated] Optimize Your Tweeted Videos Aspect Ratio Checklist for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boost-your-iphones-charge-longevity-with-these-6-essential-battery-calibration-tips/"><u>Boost Your iPhone's Charge Longevity with These 6 Essential Battery Calibration Tips</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/gratuito-convertitore-immagini-opus-offline-movavi/"><u>Gratuito Convertitore Immagini Opus Offline - Movavi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/keypads-your-guide-to-buying-youtube-ringtone-vids-for-2024/"><u>Keypads Your Guide to Buying YouTube Ringtone Vids for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/leading-vpn-solutions-for-enhanced-privacy-and-security-in-202c-authoritative-ratings-from-tech-gurus-toms-hardware/"><u>Leading VPN Solutions for Enhanced Privacy & Security in 202C: Authoritative Ratings From Tech Gurus | Tom's Hardware</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/los-mejores-programas-de-captura-de-pantalla-para-windows-10-8-y-7/"><u>Los Mejores Programas De Captura De Pantalla Para Windows 10, 8 Y 7</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/optimizing-your-online-presence-leading-twitter-de-followers-for-2024/"><u>Optimizing Your Online Presence Leading Twitter De-Followers for 2024</u></a></li>
 </ul></div>
 
