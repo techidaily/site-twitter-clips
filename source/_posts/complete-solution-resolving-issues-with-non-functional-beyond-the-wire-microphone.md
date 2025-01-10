@@ -1,7 +1,7 @@
 ---
 title: "Complete Solution: Resolving Issues with Non-Functional 'Beyond the Wire' Microphone"
-date: 2024-12-31T19:57:44.786Z
-updated: 2025-01-02T19:11:10.616Z
+date: 2025-01-08T22:40:07.289Z
+updated: 2025-01-10T07:06:00.277Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 
  If you cannot be heard on the microphone, you’re not alone. Although it’s quite frustrating, you should be able to fix this issue on your own easily using one of the fixes we’ve listed below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -31,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 2. **[Allow access to your Logitech G733 microphone](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Check Windows sound settings](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your audio drivers](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Troubleshoot the hardware issues
 
@@ -47,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
  If the mic of your Logitech G733 works on other devices, it suggests that the hardware is fine. If it’s the case, read on and try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Allow access to your Logitech G733 microphone
@@ -64,13 +56,17 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 ![Allow access to the microphone on this device and allow apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-access-to-the-microphone-on-this-device-and-allow-apps-to-access-your-microphone.jpg)
 4. Scroll down to check if the**Allow desktop apps access to your microphone** part is set to **On** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Allow desktop apps to access your microphone](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-desktop-apps-to-access-your-microphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then check if your Logitech G733 mic works on your computer. If not, don’t worry. Just try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Check Windows sound settings
 
@@ -80,18 +76,22 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 ![control mmsys.cpl sounds](https://images.drivereasy.com/wp-content/uploads/2021/04/control-mmsys.cpl-sounds.jpg)
 2. Navigate to the **Recording** tab, then**right-click** on any empty place inside the device list and**check Show Disabled Devices** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Show disabled Recording Devices ](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dc36f136c6.jpg)
 3. **Right-click** the**Headset Microphone** and click **Enable** .  
 
 ![Enable headset microphone recording](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4daac96f5e7.jpg)
 4. Then**right-click** it again and select **Set as Default Device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Set as default recording device](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dacbcd8e83.jpg)
 5. Right-click **Headset Microphone** and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Headset microphone properties](https://images.drivereasy.com/wp-content/uploads/2019/07/img_5b4dae7338d5d.jpg)
 6. Click the **Levels** tab, then drag the volume slider towards the _maximum value_ .  
@@ -114,13 +114,13 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to your sound device or your headset to download the latest and correct driver for it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — if you don’t already have it, you’ll be prompted to upgrade when you click **Update All** .)  
 ![audio-driver-update](https://images.drivereasy.com/wp-content/uploads/2021/03/audio-driver-update.jpg)
 4. Reboot your PC for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -148,18 +148,20 @@ thumbnail: https://thmb.techidaily.com/c9271a8faf33c0a549b22ca0028cd9619d63965df
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-bridging-twitters-visual-content-to-instagram-presence-for-2024/"><u>[New] Bridging Twitter's Visual Content to Instagram Presence for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitterscape-treasury-your-one-stop-shop-for-tweeted-gifs/"><u>[Updated] 2024 Approved Twitterscape Treasury Your One-Stop Shop for Tweeted GIFs</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-breaking-boundaries-on-twittersphere-new-hits/"><u>[Updated] Breaking Boundaries on Twittersphere New Hits</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-crafting-professional-focus-mastering-teamblend-background-artistry/"><u>[Updated] In 2024, Crafting Professional Focus Mastering Teamblend Background Artistry</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-whatsapp-transfers-broadcasting-twitter-videos-with-ease/"><u>[Updated] In 2024, WhatsApp Transfers Broadcasting Twitter Videos with Ease</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-step-by-step-guide-to-seamless-editing-of-full-spherical-video-content/"><u>[Updated] Step-by-Step Guide to Seamless Editing of Full Spherical Video Content</u></a></li>
-<li><a href="https://discover-data.techidaily.com/a-mental-health-stability/"><u>A. Mental Health Stability.</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/free-audio-balancers-top-7-pick-for-optimizing-sound-on-your-windows/"><u>Free Audio Balancers: Top 7 Pick for Optimizing Sound on Your Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-realme-c53-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-world-with-toms-hardware-experts/"><u>Navigating the Digital World with Tom's Hardware Experts</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-free-video-editing-solutions-for-32-bit-windows-top-picks-for-2024/"><u>New Free Video Editing Solutions for 32-Bit Windows Top Picks for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/primes-favorites-highest-tweets-and-view-counts-analysis/"><u>Prime's Favorites Highest Tweets & View Counts Analysis</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-avoidance-tactics-for-edg-vids-in-learning/"><u>[New] 2024 Approved Avoidance Tactics for EDG Vids in Learning</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-bypass-issue-twitter-video-on-chrome-freeze-for-2024/"><u>[New] Bypass Issue Twitter Video on Chrome Freeze for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-instant-sharing-with-media-files-twitters-guide-for-2024/"><u>[New] Instant Sharing with Media Files Twitter's Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-tackling-inaudible-speech-in-obs-captures/"><u>[Updated] 2024 Approved Tackling Inaudible Speech in OBS Captures</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-discovering-the-most-shared-twitvideos-of-the-year-for-2024/"><u>[Updated] Discovering the Most Shared TwitVideos of the Year for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-hot-takes-highlight-twitters-trending-topics/"><u>[Updated] In 2024, Hot Takes Highlight Twitter's Trending Topics</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-streaming-screenshots-share-without-twitting-for-2024/"><u>[Updated] Streaming Screenshots Share Without Twitting for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-tweet-trailblazers-1-10-social-sensations/"><u>2024 Approved Tweet Trailblazers #1-#10 Social Sensations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-quickly-change-mkv-videos-to-dvd-ready-for-both-windows-and-macos-users-the-best-techniques-explored/"><u>How to Quickly Change MKV Videos to DVD-Ready for Both Windows and macOS Users: The Best Techniques Explored</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-record-audio-with-audacity-on-mac/"><u>How to Record Audio with Audacity on Mac?</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-analysis-ultimate-storage-choices/"><u>In 2024, In-Depth Analysis Ultimate Storage Choices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-details-of-roaming-terms-insights-into-metro-by-t-mobiles-wireless-policy/"><u>Navigating the Details of Roaming Terms: Insights Into Metro by T-Mobile's Wireless Policy</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oneplus-ace-2v-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your OnePlus Ace 2V Phone Pattern Lock</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/workaround-twitter-videos-in-chrome-problem-for-2024/"><u>Workaround Twitter Videos in Chrome Problem for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Humor Hierarchy  The 20 Most Popular Memes\""
-date: 2024-12-27T19:56:09.990Z
-updated: 2025-01-03T10:46:24.598Z
+date: 2025-01-07T21:31:24.877Z
+updated: 2025-01-09T20:32:22.216Z
 tags:
   - ai video
   - ai twitter
@@ -70,6 +70,10 @@ Smug Frog, who is usually known as Pepe the Frog, is a meme where a strange look
 
 ![Smug Frog](https://images.wondershare.com/filmora/article-images/Smug-Frog-meme.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Roll Safe
 
 Kayode Ewumi, an actor, is pointing to his temple with a grin on his face. (It’s from a scene in a movie where he played a character called “Roll Safe.”) It’s usually used to represent “that’s using your brain” or it’s meant in sarcasm to make fun of people who didn’t use common sense in a situation.
@@ -114,10 +118,6 @@ Nut Button started as a sexual meme, but it’s commonly used as a picture of so
 
 ![Nut Button](https://images.wondershare.com/filmora/article-images/Nut-Button-meme.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Spongebob Mock
 
 Spongebob Mocking is a screen capture of Spongebob making a strange face and walking like a chicken. It is usually accompanied by a reply written like this: ExAmPlE tExT, which is mocking the person who said the same sentence.
@@ -161,7 +161,7 @@ Usually represented by a stick figure, it’s someone looking at a computer with
 ![Computer Reaction Faces](https://images.wondershare.com/filmora/article-images/Computer-Reaction-Faces-meme.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -203,15 +203,15 @@ From a line spoken by comedian Rainier Wolfcastle in a Simpsons episode, it’s 
 
 ![The Joke](https://images.wondershare.com/filmora/article-images/The-Joke-meme.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Feels Bad Man / Sad Frog
 
 This meme, which consists of a sad frog with tears in his eyes and sometimes has the words “Feels Bad Man” with it, is about failure or feeling bad because something didn’t go your way. It may be posted as a response to someone’s sad story, or as a sarcastic way to respond to something that happened to you.
 
 ![Sad Frog](https://images.wondershare.com/filmora/article-images/Sad-Frog-meme.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Confession Bear
 
@@ -275,6 +275,10 @@ Nut Button started as a sexual meme, but it’s commonly used as a picture of so
 
 ![Nut Button](https://images.wondershare.com/filmora/article-images/Nut-Button-meme.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Spongebob Mock
 
 Spongebob Mocking is a screen capture of Spongebob making a strange face and walking like a chicken. It is usually accompanied by a reply written like this: ExAmPlE tExT, which is mocking the person who said the same sentence.
@@ -299,10 +303,6 @@ These posters, at first glance, look like motivational posters, with images of n
 
 ![Demotivational Posters](https://images.wondershare.com/filmora/article-images/Demotivational-Posters-meme.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Cash Me Outside/Howbow Dah
 
 From a Dr. Phil episode, this picture is of an angry girl who told the audience “Catch me outside, how about that?” in a strong accent – needless to say, it’s been immortalized in memes and used when people are arguing (whether playfully or literally).
@@ -320,6 +320,10 @@ The rapper Conceited is captured in this meme, looking off camera and pursing hi
 Usually represented by a stick figure, it’s someone looking at a computer with some sort of emotion on their face, related to the person’s reaction to something being said or discussed on a thread.
 
 ![Computer Reaction Faces](https://images.wondershare.com/filmora/article-images/Computer-Reaction-Faces-meme.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -408,11 +412,11 @@ CCG’s like Magic the Gathering are still popular, and fake CCG cards are used 
 
 ![Fake CCG Cards](https://images.wondershare.com/filmora/article-images/Fake-CCG-Cards-meme.JPG)
 
-## Part 2: The Most Popular Memes on Twitter
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 2: The Most Popular Memes on Twitter
 
 ### 1\. Arthur’s Fist
 
@@ -438,10 +442,6 @@ Spongebob Mocking is a screen capture of Spongebob making a strange face and wal
 
 ![Spongebob Mock](https://images.wondershare.com/filmora/article-images/Spongebob-Mock-meme.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Reaction Images
 
 These images vary, but they’re usually a person with a specific expression on their face, and someone posts it as their response to something that another Twitter user has said.
@@ -465,6 +465,10 @@ These posters, at first glance, look like motivational posters, with images of n
 From a Dr. Phil episode, this picture is of an angry girl who told the audience “Catch me outside, how about that?” in a strong accent – needless to say, it’s been immortalized in memes and used when people are arguing (whether playfully or literally).
 
 ![Cash Me Outside](https://images.wondershare.com/filmora/article-images/Cash-Me-Ousside-meme.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 9\. Conceited Reaction
 
@@ -511,19 +515,11 @@ This is a meme featuring Peyton Manning wearing a black hood and kneeling on a f
 
 ![Manning Face](https://images.wondershare.com/filmora/article-images/Manning-Face-meme.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. That's The Joke
 
 From a line spoken by comedian Rainier Wolfcastle in a Simpsons episode, it’s a meme now used in order to either explain the punchline to a joke in a condescending manner, or it is meant to be a deadpan (or annoyed) reply to something that wouldn’t have been funny otherwise.
 
 ![The Joke](https://images.wondershare.com/filmora/article-images/The-Joke-meme.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Feels Bad Man / Sad Frog
 
@@ -555,15 +551,15 @@ Kayode Ewumi, an actor, is pointing to his temple with a grin on his face. (It�
 
 ![Roll Safe](https://images.wondershare.com/filmora/article-images/roll-safe-meme.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Rage Guy
 
 Rage guy is a pencil drawing of an angry face yelling “fffffffuuuuuuu” or something similar. It’s usually used when the person posting is exasperated about something stupid that is being discussed.
 
 ![Rage Guy](https://images.wondershare.com/filmora/article-images/Rage-Guy-meme.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 9\. Make America Great Again
 
@@ -578,10 +574,6 @@ CCG’s like Magic the Gathering are still popular, and fake CCG cards are used 
 ![Fake CCG Cards](https://images.wondershare.com/filmora/article-images/Fake-CCG-Cards-meme.JPG)
 
 ## Part 2: The Most Popular Memes on Twitter
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Arthur’s Fist
 
@@ -619,6 +611,10 @@ Expanding Brain is a picture with three images of the brain; one ordinary, one s
 
 ![Expanding Brain](https://images.wondershare.com/filmora/article-images/Expanding-Brain-meme.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Demotivational Posters
 
 These posters, at first glance, look like motivational posters, with images of nature or animals or other beautiful things – but the text is usually something sarcastic or sardonic.
@@ -642,6 +638,10 @@ The rapper Conceited is captured in this meme, looking off camera and pursing hi
 Usually represented by a stick figure, it’s someone looking at a computer with some sort of emotion on their face, related to the person’s reaction to something being said or discussed on a thread.
 
 ![Computer Reaction Faces](https://images.wondershare.com/filmora/article-images/Computer-Reaction-Faces-meme.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -678,22 +678,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-cinematic-frontiers-the-top-sci-fi-journeys-to-new-worlds/"><u>[New] 2024 Approved Cinematic Frontiers The Top Sci-Fi Journeys to New Worlds</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-comedy-cornucopia-twitters-best/"><u>[New] Comedy Cornucopia Twitter's Best</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-directly-sharing-twitter-videos-onto-your-instagram-account-for-2024/"><u>[New] Directly Sharing Twitter Videos Onto Your Instagram Account for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-earnings-enigma-the-revenue-of-a-youtuber/"><u>[New] Earnings Enigma The Revenue of a YouTuber</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-enhance-tweet-management-the-most-effective-apps-for-tweets-for-2024/"><u>[New] Enhance Tweet Management The Most Effective Apps for Tweets for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-the-essential-2023-social-media-video-exploration/"><u>[New] The Essential 2023 Social Media Video Exploration</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-top-15-facebook-strategies-for-maximizing-online-selling-power/"><u>[New] Top 15 Facebook Strategies for Maximizing Online Selling Power</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-connected-platforms-sharing-videos-between-twitter-and-tumblr/"><u>[Updated] Connected Platforms Sharing Videos Between Twitter & Tumblr</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-infinite-loop-twitters-live-video-saga-in-23/"><u>[Updated] Infinite Loop Twitter's Live Video Saga in '23</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-setting-up-a-vpn-connection-on-windows-10-easy-step-by-step-instructions/"><u>A Comprehensive Guide: Setting Up a VPN Connection on Windows 10 - Easy, Step-by-Step Instructions</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/effective-strategies-to-keep-your-computer-running-smoothly-tips-from-yl-computing/"><u>Effective Strategies to Keep Your Computer Running Smoothly - Tips From YL Computing</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-optimize-twitter-tweets-for-hd-viewing/"><u>In 2024, Optimize Twitter Tweets for HD Viewing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-solutions-for-resolving-stuttering-in-counter-strike-global-offensive/"><u>Quick Solutions for Resolving Stuttering in Counter-Strike: Global Offensive</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-reality-checks-5-cutting-edge-tools-for-digital-skepticism/"><u>Revolutionizing Reality Checks: 5 Cutting-Edge Tools for Digital Skepticism</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/stream-smoothness-tweets-buffering-in-chrome/"><u>Stream Smoothness Tweets Buffering in Chrome</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/supercharge-your-windows-experience-speedy-fixes-for-windows-11-users/"><u>Supercharge Your Windows Experience: Speedy Fixes for Windows 11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-list-of-6-performance-monitor-apps-for-pcs/"><u>The Ultimate List of 6 Performance Monitor Apps For PCs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-tidy-up-video-borders-with-smart-edit-techniques/"><u>[New] 2024 Approved Tidy Up Video Borders with Smart Edit Techniques</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-popular-tiktok-creations-dominating-twitter-discussions-for-2024/"><u>[New] Popular TikTok Creations Dominating Twitter Discussions for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-social-snapshot-post-photosvideos-without-a-twit/"><u>[New] Social Snapshot Post Photos/Videos without a Twit</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-acceleratedecelerate-your-youtube-videos-a-step-by-step-guide-for-2024/"><u>[Updated] Accelerate/Decelerate Your YouTube Videos A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-twitters-best-binge-friends-amazon-primes-most-liked-shows-23/"><u>[Updated] In 2024, Twitter's Best Binge-Friends Amazon Prime's Most Liked Shows, '23</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-joking-jokebooks-top-10-hilarious-social-media-posts/"><u>2024 Approved Joking Jokebooks Top 10 Hilarious Social Media Posts</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/directing-traffic-from-tiktok-to-twitter/"><u>Directing Traffic From TikTok to Twitter</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g73-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G73 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-craft-viral-instagram-moments-by-incorporating-tiktok-wisdom/"><u>In 2024, Craft Viral Instagram Moments by Incorporating TikTok Wisdom</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/navigating-to-groups-shared-content-in-messenger-for-2024/"><u>Navigating to Group's Shared Content in Messenger for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-sony-xperia-1-v-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Sony Xperia 1 V</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-tip-reducing-microsoft-telemetrys-impact-on-hard-drive-space-for-windows-10/"><u>Tech Tip: Reducing Microsoft Telemetry's Impact on Hard Drive Space for Windows 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-and-expert-advice-t17239718720366/"><u>Tom's Tech Insights: In-Depth Reviews and Expert Advice</u></a></li>
 </ul></div>
 

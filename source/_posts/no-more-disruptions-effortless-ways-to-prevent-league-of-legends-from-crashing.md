@@ -1,7 +1,7 @@
 ---
 title: "No More Disruptions: Effortless Ways to Prevent League of Legends From Crashing"
-date: 2024-12-29T07:35:05.683Z
-updated: 2025-01-03T06:28:10.065Z
+date: 2025-01-03T20:26:13.058Z
+updated: 2025-01-09T20:59:09.441Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Launch the game in windowed mode
 
  There are increasing reports about Diablo Immortal crashing in fullscreen. To avoid it crashing on startup, you can force the game to launch in windowed mode. Here’s how:
@@ -47,19 +43,19 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Rename the game folder
 
@@ -70,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 3. Open the**Diablo Immortal Launcher** directly from the folder.
 
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
 
@@ -85,13 +85,17 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-5.7.2-scan-1.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
- When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
 
 ### Fix 5 – Scan and repair game files
 
@@ -104,15 +108,7 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6 – Disable Discord overlay
 
@@ -124,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
 
@@ -149,16 +149,22 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-preventing-frame-skips-in-live-obs-broadcasts/"><u>[New] Preventing Frame Skips in Live OBS Broadcasts</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-redesign-instant-twitter-video-view-for-2024/"><u>[New] Redesign Instant Twitter Video View for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-disseminating-tweeted-videos-on-the-worlds-biggest-social-site/"><u>[Updated] 2024 Approved Disseminating Tweeted Videos on the World's Biggest Social Site</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unlock-creative-potential-with-these-top-7-meme-creation-techniques/"><u>[Updated] In 2024, Unlock Creative Potential with These Top 7 Meme-Creation Techniques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-masterful-archive-of-twitter-animations-at-your-fingertips/"><u>In 2024, Masterful Archive of Twitter Animations at Your Fingertips</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-radiant-faces-mastering-makeup-and-lighting-together/"><u>In 2024, Radiant Faces Mastering Makeup and Lighting Together</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-saving-the-fun-downloading-tweets-gif-content-easily/"><u>In 2024, Saving the Fun Downloading Tweets' GIF Content Easily</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/navigating-music-licens-written-by-john-doe-for-2024/"><u>Navigating Music Licens Written by John Doe for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/nighttime-storyscapes-in-moving-pictures/"><u>Nighttime Storyscapes in Moving Pictures</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/visualsnitch-capture-and-save-tweets-images-and-videos/"><u>VisualSnitch Capture and Save Tweets' Images & Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-10-most-shared-tiktoks-in-social-media-circles-for-2024/"><u>[New] 10 Most Shared TikToks in Social Media Circles for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-integrated-upload-sending-vids-to-twitter-and-tumblr/"><u>[New] Integrated Upload Sending Vids to Twitter and Tumblr</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-gratis-commerce-driven-presentation-templates-ideas/"><u>[Updated] 2024 Approved Gratis Commerce-Driven Presentation Templates Ideas</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-from-twitters-tube-to-your-whatsapp-buddy-list-for-2024/"><u>[Updated] From Twitter's Tube to Your WhatsApp Buddy List for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-hot-list-viral-video-threads-for-the-week/"><u>[Updated] In 2024, The Hot List Viral Video Threads for the Week</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagrams-most-reliable-grid-creation-tools-countdown-to-top-ten-for-2024/"><u>[Updated] Instagram's Most Reliable Grid Creation Tools, Countdown to Top Ten for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-taking-control-of-quality-edit-your-published-videos-on-youtube/"><u>[Updated] Taking Control of Quality Edit Your Published Videos on YouTube</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tweeting-fun-iosandroid-tips-for-downloading-gifs/"><u>[Updated] Tweeting Fun IOS/Android Tips for Downloading GIFs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-10-moments-that-made-a-mark-on-twitter-and-tiktok/"><u>2024 Approved 10 Moments That Made a Mark on Twitter and TikTok</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/adjusting-copy-and-paste-on-windows-to-prevent-issues/"><u>Adjusting Copy & Paste on Windows to Prevent Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-for-fixing-continuous-audio-disruptions-on-your-windows-11-pc/"><u>Expert Advice for Fixing Continuous Audio Disruptions on Your Windows 11 PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-12-mini-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 12 mini or iPad?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-pair-your-wireless-headphones-with-a-ps4-console-a-step-by-step-guide-with-images/"><u>How to Pair Your Wireless Headphones with a PS4 Console: A Step-by-Step Guide with Images</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-giggle-galore-twitters-top-10-joke-threads/"><u>In 2024, Giggle Galore Twitter's Top 10 Joke Threads</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-xcover-6-pro-tactical-edition-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy XCover 6 Pro Tactical Edition to Protect Your Individual Information</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-user-account-control-prompts-elevation-needed-in-windows-11-10-and-7/"><u>Resolving User Account Control Prompts: Elevation Needed in Windows 11, 10 & 7</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/sending-non-retwitted-videos-from-your-mobile-browser-to-twitter-for-2024/"><u>Sending Non-Retwitted Videos From Your Mobile Browser to Twitter for 2024</u></a></li>
 </ul></div>
 

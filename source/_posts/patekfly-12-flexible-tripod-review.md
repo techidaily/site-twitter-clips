@@ -1,7 +1,7 @@
 ---
 title: Patekfly 12 Flexible Tripod Review
-date: 2025-01-02T11:51:55.663Z
-updated: 2025-01-02T17:58:11.517Z
+date: 2025-01-03T22:10:27.459Z
+updated: 2025-01-09T23:07:32.408Z
 categories:
   - BestProducts
 description: This Article Describes Patekfly 12 Flexible Tripod Review
@@ -41,6 +41,10 @@ Lifewire / Danny Chadwick
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/5zZ5bclZ7zJVo8nRB2Y33JNM3w4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_HeroSqaure-ac1bb2840cb04106b14f3838b80a3bf2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Danny Chadwick
 
 [View On Amazon](https://www.amazon.com/V1-Dashboard-Recorder-G-Sensor-Recording/dp/B00X528FNE/?tag=lifewire-onsite-prod-20&ascsubtag=4770571%7Cn9eae1cd5706347139b8b83241f9d42ea10%7CB00X528FNE) [View On Home Depot](https://www.homedepot.com/p/Rexing-V1-2-4-in-LCD-FHD-1080p-170-Wide-Angle-Dashboard-Camera-Recorder-Car-Dash-Cam-with-G-Sensor-WDR-Loop-Recording-V1/301705517)
@@ -67,14 +71,10 @@ Lifewire / Danny Chadwick
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/JfL4E5NnuBPl6-93Hv3PI4IJsV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_05-bcfff5f440b545378c9ee4e6b431ffac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Danny Chadwick
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Design: Fits perfectly on your windshield**
 
@@ -93,6 +93,10 @@ Lifewire / Danny Chadwick
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/ztn3EsFqtKkWImvQhtgcr1vlHwI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_02-9ee3aa46e7394a1ab263a6b12b287314.jpg)
 
  Lifewire / Danny Chadwick
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup Process: Be sure that’s where you want to put it**
 
@@ -133,16 +137,12 @@ Lifewire / Danny Chadwick
  Like the rest of the dashboard cameras we tested, the Rexing V1 has the ability to record audio, but it does a middling job of it. Voices in the car and sounds coming from the interior speakers were clear enough to understand, but sounds from outside the vehicle were muddy at best.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: A good value**
 
  The Rexing V1 retails for $130, but as of the time of this writing, can typically be purchased for closer to $100\. We feel like this is a perfectly appropriate price for this device—it falls right in the middle of the typical dashcam price range, providing better performance than super budget models, but without the high-tech features of the more expensive options out there. In short, it’s a good price for a solid, basic device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Competition: Z3 Plus vs. Rexing V1**
 
@@ -161,7 +161,7 @@ Lifewire / Danny Chadwick
  There isn’t much to complain about with the Rexing V1 DashCam. Its innovative form factor combined with a wide array of video capture features and decent picture quality means you won’t have any buyer’s remorse if you choose this dashcam.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -193,20 +193,18 @@ Lifewire / Danny Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-channel-dynamo-craft-your-content-empire/"><u>[New] 2024 Approved Channel Dynamo Craft Your Content Empire</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-cross-platform-comedy-best-meme-contenders/"><u>[New] 2024 Approved Cross-Platform Comedy Best Meme Contenders</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-navigating-twitter-video-submission-protocols/"><u>[New] 2024 Approved Navigating Twitter Video Submission Protocols</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-best-practices-for-compliant-twitter-videos-for-2024/"><u>[New] Best Practices for Compliant Twitter Videos for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-chromatic-excellence-program/"><u>[New] Chromatic Excellence Program</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-cross-network-laughter-whos-tops-today/"><u>[Updated] 2024 Approved Cross-Network Laughter Who's Tops Today?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-az-vision-recorder-complete-application-audits-and-substitutes/"><u>[Updated] In 2024, AZ Vision Recorder Complete Application Audits & Substitutes</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-mastering-aspect-ratio-compliance-in-micro-video-tweets/"><u>[Updated] In 2024, Mastering Aspect Ratio Compliance in Micro-Video Tweets</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y56-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y56 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-poco-c65-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Poco C65 Data? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/leap-into-korean-proficiency-with-these-6-websites/"><u>Leap Into Korean Proficiency with These 6 Websites</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/superior-script-architect-space/"><u>Superior Script Architect Space</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/syncing-tiktok-content-with-twitter-for-2024/"><u>Syncing TikTok Content with Twitter for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/twitterscape-archive-the-ultimate-compiler-and-preserver-of-tweets-in-frames/"><u>Twitterscape Archive The Ultimate Compiler & Preserver of Tweets in Frames</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725290001474-winxvideo-ai/"><u>WinxVideo AI: 화면, 웹캠 및 오디오 녹음을 위한 안내되는 효율적인 기법</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-essential-aspect-ratio-tips-for-social-media-videos-for-2024/"><u>[New] Essential Aspect Ratio Tips for Social Media Videos for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-alleviate-problem-buffering-tweets-in-chromebook/"><u>[New] In 2024, Alleviate Problem Buffering Tweets in Chromebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-perfect-placement-for-instagrams-audio-emojis-a-quick-guide-for-2024/"><u>[New] Perfect Placement for Instagram’s Audio Emojis – A Quick Guide for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mac-users-adding-the-social-app-snapchat/"><u>[Updated] 2024 Approved Mac Users Adding the Social App Snapchat</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-top-10-tiktok-sensations-spreading-via-tweets/"><u>[Updated] Top 10 TikTok Sensations Spreading via Tweets</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-enhancing-tweets-adding-media-files/"><u>2024 Approved Enhancing Tweets Adding Media Files</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-teamwork-made-simple-the-ultimate-guide-to-8-schedulers/"><u>2024 Approved Teamwork Made Simple The Ultimate Guide to 8 Schedulers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unlock-the-secrets-to-increasing-views-in-60-second-youtube-shorts/"><u>2024 Approved Unlock the Secrets to Increasing Views in 60-Second YouTube Shorts</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-vlog-to-audio-conversion-with-twitta/"><u>2024 Approved Vlog-to-Audio Conversion with Twitta</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/crafting-dynamic-web-pages-with-php-and-html/"><u>Crafting Dynamic Web Pages with PHP and HTML</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-top-8-srt-conversion-websites-without-a-cost/"><u>In 2024, Top 8 SRT Conversion Websites Without a Cost</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-tech-choices-with-tom-your-guide-to-hardware-picks/"><u>Navigating Tech Choices with Tom - Your Guide to Hardware Picks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-process-to-get-a-clean-canvas-in-figma-for-2024/"><u>Step-by-Step Process to Get a Clean Canvas in Figma for 2024</u></a></li>
 </ul></div>
 

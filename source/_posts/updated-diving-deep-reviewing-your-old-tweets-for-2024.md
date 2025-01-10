@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Diving Deep  Reviewing Your Old Tweets for 2024\""
-date: 2024-12-08T21:07:02.115Z
-updated: 2024-12-16T07:35:59.293Z
+date: 2025-01-02T22:24:24.156Z
+updated: 2025-01-09T17:42:06.661Z
 tags:
   - ai video
   - ai twitter
@@ -65,6 +65,10 @@ Twitter archive will contain all the moments you have curated through Twitter. A
 
 If you have deleted any important post or picture on your Twitter, you don’t need to worry. All the data that you have shared across Twitter is recoverable. Through the Twitter archive, you can easily retrieve the lost post and save it permanently on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Request Twitter Archive?
 
 Once you are aware of why the Twitter archive is considered to be used across an account, it is now time to understand the process of obtaining one. This part will guide you with the ultimate steps to request a Twitter archive manually. Just follow our below guidelines:
@@ -97,6 +101,10 @@ Once you have requested a Twitter archive, you will receive a mail saying that y
 
 ![unzip your archive](https://images.wondershare.com/filmora/article-images/2022/03/use-twitter-archive-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Inside the archive, there would be many files and folders such as “tweet\_media," which will contain all the photos and videos you have sent and uploaded from your account. "Your archive.html" is another important folder comprising all of your important data, such as the tweets you have posted, sent messages, and liked posts. Through "README.txt," you will find what every folder contains.
 
 ![twitter archive files](https://images.wondershare.com/filmora/article-images/2022/03/use-twitter-archive-7.jpg)
@@ -125,6 +133,10 @@ In this section, we will learn how to browse and check your Twitter archive prop
 
 ![twitter direct messages](https://images.wondershare.com/filmora/article-images/2022/03/use-twitter-archive-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** The “Personalization” tab contains all the information and interests Twitter has about you. By clicking on this tab, you can find other tabs like:
 
 * Advertiser lists will show the Twitter advertisers who have added you as the audience.
@@ -140,6 +152,10 @@ In this section, we will learn how to browse and check your Twitter archive prop
 **Step 6:** The last tab is "Moments," comprising your Twitter moments. Twitter moments are created through Twitter's moments' tools, and if you have created any, it will show in this tab.
 
 ![moments of your twitter](https://images.wondershare.com/filmora/article-images/2022/03/use-twitter-archive-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -169,10 +185,6 @@ Part 4: [Browse Your Twitter Archive](#step4)
 
 Not all users are known of Twitter Archive and the services it offers to the users. However, before realizing the guidelines of using this function across your Twitter account, it is essential to be aware of why it is required in the first place. This section will find the reasons and benefits of why you should download and use a Twitter archive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Save your Memories
 
 Even if you have lost the DMs, photos, and videos on your Twitter account, you can still save your memories through Twitter Archive. The archive file will contain all the memories you have created on Twitter. It would surely act as your digital scrapbook that would comprise of all important events and instances in your life that you would like to cherish in your older ages.
@@ -180,10 +192,6 @@ Even if you have lost the DMs, photos, and videos on your Twitter account, you c
 ### Save your Tweets
 
 Some regular Twitter users use third-party tools to download tweets and posts from Twitter. However, it may involve some risk factors in the third-party software. That’s why downloading the tweets directly from the Twitter archive is safe and reliable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Transfer your Data
 
@@ -301,10 +309,6 @@ Part 4: [Browse Your Twitter Archive](#step4)
 
 Not all users are known of Twitter Archive and the services it offers to the users. However, before realizing the guidelines of using this function across your Twitter account, it is essential to be aware of why it is required in the first place. This section will find the reasons and benefits of why you should download and use a Twitter archive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Save your Memories
 
 Even if you have lost the DMs, photos, and videos on your Twitter account, you can still save your memories through Twitter Archive. The archive file will contain all the memories you have created on Twitter. It would surely act as your digital scrapbook that would comprise of all important events and instances in your life that you would like to cherish in your older ages.
@@ -318,16 +322,12 @@ Some regular Twitter users use third-party tools to download tweets and posts fr
 The best thing about the Twitter archive is that it has made Twitter data portable. By downloading the information, data, and photos from the Twitter archive, you can transfer them to other platforms like Facebook and Instagram.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Make a Virtual Diary
 
 Twitter archive will contain all the moments you have curated through Twitter. Also, you will have a backup of all your Twitter activities and data. So you can make a virtual diary from these memories and information and share it on online platforms.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Recover your Data
 
@@ -350,11 +350,7 @@ Once you are aware of why the Twitter archive is considered to be used across an
 ![request your twitter archive](https://images.wondershare.com/filmora/article-images/2022/03/use-twitter-archive-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Open your Twitter Archive
@@ -417,6 +413,10 @@ In this section, we will learn how to browse and check your Twitter archive prop
 
 ![moments of your twitter](https://images.wondershare.com/filmora/article-images/2022/03/use-twitter-archive-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Do you seek a method that would help you assess all the data that has been shared or viewed across your Twitter account? Though it sounds difficult to go through your home profile across the platform, Twitter does provide other techniques as a progressive alternative.
@@ -441,6 +441,10 @@ Part 3: [Open your Twitter Archive](#step3)
 
 Part 4: [Browse Your Twitter Archive](#step4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why Do I Need to Use Twitter Archive?
 
 Not all users are known of Twitter Archive and the services it offers to the users. However, before realizing the guidelines of using this function across your Twitter account, it is essential to be aware of why it is required in the first place. This section will find the reasons and benefits of why you should download and use a Twitter archive.
@@ -453,17 +457,9 @@ Even if you have lost the DMs, photos, and videos on your Twitter account, you c
 
 Some regular Twitter users use third-party tools to download tweets and posts from Twitter. However, it may involve some risk factors in the third-party software. That’s why downloading the tweets directly from the Twitter archive is safe and reliable.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Transfer your Data
 
 The best thing about the Twitter archive is that it has made Twitter data portable. By downloading the information, data, and photos from the Twitter archive, you can transfer them to other platforms like Facebook and Instagram.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Make a Virtual Diary
 
@@ -473,6 +469,10 @@ Twitter archive will contain all the moments you have curated through Twitter. A
 
 If you have deleted any important post or picture on your Twitter, you don’t need to worry. All the data that you have shared across Twitter is recoverable. Through the Twitter archive, you can easily retrieve the lost post and save it permanently on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Request Twitter Archive?
 
 Once you are aware of why the Twitter archive is considered to be used across an account, it is now time to understand the process of obtaining one. This part will guide you with the ultimate steps to request a Twitter archive manually. Just follow our below guidelines:
@@ -480,6 +480,10 @@ Once you are aware of why the Twitter archive is considered to be used across an
 **Step 1:** Firstly, sign in to your Twitter account by entering your name and password. Once open, click on “More” from the left side menu. Now tap on "Settings and Privacy," which will open another menu. From there, click on "Your Account."
 
 ![access settings and privacy](https://images.wondershare.com/filmora/article-images/2022/03/use-twitter-archive-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** In the menu of your account, click on "Download an archive of your data." After clicking on it, Twitter will ask you your password. If you have enabled two-factor verification, a code will be sent to your mobile number. After entering the code, you can proceed.
 
@@ -500,10 +504,6 @@ Once you have requested a Twitter archive, you will receive a mail saying that y
 **Step 2:** Now, you will see the option of "Download Archive." Click on this option and then tap to download the ZIP file on your computer.
 
 ![tap on download archive](https://images.wondershare.com/filmora/article-images/2022/03/use-twitter-archive-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Once your ZIP file is downloaded, unzip the file by going to the folder where it is saved. Drag the file to a new location and tap on “Extract Here” by right-clicking on the file.
 
@@ -582,19 +582,19 @@ The Twitter archive is an excellent feature through you can thoroughly check and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-social-sensation-tweets-whats-going-big-online/"><u>[New] In 2024, Social Sensation Tweets What's Going Big Online</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-video-management-made-easy-the-best-practices-in-mov-on-win-11/"><u>[New] Video Management Made Easy The Best Practices in .MOV on Win 11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-picking-the-top-action-cam-gopro-or-sony-fdr-x1000v/"><u>[Updated] 2024 Approved Picking the Top Action Cam GoPro or Sony FDR-X1000V?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-visual-vault-techniques-for-capturing-tweets-animated-content/"><u>[Updated] 2024 Approved The Visual Vault Techniques for Capturing Tweets’ Animated Content</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-customizable-social-icon-crafting-a-caricature-online/"><u>[Updated] Customizable Social Icon Crafting a Caricature Online</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-easy-steps-to-capture-iphone-screens-seamlessly-for-2024/"><u>[Updated] Easy Steps to Capture iPhone Screens Seamlessly for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/harness-the-power-to-control-your-phone-line-comprehveiw-and-execute-a-swift-call-block-on-ios-and-android/"><u>Harness the Power to Control Your Phone Line: Comprehveiw and Execute a Swift Call Block on iOS and Android.</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-insiders-manual-reacting-on-twitter-videos/"><u>In 2024, Insider’s Manual Reacting on Twitter Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/laugh-ledger-the-ultimate-list-of-hilarious-tweets/"><u>Laugh Ledger The Ultimate List of Hilarious Tweets</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210243271-9781988387253-lighten-up-youre-eternal/"><u>Lighten Up, You're Eternal | Free Book</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/simplifiziere-ihre-datensynchronisation-mit-dem-kostenlosen-aomei-backupper-tool/"><u>Simplifiziere Ihre Datensynchronisation Mit Dem Kostenlosen AOMEI Backupper Tool.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-fundamentals-crafting-your-podcasts-rss-feed/"><u>The Fundamentals Crafting Your Podcast's RSS Feed</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/the-social-narrative-this-years-twittale-highlights-for-2024/"><u>The Social Narrative This Year's TwitTale Highlights for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-behind-wi-fi-calls-your-ultimate-faq/"><u>Unlocking the Secrets Behind Wi-Fi Calls - Your Ultimate FAQ</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/04958282-new-how-to-find-and-change-your-youtube-channel-url-super-easy/"><u>[New] How to Find and Change Your YouTube Channel URL – Super Easy</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-streamlining-social-sharing-coordinating-vids-on-tweets-plus-tumbles/"><u>[New] Streamlining Social Sharing Coordinating Vids on Tweets + Tumbles</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-top-10-tiktok-viral-videos-on-twitter/"><u>[Updated] Top 10 TikTok Viral Videos on Twitter</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ving-cohesion-in-content-with-flv-video-integration/"><u>Achieving Cohesion in Content with FlV Video Integration</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/amazon-primes-social-standings-top-watchers-and-likers-twitter-2023/"><u>Amazon Prime's Social Standings - Top Watchers and Likers Twitter, 2023</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevate-your-aerial-photography-with-the-industry-leading-dji-mavic-2-pro-reviewed-here/"><u>Elevate Your Aerial Photography with the Industry Leading DJI Mavic 2 Pro Reviewed Here!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-minds-explore-5-advanced-robot-bots/"><u>Empowering Minds: Explore 5 Advanced Robot Bots</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/find-missing-control-panel-options-on-windows-11/"><u>Find Missing Control Panel Options on Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-boosting-your-content-quality-essential-tips-for-youtube-users/"><u>In 2024, Boosting Your Content Quality Essential Tips for YouTube Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hd-to-uhd-seamless-video-transformations/"><u>In 2024, HD to UHD Seamless Video Transformations</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-future-awaits-elevate-your-fb-chronicles-for-free/"><u>In 2024, The Future Awaits Elevate Your FB Chronicles for FREE</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-tecno-spark-10-4g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Tecno Spark 10 4G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/taking-twitter-videos-from-regular-to-high-definition-for-2024/"><u>Taking Twitter Videos From Regular to High-Definition for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/unmute-tracks-from-muted-video-tweets-for-2024/"><u>Unmute Tracks From Muted Video Tweets for 2024</u></a></li>
 </ul></div>
 

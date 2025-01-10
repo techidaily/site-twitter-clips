@@ -1,7 +1,7 @@
 ---
 title: "Beat the Shadows: Fixing PC Playthroughs of Resident Evil Village When Faced with a Black Screen"
-date: 2024-12-29T08:15:58.280Z
-updated: 2025-01-02T17:27:50.644Z
+date: 2025-01-05T17:33:22.192Z
+updated: 2025-01-10T04:09:03.956Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 Resident Evil Village is a great survival horror game in the storied Resident Evil franchise. But the cursor became annoying while in-game with Village. This post gives you some possible fixes, give it a try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,10 +25,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 2. [Change resolution](https://tools.techidaily.com/drivereasy/download/)
 3. [Change mouse settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Download an invisible cursor theme file
 
@@ -46,7 +38,7 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 3. Click**Mouse** on the left panel, then click**Additional mouse options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
@@ -55,6 +47,10 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 5. Click**Apply** . Your mouse cursor will disappear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
 6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
 
@@ -79,13 +75,13 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix brings no luck, move to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update device driver
@@ -112,6 +108,10 @@ There are two ways you can update your device drivers:
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -134,22 +134,18 @@ There are two ways you can update your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-the-most-trending-twitch-originals-from-amazon-prime/"><u>[New] 2024 Approved The Most Trending Twitch Originals From Amazon Prime</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-enhancing-your-social-presence-tweeting-to-facebook-for-2024/"><u>[New] Enhancing Your Social Presence Tweeting to Facebook for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-flip-through-history-collecting-twitter-gifs-on-mobile/"><u>[New] In 2024, Flip Through History Collecting Twitter GIFs on Mobile</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-most-popular-tweet-chronicles-2023-edition/"><u>[New] In 2024, Most Popular Tweet Chronicles - 2023 Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-logic-pro-x-guide-to-cohesive-track-transitions/"><u>[New] Logic Pro X Guide to Cohesive Track Transitions</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-quick-video-sharing-tweet-it-up-no-need-for-retweets/"><u>[Updated] 2024 Approved Quick Video Sharing Tweet It Up - No Need for Retweets</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-elite-6-most-watched-shorter-video-repositories-for-2024/"><u>[Updated] Elite 6 Most Watched Shorter Video Repositories for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-archive-exploration-for-social-media-insight/"><u>[Updated] In 2024, Archive Exploration for Social Media Insight</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-leveraging-zoom-for-superior-skype-interactions-and-communication/"><u>[Updated] In 2024, Leveraging Zoom for Superior Skype Interactions & Communication</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/acer-laptop-visual-capture-guide-screenshots-simplified/"><u>Acer Laptop Visual Capture Guide: Screenshots Simplified</u></a></li>
-<li><a href="https://fox-links.techidaily.com/androids-best-free-mp3-extraction-tools/"><u>Android's Best Free MP3 Extraction Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/batch-downloading-dailymotion-playlists-as-mp4-files-a-step-by-step-guide/"><u>Batch Downloading Dailymotion Playlists as MP4 Files: A Step-by-Step Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/how-to-keep-the-momentum-ios-and-android-gif-savings-for-2024/"><u>How to Keep the Momentum IOS & Android GIF Savings for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-pova-5-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Tecno Pova 5 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-quick-tips-extracting-and-keeping-gif-tweets/"><u>In 2024, Quick Tips Extracting and Keeping GIF Tweets</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-upgrading-your-amd-radeon-hd-amoji-7850-graphics-card-driver-for-windows-11/"><u>Step-by-Step Guide: Upgrading Your AMD Radeon HD Amoji 7850 Graphics Card Driver for Windows 11</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-powerful-video-editing-software-alternatives-to-final-cut-pro-x/"><u>Updated 10 Powerful Video Editing Software Alternatives to Final Cut Pro X</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-effortless-viewing-tackling-instagram-video-issues-for-2024/"><u>[New] Effortless Viewing Tackling Instagram Video Issues for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-epic-quests-unveiled-top-games-mirroring-ghost-of-tsushima/"><u>[New] In 2024, Epic Quests Unveiled Top Games Mirroring Ghost of Tsushima</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-seamless-tiktok-content-for-twitter-audience/"><u>[New] Seamless TikTok Content for Twitter Audience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mirthful-missions-delving-into-the-goofy-movie-vhs-for-2024/"><u>[Updated] 'Mirthful Missions' - Delving Into The Goofy Movie VHS for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-audio-restoration-on-visual-posts-from-twitter/"><u>2024 Approved Audio Restoration on Visual Posts From Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-twitmedia-mastery-elevate-your-tweet-game/"><u>2024 Approved TwitMedia Mastery Elevate Your Tweet Game</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-google-pixel-8-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Google Pixel 8 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-practices-for-livestreaming-and-archiving-sports-events-for-2024/"><u>Best Practices for Livestreaming & Archiving Sports Events for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/harmony-hub-innovations-showcased/"><u>Harmony Hub Innovations Showcased</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-xr-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone XR and iPad</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-meme-march-unstoppable-videos-hit-the-tweetsphere/"><u>In 2024, Meme March Unstoppable Videos Hit the Tweetsphere</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-pc-audio-issues-instantly/"><u>Troubleshoot and Fix PC Audio Issues Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-solving-your-computers-constant-wi-fi-drops/"><u>Ultimate Troubleshooting Guide: Solving Your Computer's Constant Wi-Fi Drops</u></a></li>
 </ul></div>
 
