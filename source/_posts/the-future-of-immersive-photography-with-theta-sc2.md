@@ -1,7 +1,7 @@
 ---
 title: The Future of Immersive Photography with Theta SC2
-date: 2025-01-06T01:40:46.170Z
-updated: 2025-01-09T23:08:55.948Z
+date: 2025-01-14T16:47:59.476Z
+updated: 2025-01-15T19:23:13.264Z
 categories:
   - BestProducts
 description: This Article Describes The Future of Immersive Photography with Theta SC2
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/CMi9CccXZVUVcwSL_bR0hHJY3nE=/540x405/fi
 ## Smooth Transition to a Cloud-Ready Photography Experience
 
 4.6
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Nixplay Iris Digital Picture Frame (8-inch)
 
@@ -45,6 +49,10 @@ thumbnail: https://www.lifewire.com/thmb/CMi9CccXZVUVcwSL_bR0hHJY3nE=/540x405/fi
 
 ![Nixplay Iris](https://www.lifewire.com/thmb/fH6juJ4hDTrjQmB-6Kmtedb_f5Y=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Nixplay-Iris-Digital-Photo-Frame-1-7d85fd1aface4628954982aea902677e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Anton Galang
 
 [View On Amazon $180](https://www.amazon.com/Nixplay-Smart-Photo-Burnished-Bronze/dp/B01K9MR3LC/?tag=lifewire-onsite-prod-20&ascsubtag=4783240%7Cn93c388815a1e425884006becb23812f102%7CB01K9MR3LC) [View On Walmart $179](https://www.walmart.com/ip/Nixplay-Iris-8-Wi-Fi-Cloud-Digital-Frame-Silver/116755969)
@@ -69,10 +77,6 @@ thumbnail: https://www.lifewire.com/thmb/CMi9CccXZVUVcwSL_bR0hHJY3nE=/540x405/fi
 
  Lifewire / Anton Galang
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: An elegant addition to your décor**
 
  At a time when most digital frames are built with a similar black border and a basic tablet-esque design, the Iris is a style-conscious breath of fresh air. The frame I tested rocked a "burnished bronze" finish on its wide metallic border, giving the frame some nice visual pop while staying understated enough to fit in just about anywhere in my home. I imagine the "peach copper" and "silver" variants look equally elegant.
@@ -85,6 +89,10 @@ The Iris is a style-conscious breath of fresh air.
 
  Controlling the Iris and all its settings can be done via the Nixplay mobile app, which includes a virtual remote, but a physical remote is included as well. It's the same remote used by other Nixplay frames, so if you have multiple you can control them all with a single device—at the same time, confusingly, if they're close to each other. Overall, the remote works fine, but its square shape means frustration when you keep picking it up pointed the wrong way without realizing it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Media: Nothing to plug in**
 
  The Iris doesn't support physical media like[USB flash drives](https://www.lifewire.com/best-usb-flash-drives-4141193) or SD cards, which can be a bummer if you already have stored files ready to load. But once you're set up with the web app, depending on your fluency with the software and the extent of your online photo collection, you may find it easier to load your pics from the cloud than to track down and plug in physical memory. With 6.18GB of internal storage available on the frame, there's enough for plenty of photos to cycle through, and it's easy to swap in fresh ones.
@@ -92,7 +100,7 @@ The Iris is a style-conscious breath of fresh air.
  Lifewire / Anton Galang​
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: Online presence not optional**
@@ -109,10 +117,6 @@ The Iris is a style-conscious breath of fresh air.
 
  The Iris can also play video clips up to 15 seconds in length. The quality is decent enough, though combined with the quiet speakers that serve up the accompanying audio, video playback won't be a primary use for the frame.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Software: Bringing photo frames to the connected world**
 
  With how usable and convenient the Iris's cloud-based features are, it's not unreasonable to think it could represent the future of picture frames. You upload photos to your cloud albums directly from your phone or computer, then arrange them into playlists that can be shared among any paired Nixplay frames (up to five frames with a free account and 10GB of cloud storage). You can even get photos from friends, or link your Google Photos account to create dynamic playlists of, say, your 1,000 most recent photos.
@@ -123,19 +127,11 @@ The Iris is a style-conscious breath of fresh air.
 
  You can also control the Iris from anywhere with an internet connection. That includes setting up stuff like the vast selection of slideshow transition options, a sleep/wake schedule, or the noise-based activity sensor with ten levels of sensitivity. It's also compatible with[Amazon's Alexa voice assistant](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) , a feature not mentioned during setup but added as part of a recent software update. You can add Nixplay as an[Alexa skill](https://www.lifewire.com/alexa-skills-4126799) , but getting the voice commands to work is a bit cumbersome and may take some patience, practice, and customization.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Paying for style and substance**
 
  Usually available between $150 and $180, the Iris costs significantly more than a regular offline digital frame, but is worth the cost if you're a fan of its aesthetics and array of modern features.
 
  It’s worth the cost if you're a fan of its aesthetics and array of modern features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Competition: A prettier face**
 
@@ -150,6 +146,10 @@ The Iris is a style-conscious breath of fresh air.
  **A little extra appeal and a lot of smart functionality.**
 
  Even with a slightly smaller display, the Nixplay Iris steps up the digital photo frame game with its classy design on top of cloud features, shared playlists, social media integration, and controls from any PC or mobile device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -180,16 +180,19 @@ The Iris is a style-conscious breath of fresh air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unveiling-the-power-of-the-participant-grids-in-google-meet/"><u>[New] In 2024, Unveiling the Power of the Participant Grids in Google Meet</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-twitters-viral-spotlight-top-10-tiktoks-of-the-week/"><u>[New] Twitter's Viral Spotlight Top 10 TikToks of the Week</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beginners-obs-techniques-for-youtube-live-streaming/"><u>[Updated] 2024 Approved Beginner's OBS Techniques for YouTube Live Streaming</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-chill-championships-highlighting-cold-climates-sports/"><u>[Updated] 2024 Approved Chill Championships Highlighting Cold Climates Sports</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-workaround-twitter-videos-in-chrome-problem/"><u>[Updated] In 2024, Workaround Twitter Videos in Chrome Problem</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-screen-customization-a-google-meet-essentials-guide/"><u>[Updated] Navigating Screen Customization A Google Meet Essentials Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-quick-technique-downloading-tweet-videos-to-your-phone/"><u>2024 Approved Quick Technique Downloading Tweet Videos to Your Phone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-starting-simple-how-to-create-your-own-twitter/"><u>2024 Approved Starting Simple How to Create Your Own Twitter</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-enhanced-performance-free-windows-11-drivers-for-intel-iris-xe-graphics-now-available/"><u>Get Enhanced Performance: [Free] Windows 11 Drivers for Intel Iris XE Graphics Now Available</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-infinix-hot-30i-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Infinix Hot 30i? Fixed | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-miracast-connectivity-challenges-caused-by-outdated-or-incompatible-drivers/"><u>Overcoming Miracast Connectivity Challenges Caused by Outdated or Incompatible Drivers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-tips-for-effective-screen-broadcasts-on-fb-live/"><u>[New] 2024 Approved Tips for Effective Screen Broadcasts on FB Live</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-nature-garmin-virb-ultra-30-cam-review/"><u>[New] Exploring Nature Garmin VIRB Ultra 30 Cam Review</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-tube-top-ten-the-most-viewed-tweets-on-social-media/"><u>[New] In 2024, Tube Top Ten The Most Viewed Tweets on Social Media</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-online-sensation-spotlight-for-2024/"><u>[New] Online Sensation Spotlight for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-core-framework-principles-for-engaging-online-promotions-for-2024/"><u>[Updated] Core Framework Principles for Engaging Online Promotions for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-complete-guide-to-compliant-twitter-videos/"><u>[Updated] In 2024, The Complete Guide to Compliant Twitter Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-tweetvidcutter-mp4webm-extractor/"><u>[Updated] In 2024, TweetVidCutter MP4/WebM Extractor</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-pixels-in-perfection-tweeting-at-full-hd-quality-for-2024/"><u>[Updated] Pixels in Perfection Tweeting at Full HD Quality for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-video-composition-techniques/"><u>2024 Approved Mastering YouTube Video Composition Techniques</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/mastering-virtual-flight-training-the-enduring-appeal-of-microsoft-flight-simulator-x-gold-review/"><u>Mastering Virtual Flight Training: The Enduring Appeal of Microsoft Flight Simulator X Gold Review</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-steam-cloud-setbacks-on-pc/"><u>Overcoming Steam Cloud Setbacks on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revive-your-apple-watch-top-six-solutions-for-troubled-pairing/"><u>Revive Your Apple Watch: Top Six Solutions for Troubled Pairing</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-obtain-and-update-hp-deskjet-3700-printer-drivers-get-started-today/"><u>Step-by-Step Guide to Obtain and Update HP DeskJet 3700 Printer Drivers - Get Started Today!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "No More Disruptions: Effortless Ways to Prevent League of Legends From Crashing"
-date: 2025-01-03T20:26:13.058Z
-updated: 2025-01-09T20:59:09.441Z
+date: 2025-01-12T23:52:29.912Z
+updated: 2025-01-15T21:43:15.754Z
 tags:
   - win11
   - win10
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Rename the game folder
 
@@ -68,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
@@ -85,17 +81,17 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-5.7.2-scan-1.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair game files
 
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 2. Select**Diablo Immortal** from the game list. Then click the**gear icon** beside the Play button and click**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files.jpg)
 3. Click**Begin Scan** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
@@ -122,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
@@ -149,22 +149,22 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-10-most-shared-tiktoks-in-social-media-circles-for-2024/"><u>[New] 10 Most Shared TikToks in Social Media Circles for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-integrated-upload-sending-vids-to-twitter-and-tumblr/"><u>[New] Integrated Upload Sending Vids to Twitter and Tumblr</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-gratis-commerce-driven-presentation-templates-ideas/"><u>[Updated] 2024 Approved Gratis Commerce-Driven Presentation Templates Ideas</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-from-twitters-tube-to-your-whatsapp-buddy-list-for-2024/"><u>[Updated] From Twitter's Tube to Your WhatsApp Buddy List for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-hot-list-viral-video-threads-for-the-week/"><u>[Updated] In 2024, The Hot List Viral Video Threads for the Week</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagrams-most-reliable-grid-creation-tools-countdown-to-top-ten-for-2024/"><u>[Updated] Instagram's Most Reliable Grid Creation Tools, Countdown to Top Ten for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-taking-control-of-quality-edit-your-published-videos-on-youtube/"><u>[Updated] Taking Control of Quality Edit Your Published Videos on YouTube</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-tweeting-fun-iosandroid-tips-for-downloading-gifs/"><u>[Updated] Tweeting Fun IOS/Android Tips for Downloading GIFs</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-10-moments-that-made-a-mark-on-twitter-and-tiktok/"><u>2024 Approved 10 Moments That Made a Mark on Twitter and TikTok</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/adjusting-copy-and-paste-on-windows-to-prevent-issues/"><u>Adjusting Copy & Paste on Windows to Prevent Issues</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-for-fixing-continuous-audio-disruptions-on-your-windows-11-pc/"><u>Expert Advice for Fixing Continuous Audio Disruptions on Your Windows 11 PC</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-12-mini-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 12 mini or iPad?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-pair-your-wireless-headphones-with-a-ps4-console-a-step-by-step-guide-with-images/"><u>How to Pair Your Wireless Headphones with a PS4 Console: A Step-by-Step Guide with Images</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-giggle-galore-twitters-top-10-joke-threads/"><u>In 2024, Giggle Galore Twitter's Top 10 Joke Threads</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-xcover-6-pro-tactical-edition-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy XCover 6 Pro Tactical Edition to Protect Your Individual Information</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-user-account-control-prompts-elevation-needed-in-windows-11-10-and-7/"><u>Resolving User Account Control Prompts: Elevation Needed in Windows 11, 10 & 7</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/sending-non-retwitted-videos-from-your-mobile-browser-to-twitter-for-2024/"><u>Sending Non-Retwitted Videos From Your Mobile Browser to Twitter for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-optimize-your-tweeted-videos-aspect-ratio-checklist/"><u>[New] 2024 Approved Optimize Your Tweeted Videos Aspect Ratio Checklist</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-talkers-theme-transformer/"><u>[New] 2024 Approved Top Talkers' Theme Transformer</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitters-hot-talk-hustle-1-10-viral-visits/"><u>[New] 2024 Approved Twitter's Hot Talk Hustle #1-#10 Viral Visits</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-how-to-broadcast-videos-on-twitter-without-the-retweet-step-for-2024/"><u>[New] How To Broadcast Videos on Twitter without the 'Retweet' Step for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-addressing-hearing-gaps-in-video-content-sharing/"><u>[New] In 2024, Addressing Hearing Gaps in Video Content Sharing</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-maintain-proper-aspect-ratio-for-tweeted-movies/"><u>[New] Maintain Proper Aspect Ratio for Tweeted Movies</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-rush-release-channeling-playlist-hits-online/"><u>[Updated] 2024 Approved Rush Release Channeling Playlist Hits Online</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitter-account-launch-a-beginners-roadmap/"><u>[Updated] 2024 Approved Twitter Account Launch A Beginner's Roadmap</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-social-media-snipping-an-easy-method-for-capturing-twitters-gifs/"><u>[Updated] In 2024, Social Media Snipping An Easy Method for Capturing Twitter’s GIFs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-the-seamless-tweet-to-snap-transition-guide/"><u>2024 Approved The Seamless Tweet-to-Snap Transition Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choosing-the-right-display-tvs-vs-projectors-in-a-4k-era/"><u>Choosing the Right Display TVs vs Projectors in a 4K Era</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cutting-edge-writing-empowering-word-with-gpt/"><u>Cutting Edge Writing: Empowering Word with GPT</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-potential-pilots-choice-top-10-drone-must-haves/"><u>In 2024, Unleashing Potential Pilot's Choice - Top 10 Drone Must-Haves</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-music-insertion-on-instagram-visual-stories-and-posts/"><u>Mastering Music Insertion on Instagram Visual Stories and Posts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-blue-screen-errors-from-igdkmd64sys-in-windows-11-solution-provided/"><u>Troubleshooting Blue Screen Errors From IGDKMD64.sys in Windows 11 [Solution Provided]</u></a></li>
+<li><a href="https://games-able.techidaily.com/upping-the-ante-counter-strikes-frame-game/"><u>Upping the Ante: Counter-Strike's Frame Game</u></a></li>
 </ul></div>
 
