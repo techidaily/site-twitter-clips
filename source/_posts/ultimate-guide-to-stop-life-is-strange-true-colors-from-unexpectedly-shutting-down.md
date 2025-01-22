@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Stop Life Is Strange: True Colors From Unexpectedly Shutting Down"
-date: 2025-01-10T16:46:56.224Z
-updated: 2025-01-15T18:08:45.072Z
+date: 2025-01-21T03:53:52.692Z
+updated: 2025-01-22T03:03:03.085Z
 tags:
   - win11
   - win10
@@ -59,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 2. Under the**Processes** tab, right-click the processes that you want to shut down, then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this doesn’t solve your problem, try the next fix.
 
 ## Fix 2: Update the graphics driver
@@ -79,7 +83,7 @@ If this doesn’t solve your problem, try the next fix.
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -100,6 +104,10 @@ If this doesn’t solve your problem, try the next fix.
 
 If this doesn’t help, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Run the game executable as administrator
 
  Sometimes when the game doesn’t have the required administrator rights, it could crash or freeze randomly in the middle of the gameplay. You can provide them by running the game executable file as administrator.
@@ -117,11 +125,11 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -141,17 +149,17 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7: Check your antivirus software
@@ -173,26 +181,18 @@ If the freezing issue persists, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the **Advanced** tab, under the Performance section, click **Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
@@ -201,12 +201,12 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 8. Calculate and fill in the **Initial size and Maximum size** , click **Set** then click **OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 9. Reboot your PC to see if Vanguard still freezes on your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -227,14 +227,24 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-pro-editors-insight-restore-true-colors-to-faded-iphone-hdr-in-adobe-premiere/"><u>[New] 2024 Approved [Pro Editor's Insight] Restore True Colors to Faded iPhone HDR in Adobe Premiere</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-effortlessly-manage-followers-with-top-twitter-cleanup-apps-for-2024/"><u>[New] Effortlessly Manage Followers with Top Twitter Cleanup Apps for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-leveraging-live-tweets-strategies-unveiled/"><u>[New] In 2024, Leveraging Live Tweets Strategies Unveiled</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/crafting-connections-posting-vids-between-tweets-and-tumbles/"><u>Crafting Connections Posting Vids Between Tweets & Tumbles</u></a></li>
-<li><a href="https://blog-min.techidaily.com/discover-new-frontiers-the-six-surprising-career-paths-within-ai-technology/"><u>Discover New Frontiers: The Six Surprising Career Paths Within AI Technology</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guide-to-playing-various-video-types-on-your-ipad-and-file-conversion-techniques/"><u>Guide to Playing Various Video Types on Your iPad and File Conversion Techniques</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-motorola-moto-e13-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Motorola Moto E13 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Plus with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/top-10-innovative-tweets-de-followers-and-cleanup-apps-for-2024/"><u>Top 10 Innovative Tweets De-Followers & Cleanup Apps for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-no-fluff-just-facts-the-verdict-on-recordcast/"><u>[New] 2024 Approved No Fluff, Just Facts The Verdict on RecordCast</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-prime-video-stardom-top-tweets-and-peak-watchability-rankings/"><u>[New] 2024 Approved Prime Video Stardom Top Tweets and Peak Watchability Rankings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-9-indoor-game-apps-perfect-for-android-without-connectivity/"><u>[New] 2024 Approved Top 9 Indoor Game Apps - Perfect For Android Without Connectivity</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-explosive-engagement-on-twitter-the-hottest-content-now/"><u>[New] In 2024, Explosive Engagement on Twitter The Hottest Content Now</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-twitching-videos-seamlessly-twitter-and-tumblr-guide/"><u>[New] In 2024, Twitching Videos Seamlessly Twitter & Tumblr Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-maximizing-reach-sharing-igtv-to-fb-4-methods-for-2024/"><u>[New] Maximizing Reach Sharing IGTV to FB (4 Methods) for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-navigating-twitters-reaction-videos-explained/"><u>[Updated] 2024 Approved Navigating Twitter's Reaction Videos Explained</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-windows-11-gaming-recordings/"><u>[Updated] 2024 Approved The Ultimate Guide to Windows 11 Gaming Recordings</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-viral-power-couple-tiktok-and-twitter-trends/"><u>[Updated] In 2024, The Viral Power Couple TikTok & Twitter Trends</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-maximizing-your-platforms-posting-tiktok-content-on-twitter/"><u>[Updated] Maximizing Your Platforms Posting TikTok Content on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-whatsapp-video-integration-for-twitter-content/"><u>[Updated] WhatsApp Video Integration for Twitter Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crafting-moments-instagrams-highlight-and-download-insights/"><u>Crafting Moments Instagram's Highlight and Download Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-explore-twitter-videos-in-high-fidelity-format/"><u>In 2024, Explore Twitter Videos in High Fidelity Format</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s23plus-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S23+ FRP Locks</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/integrate-twitter-videos-into-your-instagram-feed-for-2024/"><u>Integrate Twitter Videos Into Your Instagram Feed for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/overcoming-handbrake-challenges-for-secure-dvd-conversion-on-your-apple-computer/"><u>Overcoming Handbrake Challenges for Secure DVD Conversion on Your Apple Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steps-to-remove-advanced-sound-adjustments-inbuilt-in-windows-10-os/"><u>Steps To Remove Advanced Sound Adjustments Inbuilt In Windows 10 OS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-future-of-video-capturing-embracing-vimeo-record/"><u>The Future of Video Capturing Embracing Vimeo Record</u></a></li>
 </ul></div>
 

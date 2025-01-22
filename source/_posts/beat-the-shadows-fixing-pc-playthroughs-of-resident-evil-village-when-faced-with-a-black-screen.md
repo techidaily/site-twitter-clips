@@ -1,7 +1,7 @@
 ---
 title: "Beat the Shadows: Fixing PC Playthroughs of Resident Evil Village When Faced with a Black Screen"
-date: 2025-01-11T01:45:06.918Z
-updated: 2025-01-16T00:35:37.192Z
+date: 2025-01-20T03:20:08.438Z
+updated: 2025-01-21T21:11:40.796Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 ## No More Mouse Troubles in Resident Evil Village! Here's the Fix You Need
 
 Resident Evil Village is a great survival horror game in the storied Resident Evil franchise. But the cursor became annoying while in-game with Village. This post gives you some possible fixes, give it a try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -37,26 +41,22 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
 3. Click**Mouse** on the left panel, then click**Additional mouse options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Apply** . Your mouse cursor will disappear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
 6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Change resolution
 
@@ -79,13 +79,13 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix brings no luck, move to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update device driver
@@ -134,24 +134,16 @@ There are two ways you can update your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-dji-spark-analysis-snapshotting-from-the-air-in-a-miniature-format/"><u>[New] DJI Spark Analysis Snapshotting From the Air in a Miniature Format</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-earn-big-on-snapchat-the-ultimate-guide-to-money-making-tips/"><u>[New] Earn Big on Snapchat The Ultimate Guide to Money-Making Tips</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-expanding-viewership-tweeting-to-fb-effectively/"><u>[New] Expanding Viewership Tweeting to FB Effectively</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-fix-disruption-chromium-and-tweeted-videos/"><u>[New] Fix Disruption Chromium and Tweeted Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-trending-tutorial-tracker-for-2024/"><u>[New] Trending Tutorial Tracker for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-clearer-views-the-top-10-online-photo-fixes/"><u>[Updated] In 2024, Clearer Views The Top 10 Online Photo Fixes</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-strategic-use-of-twitters-wayback-machine-features-for-2024/"><u>[Updated] Strategic Use of Twitter's Wayback Machine Features for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-art-of-retention-capturing-gifs-from-social-media/"><u>[Updated] The Art of Retention Capturing GIFs From Social Media</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-twitvid-mastery-your-go-to-resource-for-video-downloads/"><u>[Updated] TwitVid Mastery Your Go-To Resource for Video Downloads</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-nokia-c210-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Nokia C210 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/achieving-flawless-visual-balance-aspect-ratios-matter-for-2024/"><u>Achieving Flawless Visual Balance Aspect Ratios Matter for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/enhancing-social-media-reach-with-tweets-in-video-form-insta-style/"><u>Enhancing Social Media Reach with Tweets in Video Form, Insta Style</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/get-your-logitech-mouse-working-on-windows-11-step-by-step-solutions/"><u>Get Your Logitech Mouse Working on Windows 11: Step-by-Step Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-creating-curved-graphics/"><u>In 2024, Step-by-Step Guide to Creating Curved Graphics</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-trendsetters-on-twitternet-top-10-threads-ranking/"><u>In 2024, Trendsetters on Twitternet Top 10 Threads Ranking</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/ios-and-android-a-tutorial-for-saving-twitters-animations-for-2024/"><u>IOS and Android A Tutorial for Saving Twitter's Animations for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/simplify-your-experience-a-step-by-step-guide-to-androids-quick-settings-functionality/"><u>Simplify Your Experience: A Step-by-Step Guide to Android's Quick Settings Functionality</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-social-sphere-shift-identifying-the-days-hottest-tweets-for-2024/"><u>[New] Social Sphere Shift Identifying the Day's Hottest Tweets for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-entrepreneurs-playbook-gather-these-vital-products-to-thrive-in-business/"><u>[New] The Entrepreneur's Playbook Gather These Vital Products to Thrive in Business</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-dos-and-donts-of-youtube-videos-on-twitter/"><u>[Updated] 2024 Approved The Dos and Don'ts of YouTube Videos on Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-harness-the-power-of-twitch-livestream-tips-and-tricks/"><u>[Updated] Harness the Power of Twitch Livestream Tips & Tricks</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-step-by-step-saving-tweet-vids-on-androids/"><u>[Updated] Step-By-Step Saving Tweet Vids on Androids</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-ways-to-take-amazing-time-lapse-videos-on-android-2024/"><u>Best Ways to Take Amazing Time-Lapse Videos on Android 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/expedite-access-to-your-gaming-steam-id/"><u>Expedite Access to Your Gaming Steam ID</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/social-sensation-tweets-whats-going-big-online/"><u>Social Sensation Tweets What's Going Big Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-models-thoroughly-evaluated-by-tech-experts/"><u>Top Rated iPad Models - Thoroughly Evaluated by Tech Experts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210559269-9781590793992-what-is-reality/"><u>What is Reality? | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Mighty ZTE Blade A3Y: Balancing Quality and Cost in Today's Smartphone Market"
-date: 2025-01-11T00:37:17.763Z
-updated: 2025-01-15T18:20:19.046Z
+date: 2025-01-20T18:48:40.938Z
+updated: 2025-01-22T03:11:19.673Z
 categories:
   - BestProducts
 description: "This Article Describes The Mighty ZTE Blade A3Y: Balancing Quality and Cost in Today's Smartphone Market"
@@ -13,16 +13,12 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
 3
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Paradox Interactive Surviving Mars
 
 ![Surviving Mars](https://www.lifewire.com/thmb/AjVVBONBD_MfQeA3voTlfDA2Jrc=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
@@ -47,12 +43,16 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Paradox Interactive Surviving Mars
 
 ![Surviving Mars](https://www.lifewire.com/thmb/Em7mFCNB7ffPEBeVuQuFIJpvJyQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_HeroSquare-b3aab20f5ee249ca9872c5279d25d0c1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -73,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
  Released in 2018, the Surviving Mars developed by Haemimont Games and published by Paradox Interactive poses a massive challenge: colonizing a planet. When I picked this up, I decided to check out how the game fared for a two-year-old game in terms of[graphics](https://www.lifewire.com/graphic-design-basics-s2-1074288) , gameplay, and competition. Read on for the verdict to see how it measures up against other games on our best city-building games list—and for forewarning about those pesky cold waves.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Plot: Lots of options**
 
  For a city-building game, Surviving Mars offers a plethora of gaming options once you move past the tutorial. For example, when starting a game, you can choose who funds the colony, ranging from a United Space Federation to China to the United States. Each comes with its own perks and drawbacks, and creates new challenges for each scenario. You can also set more harsh conditions to create more fun[gameplay](https://www.lifewire.com/produce-videogame-videos-for-youtube-3562561) , as well as pick an area of land less suitable for human habitation.
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
  As for a real plotline, there isn’t really one—the only kind of plot in the game is the objective to colonize Mars. There are challenges which you can do if you’re feeling particularly adventurous, which is nice, but they’re not a real plotline, and only serve to give you a different angle to colonizing the planet.
 
 ![Surviving Mars](https://www.lifewire.com/thmb/tWjPu4rcPDZ30Ilhru3tUFnqjc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Surviving_Mars_02-d1d5dfcccecb478098ab06a6b5137e68.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Rebecca Isaacs
 
@@ -127,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
  Lifewire / Rebecca Isaacs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Competition: Other city-building games**
 
  What makes Surviving Mars unique is that technically it is a city-[building game](https://www.lifewire.com/best-offline-building-games-4580415) , but instead of building bus lines, you have to build oxygen and water lines to ensure colony survival. However, just like city-building games, you are building infrastructure. If you’re solely focused on building up a city, Surviving Mars would be a great addition to your library, but so would[Cities: Skylines](https://store.steampowered.com/app/255710/Cities%5FSkylines/) (view on Steam). Both focus on creating a habitat from scratch—one just happens to be hundreds of thousands of miles away while the other could be in a tropical or a Midwestern climate.
@@ -138,10 +142,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
  **A interesting new take on city-builders, if you can stomach the micromanagement.**
 
  While Surviving Mars is marred by slowness and micromanagement, the unique gameplay and setting make for a true sci-fi treat. It’s at a fair price point, promises lots of fun, and some fun twists and turns. Just watch out for those blasted dust storms. Your colonists’ lives depend on it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -170,20 +170,20 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-design-and-produce-your-fb-profile-vids/"><u>[New] 2024 Approved Design and Produce Your FB Profile Vids</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-minute-by-minute-fortnite-tile-methods/"><u>[New] 2024 Approved Minute-by-Minute Fortnite Tile Methods</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-elevate-content-on-instagram-master-the-art-of-animation-in-stories-for-2024/"><u>[Updated] Elevate Content on Instagram Master the Art of Animation in Stories for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-surging-profits-with-three-steps-an-easy-way-to-tally-your-youtube-earning-for-2024/"><u>[Updated] Surging Profits with Three Steps An Easy Way to Tally Your YouTube Earning for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/abbyy-rpa-abbyy-blog/"><u>ABBYY プロセスインテリジェンスが RPA性能向上に果たす役割: ABBYY Blog</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/budget-friendly-connectivity-excellence-the-tp-link-archer-a9-router-review/"><u>Budget-Friendly Connectivity Excellence - The TP-Link Archer A9 Router Review</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/chatgpt-sign-on-difficulties-heres-how-to-correct-them/"><u>ChatGPT Sign-On Difficulties? Here's How to Correct Them!</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/crack-the-csgo-login-conundrum-with-these-5-tips/"><u>Crack the CS:GO Login Conundrum with These 5 Tips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-xr-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone XR and iPad</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/instantly-resolve-fortnite-not-working-expert-tips-revealed/"><u>Instantly Resolve Fortnite Not Working – Expert Tips Revealed</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/1723013418706-mastering-mlb-the-show-21-fix-the-games-server-issues-once-and-for-all/"><u>Mastering MLB The Show 21: Fix the Game's Server Issues Once & For All!</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/solving-sound-issues-get-your-fortnite-microphone-up-and-running-again/"><u>Solving Sound Issues - Get Your Fortnite Microphone Up and Running Again!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-reno-8t-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Reno 8T</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/1723012171169-top-tips-to-eliminate-lag-in-rainbow-six-siege-enjoy-seamless-gaming/"><u>Top Tips to Eliminate Lag in Rainbow Six Siege – Enjoy Seamless Gaming</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-sending-instagram-direct-messages-with-twitter-videos-for-2024/"><u>[New] Sending Instagram Direct Messages with Twitter Videos for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-insiders-guide-to-ultimate-audio-equipment/"><u>[New] The Insider's Guide to Ultimate Audio Equipment</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-top-strategies-for-crafting-viral-reactions-a-guide/"><u>[Updated] 2024 Approved Top Strategies for Crafting Viral Reactions A Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-androids-step-by-step-to-rotate-and-unite-video-files-for-2024/"><u>[Updated] Android's Step-by-Step to Rotate & Unite Video Files for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-the-essential-guide-to-signing-up-for-twitter/"><u>[Updated] The Essential Guide to Signing Up for Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tweaked-sound-from-video-to-mp3aac-for-2024/"><u>[Updated] Tweaked Sound From Video to MP3/AAC for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitter-integration-for-tiktok-video-content/"><u>[Updated] Twitter Integration for TikTok Video Content</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-enhancing-user-experience-with-responsive-html-designs/"><u>2024 Approved Enhancing User Experience with Responsive HTML Designs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722981850200-beat-steam-error-code-n130-ultimate-fixes-and-tips-revealed/"><u>Beat Steam Error Code N130: Ultimate Fixes and Tips Revealed</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effortless-windows-update-configuration-made-simple-with-yl-software-insights/"><u>Effortless Windows Update Configuration Made Simple with YL Software Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-endless-load-screen-in-madden-22-solutions-inside/"><u>How to Overcome the Endless Load Screen in Madden 22 – Solutions Inside</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/is-youtube-tv-worth-subscribing-to-5-indications-to-consider/"><u>Is YouTube TV Worth Subscribing To – 5 Indications to Consider</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-magic-vs-2-by-fonelab-android-recover-data/"><u>Recover lost data from Magic Vs 2</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-honor-magic-6-pro-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Honor Magic 6 Pro.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-performance-of-apples-homepod-mini-a-review-focusing-on-music-streaming-and-siri-functionality/"><u>Unveiling the Performance of Apple's HomePod Mini: A Review Focusing on Music Streaming and Siri Functionality</u></a></li>
 </ul></div>
 

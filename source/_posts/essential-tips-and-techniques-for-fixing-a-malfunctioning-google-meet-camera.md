@@ -1,7 +1,7 @@
 ---
 title: Essential Tips and Techniques for Fixing a Malfunctioning Google Meet Camera
-date: 2025-01-11T18:09:50.562Z
-updated: 2025-01-15T18:07:58.172Z
+date: 2025-01-18T04:48:29.434Z
+updated: 2025-01-22T05:14:53.197Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
  But don’t worry. There are some general crash troubleshooting solutions you can try when_DOOM Eternal_ crashing issues occurs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix DOOM crashing issue?
 
  You may not have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -30,6 +34,10 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 5. **[Increase virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Check for Windows update](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Meet the minimum system requirements
 
@@ -76,10 +84,6 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -95,6 +99,10 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
 If your problem persists, then go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Verify the integrity of your game files
 
  If a required file of your game installation gets corrupt, or it’s deleted as a false positive by your antivirus, your game may end up crashing. To see if that the problem for you, follow the instructions below:
@@ -106,20 +114,20 @@ If your problem persists, then go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-896.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Right-click **DOOM** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-42-46-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Wait for this process to be complete, and then relaunch DOOM.
 
@@ -159,25 +167,17 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/paging-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Click your **C drive** .
 
@@ -190,15 +190,15 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **8)** Click **Set** , and then click **OK** .
 
 **9)**  Restart your computer and your game.
 
  If the game crashing issue still exists, then go ahead with the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Check for Windows updates
 
@@ -212,13 +212,13 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Restart your computer after the update is complete, then try running DOOM again.
 
  Hope Doom is running correctly now. If it’s not, don’t fret. Try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall DOOM Eternal
 
@@ -241,7 +241,7 @@ If not, move on and try the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_12-34-56-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall DOOM.
@@ -269,22 +269,18 @@ If not, move on and try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-how-to-launch-your-twitter-adventure/"><u>[New] 2024 Approved How to Launch Your Twitter Adventure</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-envisioning-the-next-big-thing-top-10-immersive-tools/"><u>[New] Envisioning the Next Big Thing Top 10 Immersive Tools</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-amazon-primes-trending-series-twitters-choice-2023/"><u>[New] In 2024, Amazon Prime's Trending Series - Twitter's Choice, 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-the-craft-of-professional-gopro-cinematography/"><u>[New] Mastering the Craft of Professional Gopro Cinematography</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-quick-fix-tweeting-vids-pause-in-chrome-for-2024/"><u>[New] Quick Fix Tweeting Vids Pause in Chrome for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-streamline-screen-scans-your-essential-toolkit-for-vid-saving/"><u>[New] Streamline Screen Scans Your Essential Toolkit for Vid Saving</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-twitters-visuals-on-the-social-media-giant-fb-for-2024/"><u>[New] Twitters' Visuals on the Social Media Giant FB for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-list-the-5-most-excellent-slow-motion-cams/"><u>[New] Ultimate List The 5 Most Excellent Slow-Motion Cams</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-aspect-ratio-essentials-for-social-network-videos-for-2024/"><u>[Updated] Aspect Ratio Essentials for Social Network Videos for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-tweeted-timeline-capture-securing-your-social-media-videos-for-2024/"><u>[Updated] Tweeted Timeline Capture Securing Your Social Media Videos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-mastery-expert-advice-on-how-to-optimize-your-use-of-microsofts-cutting-edge-language-ai/"><u>ChatGPT Mastery: Expert Advice on How to Optimize Your Use of Microsoft's Cutting-Edge Language AI</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-no-budget-no-problem-best-free-mod-video-editors-for-2024/"><u>New No Budget, No Problem Best Free MOD Video Editors for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-freezing-how-the-latest-patch-improves-your-halo-experience/"><u>No More Freezing - How the Latest Patch Improves Your Halo Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/shake-off-frozen-clicks-top-6-tips-for-windows-users/"><u>Shake Off Frozen Clicks: Top 6 Tips for Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-non-functional-leds-on-corsair-keyboards/"><u>Troubleshooting Tips: Fixing Non-Functional LEDs on Corsair Keyboards</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/tweettide-surge-video-waves-gain-momentum-for-2024/"><u>TweetTide Surge Video Waves Gain Momentum for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-how-to-save-twitter-videos-seamlessly-on-your-android-for-2024/"><u>[New] How to Save Twitter Videos Seamlessly on Your Android for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-cutting-edge-creations-yearly-free-text-files/"><u>[New] In 2024, Cutting-Edge Creations Yearly, Free Text Files</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-smart-techniques-to-curve-and-sculpt-pixels-for-2024/"><u>[New] Smart Techniques to Curve and Sculpt Pixels for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treamline-metadata-ranking-of-7-leading-online-youtube-tag-extractors/"><u>[New] Streamline Metadata Ranking of 7 Leading Online Youtube Tag Extractors</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2023-quick-share-tweeted-videos-for-whatsapp-for-2024/"><u>[Updated] 2023 Quick Share Tweeted Videos for WhatsApp for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-elevate-your-mobile-photography-mastering-leading-lines/"><u>[Updated] 2024 Approved Elevate Your Mobile Photography Mastering Leading Lines</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-hashtag-heroes-twitters-trending-talk/"><u>[Updated] In 2024, Hashtag Heroes Twitter's Trending Talk</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-top-5-platforms-for-active-engagement-outside-of-twitter/"><u>[Updated] Top 5 Platforms For Active Engagement Outside of Twitter</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-art-of-optimizing-windows-media-players-audio-operations-from-cds/"><u>The Art of Optimizing Windows Media Player's Audio Operations From Cds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-the-power-of-placement-comments-in-windows-explorer/"><u>Unveiling the Power of Placement Comments in Windows Explorer</u></a></li>
 </ul></div>
 

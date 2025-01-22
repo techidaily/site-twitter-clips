@@ -1,7 +1,7 @@
 ---
 title: Solving Sound Issues - Get Your Fortnite Microphone Up and Running Again!
-date: 2025-01-09T23:08:59.879Z
-updated: 2025-01-15T22:50:56.551Z
+date: 2025-01-17T19:36:12.917Z
+updated: 2025-01-21T20:50:54.500Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
  Many **Turtle Beach** users are reporting that their **headset** microphone is not working properly — it’s not recording any sound! If you’re experiencing this problem, don’t worry. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -28,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 3. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Check your microphone device settings
 
@@ -45,12 +45,16 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
@@ -65,17 +69,21 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Right click**Headset Microphone** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** Click the**Levels** tab, then drag the volume slider towards the_largest value_ .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **9)** Click**OK** , then click**OK** .
 
@@ -97,17 +105,9 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0b9d2848.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to your sound device or your headset to download the latest and correct driver for it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbe76cbcd6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) — if you don’t already have it, you’ll be prompted to upgrade when you click**Update All** .)  
 
@@ -143,16 +143,18 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-montages-made-easy-androidios-apps-for-creative-minds/"><u>[New] 2024 Approved Top Montages Made Easy Android/iOS Apps for Creative Minds</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-directly-sharing-twitter-videos-onto-your-instagram-account-for-2024/"><u>[New] Directly Sharing Twitter Videos Onto Your Instagram Account for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/mart-tagging-amplifying-your-youtube-presence-for-2024/"><u>[New] Smart Tagging Amplifying Your YouTube Presence for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-the-essential-2023-social-media-video-exploration/"><u>[New] The Essential 2023 Social Media Video Exploration</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-integrating-zoom-appointments-into-phone-and-pc-schedules/"><u>[Updated] 2024 Approved Integrating Zoom Appointments Into Phone & PC Schedules</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-connected-platforms-sharing-videos-between-twitter-and-tumblr/"><u>[Updated] Connected Platforms Sharing Videos Between Twitter & Tumblr</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-innovative-8-image-collections-for-macbook-screens/"><u>2024 Approved Innovative 8 Image Collections for MacBook Screens</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boosting-your-small-business-discover-four-key-methods-for-gaining-extra-assistance-tech-insights-by-zdnet/"><u>Boosting Your Small Business: Discover Four Key Methods for Gaining Extra Assistance | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/enable-the-muted-color-palette-in-facebook/"><u>Enable the Muted Color Palette in Facebook</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-optimize-twitter-tweets-for-hd-viewing/"><u>In 2024, Optimize Twitter Tweets for HD Viewing</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/stream-smoothness-tweets-buffering-in-chrome/"><u>Stream Smoothness Tweets Buffering in Chrome</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-privacy-preservation-through-invisible-modifications/"><u>[New] 2024 Approved Privacy Preservation Through Invisible Modifications</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-professional-window-capturer-version-11/"><u>[New] 2024 Approved Professional Window Capturer - Version 11</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-quick-tips-sending-tweets-content-via-whatsapp-app/"><u>[New] 2024 Approved Quick Tips Sending Tweets' Content via WhatsApp App</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-social-synergy-sharing-tweets-as-snaps-in-2e-2023-for-2024/"><u>[New] Social Synergy Sharing Tweets as Snaps in 2E 2023 for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-stream-switch-and-succeed-the-complete-guide-to-using-float-on-netflix-for-2024/"><u>[New] Stream, Switch and Succeed The Complete Guide to Using Float on Netflix for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-video-posting-pathway-for-twitter-and-tumblr-users/"><u>[Updated] 2024 Approved Video Posting Pathway for Twitter & Tumblr Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-navigating-video-dimensions-on-instagram-today-and-tomorrow/"><u>[Updated] In 2024, Navigating Video Dimensions on Instagram Today & Tomorrow</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-giggle-fest-on-the-twittersphere/"><u>2024 Approved Giggle Fest on the Twittersphere</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/herzliche-anleitungen-fur-den-datenschutz-backup-von-windows-10-auf-hp-lenovo-und-dell-notebooks/"><u>Herzliche Anleitungen Für Den Datenschutz: Backup Von Windows 10 Auf HP, Lenovo Und Dell Notebooks</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/mastering-video-posting-between-twitter-and-tumblr-for-2024/"><u>Mastering Video Posting Between Twitter and Tumblr for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/rapid-and-smooth-video-conversion-to-mp4-free-online-mp4-changeover-service/"><u>Rapid & Smooth Video Conversion to MP4 Free Online | MP4 Changeover Service</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/resolving-printer-spooler-issues-a-comprehensive-guide-by-yl-computing/"><u>Resolving Printer Spooler Issues: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-y27-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y27 5G</u></a></li>
 </ul></div>
 
