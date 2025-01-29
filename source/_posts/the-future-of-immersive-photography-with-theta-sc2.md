@@ -1,7 +1,7 @@
 ---
 title: The Future of Immersive Photography with Theta SC2
-date: 2025-01-20T19:21:45.747Z
-updated: 2025-01-21T23:26:22.463Z
+date: 2025-01-23T17:11:38.387Z
+updated: 2025-01-29T19:18:35.036Z
 categories:
   - BestProducts
 description: This Article Describes The Future of Immersive Photography with Theta SC2
@@ -14,16 +14,12 @@ thumbnail: https://www.lifewire.com/thmb/CMi9CccXZVUVcwSL_bR0hHJY3nE=/540x405/fi
 4.6
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Nixplay Iris Digital Picture Frame (8-inch)
 
 ![Nixplay Iris](https://www.lifewire.com/thmb/SKBkVg5bzpPB3Pg5ft5QarJikO4=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Nixplay-Iris-Digital-Photo-Frame-1-7d85fd1aface4628954982aea902677e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Anton Galang
 
@@ -48,6 +44,10 @@ thumbnail: https://www.lifewire.com/thmb/CMi9CccXZVUVcwSL_bR0hHJY3nE=/540x405/fi
 [View On Amazon $180](https://www.amazon.com/Nixplay-Smart-Photo-Burnished-Bronze/dp/B01K9MR3LC/?tag=lifewire-onsite-prod-20&ascsubtag=4783240%7Cn93c388815a1e425884006becb23812f102%7CB01K9MR3LC) [View On Walmart $179](https://www.walmart.com/ip/Nixplay-Iris-8-Wi-Fi-Cloud-Digital-Frame-Silver/116755969)
 
 4.6
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Nixplay Iris Digital Picture Frame (8-inch)
 
@@ -77,10 +77,6 @@ thumbnail: https://www.lifewire.com/thmb/CMi9CccXZVUVcwSL_bR0hHJY3nE=/540x405/fi
 
  Lifewire / Anton Galang
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: An elegant addition to your décor**
 
  At a time when most digital frames are built with a similar black border and a basic tablet-esque design, the Iris is a style-conscious breath of fresh air. The frame I tested rocked a "burnished bronze" finish on its wide metallic border, giving the frame some nice visual pop while staying understated enough to fit in just about anywhere in my home. I imagine the "peach copper" and "silver" variants look equally elegant.
@@ -93,6 +89,10 @@ The Iris is a style-conscious breath of fresh air.
 
  Controlling the Iris and all its settings can be done via the Nixplay mobile app, which includes a virtual remote, but a physical remote is included as well. It's the same remote used by other Nixplay frames, so if you have multiple you can control them all with a single device—at the same time, confusingly, if they're close to each other. Overall, the remote works fine, but its square shape means frustration when you keep picking it up pointed the wrong way without realizing it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Media: Nothing to plug in**
 
  The Iris doesn't support physical media like[USB flash drives](https://www.lifewire.com/best-usb-flash-drives-4141193) or SD cards, which can be a bummer if you already have stored files ready to load. But once you're set up with the web app, depending on your fluency with the software and the extent of your online photo collection, you may find it easier to load your pics from the cloud than to track down and plug in physical memory. With 6.18GB of internal storage available on the frame, there's enough for plenty of photos to cycle through, and it's easy to swap in fresh ones.
@@ -102,10 +102,6 @@ The Iris is a style-conscious breath of fresh air.
 ## **Setup Process: Online presence not optional**
 
  The Iris should be relatively painless to set up for people used to working with wireless products and online accounts, but there's no denying it's a more involved process than with offline photo frames. To start, an internet connection is mandatory. After plugging in the frame and a bit of load time, you'll have to enter your Wi-Fi network information using the remote. You also need a Nixplay account to access any of the company's smart frames. Only when you have an account created and paired with your Iris can you start loading pictures and[using your picture frame](https://www.lifewire.com/learning-to-use-digital-photo-frames-492922) . Everything you can do with the app makes it worthwhile, but the setup process does include a few barriers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Display: Small but sharp**
 
@@ -127,15 +123,15 @@ The Iris is a style-conscious breath of fresh air.
 
  You can also control the Iris from anywhere with an internet connection. That includes setting up stuff like the vast selection of slideshow transition options, a sleep/wake schedule, or the noise-based activity sensor with ten levels of sensitivity. It's also compatible with[Amazon's Alexa voice assistant](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) , a feature not mentioned during setup but added as part of a recent software update. You can add Nixplay as an[Alexa skill](https://www.lifewire.com/alexa-skills-4126799) , but getting the voice commands to work is a bit cumbersome and may take some patience, practice, and customization.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Paying for style and substance**
 
  Usually available between $150 and $180, the Iris costs significantly more than a regular offline digital frame, but is worth the cost if you're a fan of its aesthetics and array of modern features.
 
  It’s worth the cost if you're a fan of its aesthetics and array of modern features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Competition: A prettier face**
 
@@ -150,6 +146,10 @@ The Iris is a style-conscious breath of fresh air.
  **A little extra appeal and a lot of smart functionality.**
 
  Even with a slightly smaller display, the Nixplay Iris steps up the digital photo frame game with its classy design on top of cloud features, shared playlists, social media integration, and controls from any PC or mobile device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -180,22 +180,20 @@ The Iris is a style-conscious breath of fresh air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-clear-screen-techniques-focus-on-your-message-not-the-ambiance/"><u>[New] In 2024, Clear Screen Techniques Focus on Your Message, Not the Ambiance</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-snapchat-integration-for-twitters-visual-content/"><u>[New] In 2024, Snapchat Integration for Twitter's Visual Content</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-quick-guide-to-capturing-and-storing-twitter-animated-content/"><u>[New] In 2024, The Quick Guide to Capturing and Storing Twitter Animated Content</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-unlocking-audible-content-from-twitter-videos/"><u>[New] In 2024, Unlocking Audible Content From Twitter Videos</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-videosnapper-quickly-download-twitter-content-on-iphone/"><u>[Updated] 2024 Approved VideoSnapper Quickly Download Twitter Content on iPhone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-how-to-share-twitter-videos-on-facebook-for-2024/"><u>[Updated] How to Share Twitter Videos on Facebook for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-social-snapshot-examining-twitters-hottest-videos/"><u>[Updated] In 2024, Social Snapshot Examining Twitter's Hottest Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-inside-look-at-youtubes-creator-workshop-space/"><u>[Updated] Inside Look at YouTube's Creator Workshop Space</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-prime-picks-top-tweets-for-must-see-original-series/"><u>2024 Approved Prime Picks Top Tweets for Must-See Original Series</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-moto-g14-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-twitch-chat-the-top-confusions-new-viewers-and-broadcasters-face/"><u>Decoding Twitch Chat: The Top Confusions New Viewers and Broadcasters Face</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/download-gratuiti-protetta-immagini-window-11-sicurezza-e-privacy-dei-tuoi-dati/"><u>Download Gratuiti Protetta Immagini Window 11 - Sicurezza E Privacy Dei Tuoi Dati</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-accurate-are-chatgpts-responses-regarding-health-questions/"><u>How Accurate Are ChatGPT's Responses Regarding Health Questions?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/how-can-i-use-twitter-archive/"><u>How Can I Use Twitter Archive?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-profile-snap-intro-dimensions-file-type-duration/"><u>In 2024, FB Profile Snap Intro Dimensions, File Type, Duration</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/spark-interest-on-instagram-with-top-unboxing-video-techniques/"><u>Spark Interest on Instagram with Top Unboxing Video Techniques</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-ultimate-guide-to-downloading-and-updating-your-synaptic-touchpad-drivers/"><u>The Ultimate Guide to Downloading & Updating Your Synaptic Touchpad Drivers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-tech-triumphs-10-high-definition-screen-recorder-tools/"><u>[New] 2024 Approved Tech Triumphs #10 High-Definition Screen Recorder Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-exploring-top-9-iphone-applications-for-adding-photo-water-marks/"><u>[New] Exploring Top 9 iPhone Applications for Adding Photo Water Marks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-search-people-on-facebook-quickly-2-ways-included/"><u>[New] How to Search People on Facebook Quickly (2 Ways Included)</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-guide-to-posting-twitter-video-content-on-instagram/"><u>[New] In 2024, Guide to Posting Twitter Video Content on Instagram</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-streaming-the-threads-an-all-inclusive-2023-vlog-series/"><u>[New] Streaming the Threads An All-Inclusive 2023 Vlog Series</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-the-emoticon-experts-guide-to-capturing-and-preserving-twitters-gif-images-for-2024/"><u>[New] The Emoticon Expert’s Guide to Capturing and Preserving Twitter's GIF Images for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-explore-asmrs-impact-on-stress-reduction/"><u>[Updated] Explore ASMR’s Impact on Stress Reduction</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-compre-cooked-tweets-the-complete-tweet-vids-guide/"><u>[Updated] In 2024, Compre Cooked Tweets The Complete Tweet Vids Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-social-media-sensations-most-liked-and-watched-amazon-originals/"><u>[Updated] In 2024, The Social Media Sensations Most Liked & Watched Amazon Originals</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtube-tv-for-everyone-no-expertise-required/"><u>[Updated] YouTube TV for Everyone No Expertise Required</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-radeon-relive-download-and-review/"><u>2024 Approved Radeon Relive Download and Review</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/fix-there-is-no-sound-on-twitter-videos-for-2024/"><u>Fix There Is No Sound on Twitter Videos for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-in-depth-analysis-of-powerdirector-24-features/"><u>In 2024, In-Depth Analysis of PowerDirector '24 Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-your-funny-bone-a-stepwise-guide-to-making-memes-on-9gag/"><u>In 2024, Unleashing Your Funny Bone A Stepwise Guide to Making Memes on 9GAG</u></a></li>
 </ul></div>
 

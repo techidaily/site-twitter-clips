@@ -1,7 +1,7 @@
 ---
 title: "Beat the Shadows: Fixing PC Playthroughs of Resident Evil Village When Faced with a Black Screen"
-date: 2025-01-20T03:20:08.438Z
-updated: 2025-01-21T21:11:40.796Z
+date: 2025-01-23T19:15:17.265Z
+updated: 2025-01-29T18:37:00.272Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 Resident Evil Village is a great survival horror game in the storied Resident Evil franchise. But the cursor became annoying while in-game with Village. This post gives you some possible fixes, give it a try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,6 +25,10 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 2. [Change resolution](https://tools.techidaily.com/drivereasy/download/)
 3. [Change mouse settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Download an invisible cursor theme file
 
@@ -42,21 +42,21 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 3. Click**Mouse** on the left panel, then click**Additional mouse options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**Apply** . Your mouse cursor will disappear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
 6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Change resolution
 
@@ -79,14 +79,10 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix brings no luck, move to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update device driver
 
@@ -108,6 +104,10 @@ There are two ways you can update your device drivers:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
@@ -134,16 +134,19 @@ There are two ways you can update your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-social-sphere-shift-identifying-the-days-hottest-tweets-for-2024/"><u>[New] Social Sphere Shift Identifying the Day's Hottest Tweets for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-entrepreneurs-playbook-gather-these-vital-products-to-thrive-in-business/"><u>[New] The Entrepreneur's Playbook Gather These Vital Products to Thrive in Business</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-dos-and-donts-of-youtube-videos-on-twitter/"><u>[Updated] 2024 Approved The Dos and Don'ts of YouTube Videos on Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-harness-the-power-of-twitch-livestream-tips-and-tricks/"><u>[Updated] Harness the Power of Twitch Livestream Tips & Tricks</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-step-by-step-saving-tweet-vids-on-androids/"><u>[Updated] Step-By-Step Saving Tweet Vids on Androids</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-ways-to-take-amazing-time-lapse-videos-on-android-2024/"><u>Best Ways to Take Amazing Time-Lapse Videos on Android 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/expedite-access-to-your-gaming-steam-id/"><u>Expedite Access to Your Gaming Steam ID</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/social-sensation-tweets-whats-going-big-online/"><u>Social Sensation Tweets What's Going Big Online</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-models-thoroughly-evaluated-by-tech-experts/"><u>Top Rated iPad Models - Thoroughly Evaluated by Tech Experts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210559269-9781590793992-what-is-reality/"><u>What is Reality? | Free Book</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-access-recovery-mastering-post-hack-facebook-fixes/"><u>[New] 2024 Approved Access Recovery Mastering Post-Hack Facebook Fixes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-optimizing-your-workflow-nvidia-screener/"><u>[New] Optimizing Your Workflow NVIDIA Screener</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-social-snapshot-post-photosvideos-without-a-twit/"><u>[New] Social Snapshot Post Photos/Videos without a Twit</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-twitters-top-jokesters-for-2024/"><u>[New] Twitter's Top Jokesters for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-high-res-video-leading-4k-conversion-tools/"><u>[New] Unlock High-Res Video Leading 4K Conversion Tools</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-interplay-of-html-css-and-javascript-in-modern-web-pages/"><u>[Updated] 2024 Approved The Interplay of HTML, CSS, and JavaScript in Modern Web Pages</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-perfecting-the-practice-sending-twitter-vids-on-instagram/"><u>2024 Approved Perfecting the Practice Sending Twitter Vids on Instagram</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-honor-x8b-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Honor X8b Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/aktivierung-von-offline-dateien-in-windows-11-entdecken-sie-die-3-effizientesten-methoden/"><u>Aktivierung Von Offline-Dateien in Windows 11: Entdecken Sie Die 3 Effizientesten Methoden!</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/directing-traffic-from-tiktok-to-twitter/"><u>Directing Traffic From TikTok to Twitter</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-easy-steps-to-modify-your-game-voice-in-free-fire-free-methods-available/"><u>In 2024, Easy Steps to Modify Your Game Voice in Free Fire (Free Methods Available)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-advanced-home-thermostat-systems-in-2n34-a-comprehensive-zdnet-review/"><u>Top 5 Advanced Home Thermostat Systems in 2N34: A Comprehensive ZDNET Review</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mkv-video-cutter-the-best-free-options-for-this-year/"><u>Updated 2024 Approved MKV Video Cutter The Best Free Options for This Year</u></a></li>
 </ul></div>
 

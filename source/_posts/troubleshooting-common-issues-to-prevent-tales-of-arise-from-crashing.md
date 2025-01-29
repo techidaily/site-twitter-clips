@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Common Issues to Prevent Tales of Arise From Crashing
-date: 2025-01-18T22:31:42.340Z
-updated: 2025-01-22T05:53:13.345Z
+date: 2025-01-25T17:56:23.719Z
+updated: 2025-01-29T19:09:03.946Z
 tags:
   - win11
   - win10
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/e3f7f8209eab3a8810779d3b9fd5af99ac53d2f64
 Century: Age of Ashes
 
 **Century: Age of Ashes** is now available for free. However, just as everyone rushed in to master a growing roster of dragons and rule the skies, many PC gamers are interrupted by the game crashes. If you’re running into the exact same issue, don’t worry. You’ve landed on the right page, and you should be able to fix this issue easily after reading this article.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## System requirements of Century: Age of Ashes for Windows PC
 
@@ -57,10 +53,6 @@ Century: Age of Ashes system requirements
 6. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Verify integrity of game files
 
  Century: Age of Ashes will crash if some of the game files are broken. Before trying anything more complicated, you can verify and repair game files easily in Steam:
@@ -72,9 +64,17 @@ Century: Age of Ashes system requirements
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Century: Age of Ashes after the verifying process is complete. See if the game crashes again. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -95,7 +95,7 @@ Century: Age of Ashes system requirements
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
@@ -110,10 +110,6 @@ Century: Age of Ashes system requirements
 
  Launch Century: Age of Ashes again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Disable overlays
 
  Overlays are handy. However, sometimes they may interfere with the game and would block the game files, which may cause the game to crash.
@@ -124,11 +120,11 @@ Century: Age of Ashes system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
-![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Nvidia GeForce Experience, Discord, etc.), make sure you’ve disabled the in-game overlay in those apps feature:
 
@@ -178,7 +174,7 @@ If this fix didn’t work, try the next fix, below.
  Note: This is a paid service with a 60-day money-back guarantee, which means that you’ll need to buy the full version to start repairing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Perform a clean boot
@@ -193,14 +189,14 @@ If this fix didn’t work, try the next fix, below.
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
@@ -208,6 +204,10 @@ If this fix didn’t work, try the next fix, below.
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -244,24 +244,20 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-access-youtube-tracks-without-spending-a-dime-25plus-no-cost-audio-extractors/"><u>[New] 2024 Approved Access YouTube Tracks Without Spending a Dime 25+ No-Cost Audio Extractors</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-beginners-path-vrecord-instalment-manual/"><u>[New] Beginners' Path VRecord Instalment Manual</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-top-5-websites-for-an-active-social-presence/"><u>[New] In 2024, Top 5 Websites for an Active Social Presence</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-twitters-viral-victory-hot-talk-highlights-for-2024/"><u>[New] Twitter's Viral Victory Hot Talk Highlights for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-fast-favorites-todays-highest-youtube-tracks/"><u>[Updated] 2024 Approved Fast Favorites Today's Highest Youtube Tracks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-comprehensive-idevice-screenplay-techniques-for-2024/"><u>[Updated] Comprehensive iDevice Screenplay Techniques for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-unleash-social-potential-transitioning-from-twitter-videos-to-whatsapp/"><u>[Updated] In 2024, Unleash Social Potential Transitioning From Twitter Videos to WhatsApp</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-integrating-twitter-content-with-facebook-networks-for-2024/"><u>[Updated] Integrating Twitter Content with Facebook Networks for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfecting-film-editing-final-cut-pro-101/"><u>[Updated] Perfecting Film Editing Final Cut Pro 101</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2023-streamline-post-tweeted-videos-to-whatsapp-for-2024/"><u>2023 Streamline Post Tweeted Videos to WhatsApp for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-excellent-20-copy-free-pubg-thumbnail-sequences/"><u>2024 Approved Excellent 20 Copy-Free PUBG Thumbnail Sequences</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-eye-on-the-social-scene-top-tweets-of-2023/"><u>2024 Approved Eye on the Social Scene Top Tweets of 2023</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-ios-guide-to-superior-psp-emulators/"><u>2024 Approved The Ultimate iOS Guide to Superior PSP Emulators</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/direct-sharing-integrating-twitter-video-into-instagram-experience-for-2024/"><u>Direct Sharing Integrating Twitter Video Into Instagram Experience for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/explore-twitter-videos-in-high-fidelity-format/"><u>Explore Twitter Videos in High Fidelity Format</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-viral-video-alert-the-days-10-heat-generating-tweets/"><u>In 2024, Viral Video Alert The Day's 10 Heat-Generating Tweets</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-persistent-failures-of-cp-configurations-on-win11/"><u>Mending Persistent Failures of CP Configurations on Win11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1126103-9781609256845-tea-cup-reading/"><u>Tea Cup Reading | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-communication-how-to-utilize-chatgpts-translation-features/"><u>The Future of Communication: How to Utilize ChatGPT’s Translation Features</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-fluent-in-content-sharing-tiktok-twitter-transition-for-2024/"><u>[New] Fluent in Content Sharing TikTok-Twitter Transition for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-social-media-savvy-creating-share-worthy-ig-content/"><u>[New] Social Media Savvy Creating Share-Worthy IG Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-film-crafting-with-kinemaster-tools/"><u>[New] The Art of Film Crafting with Kinemaster Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-tailored-macos-tutorials-for-editing-srt-files/"><u>[Updated] 2024 Approved Tailored macOS Tutorials for Editing SRT Files</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-comedy-kings-and-queens-of-2023/"><u>[Updated] Comedy Kings & Queens of 2023</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-the-next-big-thing-your-guide-to-youtubes-best-video-types/"><u>[Updated] Crafting the Next Big Thing Your Guide to YouTube's Best Video Types</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-navigating-copyright-laws-when-turning-social-media-videos-into-gifs-for-educational-purposes-for-2024/"><u>[Updated] Navigating Copyright Laws When Turning Social Media Videos Into GIFS for Educational Purposes for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-unlocking-old-tweets-with-twitter-archive-tools/"><u>[Updated] Unlocking Old Tweets with Twitter Archive Tools</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/como-convertir-archivos-mpe-a-formatos-wmv-online-de-manera-gratuita-con-herramientas-como-movavi/"><u>Cómo Convertir Archivos MPE a Formatos WMV Online De Manera Gratuita Con Herramientas Como Movavi</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-step-by-step-process-of-crafting-perfect-tweet-ads/"><u>In 2024, Step-by-Step Process of Crafting Perfect Tweet Ads</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-win-and-mac-basic-guide-for-embedding-captions-in-images/"><u>In 2024, Win & Mac Basic Guide for Embedding Captions in Images</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-adjusting-your-pcs-protection-parameters-tips-from-yl-computing-experts/"><u>Step-by-Step Guide: Adjusting Your PC's Protection Parameters - Tips From YL Computing Experts</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-foundations-of-building-your-twitter-profile/"><u>The Foundations of Building Your Twitter Profile</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-improve-web-safety-on-windows-1011-oses/"><u>Tips to Improve Web Safety on Windows 10/11 OSes</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitter-videos-shared-directly-from-phones/"><u>Twitter Videos Shared Directly From Phones</u></a></li>
 </ul></div>
 

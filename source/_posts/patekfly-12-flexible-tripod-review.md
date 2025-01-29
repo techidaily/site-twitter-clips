@@ -1,7 +1,7 @@
 ---
 title: Patekfly 12 Flexible Tripod Review
-date: 2025-01-16T19:24:15.911Z
-updated: 2025-01-21T19:22:37.621Z
+date: 2025-01-24T17:54:19.089Z
+updated: 2025-01-29T17:22:26.516Z
 categories:
   - BestProducts
 description: This Article Describes Patekfly 12 Flexible Tripod Review
@@ -37,6 +37,10 @@ Lifewire / Danny Chadwick
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Rexing V1 DashCam
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/5zZ5bclZ7zJVo8nRB2Y33JNM3w4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_HeroSqaure-ac1bb2840cb04106b14f3838b80a3bf2.jpg)
@@ -66,14 +70,10 @@ Lifewire / Danny Chadwick
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/JfL4E5NnuBPl6-93Hv3PI4IJsV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_05-bcfff5f440b545378c9ee4e6b431ffac.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Fits perfectly on your windshield**
@@ -106,14 +106,10 @@ Lifewire / Danny Chadwick
 
 ![Rexing V1 DashCam](https://www.lifewire.com/thmb/df0_L-UzAk3OryqSCncsjfqi8QM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4062264_03-2273fff3f71944368711b60f5da9687e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Camera Quality: Basic**
@@ -127,7 +123,7 @@ Lifewire / Danny Chadwick
  Lifewire / Danny Chadwick
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Set it and forget it**
@@ -147,6 +143,10 @@ Lifewire / Danny Chadwick
 ## **Price: A good value**
 
  The Rexing V1 retails for $130, but as of the time of this writing, can typically be purchased for closer to $100\. We feel like this is a perfectly appropriate price for this device—it falls right in the middle of the typical dashcam price range, providing better performance than super budget models, but without the high-tech features of the more expensive options out there. In short, it’s a good price for a solid, basic device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Z3 Plus vs. Rexing V1**
 
@@ -193,18 +193,19 @@ Lifewire / Danny Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-ultimate-drone-enhancement-list-for-dji-phantom-4/"><u>[New] 2024 Approved The Ultimate Drone Enhancement List for DJI Phantom 4</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-deciphering-the-rights-based-language-of-instagrams-music-features-for-2024/"><u>[New] Deciphering the Rights-Based Language of Instagram's Music Features for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-streamlining-full-hd-watching-of-twit-videos-for-2024/"><u>[New] Streamlining Full HD Watching of Twit Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-insights-into-2018-fifa-football-videos-on-youtube-infographic/"><u>[New] Top Insights Into 2018 FIFA Football Videos On YouTube [Infographic]</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-modify-twitter-video-capture-image/"><u>[Updated] 2024 Approved Modify Twitter Video Capture Image</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-best-free-online-photo-tools-ranked-15/"><u>[Updated] Best Free Online Photo Tools Ranked #15</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-how-to-post-photos-and-videos-on-twitter-from-smartphones/"><u>2024 Approved How To Post Photos and Videos on Twitter From Smartphones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratuit-mp4-vers-aiff-converse-en-ligne-avec-movievi/"><u>Gratuit MP4 Vers AIFF: Conversé en Ligne Avec MovieVi</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-utilizing-the-power-of-twitter-archive-data/"><u>In 2024, Utilizing the Power of Twitter Archive Data</u></a></li>
-<li><a href="https://techidaily.com/is-your-asus-rog-phone-7-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Asus ROG Phone 7 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-your-digital-dialogue-top-5-strategies-for-personalized-ai-commands/"><u>Mastering Your Digital Dialogue: Top 5 Strategies for Personalized AI Commands</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-tips-on-how-to-design-travel-slideshow/"><u>Updated 2024 Approved Best Tips on How to Design Travel Slideshow</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-sprout-screencapture-transform-your-pc-footage-game/"><u>[New] 2024 Approved Sprout ScreenCapture Transform Your PC Footage Game</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-videotoaudiotweeter-direct-output/"><u>[New] 2024 Approved VideoToAudioTweeter Direct Output</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-startup-to-stardom-with-youtube-seo-basics-for-2024/"><u>[New] From Startup to Stardom with YouTube SEO Basics for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-digital-dynamo-the-most-retweeted-tweets-capturing-attention/"><u>[Updated] 2024 Approved Digital Dynamo The Most Retweeted Tweets Capturing Attention</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-direct-video-tweet-release-avoid-the-rt-for-2024/"><u>[Updated] Direct Video Tweet Release Avoid the 'RT' For 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-most-liked-and-watched-twitters-2023-hits/"><u>[Updated] Most Liked & Watched Twitters' 2023 Hits</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/a-quick-walkthrough-of-new-user-registration-on-twitter-for-2024/"><u>A Quick Walkthrough of New User Registration on Twitter for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/discover-the-top-4-alternatives-to-airdrop-for-effortless-cross-platform-file-transfers-on-pc/"><u>Discover the Top 4 Alternatives to AirDrop for Effortless Cross-Platform File Transfers on PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-finding-and-applying-upgrades-for-creative-webcams-in-windows/"><u>Easy Guide: Finding and Applying Upgrades for Creative Webcams in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-storytelling-skills-with-these-ve-5-advanced-ai-writing-assistants/"><u>Enhance Your Storytelling Skills with These Ve 5 Advanced AI Writing Assistants</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/innovative-review-of-the-m3-macbook-air-the-ultimate-guide-to-apples-cutting-edge-mass-market-ai-computer/"><u>Innovative Review of the M3 MacBook Air: The Ultimate Guide to Apple’s Cutting-Edge, Mass Market, AI Computer</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/memorable-moments-made-easy-download-and-save-gif-from-social-media/"><u>Memorable Moments Made Easy Download and Save GIF From Social Media</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-why-fifa-22-keeps-exiting-prematurely-on-pc/"><u>Troubleshooting: Why FIFA 22 Keeps Exiting Prematurely on PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia C02 | Dr.fone</u></a></li>
 </ul></div>
 

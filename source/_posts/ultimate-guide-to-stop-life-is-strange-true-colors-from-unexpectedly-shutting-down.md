@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Stop Life Is Strange: True Colors From Unexpectedly Shutting Down"
-date: 2025-01-21T03:53:52.692Z
-updated: 2025-01-22T03:03:03.085Z
+date: 2025-01-22T18:22:25.757Z
+updated: 2025-01-29T18:27:55.876Z
 tags:
   - win11
   - win10
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
@@ -82,10 +82,6 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -93,6 +89,10 @@ If this doesn’t solve your problem, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If you’re still experiencing the freezing issue after you updated the graphics driver, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Scan and repair your game files
 
@@ -105,7 +105,7 @@ If this doesn’t solve your problem, try the next fix.
 If this doesn’t help, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Run the game executable as administrator
@@ -125,10 +125,6 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -146,21 +142,21 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
 If this doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Check your antivirus software
 
@@ -171,6 +167,10 @@ If this doesn’t solve your problem, try the next fix.
  Make sure you stay extra cautious when you turn off the antivirus app and do NOT download anything from the internet when your computer is not under protection.
 
 If the freezing issue persists, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8: Increase your virtual memory
 
@@ -184,12 +184,12 @@ If the freezing issue persists, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
@@ -201,12 +201,12 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 8. Calculate and fill in the **Initial size and Maximum size** , click **Set** then click **OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 9. Reboot your PC to see if Vanguard still freezes on your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -227,24 +227,16 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-no-fluff-just-facts-the-verdict-on-recordcast/"><u>[New] 2024 Approved No Fluff, Just Facts The Verdict on RecordCast</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-prime-video-stardom-top-tweets-and-peak-watchability-rankings/"><u>[New] 2024 Approved Prime Video Stardom Top Tweets and Peak Watchability Rankings</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-9-indoor-game-apps-perfect-for-android-without-connectivity/"><u>[New] 2024 Approved Top 9 Indoor Game Apps - Perfect For Android Without Connectivity</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-explosive-engagement-on-twitter-the-hottest-content-now/"><u>[New] In 2024, Explosive Engagement on Twitter The Hottest Content Now</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-twitching-videos-seamlessly-twitter-and-tumblr-guide/"><u>[New] In 2024, Twitching Videos Seamlessly Twitter & Tumblr Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-maximizing-reach-sharing-igtv-to-fb-4-methods-for-2024/"><u>[New] Maximizing Reach Sharing IGTV to FB (4 Methods) for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-navigating-twitters-reaction-videos-explained/"><u>[Updated] 2024 Approved Navigating Twitter's Reaction Videos Explained</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-windows-11-gaming-recordings/"><u>[Updated] 2024 Approved The Ultimate Guide to Windows 11 Gaming Recordings</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-viral-power-couple-tiktok-and-twitter-trends/"><u>[Updated] In 2024, The Viral Power Couple TikTok & Twitter Trends</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-maximizing-your-platforms-posting-tiktok-content-on-twitter/"><u>[Updated] Maximizing Your Platforms Posting TikTok Content on Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-whatsapp-video-integration-for-twitter-content/"><u>[Updated] WhatsApp Video Integration for Twitter Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/crafting-moments-instagrams-highlight-and-download-insights/"><u>Crafting Moments Instagram's Highlight and Download Insights</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-explore-twitter-videos-in-high-fidelity-format/"><u>In 2024, Explore Twitter Videos in High Fidelity Format</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s23plus-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S23+ FRP Locks</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/integrate-twitter-videos-into-your-instagram-feed-for-2024/"><u>Integrate Twitter Videos Into Your Instagram Feed for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/overcoming-handbrake-challenges-for-secure-dvd-conversion-on-your-apple-computer/"><u>Overcoming Handbrake Challenges for Secure DVD Conversion on Your Apple Computer</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/steps-to-remove-advanced-sound-adjustments-inbuilt-in-windows-10-os/"><u>Steps To Remove Advanced Sound Adjustments Inbuilt In Windows 10 OS</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-future-of-video-capturing-embracing-vimeo-record/"><u>The Future of Video Capturing Embracing Vimeo Record</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitters-wild-ride-the-hottest-tweets-unveiled/"><u>[New] 2024 Approved Twitter's Wild Ride The Hottest Tweets Unveiled</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-snicker-showcase-top-10-tweets/"><u>[New] In 2024, Snicker Showcase Top 10 Tweets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-ultimate-playlist-guide-for-youtube-enthusiasts-online-and-mobile-for-2024/"><u>[New] The Ultimate Playlist Guide for YouTube Enthusiasts Online & Mobile for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-the-ultimate-watch-list-top-tweets-of-2023-for-2024/"><u>[New] The Ultimate Watch List Top Tweets of 2023 for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-twitter-gif-repository-capturing-the-essence-in-frames-for-2024/"><u>[New] Twitter Gif Repository Capturing the Essence in Frames for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-no-integrated-support-for-amdintel-video-drivers-in-premiere-pro/"><u>Fixed: No Integrated Support for AMD/Intel Video Drivers in Premiere Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-rid-of-that-apple-logo-7-proven-techniques-to-fix-a-frozen-iphone/"><u>Get Rid of That Apple Logo: 7 Proven Techniques to Fix a Frozen iPhone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-150-2023-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia 150 (2023) Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-artistic-anomaly-top-10-unique-affordable-mac-drawers-free/"><u>In 2024, Artistic Anomaly Top 10 Unique, Affordable Mac Drawers (Free)</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-laughter-league-social-medias-best-jokes/"><u>In 2024, Laughter League Social Media's Best Jokes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-thriving-livestreams-strategies-for-beginners-with-low-followers/"><u>In 2024, Thriving Livestreams Strategies for Beginners with Low Followers</u></a></li>
 </ul></div>
 
