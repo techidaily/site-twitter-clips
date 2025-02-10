@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Non-Responsive Discord Popups with Ease
-date: 2025-01-22T18:21:17.439Z
-updated: 2025-01-29T17:04:09.860Z
+date: 2025-02-06T03:16:09.251Z
+updated: 2025-02-09T22:01:47.348Z
 tags:
   - win11
   - win10
@@ -41,19 +41,19 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run Discord as administrator
 
@@ -63,23 +63,19 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
  4) Run your game again.
 
 See if this issue reappears. If not, you have fixed this issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
@@ -94,7 +90,7 @@ See if this issue reappears. If not, you have fixed this issue.
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
@@ -111,11 +107,11 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
- Run your game again to see if this issue persists. If not, you have resolved this problem!
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Run your game again to see if this issue persists. If not, you have resolved this problem!
 
 ### Fix 6: Reinstall Discord
 
@@ -131,13 +127,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -167,6 +163,10 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
@@ -193,24 +193,16 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-best-practices-aspect-ratio-in-twitters-videos-for-2024/"><u>[New] Best Practices Aspect Ratio in Twitters Videos for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-chuckle-fest-twitters-10-funniest-tweets/"><u>[New] In 2024, Chuckle-Fest Twitter's 10 Funniest Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-yearbook-of-viral-content-on-twitter-2023-edition/"><u>[New] In 2024, The Yearbook of Viral Content on Twitter, 2023 Edition</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-navigate-the-quickest-growing-yt-havens-for-mental-brightness/"><u>[Updated] 2024 Approved Navigate the Quickest-Growing YT Havens for Mental Brightness</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-mp4twitconversion-quick-conversion-for-2024/"><u>[Updated] MP4TwitConversion Quick Conversion for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-photographers-pathway-transitioning-from-camera-to-computer-screen/"><u>[Updated] The Photographer's Pathway Transitioning From Camera to Computer Screen</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-guide-to-facebook-live-recording/"><u>[Updated] The Ultimate Guide to Facebook Live Recording</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-mastering-the-art-of-customizing-twitter-video-thumbnails/"><u>2024 Approved Mastering the Art of Customizing Twitter Video Thumbnails</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-lava-yuva-3-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Lava Yuva 3 Pro Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertisseur-videos-wtv-a-mkv-sans-frais-guide-utilisateur-de-movavi/"><u>Convertisseur Vidéos WTV À MKV Sans Frais – Guide Utilisateur De Movavi</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/custom-thumbnail-for-twitter-videos-for-2024/"><u>Custom Thumbnail for Twitter Videos for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-demystifying-twitter-archives-for-users-and-analysts/"><u>In 2024, Demystifying Twitter Archives for Users & Analysts</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-getting-involved-in-the-global-village-facebook/"><u>In 2024, Getting Involved in the Global Village (Facebook)</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-giggle-fest-on-the-twittersphere/"><u>In 2024, Giggle Fest on the Twittersphere</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-overcome-youtube-tweet-buffer-in-chromebook/"><u>In 2024, Overcome YouTube Tweet Buffer in Chromebook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-precise-methods-for-recording-your-facetime-communication/"><u>In 2024, Precise Methods for Recording Your FaceTime Communication</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-power-of-pixels-a-review-of-the-4k-cg318-4k-monitor/"><u>In 2024, The Power of Pixels A Review of the 4K CG318-4K Monitor</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/izing-sales-crafting-engaging-youtube-channel-trailers-for-2024/"><u>Maximizing Sales Crafting Engaging YouTube Channel Trailers for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/verify-and-optimize-your-audio-hardware-a-step-by-step-check-for-a-working-sound-card-by-yl-software-experts/"><u>Verify and Optimize Your Audio Hardware: A Step-by-Step Check for a Working Sound Card by YL Software Experts</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-bridging-twitter-and-fb-with-shared-vids/"><u>[New] Bridging Twitter and FB with Shared Vids</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-joke-jamboree-twitters-10-best-comedy-threads-for-2024/"><u>[New] Joke Jamboree Twitter's 10 Best Comedy Threads for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-prime-online-communities-eclipsing-twitterenasity-for-2024/"><u>[New] Prime Online Communities Eclipsing Twitter'enasity for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-exclusive-twitter-gif-compiler-for-avid-scribes/"><u>[Updated] 2024 Approved Exclusive Twitter GIF Compiler for Avid Scribes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-pioneering-affordable-switch-emulators/"><u>[Updated] 2024 Approved Pioneering Affordable Switch Emulators</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-schedule-and-record-a-meeting-on-slack-wondershare-filmora-for-2024/"><u>[Updated] How to Schedule and Record a Meeting on Slack-Wondershare Filmora for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-mergecombinejoin-youtube-flv-videos/"><u>[Updated] In 2024, How to Merge/Combine/Join YouTube (FLV) Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-handling-jvmdll-errors-on-windows/"><u>Effective Solutions for Handling JVM.dll Errors on Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-slow-mo-a-step-by-step-guide-to-windows-live-movie-maker/"><u>Mastering Slow-Mo A Step-by-Step Guide to Windows Live Movie Maker</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sound-quality-breakthrough-with-sonys-wh-1000xm4-headphones/"><u>Sound Quality Breakthrough with Sony's WH-1000XM4 Headphones</u></a></li>
+<li><a href="https://blog-min.techidaily.com/story-2-the-videographers-dilemma-answer-b/"><u>Story 2: The Videographer's Dilemma (Answer B)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving Sound Issues - Get Your Fortnite Microphone Up and Running Again!
-date: 2025-01-23T16:05:51.356Z
-updated: 2025-01-29T17:30:36.472Z
+date: 2025-02-08T16:14:26.909Z
+updated: 2025-02-09T20:23:18.041Z
 tags:
   - win11
   - win10
@@ -38,23 +38,31 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  In Control Panel, select**Large icons** from the**View by** drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select **Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Select the **Recording** tab, then right click on any empty place inside the device list and tick **Show Disabled Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc36f136c6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Right click the**Headset Microphone** and click **Enable** .
@@ -64,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 **6)** Right click it again and select **Set as Default Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dacbcd8e83.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Right click**Headset Microphone** and click**Properties** .
 
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Update your audio drivers
 
@@ -112,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Troubleshoot hardware issues
@@ -143,22 +143,21 @@ thumbnail: https://thmb.techidaily.com/dee28e41650480f8be267c870e6c35efe9b36fe18
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-videosnapper-quickly-download-twitter-content-on-iphone/"><u>[New] 2024 Approved VideoSnapper Quickly Download Twitter Content on iPhone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-a-step-by-step-approach-to-downloading-memorable-moments-from-social-media/"><u>[New] In 2024, A Step-By-Step Approach to Downloading Memorable Moments From Social Media</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-top-40-twitter-visuals-the-essential-gif-hoarders-toolkit/"><u>[New] In 2024, Top 40 Twitter Visuals The Essential GIF Hoarder's Toolkit</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-perfecting-the-art-of-twitter-broadcasts/"><u>[New] Perfecting the Art of Twitter Broadcasts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-youtube-as-a-learning-tool-insider-advice-for-teachers/"><u>[Updated] 2024 Approved YouTube as a Learning Tool Insider Advice for Teachers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-bring-imagination-alive-start-with-microsofts-movie-maker-on-w11/"><u>[Updated] Bring Imagination Alive Start with Microsoft's Movie Maker on W11</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-chronicles-of-charms-a-compreentic-toolkit-for-twitters-visual-treasures/"><u>[Updated] Chronicles of Charms A Compreentic Toolkit for Twitter's Visual Treasures</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-complete-encyclopedia-of-tweetresponses/"><u>[Updated] The Complete Encyclopedia of TweetResponses</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-vidoetwitter-fetcher-gather-twitter-videos-effortlessly-for-2024/"><u>[Updated] VidoeTwitter Fetcher Gather Twitter Videos Effortlessly for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-your-ultimate-roadmap-for-optimal-youtube-video-resolution-width-and-height/"><u>[Updated] Your Ultimate Roadmap for Optimal YouTube Video Resolution, Width & Height</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-twitter-takes-the-lead-the-most-shared-content-of-the-day/"><u>2024 Approved Twitter Takes the Lead The Most Shared Content of the Day</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/6-effective-strategies-to-resolve-terraria-disconnection-issues/"><u>6 Effective Strategies to Resolve Terraria Disconnection Issues</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cookiebot-power-driven-marketing-analytics-and-ad-targeting-success/"><u>Cookiebot Power-Driven Marketing Analytics & Ad Targeting Success</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enabling-windows-users-to-use-apples-facetime-step-by-step-instructions/"><u>Enabling Windows Users to Use Apple's FaceTime - Step-by-Step Instructions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721961213337-exploring-the-potential-of-generative-ai-as-a-modern-conduit-for-false-information-dissemination/"><u>Exploring the Potential of Generative AI as a Modern Conduit for False Information Dissemination</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-tecno-spark-10c-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Tecno Spark 10C Phone Now with These Tips</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-y200-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo Y200 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-stream-a-comprehensive-ad-revenue-guide-on-youtube/"><u>[New] Elevate Your Stream A Comprehensive Ad Revenue Guide on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-simplify-tech-transitions-smartphone-vr-integration-guide/"><u>[New] In 2024, Simplify Tech Transitions Smartphone-VR Integration Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-maximizing-ipad-audio-record-best-tips/"><u>[Updated] Maximizing iPad Audio Record Best Tips</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-2023-how-to-share-a-tiktok-video-on-twitter/"><u>2024 Approved 2023 | How to Share A Tiktok Video on Twitter?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/dramatic-photos-softbox-lights-of-the-year-2024/"><u>Dramatic Photos: Softbox Lights of the Year 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-upgrade-latest-wacom-digitizer-software-for-cintiq-13-hd-model/"><u>Free Upgrade: Latest Wacom Digitizer Software for Cintiq 13 HD Model</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/patekfly-12-flexible-tripod-review/"><u>Patekfly 12 Flexible Tripod Review</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-mighty-zte-blade-a3y-balancing-quality-and-cost-in-todays-smartphone-market/"><u>The Mighty ZTE Blade A3Y: Balancing Quality and Cost in Today's Smartphone Market</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-the-crossbow-error-in-minecraft/"><u>Troubleshooting Tips: Resolving the 'Crossbow' Error in Minecraft</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/uniden-r3-analysis-robust-construction-and-extended-range-capabilities/"><u>Uniden R3 Analysis: Robust Construction and Extended Range Capabilities</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/unshroud-hidden-data-unearthed-by-mac-magic/"><u>Unshroud Hidden Data, Unearthed by Mac Magic</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-8-best-alternatives-to-windows-10-photos-for-2024/"><u>Updated 8 Best Alternatives to Windows 10 Photos for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/video-how-to-export-recovered-mailboxes-to-live-exchange-server/"><u>Video - How to Export Recovered Mailboxes to Live Exchange Server?</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy A05 | Dr.fone</u></a></li>
 </ul></div>
 

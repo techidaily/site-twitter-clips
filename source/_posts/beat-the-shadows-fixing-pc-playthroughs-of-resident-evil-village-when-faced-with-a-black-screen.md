@@ -1,7 +1,7 @@
 ---
 title: "Beat the Shadows: Fixing PC Playthroughs of Resident Evil Village When Faced with a Black Screen"
-date: 2025-01-23T19:15:17.265Z
-updated: 2025-01-29T18:37:00.272Z
+date: 2025-02-05T20:44:43.715Z
+updated: 2025-02-10T03:50:04.674Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Download an invisible cursor theme file
@@ -41,10 +41,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
 3. Click**Mouse** on the left panel, then click**Additional mouse options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
 
@@ -55,7 +51,7 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Change resolution
@@ -70,6 +66,10 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 
 **Note** : This fix might let the image lose a lot of quality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Change mouse settings
 
  Change the in-game mouse settings might help. Players have proved that the max sensitivity is not 10 and you can set the number go beyond 10.
@@ -79,7 +79,7 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix brings no luck, move to the next one.
@@ -106,7 +106,7 @@ There are two ways you can update your device drivers:
 3. Click the **Update**  button next to the device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -134,19 +134,24 @@ There are two ways you can update your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-access-recovery-mastering-post-hack-facebook-fixes/"><u>[New] 2024 Approved Access Recovery Mastering Post-Hack Facebook Fixes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-optimizing-your-workflow-nvidia-screener/"><u>[New] Optimizing Your Workflow NVIDIA Screener</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-social-snapshot-post-photosvideos-without-a-twit/"><u>[New] Social Snapshot Post Photos/Videos without a Twit</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-twitters-top-jokesters-for-2024/"><u>[New] Twitter's Top Jokesters for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-high-res-video-leading-4k-conversion-tools/"><u>[New] Unlock High-Res Video Leading 4K Conversion Tools</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-the-interplay-of-html-css-and-javascript-in-modern-web-pages/"><u>[Updated] 2024 Approved The Interplay of HTML, CSS, and JavaScript in Modern Web Pages</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-perfecting-the-practice-sending-twitter-vids-on-instagram/"><u>2024 Approved Perfecting the Practice Sending Twitter Vids on Instagram</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-honor-x8b-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Honor X8b Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/aktivierung-von-offline-dateien-in-windows-11-entdecken-sie-die-3-effizientesten-methoden/"><u>Aktivierung Von Offline-Dateien in Windows 11: Entdecken Sie Die 3 Effizientesten Methoden!</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/directing-traffic-from-tiktok-to-twitter/"><u>Directing Traffic From TikTok to Twitter</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-easy-steps-to-modify-your-game-voice-in-free-fire-free-methods-available/"><u>In 2024, Easy Steps to Modify Your Game Voice in Free Fire (Free Methods Available)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-advanced-home-thermostat-systems-in-2n34-a-comprehensive-zdnet-review/"><u>Top 5 Advanced Home Thermostat Systems in 2N34: A Comprehensive ZDNET Review</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mkv-video-cutter-the-best-free-options-for-this-year/"><u>Updated 2024 Approved MKV Video Cutter The Best Free Options for This Year</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecurely-save-your-favorite-videos-with-these-download-tools-for-2024/"><u>[New] Securely Save Your Favorite Videos with These Download Tools for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-sneak-peek-into-facebooks-off-activity-tracking-is-it-safe-in-2024/"><u>[New] Sneak Peek Into Facebook's Off-Activity Tracking – Is It Safe, In 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-streamlining-your-meetings-using-zoom-with-win11/"><u>[New] Streamlining Your Meetings Using Zoom with Win11</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-from-zero-to-hero-on-twitter-live/"><u>[Updated] From Zero to Hero on Twitter Live</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-the-peak-of-primes-amazons-hot-tweets-and-shows-23/"><u>[Updated] The Peak of Primes Amazon’s Hot Tweets & Shows, '23</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tips-for-sharing-tweets-non-retweet-video-uploads-for-2024/"><u>[Updated] Tips for Sharing Tweets Non-Retweet Video Uploads for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-shocking-news-summary-craftsman/"><u>2024 Approved Shocking News Summary Craftsman</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-unveiling-audible-tweets-within-social-media-videos/"><u>2024 Approved Unveiling Audible Tweets Within Social Media Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-install-and-use-chatgpt-plugins/"><u>How to Install and Use ChatGPT Plugins</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y200e-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200e 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-optimal-no-cost-android-video-maker/"><u>In 2024, Optimal No-Cost Android Video Maker</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-selections-high-capacity-cloud-options/"><u>In 2024, Superior Selections High-Capacity Cloud Options</u></a></li>
+<li><a href="https://video-capture.techidaily.com/introduction-to-organizing-remote-work-hours-for-2024/"><u>Introduction to Organizing Remote Work Hours for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-access-to-off-screen-panes-win11-guide/"><u>Regaining Access to Off-Screen Panes: Win11 Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/resolving-silence-in-tweeted-video-playbacks-for-2024/"><u>Resolving Silence in Tweeted Video Playbacks for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/streamlining-tiktok-twitter-integration-for-2024/"><u>Streamlining TikTok-Twitter Integration for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-pros-guide-to-uploading-twitter-videos-to-snapchat-for-2024/"><u>The Pro's Guide to Uploading Twitter Videos to Snapchat for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-top-10-viral-tiktoks-uncovered/"><u>Twitter's Top 10 Viral TikToks Uncovered</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/unveiling-top-10-trending-tweets-of-2023/"><u>Unveiling Top 10 Trending Tweets of 2023</u></a></li>
 </ul></div>
 
