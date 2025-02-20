@@ -1,7 +1,7 @@
 ---
 title: "Beat the Shadows: Fixing PC Playthroughs of Resident Evil Village When Faced with a Black Screen"
-date: 2025-02-05T20:44:43.715Z
-updated: 2025-02-10T03:50:04.674Z
+date: 2025-02-19T00:19:02.590Z
+updated: 2025-02-19T18:59:02.914Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 Resident Evil Village is a great survival horror game in the storied Resident Evil franchise. But the cursor became annoying while in-game with Village. This post gives you some possible fixes, give it a try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -25,10 +29,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 2. [Change resolution](https://tools.techidaily.com/drivereasy/download/)
 3. [Change mouse settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Download an invisible cursor theme file
 
@@ -48,10 +48,14 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
 6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Change resolution
@@ -67,7 +71,7 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 **Note** : This fix might let the image lose a lot of quality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change mouse settings
@@ -77,10 +81,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
  Maxing your**Mouse Sensitivity** ,**Movement Camera Sensitivity with Mouse** and**DPI of mouse** in game.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this fix brings no luck, move to the next one.
 
@@ -105,12 +105,12 @@ There are two ways you can update your device drivers:
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -134,24 +134,21 @@ There are two ways you can update your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ecurely-save-your-favorite-videos-with-these-download-tools-for-2024/"><u>[New] Securely Save Your Favorite Videos with These Download Tools for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-sneak-peek-into-facebooks-off-activity-tracking-is-it-safe-in-2024/"><u>[New] Sneak Peek Into Facebook's Off-Activity Tracking – Is It Safe, In 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-streamlining-your-meetings-using-zoom-with-win11/"><u>[New] Streamlining Your Meetings Using Zoom with Win11</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-from-zero-to-hero-on-twitter-live/"><u>[Updated] From Zero to Hero on Twitter Live</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-peak-of-primes-amazons-hot-tweets-and-shows-23/"><u>[Updated] The Peak of Primes Amazon’s Hot Tweets & Shows, '23</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-tips-for-sharing-tweets-non-retweet-video-uploads-for-2024/"><u>[Updated] Tips for Sharing Tweets Non-Retweet Video Uploads for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-shocking-news-summary-craftsman/"><u>2024 Approved Shocking News Summary Craftsman</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-unveiling-audible-tweets-within-social-media-videos/"><u>2024 Approved Unveiling Audible Tweets Within Social Media Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-install-and-use-chatgpt-plugins/"><u>How to Install and Use ChatGPT Plugins</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y200e-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200e 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-optimal-no-cost-android-video-maker/"><u>In 2024, Optimal No-Cost Android Video Maker</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-superior-selections-high-capacity-cloud-options/"><u>In 2024, Superior Selections High-Capacity Cloud Options</u></a></li>
-<li><a href="https://video-capture.techidaily.com/introduction-to-organizing-remote-work-hours-for-2024/"><u>Introduction to Organizing Remote Work Hours for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-access-to-off-screen-panes-win11-guide/"><u>Regaining Access to Off-Screen Panes: Win11 Guide</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/resolving-silence-in-tweeted-video-playbacks-for-2024/"><u>Resolving Silence in Tweeted Video Playbacks for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/streamlining-tiktok-twitter-integration-for-2024/"><u>Streamlining TikTok-Twitter Integration for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/the-pros-guide-to-uploading-twitter-videos-to-snapchat-for-2024/"><u>The Pro's Guide to Uploading Twitter Videos to Snapchat for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/twitters-top-10-viral-tiktoks-uncovered/"><u>Twitter's Top 10 Viral TikToks Uncovered</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/unveiling-top-10-trending-tweets-of-2023/"><u>Unveiling Top 10 Trending Tweets of 2023</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-efficient-laptop-recording-with-top-screenrec-tools/"><u>[New] In 2024, Efficient Laptop Recording with Top ScreenRec Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-essential-5-chrome-extensions-seamlessly-access-facebook-videos-for-2024/"><u>[Updated] Essential 5 Chrome Extensions Seamlessly Access Facebook Videos for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-streamline-screen-scans-your-essential-toolkit-for-vid-saving/"><u>[Updated] Streamline Screen Scans Your Essential Toolkit for Vid Saving</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-syncing-social-media-post-videos-on-twitter-and-tumblr-for-2024/"><u>[Updated] Syncing Social Media Post Videos on Twitter and Tumblr for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-video-editors-unite-adobe-and-youtube-integration-tips/"><u>[Updated] Video Editors Unite Adobe and YouTube Integration Tips</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-revolutionize-your-social-media-experience-with-premier-tools/"><u>2024 Approved Revolutionize Your Social Media Experience with Premier Tools</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-twitterize-your-tiktok-posts/"><u>2024 Approved Twitterize Your TikTok Posts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/broadcasting-without-rts-video-tweeting-simplified/"><u>Broadcasting Without RTs Video Tweeting Simplified</u></a></li>
+<li><a href="https://fox-that.techidaily.com/key-points-to-understand-regarding-battery-health-challenges-for-iphone-14-owners/"><u>Key Points to Understand Regarding Battery Health Challenges for iPhone 14 Owners</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/leveraging-fb-platforms-for-public-health-initiatives/"><u>Leveraging FB Platforms for Public Health Initiatives</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/platform-prowess-finding-your-future-in-obstwitch/"><u>Platform Prowess Finding Your Future in OBS/Twitch</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722958641445-quickly-find-and-install-the-latest-wacom-intuos-tablet-driver/"><u>Quickly Find and Install the Latest Wacom Intuos Tablet Driver</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/re-image-twitter-video-portrait/"><u>Re-Image Twitter Video Portrait</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/swiftly-transferring-twitters-videography-onto-instagram-canvas/"><u>Swiftly Transferring Twitter's Videography Onto Instagram Canvas</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-stop-warno-from-crashing-and-keep-playing-seamlessly/"><u>Ultimate Guide: Stop Warno From Crashing and Keep Playing Seamlessly</u></a></li>
 </ul></div>
 

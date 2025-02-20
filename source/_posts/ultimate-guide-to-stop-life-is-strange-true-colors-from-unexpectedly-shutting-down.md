@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Stop Life Is Strange: True Colors From Unexpectedly Shutting Down"
-date: 2025-02-02T20:14:38.962Z
-updated: 2025-02-10T04:01:27.582Z
+date: 2025-02-14T04:57:21.359Z
+updated: 2025-02-19T16:44:00.933Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 [7: Check your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 [8: Increase your virtual memory](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Call of Duty: Vanguard System Requirements
 
@@ -106,6 +102,10 @@ If this doesn’t help, move on to the next fix.
 
 If Vanguard still freezes randomly on your PC, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Repair corrupted system files
 
  Windows files corruptions could also trigger the freezing issues in Vanguard. When Vanguard shares some system files with your OS and some file among them is broken, it could freeze the gameplay as well. If this is the case, it would be difficult to identify the cause. You may need a powerful system repair tool to scan and fix your system files.
@@ -117,22 +117,14 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  If you’re still experiencing random freezes while playing Vanguard, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Make sure your system is up-to-date
@@ -146,13 +138,25 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Check your antivirus software
 
@@ -165,7 +169,7 @@ If this doesn’t solve your problem, try the next fix.
 If the freezing issue persists, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 8: Increase your virtual memory
@@ -181,15 +185,11 @@ If the freezing issue persists, there’s one more fix you can try.
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
@@ -201,12 +201,12 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 8. Calculate and fill in the **Initial size and Maximum size** , click **Set** then click **OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 9. Reboot your PC to see if Vanguard still freezes on your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -227,20 +227,24 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-delete-or-deactivate-an-instagram-account-permanently/"><u>[New] 2024 Approved How to Delete or Deactivate An Instagram Account Permanently</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-double-your-watch-time-on-youtube-with-these-tips/"><u>[New] In 2024, Double Your Watch Time on YouTube with These Tips</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-launchpad-for-twitter-beginners/"><u>[New] Launchpad for Twitter Beginners</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-share-tweets-whatsapp-video-broadcasting-for-2024/"><u>[New] Share Tweets WhatsApp Video Broadcasting for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-mastery-in-maintaining-a-clean-feed-best-twitter-tools-for-2024/"><u>[Updated] Mastery in Maintaining a Clean Feed Best Twitter Tools for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-buzz-on-twitter-top-10-viral-tweets/"><u>[Updated] The Buzz on Twitter Top 10 Viral Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-ultimate-guide-to-effective-twitter-de-following/"><u>[Updated] The Ultimate Guide to Effective Twitter De-Following</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-digital-dynamo-unleashing-videoviral-impact/"><u>2024 Approved Digital Dynamo Unleashing #VideoViral Impact</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-viral-video-conversion-turning-tweets-into-free-gifs/"><u>2024 Approved Viral Video Conversion Turning Tweets Into Free GIFs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721463395821-dealing-with-an-offline-find-my-iphone-explore-reasons-and-tracking-tricks-here/"><u>Dealing with an Offline Find My iPhone? Explore Reasons and Tracking Tricks Here!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/eliminate-kernel-inpage-troubles-proven-strategies-and-solutions/"><u>Eliminate 'Kernel Inpage' Troubles: Proven Strategies and Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/find-the-best-tech-products-tested-by-professionals-at-tomamhardwarecom/"><u>Find the Best Tech Products Tested by Professionals at Tom'amhardware.com</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-coredll-file-not-found-step-by-step-troubleshooting-guide/"><u>Resolving 'Core.dll' File Not Found: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/shield-your-activity-turn-off-windows-tracking/"><u>Shield Your Activity: Turn Off Windows Tracking</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Ways to trade pokemon go from far away On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-joy-journeys-a-curated-list-of-the-best-humor-vids-online/"><u>[New] In 2024, Joy Journeys A Curated List of the Best Humor Vids Online</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-social-synergy-sharing-tweets-as-snaps-in-2e-2023/"><u>[New] In 2024, Social Synergy Sharing Tweets as Snaps in 2E 2023</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-breaking-boundaries-on-twittersphere-new-hits/"><u>[Updated] 2024 Approved Breaking Boundaries on Twittersphere New Hits</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-simple-procedure-reverse-video-order-via-vlc/"><u>[Updated] 2024 Approved Simple Procedure Reverse Video Order via VLC</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-best-twitter-tools-for-purifying-and-personalizing-your-timeline-for-2024/"><u>[Updated] Best Twitter Tools for Purifying & Personalizing Your Timeline for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-funniest-punchlines-reddit-vs-twitter-memes/"><u>[Updated] Funniest Punchlines Reddit Vs. Twitter Memes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-the-end-scene-in-youtube-productions/"><u>[Updated] In 2024, Elevating the End Scene in YouTube Productions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-simplified-steps-for-posting-tweets-on-facebook-for-2024/"><u>[Updated] Simplified Steps for Posting Tweets on Facebook for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-turn-up-the-volume-enabling-sound-on-tweeted-videos-for-2024/"><u>[Updated] Turn Up the Volume Enabling Sound on Tweeted Videos for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-tiktok-sensation-round-up-twitters-buzzing-top-ten/"><u>2024 Approved TikTok Sensation Round-Up Twitter's Buzzing Top Ten</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/breaking-barriers-how-language-learning-empowers-individuals/"><u>Breaking Barriers: How Language Learning Empowers Individuals</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/enhancing-twitter-video-experience-to-fhd/"><u>Enhancing Twitter Video Experience to FHD</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-remove-all-marked-enjoyed-tunes-on-spotify-easy-instructions/"><u>How to Remove All Marked Enjoyed Tunes on Spotify: Easy Instructions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/iphone-and-android-tips-direct-video-sharing-to-twitter-no-retweets/"><u>IPhone & Android Tips Direct Video Sharing to Twitter No Retweets</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/jokesters-journal-the-top-10-hilarious-tweet-threads-for-2024/"><u>Jokester's Journal The Top 10 Hilarious Tweet Threads for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/misguided-treatment-the-five-pitfalls-of-using-chatgpt-for-your-health-questions/"><u>Misguided Treatment? The Five Pitfalls of Using ChatGPT for Your Health Questions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-your-ears-with-these-expert-steps-for-cleaning-airpods-essential-advice-from-tech-experts/"><u>Protect Your Ears with These Expert Steps for Cleaning AirPods - Essential Advice From Tech Experts.</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1728469637485-windows-server/"><u>Windows Server上で効率的なバックアップ計画: マルチタイムゾーンにおける複数スケジューリング手順</u></a></li>
 </ul></div>
 

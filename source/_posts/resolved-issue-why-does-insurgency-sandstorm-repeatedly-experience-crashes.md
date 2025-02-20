@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: Why Does 'Insurgency: Sandstorm' Repeatedly Experience Crashes?"
-date: 2025-02-04T00:09:29.505Z
-updated: 2025-02-10T03:18:20.600Z
+date: 2025-02-14T05:09:17.533Z
+updated: 2025-02-19T22:54:55.123Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 
  Recently, Insurgency: Sandstorm was made available on PlayStation 4 and Xbox One. However, quite a number of players complained that the game keeps crashing on their PC or consoles. If you happen to be one of them, don’t worry. Here are some fixes you can try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all; simply work your way down until you find the one that works for you.
@@ -34,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 5. **[Close background applications](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Allow the game through Windows Firewall](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Change the screen resolution to 1080p (PS4 Pro)](https://www.drivereasy.com/knowledge/solved-insurgency-sandstorm-keeps-crashing/#Fix7)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify integrity of game files
 
@@ -47,19 +47,19 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once the process is finished, launch Insurgency: Sandstorm to see if the game crashes again.
 
 If the game keeps crashing, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run the game as an administrator
 
@@ -72,30 +72,22 @@ If the game keeps crashing, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Select the**LOCAL FILES** tab and click**Browse…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-browse-local-files.jpg)
 4. Navigate to**Insurgency > Binaries > Win64** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Right-click the**InsurgencyClient-Win64-Shipping.exe** application and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 6. Select the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
 Launch the game again to check if your problem is resolved.
 
 If the crashing issue remains, check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -113,11 +105,19 @@ If the crashing issue remains, check out the next fix.
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Insurgency: Sandstorm to see if the game crashes again.
 
  If updating your graphics driver doesn’t help, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset the video settings
 
@@ -132,6 +132,10 @@ If the crashing issue remains, check out the next fix.
  Relaunch Insurgency: Sandstorm and all your video settings should be reset to default. Check if the crashing issue is resolved.
 
 If this fix doesn’t do the trick, continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Close background applications
 
@@ -148,7 +152,7 @@ Launch Insurgency: Sandstorm to see if the game crashes again.
 If the crashing issue persists, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Allow the game through Windows Firewall
@@ -169,7 +173,7 @@ If the crashing issue persists, go ahead with the next fix.
 5. Select**InsurgencyEAC.exe** application and click**Open** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click**Network types…** , check**Private** and**Public** then click**OK** .  
@@ -178,10 +182,6 @@ If the crashing issue persists, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add.jpg)
 8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once done, relaunch the game to see if it crashes again.
 
@@ -210,24 +210,24 @@ Once done, relaunch the game to see if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-tweetstream-extractor-pull-twitter-videos-to-iphone/"><u>[New] 2024 Approved TweetStream Extractor Pull Twitter Videos to iPhone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-memetic-mayhem-the-20-most-shared-gems-for-2024/"><u>[New] Memetic Mayhem The 20 Most Shared Gems for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-engaging-eyesight-navigating-high-definition-tweets/"><u>[Updated] 2024 Approved Engaging Eyesight Navigating High-Definition Tweets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-fixing-audio-absence-in-online-shared-videos-for-2024/"><u>[Updated] Fixing Audio Absence in Online Shared Videos for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-high-impact-tweets-of-the-year-viewer-rankings-for-2024/"><u>[Updated] High-Impact Tweets of the Year Viewer Rankings for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-husqvarnas-high-flyers-the-2023-drone-review-series/"><u>[Updated] Husqvarna's High Flyers The 2023 Drone Review Series</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-viewerships-value-to-creators-understanding-revenue-per-stream/"><u>[Updated] Viewership's Value to Creators Understanding Revenue per Stream</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-prime-video-stardom-top-tweets-and-peak-watchability-rankings/"><u>2024 Approved Prime Video Stardom Top Tweets and Peak Watchability Rankings</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-twitter-trends-the-hottest-video-buzz/"><u>2024 Approved Twitter Trends The Hottest Video Buzz</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-advanced-pc-components-through-toms-hardware-guides/"><u>Exploring Advanced PC Components Through Tom's Hardware Guides</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixes-and-solutions-accelerate-your-windows-11-updates/"><u>Fixes & Solutions: Accelerate Your Windows 11 Updates</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo S18 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-oppo-a18-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo A18 Phone that is Locked?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-tips-and-tricks-for-perfect-tweets-with-videos/"><u>In 2024, Tips and Tricks for Perfect Tweets with Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/maximizing-impact-with-strategic-fb-giveaway-announcements/"><u>Maximizing Impact with Strategic FB Giveaway Announcements</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-minecraft-crashes-fixing-problematic-windows-graphics-drivers/"><u>Resolving Minecraft Crashes: Fixing Problematic Windows Graphics Drivers</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/twitter-to-instagram-seamless-video-broadcasting-for-2024/"><u>Twitter to Instagram Seamless Video Broadcasting for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-and-verdict-for-the-xp-pen-artist-16-pro-digital-sketchpad/"><u>Ultimate Guide & Verdict for the XP-Pen Artist 16 Pro Digital Sketchpad</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-you-should-use-apple-pages-5-key-takeaways-from-zdnet-analysis/"><u>Why You Should Use Apple Pages: 5 Key Takeaways From ZDNet Analysis</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-laughing-matters-the-premier-toolkit-for-twitters-2024-gifs/"><u>[New] Laughing Matters The Premier Toolkit for Twitter's 2024 GIFs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-visual-harmony-on-screen-mastering-zooms-edge-magic/"><u>[Updated] 2024 Approved Visual Harmony on Screen Mastering Zoom's Edge Magic</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-giggle-galore-twitters-top-10-joke-threads/"><u>[Updated] In 2024, Giggle Galore Twitter's Top 10 Joke Threads</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-vital-vittles-visuals-the-7-keys-to-creating-tasty-video-recipes/"><u>[Updated] In 2024, Vital Vittles Visuals - The 7 Keys to Creating Tasty Video Recipes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-syncopating-youtube-melodies-with-visuals-for-2024/"><u>[Updated] Syncopating YouTube Melodies with Visuals for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-turning-twitter-media-into-interactive-expressive-animated-gifs-for-2024/"><u>[Updated] Turning Twitter Media Into Interactive, Expressive Animated GIFs for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-cross-platform-video-sharing-tiktok-and-twitter/"><u>2024 Approved Cross-Platform Video Sharing TikTok & Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-snaptweet-transporter-swiftly-grab-social-media-vids/"><u>2024 Approved SnapTweet Transporter Swiftly Grab Social Media Vids</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-video-creators-blueprint-to-legal-and-profitable-streaming/"><u>2024 Approved The Video Creator's Blueprint to Legal and Profitable Streaming</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/exhilarating-circuit-trials-selecting-the-top-5-titles-for-2024/"><u>Exhilarating Circuit Trials Selecting the Top 5 Titles for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/foremost-recommendations-audio-customization-pros-for-2024/"><u>Foremost Recommendations Audio Customization Pros for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-amazons-all-star-series-most-retweeted-and-watched-originals/"><u>In 2024, Amazon's All-Star Series Most Retweeted & Watched Originals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimize-and-streamline-your-podcast-entry/"><u>In 2024, Optimize and Streamline Your Podcast Entry</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-taking-twitters-short-form-stories-and-making-them-come-alive-as-gifs/"><u>In 2024, Taking Twitter's Short Form Stories and Making Them Come Alive as GIFS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtubes-premier-guide-to-top-notch-gear/"><u>In 2024, YouTube’s Premier Guide to Top-Notch Gear</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/streamline-your-social-media-uploading-on-twitter-for-2024/"><u>Streamline Your Social Media Uploading on Twitter for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-hot-list-viral-video-threads-for-the-week/"><u>The Hot List Viral Video Threads for the Week</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/top-3-easiest-ways-to-change-your-profile-picture-videa-edition/"><u>Top 3 Easiest Ways to Change Your Profile Picture - Videa Edition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ate-guide-igniting-video-visionaries-in-your-channel/"><u>Ultimate Guide Igniting Video Visionaries in Your Channel</u></a></li>
 </ul></div>
 
